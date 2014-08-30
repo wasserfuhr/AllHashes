@@ -1,0 +1,10 @@
+C:\Users\Tine\Desktop\sha1sum.exe: adt-bundle-windows-x86-20130729: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: AllCasts3379: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: Alte Firefox-Daten: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: BtnWiki: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: DiebesGott: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: DiffCast3004To2464_files: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: finya-Dateien: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: mind: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: TinesHp: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: WebCache: Permission denied
