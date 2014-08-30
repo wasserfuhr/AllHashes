@@ -1,0 +1,15 @@
+sha1sum: AllHashes: Is a directory
+sha1sum: apache-maven-3.1.1: Is a directory
+sha1sum: DigitalEarth: Is a directory
+sha1sum: DigitalPlanet: Is a directory
+sha1sum: gittest: Is a directory
+sha1sum: go: Is a directory
+sha1sum: grab: Is a directory
+sha1sum: JettyLog: Is a directory
+sha1sum: mmind2: Is a directory
+sha1sum: PiBaGit: Is a directory
+sha1sum: TerraDrive: Is a directory
+sha1sum: tmp: Is a directory
+sha1sum: UnGit: Is a directory
+sha1sum: urbit: Is a directory
+sha1sum: urbittmp: Is a directory
