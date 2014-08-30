@@ -8,3 +8,24 @@ C:\Users\Tine\Desktop\sha1sum.exe: finya-Dateien: Permission denied
 C:\Users\Tine\Desktop\sha1sum.exe: mind: Permission denied
 C:\Users\Tine\Desktop\sha1sum.exe: TinesHp: Permission denied
 C:\Users\Tine\Desktop\sha1sum.exe: WebCache: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: Capture: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: ChromOs: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: DeskTop: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: DropBox: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: EeepiGon: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: FinYa_SpesChen_files: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: Google Buzz: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: GoogleWave: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: OthersFile: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: PieschenArtMuseum: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: PlanetLeaks: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: public: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: Record: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: Scratchpad: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: SemperDrive: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: SemperPhonePics: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: StalkTrek: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: TerraDriveIn: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: TerraDrive: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: TinesHp: Permission denied
+d
