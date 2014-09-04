@@ -296,7 +296,3 @@ c1e6ed271e747d5ce3dee8d1d66e2b5ec1c5909a 8
 d626608da2746278bfae2be285be0a521e721532 8
 da39a3ee5e6b4b0d3255bfef95601890afd80709 8
 ebdcf68b9ae6c14284f1f7905278f456ca93b88a 8
-4605856682
-The goal to create a PlanetaryOperatingSystem forces us to 
-navigate us through vast amounts of data.
-At the moment we are preparing to deal with 2^64 − 1 bits.
