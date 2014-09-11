@@ -11,33 +11,42 @@
 
 unsigned char mhash[SHA_DIGEST_LENGTH];
 
+size_t length = 6; //bug?: 6== sizeof(data);
+
 int main(void) {
-  unsigned char data[] = "12345";
+  unsigned char data[] = "123456";
+
+  fprintf(stdout,"Starting BruteForce ZeroHash search for %d bytes...\n", length);
+  fflush(stdout);
 
   memset(mhash, 0xff, SHA_DIGEST_LENGTH*2);
-  unsigned char k=0;
+  unsigned char l=0;
   do {
-   unsigned char j=0;
+   unsigned char k=0;
    do {
-    fprintf(stdout,"%-40s ______%02x%02x\n", "", j, k);
-    fflush(stdout);
-    unsigned char i=0;
+    unsigned char j=0;
     do {
-     data[2]=i;
-     data[3]=j;
-     data[4]=k;
-     fastIter(data);
-     i++;
-    } while (i!=0);
-    j++;
-   } while (j!=0);
-   k++;
-  } while(k!=0);
+      fprintf(stdout,"%-40s ______%02x%02x%02x\n", "", j, k,l);
+     fflush(stdout);
+     unsigned char i=0;
+     do {
+      data[2]=i;
+      data[3]=j;
+      data[4]=k;
+      data[5]=l;
+      fastIter(data);
+      i++;
+     } while(i!=0);
+     j++;
+    } while(j!=0);
+    k++;
+   } while(k!=0);
+   l++;
+  } while(l!=0);
   //printf("%ld",clock());
 }
 
 int fastIter(unsigned char data[]){
-  size_t length = sizeof(data);
   unsigned char hash[SHA_DIGEST_LENGTH];
   char buf[SHA_DIGEST_LENGTH*2];
 
@@ -61,7 +70,7 @@ int fastIter(unsigned char data[]){
       for (int i=0; i < SHA_DIGEST_LENGTH; i++) {
        sprintf((char*)&(buf[i*2]), "%02x", mhash[i]);
       }
-      fprintf(stdout,"%s %02x%02x%02x%02x%02x\n", buf, k,l,data[2],data[3],data[4]);
+      fprintf(stdout,"%s %02x%02x%02x%02x%02x%02x\n", buf, k,l,data[2],data[3],data[4],data[5]);
       fflush(stdout);
       break;
      }
