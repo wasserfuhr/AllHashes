@@ -1,0 +1,1886 @@
+Microsoft Windows [Version 6.0.6001]
+Copyright (c) 2006 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\Tine>e:
+
+E:\>C:\Users\Tine\Desktop\sha1sum.exe *
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04586.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04600.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04601.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04602.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04603.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04604.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04605.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04606.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04607.jpg: Permission denied
+1865a74dac7db9680df9a66d2030002816e4c8bf *CAM04608.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04609.jpg: Permission denied
+b74d9597bc272dee91be63c09ff49e5d8652e6b0 *CAM04610.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04611.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04612.jpg: Permission denied
+96b7b220777fc20c3f1a87e81d2b016761b9640b *CAM04613.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04614.jpg: Permission denied
+b4c1ca434d9973af1c9ba2dda9c4cd7bd02f299b *CAM04615.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04616.jpg: Permission denied
+70bdc7ed2c24fbbb9b363d0e8c41ee2c21f443ae *CAM04617.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04618.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04619.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04620.mp4: Permission denied
+64e9840fc4518f430390d9adca98fcf49561fe90 *CAM04621.jpg
+5e3bb55ee7211e356ac7380f23250c04e7ffe1e5 *CAM04622.jpg
+af72e80a1b8169f4532634965d20f67144f33b6d *CAM04623.jpg
+34019ed3bf79cdd714ecfd4887379cf028f764d7 *CAM04624.jpg
+2bb06a27ca4e717e045016603865bbd19151072d *CAM04625.jpg
+a74d4567f84846099dcefc992c3a12701366461f *CAM04626.jpg
+045654b55b7dd22a696069c8ac4e6333e557439a *CAM04627.jpg
+369b154085d7ab0d80d008d3447906d650312b8a *CAM04628.jpg
+5ec67fe6f4c6085d743728fe9e6f0bc432edcbe6 *CAM04629.jpg
+a73104c5e052227b51756bda8965527a92e9af02 *CAM04630.jpg
+7ef1b182ce0bdefa215571749e03a0cf2d1521cf *CAM04631.jpg
+018c79c1b172c51ca37d8027b4cab6cd1b1357cd *CAM04632.jpg
+98e108316a3f4b5dc634c5a0a3f4cf1ea0632c78 *CAM04633.jpg
+cf8f530b6c05998970f8b509243cb452866b39ad *CAM04634.jpg
+c9bdf42f71c34b3abb7cb56ffc96400836151810 *CAM04635.jpg
+89e534cdc25e24938ff338f8a737348bc02910d2 *CAM04636.jpg
+2c2d775ef31cb8e436e452d860330f7123e147e6 *CAM04637.jpg
+702ebb080911150fac9e4e0f6d78f8767f7eaa8c *CAM04638.jpg
+7d3480c343ce3776e98d0d7872bed41bdb704afb *CAM04639.jpg
+5a15235eab7cde2a2e7f274deea505962a704940 *CAM04640.jpg
+848043b49536ede8959f2c6f3930417bd4acb731 *CAM04641.jpg
+7c86050f41c519b86cd924dc9ddc1cc912a0230c *CAM04642.jpg
+4a4dc805a12a3dc86c781f52dc0d644e58b04976 *CAM04643.jpg
+805bfd19c722f0f920f4ad7d8b804e4fa105e018 *CAM04644.jpg
+84a208bc782233a7d504519dfc49fdbfb2b9ffe5 *CAM04645.jpg
+8889536e0a5cc215fd3668e392984aec281af9b2 *CAM04646.jpg
+30630b34d6b1b6ec710d4f444767fdb20994ac82 *CAM04647.jpg
+4978d26050e3399a8b502c32ee10d0fdb6ede401 *CAM04648.jpg
+d81dc5103053b9c80f027aa6639b858d77e8816d *CAM04649.jpg
+846c8c9360fa9b5d1854b70687f871b1bb97cdb7 *CAM04650.jpg
+e22289a9b28aa54b5ae8815317ef8f844494f8fd *CAM04651.jpg
+7e0b3fc15928093240dbe2828939bbfe58dc8668 *CAM04652.jpg
+f1a0ec44bf24c29e90125fed42212fdf4720f367 *CAM04653.jpg
+7b37381d11fe34e20b8d00ff20684b2e501023a8 *CAM04654.mp4
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04655.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04656.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04657.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04658.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04659.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04660.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04661.jpg: Permission denied
+f91878f19d3bab6d30716950fdb6f6e2c05dd37e *CAM04662.jpg
+b7effb6ddb39ec88863da10a5d3ac0a4407a37fc *CAM04663.jpg
+cb059aeb6261931387d604e301a99d68325ae33a *CAM04664.jpg
+6fe253e37e2bb35f95fc1555deeeb9218213974f *CAM04665.jpg
+6ab588d4639c2701de09010a8f5ff68ef4e04c4d *CAM04666.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04667.jpg: Permission denied
+437e6100dd685febb7933a5839e49197333f72da *CAM04668.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04669.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04670.jpg: Permission denied
+3cec6199c67fbdcdf74ee9d08d47a9dafd977297 *CAM04671.jpg
+0c0d4a6cf2441f37983386b0d13284e03ab5ac79 *CAM04672.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04673.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04674.jpg: Permission denied
+8d85f1f0ed4e101cd63472b1006ae636c3a27406 *CAM04675.jpg
+982c37a652413d57b98017ec0056de6a9fa23a4b *CAM04676.jpg
+f72702d29eb79e5e0b2bb0207e1578c8dc78a8b6 *CAM04677.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04678.jpg: Permission denied
+1b1fc7f85d84e3136bbcf0bae7e7ddfea05f8e50 *CAM04679.jpg
+cf0db97ef10cf2841b394ead59ad8c46ae27c8cc *CAM04680.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04681.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04682.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04683.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04684.jpg: Permission denied
+e5d0149791a02f29c220d0470c403cd21ff19cf1 *CAM04685.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04686.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04687.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04688.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04689.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04690.jpg: Permission denied
+a277eaa069c05fb51fa6a54636ebb881a46c3b6f *CAM04691.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04692.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04693.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04694.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04695.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04696.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04697.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04698.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04699.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04700.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04701.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04702.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04703.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04704.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04705.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04706.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04707.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04708.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04709.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04710.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04711.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04712.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04713.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04714.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04715.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04716.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04717.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04718.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04720.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04721.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04722.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04723.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04724.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04725.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04726.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04727.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04728.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04729.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04730.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04731.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04732.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04733.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04736.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04737.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04738.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04739.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04740.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04741.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04742.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04743.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04744.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04745.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04746.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04747.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04748.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04749.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04750.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04751.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04752.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04753.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04754.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04755.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04756.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04757.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04758.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04759.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04760.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04761.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04762.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04763.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04764.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04765.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04766.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04767.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04768.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04769.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04770.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04771.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04772.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04773.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04774.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04775.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04776.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04777.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04778.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04779.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04780.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04781.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04782.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04783.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04784.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04785.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04786.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04787.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04788.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04789.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04790.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04791.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04792.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04793.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04794.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04795.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04796.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04797.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04798.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04799.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04800.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04801.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04802.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04803.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04804.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04805.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04806.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04807.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04808.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04809.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04810.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04811.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04812.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04813.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04814.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04815.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04816.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04817.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04818.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04819.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04820.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04821.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04822.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04823.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04824.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04825.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04826.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04827.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04828.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04829.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04830.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04831.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04832.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04833.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04834.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04835.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04836.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04837.mp4: Permission denied
+3e9f0113031940a0c156e80744bd99e240f15e93 *CAM04838.jpg
+638254877a5ae03bf91495b42d5d5e1dcdc0636b *CAM04839.jpg
+1941f5ed53a08e4c4b3a14547b6e102c8af2f573 *CAM04840.jpg
+107cc3291cd07069cf67fc3b9b09cc829fabfad6 *CAM04841.jpg
+7f8d346c50d767fcf3b2c7ebe2e7e2ce3033e5d9 *CAM04842.jpg
+b1c4c070379b26a3d89cf944affb894a54bf1bdb *CAM04843.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04844.jpg: Permission denied
+e962d4e3b899e7d77a1d579e0b551bac3e8d75e7 *CAM04845.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04846.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04847.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM04848.mp4: Permission denied
+ce308c84e92f6381a27b3c832699ebe5a9ab798d *CAM04849.jpg
+6ec0c67fc878c8fe85887848ef7f44cb36537000 *CAM04850.jpg
+f0ac70c5c40ad6fc15025eb8e0d8cf0fe5c53efa *CAM04851.jpg
+a932dfc47dc98a19eb6faf21a8a5ca741b52e77f *CAM04852.jpg
+a37d97688ecb3f53c51a63b774d81c0cd30fa9d9 *CAM04853.jpg
+1221fadcab087b4a028809b05ec2dbf4efc3ff26 *CAM04854.jpg
+6722831f25e313e69ddd52c6b8fbafc4bc34195d *CAM04855.jpg
+b0d71ab6598b61224959983f872648b5b9f63388 *CAM04856.jpg
+88c8445dd9e25ece4bb0c4f0e7d8293aa8f8b159 *CAM04857.jpg
+5a59949ad347704b501c0913ef69a769cdd937e5 *CAM04858.jpg
+d7408911fd043fe571ac7dcfcb8e2914b9235331 *CAM04859.jpg
+21f812b4bda308160b0bf38b8fb9f6f3fdcbcc04 *CAM04860.jpg
+f5cd36de31b594c837cfd0239e8dce1653f6b5d7 *CAM04861.jpg
+4f01efa3f3dc7d1d01ddf590f070a3b2bdb98789 *CAM04862.jpg
+f9f6d9caf4398fde49c988533fe029d6381bb33b *CAM04863.jpg
+1df3f541faf303e27e15d5eec205257c4c529a03 *CAM04864.jpg
+ed72c9ce116af533b3b484ef5a61138377708bb4 *CAM04865.jpg
+a3f98e9b898af170a03c2b3520486abcaad6eee2 *CAM04866.jpg
+101f6dfa554e20faf744e17a983a0cddf6894a6d *CAM04867.jpg
+cef64cda0760988cc40dd2e45501ff665bf1c404 *CAM04868.jpg
+3a5424b1a778060ccefc1ed5fadad7a84d9d1621 *CAM04869.jpg
+8967a3cbbbef4f943c54c6b2084a29f3f16d8c12 *CAM04870.jpg
+0046a544c9828a66ab2747c774d52a2fe27c825d *CAM04871.jpg
+03658389f70d57b7973dbf1e83f3135631413167 *CAM04872.jpg
+dc1f862635cab58cd1932667759479a332314783 *CAM04873.jpg
+28a64e9b606cbad8b2e67d9f081cd72631f64e84 *CAM04874.jpg
+49986ac7abd106642726f55b9c71cc2e9ded940b *CAM04875.jpg
+53426bd06b6c5e8aa6b60e3bc6c2fae0ca51a740 *CAM04876.jpg
+2ea1377f4c15c4d347e9bd3d2af90d8ffe9f4868 *CAM04877.jpg
+4d2d0a975ed732381f958f0a1c5c3984a7b204ae *CAM04878.jpg
+ee3b0501895e30386c8a695e46e7422db1d52c28 *CAM04879.jpg
+69fea325ca84aae95eec8370bead746afc942332 *CAM04880.jpg
+4d99b68a3f5715d244f5af480c503a3a19fc4b87 *CAM04881.jpg
+f20f38fbb1612c291267377cf14b2a4f0d50b12c *CAM04882.jpg
+e548b1d82cc72752cfa1dab0489d386eb923790d *CAM04883.jpg
+e8d9732b982b9c869cf2843a95934d93e1aaae19 *CAM04884.jpg
+e21c73ba336784e60eb35d354fc8c4e9f3751d0b *CAM04885.jpg
+950702efe1b94144ae34e86bbe97c769bcc90173 *CAM04886.jpg
+0b22495b43dc7d9c95a514df8e431d0f88b9875a *CAM04887.jpg
+998ddeadb4168b164795bd192f04bc586d0b1c3a *CAM04888.jpg
+154a9077dcab4a5eddc40e6786a375663bd2dbfb *CAM04889.jpg
+fe906b7871d4c7c796a5581297a1f361ebe9797e *CAM04890.jpg
+541bc779639e78693ad9c964aa04af1e1cfe0b34 *CAM04891.jpg
+1400434f010f0b1b331cee441f82513755a7a315 *CAM04892.jpg
+b9a955e733287b0402b500ea1fe12101d1bca8ac *CAM04893.jpg
+fe162c917479276e43ee0fe0574e088a6728cfd1 *CAM04894.jpg
+19b15dfa7ac968e110be7106600bcace02e67821 *CAM04895.jpg
+cc48664e19f46b09b3c4abf77a181368614e9b20 *CAM04896.jpg
+a0acdbf6f2983ec3af00107e0264169207785e3f *CAM04897.jpg
+a367a73e61e81416a443a766da07dd5f4b0c1f1f *CAM04898.jpg
+1390c00727ba882a719807a922f472925f213658 *CAM04899.jpg
+00e7d0a9419723dccfc9215a2b9ec9912d0e3840 *CAM04900.jpg
+b768dca1615bae2bb311524c94ce701f9e428352 *CAM04901.jpg
+4365580ff2e974baab1dd18b7fe458514370ec74 *CAM04902.jpg
+78ba4c36c6c4eb454ffabaabb25dbc0b3c30c669 *CAM04903.jpg
+901afb4ae5d8b93631086cea8fd570222197155b *CAM04904.jpg
+014d9ccca6ef1e38f61d8b116f232aacb06036f2 *CAM04905.jpg
+3f269b470518e7207ee6883f7c1795bd7bc0dee6 *CAM04906.mp4
+b9dd9e0c48ea26f41f0af410f411ef5a4653d7b4 *CAM04907.jpg
+c90e95055cbcb436ecaa8a1c4bd4d9143cb39b90 *CAM04908.jpg
+ab487f24f6fba41eee3a71e4e3137815067d75af *CAM04909.jpg
+46807e85170fae52cfab026ddcce144a7aa3e105 *CAM04910.jpg
+fbaf92cee9dd9d2648f6c2f3f5acc1c4855978c3 *CAM04911.jpg
+b98faabb55236f6dabd5abae9875b9b6e4a7e1d7 *CAM04912.jpg
+da13fc6415dc71234649c9466ba6063b0ac3c3ef *CAM04913.jpg
+9085ce64ccc5f2b6b1631fa6debe38f6e4961191 *CAM04914.jpg
+a44d4422ea0c336fae941830a145970fe1d467c6 *CAM04915.jpg
+66916ec6dacdd31a11ffc900a2a317f27a531911 *CAM04916.jpg
+c7f720ad2a69853bea5912ee4c4913b9928e3485 *CAM04917.jpg
+f70690ffe69b3f7c1b7eccdc2b9ad5884447028c *CAM04918.jpg
+2425be20a241cc5e41da1e0d59de5ec2fa1b2878 *CAM04919.jpg
+26001a59dc3ecc83755220ddb9a489cf1e3c9f25 *CAM04920.jpg
+dab31df4bb9161e3c1f44ec0906148d1fb6c939c *CAM04921.jpg
+c514774611e4f867e37f0ef0a5d8daba68712e44 *CAM04922.jpg
+ab0f2dda4a48e9da3008467e986b3e5d09f289f8 *CAM04923.jpg
+452e0c7a08ca0f46b3db6c1ff65d637ac535c261 *CAM04924.jpg
+db4336bef5e62e62cd7e6045e1416c999c227a12 *CAM04925.jpg
+627a00e1d3f59182073253df486e6c58fbbd8973 *CAM04926.jpg
+37b2b9f9b612bee5585ec1b9afe29d2d36aa7e5d *CAM04927.jpg
+5910f8af024587b9c94b0cbcac9b6a12df4a8af9 *CAM04928.jpg
+4dffe6af06b1f90a32124d995656a13f9990527d *CAM04929.jpg
+ba83a0f8e86e042ab172fd681586985c225c7791 *CAM04930.jpg
+6d956def2a6f49864e48f4e357ccc72040c450d6 *CAM04931.jpg
+035951d9c9e3e4f11aa541b2c41831009702b09d *CAM04932.jpg
+454540cf7a8fa0db9a055c7393981d2d9edbbc94 *CAM04933.jpg
+532cfd764543bb055d66596e17ff201266832e82 *CAM04934.jpg
+ee06ceb79c5a01d395fa5170b7dfa7984a999fe7 *CAM04935.jpg
+4281564187814e9ad1d217448b9d4357d7c01c32 *CAM04936.jpg
+dd7452c0b764a81d303d2f90a904b3a85dbc219a *CAM04937.jpg
+4625ee67005a52de8b543f86ba71cf6aa5bbe657 *CAM04938.jpg
+d217fae7efdb9fc5d6d02794c2405740452f578d *CAM04939.jpg
+1739321732d4b0c552b5abe49ba333e4ac4e8d52 *CAM04940.jpg
+fe17bee459560f8f00c6a07cf94f2a3291556e82 *CAM04941.jpg
+4223d26086ebca7872b75588d106c881ec750e5d *CAM04942.jpg
+29dbce1a516f8781bd8eb0277a76aef3ef5b1c2f *CAM04943.jpg
+c8167e75d21f64fa68a5afbe85a01820d29db841 *CAM04944.jpg
+08a2d80c5dd712bf7c32080026b06f511b2bb003 *CAM04945.jpg
+6ec37b715f637f22718c763cb7ce38fe001e9fa3 *CAM04946.jpg
+6d71a71d6450bcb9699b80cb4cd70e9cfde81e31 *CAM04947.jpg
+06fd0bb1366a258b172a5bbc8e3d82d3f8d5ebd8 *CAM04948.jpg
+6ddfa643e961d940ffcfe35c2113ea38045f8487 *CAM04949.jpg
+932dfa8b9f9009be7a3c00a5bf5cda62de124bfd *CAM04950.jpg
+53151af253755aab72e0d46bbddd966e8d3e555c *CAM04951.jpg
+2a262d8c2f79c1240a6bf71a9cc3a0fe922a3628 *CAM04952.jpg
+1269024af73640b682773a0d90e5375c7abd89aa *CAM04953.jpg
+19d805642699781833961989b6b236aa3c9209eb *CAM04954.jpg
+b2fec1716f248cef9864aff59e76fc25730f745e *CAM04955.jpg
+641efc1e9c2a95451ebaad0fd1a07f895249b8c5 *CAM04956.jpg
+720e6690ca11f5933564caeebc8ff73660a66ea4 *CAM04957.jpg
+39fc1b77b940d19aa846ccef49c9ab1ca0f4fe40 *CAM04958.jpg
+26275fa153b357b7b9028ca480d28ba50bed3d86 *CAM04959.jpg
+f7a1405c458c98cfb61e029726364cbd7a3bd802 *CAM04960.jpg
+7d26a282fdec61e163859d07fb9666c07f159c77 *CAM04961.mp4
+39f78616953cbc83c1c198da7915e206cdb27317 *CAM04962.jpg
+4677eee9deb735d208ba6427eb32c88e749f9fe5 *CAM04963.jpg
+0280312fc8239bbcb84de398d75513a2a12747e6 *CAM04964.jpg
+6a74b8132f16fc2e725828a509c75f36e36869e4 *CAM04965.jpg
+7c2708c410f45dfa49e1547c2938728e34e484ee *CAM04966.jpg
+7a36ca42cc49951597309916a0da45fcaa3641ca *CAM04967.jpg
+c04ab826a1bef38201dc99074f3359aa85f60b39 *CAM04968.jpg
+da403de1a33ce566eb8cd6e9ddf315d0e2a56abb *CAM04969.jpg
+fbd4d878a5cc1729a1d385ce5953bdb635b0ad36 *CAM04970.jpg
+e857d415e165da90715c3e6c382c9ba8b66149b0 *CAM04971.jpg
+b726627bee7f195e3051f9f473d539ebf59e6877 *CAM04972.jpg
+beeae84dfd981ed4f383e2ee8cfef19b278ea283 *CAM04973.jpg
+6dc735a7d61c89bcc38a69d277c7ccd7305fb3a6 *CAM04974.jpg
+2f425360973b2679a7bc706dfd8d9724f8cfbc31 *CAM04975.jpg
+73c64e67a183db66e0372c709f22902051c4c06c *CAM04976.jpg
+fe0a5237bbc475d25eedf7b9000f8d72ad3a0cb0 *CAM04977.jpg
+d4eb3574311833c7840a2f6cdd1f30eaa52b3751 *CAM04978.jpg
+a849fd3a7cef6fe180108c2b907dcc4218c9a79e *CAM04979.jpg
+247fbaa369f3700922878ae695f648b31b41526a *CAM04980.jpg
+d514499a02b99151372ee37eb9a63d52dc63f874 *CAM04981.jpg
+f9996985120e4f8372210f38df499780224bfea5 *CAM04982.jpg
+c69d5fb93cf026d1bd6f5c32b2debed21565e032 *CAM04983.jpg
+96d5216aec4e3aafbea081a2fb97abd177648bb4 *CAM04984.jpg
+454242a41bd4334d79e19c58b8fe7c0a2aaed0e7 *CAM04985.jpg
+e373452cbdf5830f17cb62a6ee748bf3c3250f8b *CAM04986.jpg
+6e85d83382f64c1eada27e952fe9fec53afbf716 *CAM04987.jpg
+e574170f7ab0ad90eb2be56aecd2b5288b07277f *CAM04988.jpg
+0ffab4336f6d35d4a92acbf303822a00d2ea3534 *CAM04989.jpg
+ba8a907dbaad05815c27f2c240977e13d9d0547d *CAM04990.jpg
+08606f4893426ba824c9dc0c44b145ab46cfab3a *CAM04991.jpg
+b953e0c8c0f0648853c83957a4a31b1b51da235a *CAM04992.jpg
+eb440bfafe887c42c714e30474a8cb4514d45159 *CAM04993.jpg
+7be2860b1ea935693faaf2697e858ffb75965cd2 *CAM04994.jpg
+351b32bc0208976ad6fd1687b85982724fd9d7a2 *CAM04995.jpg
+d6dd288013da07e796337b456ccde8e2d9cc635d *CAM04996.jpg
+60bbde708876890b814fbadd24ec08f6cf3145ca *CAM04997.jpg
+57767ed7f59c435b9527fcc9a6dcadd0e57a913f *CAM04998.jpg
+fdcd1bf55162a62659f96981d62a4b69b9ddc099 *CAM04999.jpg
+8f5acd3c1bf4421c4df6f867f27b484f4ac73438 *CAM07000.mp4
+badf9e57116048503295456967dd57de04a0247b *CAM07001.jpg
+01a9362c3bb448c7d425da72f0e87235cae13c72 *CAM07002.jpg
+8ace4f31aac809283f70cd0b51174670679bc13c *CAM07003.jpg
+9819f6a4d95a3fcee42097f3d711ad4750c2f91e *CAM07004.mp4
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07005.mp4: Permission denied
+a1d62e4ebef539a005dfe53107133ae1a076d9a5 *CAM07006.mp4
+9da6d0649be0e921e9a4fc86fdbc2601d485bd94 *CAM07007.mp4
+dcca5494c2dcf0ab1433a4c1bee973e84cd7267c *CAM07008.jpg
+f6a4630cb1292c693becf041ef5ff593a1fef959 *CAM07009.jpg
+837562ccc7a57bb57cac59b65ea7e888ca2b6407 *CAM07010.jpg
+8032ddeeb4851bf64543530ff8872e0309f834ae *CAM07011.jpg
+5fa5ad7da2d5640743a62713d2e523fe39f3d111 *CAM07012.jpg
+18a700dd737f6f2e6d8e575d2f78d4d1914a5a93 *CAM07013.jpg
+4fd64f8e42bd753f12def0c8854a4cfc3b0612c3 *CAM07014.jpg
+23416574a9adba82a1a0860c9a73935f4d856aec *CAM07015.jpg
+b8851ed6b8a9c62332091ef32e6e285873dbf280 *CAM07016.jpg
+10362851b2aab600caa0675a87020df1ffe48cf0 *CAM07017.jpg
+70284e4424dbf53f17c747c2608fd85672417c0b *CAM07018.jpg
+4c9ef8905e91534e2045e0fb4bce593da71dcd77 *CAM07019.jpg
+e74f077eae98143700290ec9590185a844a8a42b *CAM07020.jpg
+32ddb56ba490264091a6b6c3f13f378ea96aa3e7 *CAM07021.jpg
+0a539856d0c44eecf9ed5b0f88f4850baf6eead9 *CAM07022.jpg
+34f1ee3988459e68556f74af2f1b3bada55adc06 *CAM07023.mp4
+93504f86e66bd9f21d37109bfc7651c9f3f6c6a7 *CAM07024.jpg
+42b679d6926f11aadd8004a6fe60caf8f9b7cc2c *CAM07025.jpg
+ed4a798b07c71f1e6aacab18965921ae66ef17dd *CAM07026.jpg
+b582a7cc5bb92768511038fcf5d000ff45fcad32 *CAM07027.jpg
+959423a00702d8fbbf825ab8e4fe75e0c50a3a08 *CAM07028.jpg
+17e860c6d9b96571660e3320d987ba81036a621b *CAM07029.jpg
+a328b21a56116d77e1bf16006d5bda96c7a6a199 *CAM07030.jpg
+fa69fb917c5f5cd04d3191fea9a09947a78c7b7b *CAM07031.jpg
+6b4ff89d95de4baf72ab2b3eac8e3f051d24063e *CAM07032.jpg
+6ed0cfee6b56bc4a86ec2a7ac0fc9106aab5340e *CAM07033.jpg
+46c6ff13a11d752366534c066ea653b319b70b5c *CAM07034.jpg
+01c23d10953a4a3d309a647df2971348b49c8dc8 *CAM07035.jpg
+40eb5354834c834721bbeb2f7bdd5273c48bb94b *CAM07036.jpg
+2798f0ae2eeb2bd3326de2908235a4fa008f5682 *CAM07037.jpg
+364fd49fd68153d699d8a512b1dd5ccd2d8b2980 *CAM07038.jpg
+58a6c651d5a7eb9391fed9035bc636b6dad5ad65 *CAM07039.mp4
+f4896d29557df34bbd94cb392340f435c17d495a *CAM07040.jpg
+c5d132d3d7a3fbd4c48f29915e752254aad31568 *CAM07041.jpg
+63a63af97fcb18fdb2bcb92bf59de8ba31bb80e4 *CAM07042.jpg
+88529e81c5d388dd8e4ab1ca4080b8117a1ad470 *CAM07043.jpg
+408e0318523f553b8297ee4f97c1fc4011c45302 *CAM07044.jpg
+b1eed1bb18ac8c00f5bd581a6c120fe49eb6e605 *CAM07045.jpg
+14d14054a2aad42688e94dafa1fb2282860da3be *CAM07046.jpg
+5cb3622d9f3a89fa2d291a984a820daf592c3c61 *CAM07047.jpg
+c003468b6a7c05dec8623f9c2fd7823187049b16 *CAM07048.jpg
+f904016a001c453a8231175a73aca4908b224b8b *CAM07049.mp4
+5cc877f27926fe5dffc3ab76d8c6ad6f41098174 *CAM07050.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07051.mp4: Permission denied
+a9380273f6bfad02e775b85823d06a2340b71022 *CAM07052.jpg
+71a0d5f3181e2f2fbc3599fada510f8af21f8277 *CAM07053.jpg
+d1c16b9796ab923c240503e5e14a43ff81bfe883 *CAM07054.jpg
+289f65959e9ea903f5babb158b26d05acf320883 *CAM07055.jpg
+0b7f4d3de1ad8966a336b827ceb710cead48551e *CAM07056.jpg
+48e184845768755f157666018bcc3bc9fff7792c *CAM07057.jpg
+19973c38ec8aa3cde6152603b56c0e27af9e927f *CAM07058.jpg
+0f260d488a744b00ab88467f67c559a104e6a02a *CAM07059.jpg
+6a64bef0123044c02ae7474f0430762ceb73e982 *CAM07060.jpg
+988ac6a512508eb6c8ce5f8742cb35f88f0b5b5d *CAM07061.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07062.mp4: Permission denied
+3b32bdfc3d1b410a8492ec723b7c9548e9b2bc92 *CAM07063.mp4
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07064.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07065.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07066.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07067.jpg: Permission denied
+88201c46bface368672cb0b7db52c4394e07cab6 *CAM07068.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07069.jpg: Permission denied
+7d8ea14165ac612d02250520914a880e2eeb6288 *CAM07070.jpg
+4389f82613edce3f11e6e7cd0f132541c3736363 *CAM07071.jpg
+cb826cbe4566ac4667d86bb6e27cb6d7024435cf *CAM07072.jpg
+4d3654a064fd141fe42cd1f450cdedf5cbb8f47a *CAM07073.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07074.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07075.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07076.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07077.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07078.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07079.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07080.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07081.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07082.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07083.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07084.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07085.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07086.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07087.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07088.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07089.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07090.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07091.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07092.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07093.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07094.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07095.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07096.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07097.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07098.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07099.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07100.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07101.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07102.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07103.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07104.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07105.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07106.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07107.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07108.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07109.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07110.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07111.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07112.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07113.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07114.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07115.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07116.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07117.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07118.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07119.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07120.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07121.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07122.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07123.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07124.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07125.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07126.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07127.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07128.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07129.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07130.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07131.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07132.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07133.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07134.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07135.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07136.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07137.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07138.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07139.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07140.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07141.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07142.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07143.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07144.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07145.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07146.jpg: Permission denied
+800b41825a24965071267eb3267a782a15d27418 *CAM07147.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07148.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07149.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07150.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07151.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07152.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07153.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07154.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07155.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07156.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07157.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07158.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07159.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07160.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07161.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07162.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07163.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07164.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07165.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07166.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07167.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07168.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07169.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07170.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07171.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07172.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07173.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07174.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07175.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07176.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07177.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07178.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07179.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07180.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07181.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07182.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07183.jpg: Permission denied
+d1aea52655a802e1a1528b25cea88c6dcf8aac17 *CAM07184.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07185.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07186.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07187.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07188.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07189.jpg: Permission denied
+4a45be9ce07c1fb347b58ba92ce37f20260dcdaf *CAM07190.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07191.jpg: Permission denied
+31d4f371f692df25c690473c08a2ee674e248019 *CAM07192.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07193.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07194.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07195.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07196.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07197.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07198.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07199.jpg: Permission denied
+a088bd10a0cb9a4a1df5aa8a15d6b18c10a2bc92 *CAM07200.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07201.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07202.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07203.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07204.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07205.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07206.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07207.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07208.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07209.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07210.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07211.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07212.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07213.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07214.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07215.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07216.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07217.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07218.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07219.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07220.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07221.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07222.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07223.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07224.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07225.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07226.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07227.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07228.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07229.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07230.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07231.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07232.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07233.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07234.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07235.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07236.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07237.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07238.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07239.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07240.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07241.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07242.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07243.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07244.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07245.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07246.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07247.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07248.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07249.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07250.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07251.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07252.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07253.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07254.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07255.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07256.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07257.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07258.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07259.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07260.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07261.jpg: Permission denied
+f96a0f95a90b802d52fddc6227c146a3fd85c8e9 *CAM07262.jpg
+46345ae55243a1dfb7e4b94e8370aa657494a563 *CAM07263.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07264.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07265.jpg: Permission denied
+7f8ad69d59d74c70c06f67e3beea19cb61db028b *CAM07266.jpg
+39539998d31fdd8d4b7d83a28749fe02e9870e77 *CAM07267.jpg
+863479cb82b96375270aabff8c2615fb2e8e81cb *CAM07268.jpg
+29fd0da12e36dad505ad20f19b0f9fe1eb16f1dd *CAM07269.jpg
+1c05964f6269cbe7fe713e70a114384d38a2e3c9 *CAM07270.jpg
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07271.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07272.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07273.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07274.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07275.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07276.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07277.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07278.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07279.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07280.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07281.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07282.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07283.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07284.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07285.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07286.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07287.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07288.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07289.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07290.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07291.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07292.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07293.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07294.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07295.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07296.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07297.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07298.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07299.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07300.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07301.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07302.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07303.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07304.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07305.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07306.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07307.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07308.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07309.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07310.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07311.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07312.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07313.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07314.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07315.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07316.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07317.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07318.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07319.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07320.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07321.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07322.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07323.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07324.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07325.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07326.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07327.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07328.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07329.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07330.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07331.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07332.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07333.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07334.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07335.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07336.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07337.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07338.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07339.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07340.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07341.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07342.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07343.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07344.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07345.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07346.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07347.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07348.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07349.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07350.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07351.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07352.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07353.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07354.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07355.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07356.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07357.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07358.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07359.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07360.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07361.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07362.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07363.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07364.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07365.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07366.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07367.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07368.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07369.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07370.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07371.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07372.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07373.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07374.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07375.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07376.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07377.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07378.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07379.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07380.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07381.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07382.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07383.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07384.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07385.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07386.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07387.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07388.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07389.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07390.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07391.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07392.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07393.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07394.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07395.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07396.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07397.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07398.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07399.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07400.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07401.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07402.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07403.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07404.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07405.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07406.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07407.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07408.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07409.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07410.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07411.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07412.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07413.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07414.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07415.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07416.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07417.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07418.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07419.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07420.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07421.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07422.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07423.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07424.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07425.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07426.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07427.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07428.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07429.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07430.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07431.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07432.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07433.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07434.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07435.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07436.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07437.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07438.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07439.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07440.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07441.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07442.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07443.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07444.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07445.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07446.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07447.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07448.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07449.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07450.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07451.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07452.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07453.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07454.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07455.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07456.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07457.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07458.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07459.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07460.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07461.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07462.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07463.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07464.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07465.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07466.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07467.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07468.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07469.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07470.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07471.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07472.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07473.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07474.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07475.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07476.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07477.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07478.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07479.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07480.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07481.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07482.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07483.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07484.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07485.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07486.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07487.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07488.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07489.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07490.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07491.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07492.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07493.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07494.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07495.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07496.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07497.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07498.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07499.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07500.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07501.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07502.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07503.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07504.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07505.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07506.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07507.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07508.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07509.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07510.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07511.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07512.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07513.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07514.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07515.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07516.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07517.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07518.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07519.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07520.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07521.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07522.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07523.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07524.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07525.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07526.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07527.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07528.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07529.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07530.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07531.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07532.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07533.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07534.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07535.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07536.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07537.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07538.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07539.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07540.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07541.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07542.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07543.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07544.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07545.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07546.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07547.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07548.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07549.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07550.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07551.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07552.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07553.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07554.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07555.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07556.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07557.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07558.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07559.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07560.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07561.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07562.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07563.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07564.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07565.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07566.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07567.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07568.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07569.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07570.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07571.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07572.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07573.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07574.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07575.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07576.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07577.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07578.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07579.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07580.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07581.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07582.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07583.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07584.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07585.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07586.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07587.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07588.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07589.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07590.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07591.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07592.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07593.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07594.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07595.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07596.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07597.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07598.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07599.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07600.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07601.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07602.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07603.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07604.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07605.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07606.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07607.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07608.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07609.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07610.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07611.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07612.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07613.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07614.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07615.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07616.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07617.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07618.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07619.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07620.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07621.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07622.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07623.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07624.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07625.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07626.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07627.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07628.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07629.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07630.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07631.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07632.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07633.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07634.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07635.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07636.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07637.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07638.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07639.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07640.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07641.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07642.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07643.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07644.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07645.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07646.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07647.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07648.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07649.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07650.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07651.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07652.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07653.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07654.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07655.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07656.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07657.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07658.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07659.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07660.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07661.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07662.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07663.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07664.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07665.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07666.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07667.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07668.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07669.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07670.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07671.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07672.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07673.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07674.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07675.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07676.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07677.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07678.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07679.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07680.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07681.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07682.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07683.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07684.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07685.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07686.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07687.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07688.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07689.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07690.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07691.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07692.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07693.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07694.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07695.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07696.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07697.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07698.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07699.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07700.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07701.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07702.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07703.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07704.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07705.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07706.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07707.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07708.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07709.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07710.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07711.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07712.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07713.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07714.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07715.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07716.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07717.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07718.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07719.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07720.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07721.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07722.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07723.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07724.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07725.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07726.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07727.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07728.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07729.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07730.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07731.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07732.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07733.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07734.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07735.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07736.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07737.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07738.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07739.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07740.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07741.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07742.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07743.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07744.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07745.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07746.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07747.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07748.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07749.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07750.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07751.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07752.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07753.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07754.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07755.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07756.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07757.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07758.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07759.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07760.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07761.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07762.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07763.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07764.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07765.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07766.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07767.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07768.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07769.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07770.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07771.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07772.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07773.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07774.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07775.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07776.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07777.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07778.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07779.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07780.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07781.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07782.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07783.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07784.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07785.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07786.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07787.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07788.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07789.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07790.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07791.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07792.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07793.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07794.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07795.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07796.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07797.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07798.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07799.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07800.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07801.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07802.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07803.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07804.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07805.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07806.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07807.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07808.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07809.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07810.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07811.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07812.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07813.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07814.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07815.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07816.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07817.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07818.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07819.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07820.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07821.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07822.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07823.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07824.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07825.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07826.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07827.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07828.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07829.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07830.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07831.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07832.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07833.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07834.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07835.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07836.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07837.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07838.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07839.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07840.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07841.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07842.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07843.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07844.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07845.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07846.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07847.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07848.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07849.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07850.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07851.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07852.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07853.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07854.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07855.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07856.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07857.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07858.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07859.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07860.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07861.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07862.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07863.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07864.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07865.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07866.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07867.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07868.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07869.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07870.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07871.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07872.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07873.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07874.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07875.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07876.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07877.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM07878.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09271.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09272.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09273.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09274.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09275.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09276.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09277.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09278.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09279.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09280.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09281.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09282.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09283.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09284.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09285.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09286.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09287.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09288.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09289.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09290.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09291.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09292.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09293.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09294.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09295.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09296.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09297.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09298.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09299.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09300.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09607.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09845.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09846.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09847.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09848.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09849.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09850.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09851.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09852.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09853.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09854.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09855.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09856.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09857.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09858.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09859.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09860.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09861.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09862.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09863.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09864.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09865.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09866.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09867.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09868.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09869.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09870.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09871.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09872.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09873.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09874.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09875.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09876.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09877.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09878.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09879.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09880.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09881.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09882.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09883.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09884.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09885.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09886.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09887.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09888.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09889.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09890.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09891.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09892.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09893.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09894.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09895.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09896.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09897.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09898.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09899.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09900.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09901.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09902.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09903.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09904.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09905.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09906.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09907.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09908.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09909.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09910.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09911.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09912.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09913.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09914.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09915.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09916.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09917.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09918.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09919.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09920.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09921.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09922.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09923.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09924.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09925.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09926.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09927.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09928.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09929.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09930.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09931.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09932.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09933.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09934.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09935.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09936.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09937.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09938.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09939.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09940.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09941.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09942.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09943.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09944.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09945.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09946.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09947.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09948.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09949.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09950.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09951.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09952.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09953.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09954.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09955.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09956.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09957.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09958.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09959.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09960.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09961.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09962.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09963.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09964.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09965.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09966.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09967.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09968.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09969.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09970.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09971.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09972.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09973.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09974.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09975.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09976.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09977.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09978.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09979.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09980.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09981.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09982.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09983.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09984.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09985.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09986.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09987.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09988.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09989.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09990.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09991.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09992.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09993.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09994.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09995.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09996.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09997.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09998.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM09999.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10000.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10001.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10002.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10003.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10004.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10005.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10006.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10007.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10008.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10009.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10010.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10011.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10012.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10013.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10014.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10015.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10016.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10017.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10018.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10019.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10020.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10021.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10022.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10023.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10024.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10025.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10026.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10027.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10028.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10029.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10030.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10031.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10032.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10033.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10034.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10035.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10036.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10037.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10038.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10039.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10040.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10041.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10042.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10043.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10044.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10045.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10046.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10047.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10048.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10049.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10050.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10051.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10052.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10053.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10054.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10055.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10056.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10057.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10058.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10059.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10060.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10061.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10062.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10063.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10064.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10065.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10066.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10067.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10068.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10069.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10070.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10071.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10072.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10073.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10074.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10075.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10076.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10077.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10078.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10079.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10080.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10081.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10082.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10083.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10084.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10085.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10086.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10087.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10088.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10089.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10090.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10091.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10092.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10093.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10094.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10095.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10096.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10097.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10098.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10099.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10100.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10101.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10102.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10103.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10104.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10105.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10106.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10107.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10108.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10109.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10110.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10111.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10112.mp4: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10113.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10114.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10115.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10116.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10117.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10118.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10119.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10120.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10121.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10122.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10123.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10124.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10125.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10126.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10127.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10128.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10129.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10130.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10131.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10132.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10133.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10134.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10135.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10136.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10137.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10138.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10139.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10140.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10141.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10142.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10143.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10144.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10145.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10146.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10147.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10148.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10149.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10150.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10151.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10152.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10153.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10154.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10155.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10156.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10157.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10158.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10159.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10200.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10201.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10202.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10203.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10204.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10205.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10206.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10207.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10208.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10209.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10210.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10211.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10212.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10213.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10214.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10215.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10216.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10217.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10218.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10219.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10220.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10221.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10222.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10223.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10224.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10225.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10226.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10227.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10228.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10229.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10230.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10231.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10232.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10233.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10234.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10235.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10236.jpg: Permission denied
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10237.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10238.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10239.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10240.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10241.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10242.mp4: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10243.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10244.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10245.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10246.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10247.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10248.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10249.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10250.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10251.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10252.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10253.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10254.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10255.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10256.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10257.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10258.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10259.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10260.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10261.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10262.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10263.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10264.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10265.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10266.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10267.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10268.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10269.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10270.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10271.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10272.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10273.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10274.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10275.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10276.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10277.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10278.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10279.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10280.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10281.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10282.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10283.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10284.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10285.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10286.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10287.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10288.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10289.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10290.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10291.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10292.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10293.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10294.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10295.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10296.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10297.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10298.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10299.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10300.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10301.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10302.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10303.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10304.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10305.mp4: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10306.mp4: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10307.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10308.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10309.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10310.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10311.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10312.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10313.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10314.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10315.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10316.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10317.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10318.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10319.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10320.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10321.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10322.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10323.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10324.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10325.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10326.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10327.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10328.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10329.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10330.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10331.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10332.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10333.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10334.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10335.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10336.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10337.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10338.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10339.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10340.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10341.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10342.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10343.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10344.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10345.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10346.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10347.mp4: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10348.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10349.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10350.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10351.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10352.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10353.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10354.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10355.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10356.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10357.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10358.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10359.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10360.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10361.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10362.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10363.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10364.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10365.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10366.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10367.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10368.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10369.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10370.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10371.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10372.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10373.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10374.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10375.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10376.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10377.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10378.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10379.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10380.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10381.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10382.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10383.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10384.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10385.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10386.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10387.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10388.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10389.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10390.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10391.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10392.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10393.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10394.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10395.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10396.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10397.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10398.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10399.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10400.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10401.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10402.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10403.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10404.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10405.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10406.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10407.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10408.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10409.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10410.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10411.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10412.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10413.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10414.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10415.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10416.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10417.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10418.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10419.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10420.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10421.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10422.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10423.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10424.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10425.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10426.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10427.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10428.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10429.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10430.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10431.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10432.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10433.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10434.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10435.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10436.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10437.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10438.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10439.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10440.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10441.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10442.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10443.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10444.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10445.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10446.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10590.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10591.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10592.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10593.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10594.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10595.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10596.jpg: Invalid argument
+C:\Users\Tine\Desktop\sha1sum.exe: CAM10597.jpg: Invalid argument
+
+E:\>
