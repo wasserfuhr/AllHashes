@@ -9,8 +9,10 @@ public class FileSize {
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String s;
   while((s=lnr.readLine())!=null){
-   File f=new File(s);
-   System.out.println(s+" "+f.length());
+      File f=new File("/home/rawa/SpaceDrive/"+s+"."+ext(s));
+   if(f.exists()){
+    System.out.println(s+" "+f.length());
+   }
   }
  }
 }
