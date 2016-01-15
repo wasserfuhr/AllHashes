@@ -1,5 +1,4 @@
-import java.io.File;
-import java.io.FileInputStream;
+import java.io.*;
 
 public class ByteSig {
  public static String SD() throws Exception {
@@ -10,36 +9,25 @@ public class ByteSig {
  }
 
  public static void main(String[] args) throws Exception {
-  File dir=new File(SD());
-  //dir =new File("/Users/rawa/Public/AllHashes");
-
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String s;
   while((s=lnr.readLine())!=null){
-      String s0=s.substring(5,69);
-      String s1=s.substring(s.indexOf(") = ")+4);
-      System.out.println(s1+" "+s0);
-  }
-
-  File[] files = dir.listFiles();
-  for (File f : files) {
-   System.out.print(f.getName()+" ");
-   if((f.getName().length()>4)&&f.getSize()<20000000) {
-    FileInputStream fr=new FileInputStream(f);
-    boolean[] sig=new boolean[256];
-    int b;
-    while((b=fr.read())>=0) {
-     sig[b]=true;
-    }
-    //   System.out.print(f.getName().substring(0,64)+" ");
-    for(int i=255; i>=0; i-=4) {
-     System.out.print(
-      "0123456789abcdef".charAt(
-        (sig[i]?8:0)+
-        (sig[i-1]?4:0)+
-        (sig[i-2]?2:0)+
-        (sig[i-3]?1:0)));
-    }
+   String s0=s.substring(0,64);
+   System.out.print(s0+" ");
+   File f =new File(s0+".mp4");
+   FileInputStream fr=new FileInputStream(SD()+f);
+   boolean[] sig=new boolean[256];
+   int b;
+   while((b=fr.read())>=0) {
+    sig[b]=true;
+   }
+   for(int i=255; i>=0; i-=4) {
+    System.out.print(
+     "0123456789abcdef".charAt(
+      (sig[i]?8:0)+
+      (sig[i-1]?4:0)+
+      (sig[i-2]?2:0)+
+      (sig[i-3]?1:0)));
    }
    System.out.println();
   }
