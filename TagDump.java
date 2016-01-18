@@ -26,7 +26,8 @@ public class TagDump {
  }
 
  public static void main(String[] args) throws Exception {
-  File jf = new File(SD()+"ffe73037035bd0ba401dab87e3d1bb422c3590107aa70e9a14cb2ac77d110ae9.jpg");
+  //  File jf = new File(SD()+"ffe73037035bd0ba401dab87e3d1bb422c3590107aa70e9a14cb2ac77d110ae9.jpg");
+  File jf = new File(SD()+"12b0bf8c17aa0bc46bf73eedfe970029f90a94dec5ff4152542a31945231e255.png");
   System.out.println(jf.length());
   Metadata metadata = ImageMetadataReader.readMetadata(jf);
   for (Directory directory : metadata.getDirectories()) {

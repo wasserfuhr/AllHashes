@@ -3,13 +3,15 @@ import java.io.*;
  
 public class EiNode {
  public static void main(String[] args) throws Exception  {
-  Process p = Runtime.getRuntime().exec( "ls -i /Volumes/SPACEDRIVE1/CastDups.txt");
+  String f="/Volumes/SPACEDRIVE1/CastDups.txt";
+  Process p = Runtime.getRuntime().exec("ls -i "+f);
   BufferedReader in = new BufferedReader(
-    new InputStreamReader(p.getInputStream()) );
-  String l;
-  while ((l = in.readLine()) != null) {
-   System.out.println(l);
-  }
+   new InputStreamReader(p.getInputStream()));
+  String l=in.readLine();
+  Process p1 = Runtime.getRuntime().exec("shasum -a 256 "+f);
+  String l2 = new BufferedReader(
+   new InputStreamReader(p1.getInputStream())).readLine();
+  System.out.println(l2+" "+l.split(" ")[0]);
   in.close();
  }
 }
