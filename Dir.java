@@ -3,9 +3,14 @@ import java.io.File;
 public class Dir {
  public static void dir(String d) throws Exception {
   for (File f:new File(d).listFiles()) {
-   if (f.isDirectory()) {
-   } else {
-    System.out.println(f.getName());
+   if (!f.isHidden()){
+    String s=f.getParent()+"/"+f.getName();
+     System.out.println(s);
+    if (f.isDirectory()) {
+     dir(s);
+    } else {
+     System.out.println(s);
+    }
    }
   }
  }
