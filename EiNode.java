@@ -11,7 +11,7 @@ public class EiNode {
   Process p1 = Runtime.getRuntime().exec("shasum -a 256 "+f);
   String l2 = new BufferedReader(
    new InputStreamReader(p1.getInputStream())).readLine();
-  System.out.println(l2+" "+l.split(" ")[0]);
+  System.out.println(">"+l2.split(" ")[0]+"< "+l.split(" ")[0]);
   in.close();
  }
 }
