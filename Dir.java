@@ -5,7 +5,6 @@ public class Dir {
   for (File f:new File(d).listFiles()) {
    if (!f.isHidden()){
     String s=f.getParent()+"/"+f.getName();
-     System.out.println(s);
     if (f.isDirectory()) {
      dir(s);
     } else {
