@@ -1,6 +1,6 @@
 import java.io.File;
 
-public class Dir {
+public class RecDir {
  public static void dir(String d) throws Exception {
   for (File f:new File(d).listFiles()) {
    if (!f.isHidden()){
