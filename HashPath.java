@@ -5,19 +5,6 @@ public class HashPath {
  //http://stackoverflow.com/questions/228477/how-do-i-programmatically-determine-operating-system-in-java
  private static String OS = System.getProperty("os.name").toLowerCase();
 
- public static void detectOS() {
-  if (isWindows()) {
-   String e="4867ccab1c36f33dec005e83eef8dfb6d3b166941a72400aa3c963675c2a7dae.exe";
-   String ls=execIn("G:/"+e,f);
-  } else if (isMac()) {
-   String ls=execIn("shasum","-a","256",f);
-  } else if (isUnix()) {
-   String ls=execIn("sha256sum",f);
-  } else {
-   //???
-  }
- }
-
  private static boolean isWindows() {
   return (OS.indexOf("win") >= 0);
  }
@@ -51,8 +38,8 @@ public class HashPath {
   return execIn(new ProcessBuilder(c0,c1,c2,c3));
  }
 
- public static String ShaTfs(String[] args) throws Exception {
- }
+// public static String ShaTfs(String[] args) throws Exception {
+ //}
 
  public static void main(String[] args) throws Exception {
   System.out.println();
@@ -60,10 +47,19 @@ public class HashPath {
   }
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String f;
+  String ls="";
   while((f=lnr.readLine())!=null) {
-   String li=execIn("ls","-i",f);
-   String ls=execIn("shasum","-a","256",f);
-   System.out.println(ls.split(" ")[0]+" "+li.split(" ")[0]);
+   if (isWindows()) {
+    String e="4867ccab1c36f33dec005e83eef8dfb6d3b166941a72400aa3c963675c2a7dae.exe";
+    ls=execIn("G:/SpaceDrive/"+e,f);
+   } else if (isMac()) {
+    ls=execIn("shasum","-a","256",f);
+   } else if (isUnix()) {
+    ls=execIn("sha256sum",f);
+   } else {
+    //???
+   }
+   System.out.println(ls.split(" ")[0]+" "+f);
   }
  }
 }
