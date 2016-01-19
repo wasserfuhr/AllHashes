@@ -10,6 +10,8 @@ public class MdFive {
   Date before=new Date();
   System.out.println(before+": Starting to hash "+len+" bytes");
 
+ //https://www.fourmilab.ch/md5/
+ //G:/SpaceDrive/770c0cdbb87b5ac036b79f5a4c48a2535fad71002bc2ffe88120713d4180c3e8.exe
   //Process p = Runtime.getRuntime().exec("c:\\Users\\RainerWasserfuhr\\Desktop\\md5.exe -l "+
   Process p = Runtime.getRuntime().exec("c:\\Users\\RainerWasserfuhr\\Desktop\\sha1sum.exe "+
 //   "\\Users\\RainerWasserfuhr\\Desktop\\md5.exe");
