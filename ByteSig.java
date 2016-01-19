@@ -5,10 +5,15 @@ public class ByteSig {
   if (System.getProperty("user.home").equals("/Users/rawa")) {
    return "/Volumes/SPACEDRIVE1/SpaceDrive/";
   }
+  if (System.getProperty("user.home").equals("C:\\Users\\RainerWasserfuhr")) {
+   return "G:\\SpaceDrive\\";
+  }
   return "/home/rawa/SpaceDrive/";
  }
 
  public static void main(String[] args) throws Exception {
+  System.out.println(System.getProperty("user.home"));
+
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String s;
   while((s=lnr.readLine())!=null){
