@@ -9,7 +9,8 @@ public class Eye {
   BufferedImage i=ImageIO.read(f);
   for (int y=0;y<16;y++) {
    for (int x=0;x<16;x++) {
-    System.out.print(i.getRGB(0,x));    
+    int p=i.getRGB(y,x);
+    System.out.print(String.format("%02x ",p));
    }
    System.out.println();
   }
