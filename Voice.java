@@ -8,6 +8,8 @@ public class Voice {
    for (int j=0;j<512;j++) {
     r.seek(64+i*1024+j*2+1);
     r.write((byte)Math.round(Math.sin((2+((i>>4)%4))*j*3.14/512)*64));
+    r.seek(64+i*1024+j*2+2);
+    r.write(0);
    }
   }
  }
