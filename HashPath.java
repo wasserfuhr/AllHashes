@@ -38,7 +38,13 @@ public class HashPath {
   return execIn(new ProcessBuilder(c0,c1,c2,c3));
  }
 
+// public static String ShaTfs(String[] args) throws Exception {
+ //}
+
  public static void main(String[] args) throws Exception {
+  System.out.println();
+  if(System.getProperty("os.name").startsWith("Windows")) {
+  }
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String f;
   String ls="";
