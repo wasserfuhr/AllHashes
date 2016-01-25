@@ -1,21 +1,12 @@
-import java.io.File;
-import java.io.FileInputStream;
+import java.io.*;
 
 public class FileTime {
- public static String SD() throws Exception {
-  if (System.getProperty("user.home").equals("/Users/rawa")) {
-   return "/Volumes/SPACEDRIVE1/SpaceDrive/";
-  }
-  return "/home/rawa/SpaceDrive/";
- }
-
- public static void main(String[] args) throws Exception {
-  File dir=new File(SD());
-  dir =new File("/Users/rawa/Public/AllHashes");
-
-  File[] files = dir.listFiles();
-  for (File f : files) {
-   System.out.print(f.getLastModified());
+ public static void main(String[] a) throws Exception {
+  LineNumberReader l=new LineNumberReader(new InputStreamReader(System.in));
+  String s;
+  while((s=l.readLine())!=null) {
+   File f=new File(a[0]+"1220"+s+"."+SD.ext(s));
+   System.out.println(s+" "+f.lastModified());
   }
  }
 }
