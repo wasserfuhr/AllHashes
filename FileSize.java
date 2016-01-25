@@ -10,19 +10,22 @@ public class FileSize {
  }
 
  public static String ext(String hash) throws Exception {
-  String s059a="059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f";
-  LineNumberReader lnr = new LineNumberReader(new InputStreamReader(new FileInputStream(SD()+"1220"+s059a+".txt")));
-  return "txt";
+  LineNumberReader lnr = new LineNumberReader(new InputStreamReader(new FileInputStream("TmpFileExt.txt")));
+  String s;
+  while((s=lnr.readLine())!=null) {
+   if(s.substring(0,64).equals(hash)) {
+    return s.substring(65);
+   }
+  }
+  return null;
  }
 
  public static void main(String[] a) throws Exception {
   LineNumberReader lnr = new LineNumberReader(new InputStreamReader(System.in));
   String s;
   while((s=lnr.readLine())!=null) {
-   File f=new File(SD()+s+"."+ext(s));
-   if(f.exists()) {
-    System.out.println(s+" "+f.length());
-   }
+   File f=new File(a[0]+"1220"+s+"."+ext(s));
+   System.out.println(s+" "+f.length());
   }
  }
 }
