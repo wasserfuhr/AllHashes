@@ -51,7 +51,7 @@ public class HashPath {
   while((f=lnr.readLine())!=null) {
    if (isWindows()) {
     String e="4867ccab1c36f33dec005e83eef8dfb6d3b166941a72400aa3c963675c2a7dae.exe";
-    ls=execIn("G:/SpaceDrive/"+e,f);
+    ls=execIn("G:/SpaceDrive/1220"+e,f).substring(1); // skip trailing "\"
    } else if (isMac()) {
     ls=execIn("shasum","-a","256",f);
    } else if (isUnix()) {
