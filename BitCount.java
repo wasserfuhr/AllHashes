@@ -1,12 +1,11 @@
-import java.io.File;
-import java.io.FileInputStream;
+import java.io.*;
 
 public class BitCount {
- public static void main(String[] args) throws Exception {
-  File dir=new File("/Volumes/SPACEDRIVE1/SpaceDrive/");
-  File[] files = dir.listFiles();
-  for (File f : files) {
-   FileInputStream fr=new FileInputStream(f);
+ public static void main(String[] a) throws Exception {
+  LineNumberReader l = new LineNumberReader(new InputStreamReader(System.in));
+  String s;
+  while((s=lnr.readLine())!=null) {
+   FileInputStream fr=new FileInputStream(SD.ext(s));
    int bitCt=0;
    int b;
    while((b=fr.read())>=0) {
@@ -16,7 +15,7 @@ public class BitCount {
      }
     }
    }
-   System.out.println(f.getName().substring(0,64)+" "+bitCt);
+   System.out.println(s+" "+bitCt);
   }
  }
 }
