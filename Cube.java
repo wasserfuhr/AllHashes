@@ -1,7 +1,9 @@
 public class Cube {
  public static void main(String[] a) {
-  int c[][][]=new int[1024][1024][4096];
-  for (int i=0;i<256;i++) {
+  byte b=new Byte(a[0]);
+  byte b2=(byte)(1<<b);
+  byte c[][][]=new byte[b2][b2][b2];
+  for (byte i=0;i<b2;i++) {
    c[i][i][i]=i;
   }
  }
