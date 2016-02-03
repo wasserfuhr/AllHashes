@@ -1,0 +1,4 @@
+date:9710023232
+resource:KuRo
+hash:f0bad3eca3d12f84da30559223d1cf53008991c7
+content:4b7567656c526f79616c

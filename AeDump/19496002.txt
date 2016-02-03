@@ -1,0 +1,4 @@
+date:10638702161
+resource:SemPat
+hash:a57c38a442e8793bd5da4fd8058fb2d01b7747d9
+content:53656d5061

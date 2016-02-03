@@ -1,0 +1,4 @@
+date:9714129439
+resource:KrKr
+hash:412ba9c8b2b5f3ed4f4007ff0dc8ff0e2d2b9f19
+content:4b72694b726f
