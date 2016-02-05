@@ -11,9 +11,9 @@
  (fn [x]
   (if (= :item (:tag x))
    (str
-    (first (:content (second (:content x)))) "\n"
-    " " (first (:content (first (:content x)))) "\n"
-    " " (first (:content (get (:content x) 2))) "\n")))
+    (first (:content (second (:content x)))) "\n" ;link
+    " " (first (:content (get (:content x) 2))) "\n" ;title
+    " " (first (:content (first (:content x)))) "\n" ;pubDate
+    " " (first (:content (get (:content x) 4))) "\n"))) ;description
  (:content (first (:content (xml/parse "http://www.tagesschau.de/xml/rss2")))))))
 ; (:content (first (:content (xml/parse "http://www.tagesschau.de/newsticker.rdf")))))))
-
