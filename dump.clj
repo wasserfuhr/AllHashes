@@ -1,11 +1,9 @@
 ; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar dump.clj
-
-;  (.split (slurp "BootStrapDresdenLabsLd428d.txt") "\n")))
-
- (println (str ">" "l"))
-
-;(doseq
+;BootStrapDresdenLabsLd428d.txt
+;http://stackoverflow.com/questions/2034059/how-to-read-lines-from-stdin-in-in-clojure
 (doall
  (map
-  (fn [l] (println (str ">" l)))
+  (fn [l]
+   (spit (str l ".txt") (slurp (str "https://dresdenlabs.appspot.com/dump?id=" l)))
+   (println "slurped" l))
   (line-seq (java.io.BufferedReader. *in*))))
