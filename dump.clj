@@ -1,5 +1,11 @@
 ; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar dump.clj
-(println
+
+;  (.split (slurp "BootStrapDresdenLabsLd428d.txt") "\n")))
+
+ (println (str ">" "l"))
+
+;(doseq
+(doall
  (map
-  (fn [l] (str ">" l))
-  (.split (slurp "BootStrapDresdenLabsLd428d.txt") "\n")))
+  (fn [l] (println (str ">" l)))
+  (line-seq (java.io.BufferedReader. *in*))))
