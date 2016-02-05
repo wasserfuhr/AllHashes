@@ -1,0 +1,7 @@
+date:11040319094
+resource:ArtBarn
+bLen:13
+sLen:13
+mHash:f053779fb6a3a0d92a0915c01eeec5a3b062f84e
+sHash:b0ec80e87177f3dc28da75737f83c7c9b43f4a9b6adb6c3cbf2255031fcf7c7c
+content:4b756c74757253636865756e65

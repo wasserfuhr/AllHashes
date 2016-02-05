@@ -1,0 +1,7 @@
+date:11054840197
+resource:AiCub0
+bLen:2
+sLen:2
+mHash:fb96549631c835eb239cd614cc6b5cb7d295121a
+sHash:f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e
+content:3030
