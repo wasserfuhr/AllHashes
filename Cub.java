@@ -9,7 +9,7 @@ public class Cub {
   for (short i=0;i<b2;i++) {
    for (short j=0;j<b2;j++) {
     for (short k=0;k<b2;k++) {
-     System.out.print(c[i][j][k]);
+     System.out.write(c[i][j][k]);
     }
    }
   }
