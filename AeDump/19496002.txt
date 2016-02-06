@@ -1,4 +1,7 @@
 date:10638702161
 resource:SemPat
-hash:a57c38a442e8793bd5da4fd8058fb2d01b7747d9
+bLen:5
+sLen:5
+mHash:a57c38a442e8793bd5da4fd8058fb2d01b7747d9
+sHash:9fd93d1d02fabed24c761b74a1ae3baba86d9c6f17a5bbf5ae56e807a3da4fc3
 content:53656d5061
