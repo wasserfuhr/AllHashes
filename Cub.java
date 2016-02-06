@@ -13,5 +13,6 @@ public class Cub {
     }
    }
   }
+  System.out.flush();
  }
 }
