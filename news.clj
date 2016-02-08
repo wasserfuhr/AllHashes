@@ -42,11 +42,11 @@
 (println (apply str (map
  (fn [x]
   (if (= :item (:tag x))
-  
-   (str
-    (starTime (parsePubDate (getTag x 2))) "\n" ;pubDate
-    (getTag x 1) "\n";link
-    (getTag x 0) "\n";title
-    (getTag x 4))))
+   (let [
+     s (str
+      (starTime (parsePubDate (getTag x 2))) "\n" ;pubDate
+      (getTag x 1) "\n";link
+      (getTag x 0) "\n";title
+      (getTag x 4))] (hh (h (.getBytes s))))));description
  (:content (first (:content (xml/parse "https://www.tagesschau.de/xml/rss2")))))))
 ;(:content (first (:content (xml/parse "https://www.tagesschau.de/newsticker.rdf")))))))
