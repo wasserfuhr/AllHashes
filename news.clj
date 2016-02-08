@@ -45,7 +45,11 @@
    ss (hh (h (.getBytes sl)))
    sf (str "1220" ss ".xml")]
   (if (not (.exists (java.io.File. sf)))
-   (spit sf sl))
+   (do
+    (spit "FeedFetch.txt"
+     (str (starTime (java.util.Date.))
+      " " ss) :append true)
+    (spit sf sl)))
   ss))
 
 (println (apply str (map
