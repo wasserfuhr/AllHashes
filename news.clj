@@ -36,6 +36,9 @@
 (defn starTime [d]
  (/ (- (.getTime d) 1443408427000) 1000))
 
+(defn starTimeD [d]
+ (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)))
+
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
 
@@ -47,8 +50,8 @@
   (if (not (.exists (java.io.File. sf)))
    (do
     (spit "FeedFetch.txt"
-     (str (starTime (java.util.Date.))
-      " " ss) :append true)
+     (str (starTimeD (java.util.Date.))
+      " " ss "\n") :append true)
     (spit sf sl)))
   ss))
 
