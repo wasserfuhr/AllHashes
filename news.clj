@@ -26,18 +26,25 @@
 (defn hh [m] (apply str (map #(format "%02x" %) m)))
 
 (defn parsePubDate [s]
+ ;http://stackoverflow.com/questions/2705548/parse-rss-pubdate-to-date-object-in-java
  (.parse
   (java.text.SimpleDateFormat. "EEE, dd MMM yyyy HH:mm:ss zzz"
    java.util.Locale/ENGLISH) s))
+;test:
+;(print (parsePubDate "Sun, 07 Feb 2016 04:56:23 +0100")) ;VerunsicherteRepublik
 
 (defn starTime [d]
- (/ (- (.getTime d) 1443408427000)) 1000)
+ (/ (- (.getTime d) 1443408427000) 1000))
 
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
 
-;test:
-;(print (parsePubDate "Sun, 07 Feb 2016 04:56:23 +0100")) ;VerunsicherteRepublik
+(let [
+  sl (slurp "https://www.tagesschau.de/xml/rss2")
+  ss (hh (h (.getBytes sl)))
+  sf (str "1220" ss ".xml")]
+ (if (not (.exists (java.io.File. sf)))
+  (spit sf sl)))
 
 (println (apply str (map
  (fn [x]
@@ -50,7 +57,7 @@
       (getTag x 4))
      hs (hh (h (.getBytes s)))] ;description
     (do
-     (spit (str hs ".news") s)
+     (spit (str "1220" hs ".news") s)
      (str hs "\n")))))
  (:content (first (:content (xml/parse "https://www.tagesschau.de/xml/rss2")))))))
 ;(:content (first (:content (xml/parse "https://www.tagesschau.de/newsticker.rdf")))))))
