@@ -51,7 +51,7 @@
    (do
     (spit "FeedFetch.txt"
      (str (starTimeD (java.util.Date.))
-      " " ss "\n") :append true)
+      " " ss " " s "\n") :append true)
     (spit sf sl)))
   ss))
 
