@@ -47,6 +47,10 @@
       (starTime (parsePubDate (getTag x 2))) "\n" ;pubDate
       (getTag x 1) "\n";link
       (getTag x 0) "\n";title
-      (getTag x 4))] (hh (h (.getBytes s))))));description
+      (getTag x 4))
+     hs (hh (h (.getBytes s)))] ;description
+    (do
+     (spit (str hs ".news") s)
+     (str hs "\n")))))
  (:content (first (:content (xml/parse "https://www.tagesschau.de/xml/rss2")))))))
 ;(:content (first (:content (xml/parse "https://www.tagesschau.de/newsticker.rdf")))))))
