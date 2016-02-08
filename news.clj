@@ -22,13 +22,28 @@
 
 (require '[clojure.xml :as xml])
 
+(defn h [m] ; https://gist.github.com/kisom/1698245
+ (let [h (java.security.MessageDigest/getInstance "SHA-256")]
+  (. h update m)
+  (.digest h)))
+
+(defn hh [m] (apply str (map #(format "%02x" %) m)))
+
+;(/(-
+; (.getTime
+;  (.parse
+;   (java.text.SimpleDateFormat. "EEE, dd MMM yyyy HH:mm:ss zzz"
+;     java.util.Locale/ENGLISH)
+;   "Sun, 07 Feb 2016 04:56:23 +0100")) ;VerunsicherteRepublik
+; 1443408427000) 86400)
+
 (println (apply str (map
  (fn [x]
   (if (= :item (:tag x))
    (str
-    (first (:content (second (:content x)))) "\n" ;link
-    " " (first (:content (get (:content x) 2))) "\n" ;title
-    " " (first (:content (first (:content x)))) "\n" ;pubDate
-    " " (first (:content (get (:content x) 4))) "\n"))) ;description
- (:content (first (:content (xml/parse "http://www.tagesschau.de/xml/rss2")))))))
-; (:content (first (:content (xml/parse "http://www.tagesschau.de/newsticker.rdf")))))))
+    (first (:content (get (:content x) 1))) "\n ";link
+    (first (:content (get (:content x) 2))) "\n " ;title
+    (first (:content (get (:content x) 0))) "\n " ;pubDate
+    (first (:content (get (:content x) 4))) "\n"))) ;description
+; (:content (first (:content (xml/parse "http://www.tagesschau.de/xml/rss2")))))))
+ (:content (first (:content (xml/parse "https://www.tagesschau.de/newsticker.rdf")))))))
