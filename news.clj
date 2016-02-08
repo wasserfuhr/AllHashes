@@ -39,12 +39,14 @@
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
 
-(let [
-  sl (slurp "https://www.tagesschau.de/xml/rss2")
-  ss (hh (h (.getBytes sl)))
-  sf (str "1220" ss ".xml")]
- (if (not (.exists (java.io.File. sf)))
-  (spit sf sl)))
+(defn spitNews [s]
+ (let [
+   sl (slurp s)
+   ss (hh (h (.getBytes sl)))
+   sf (str "1220" ss ".xml")]
+  (if (not (.exists (java.io.File. sf)))
+   (spit sf sl))
+  ss))
 
 (println (apply str (map
  (fn [x]
@@ -59,5 +61,9 @@
     (do
      (spit (str "1220" hs ".news") s)
      (str hs "\n")))))
- (:content (first (:content (xml/parse "https://www.tagesschau.de/xml/rss2")))))))
-;(:content (first (:content (xml/parse "https://www.tagesschau.de/newsticker.rdf")))))))
+ (:content (first (:content (xml/parse 
+  (str "1220" 
+   (spitNews "https://www.tagesschau.de/xml/rss2")
+   ".xml"))))))))
+
+(spitNews "https://www.tagesschau.de/newsticker.rdf")
