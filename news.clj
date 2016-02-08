@@ -5,22 +5,20 @@
 ;http://www.tagesschau.de/infoservices/rssfeeds/index.html
 ;('clojure.xml/parse "http://www.tagesschau.de/newsticker.rdf")
 
-/*
-http://www.tagesschau.de/newsticker.rdf :
-title
-link
-pubDate
-content:encoded
-description
-guid
+;http://www.tagesschau.de/newsticker.rdf :
+; title
+; link
+; pubDate
+; content:encoded
+; description
+; guid
 
-http://www.tagesschau.de/xml/rss2 :
-title
-link
-description
-guid
-category
-*/
+;http://www.tagesschau.de/xml/rss2 :
+; title
+; link
+; description
+; guid
+; category
 
 (require '[clojure.xml :as xml])
 
