@@ -1,25 +1,22 @@
-import java.io.File;
+import java.io.*;
 import java.util.*;
 
-public class SpaceDrive {
- public static void dir(String d) throws Exception {
+public class Join {
+ public static void main(String[] a) throws Exception {
   Hashtable h=new Hashtable();
-  for (File f:new File(d).listFiles()) {
-   if (f.getName().length()<65){
-    System.err.println(f.getName());
-   }
-   String ext=f.getName().substring(65);
-   if (h.containsKey(ext)) {
-       h.put(ext,(Integer)h.get(ext)+1);
-   } else {
-    h.put(ext,1);
-   }
+  FileInputStream fis=new FileInputStream(a[0]);
+  LineNumberReader lr = new LineNumberReader(new InputStreamReader(fis));
+  String l;
+  while(null!=(l=lr.readLine())) {
+   h.put(l.split(" ")[0],l.split(" ")[1]);
   }
-  for (Object k:h.keySet()) {
-   System.out.println(k+" "+h.get(k));
+  lr = new LineNumberReader(new InputStreamReader(System.in));
+  while(null!=(l=lr.readLine())) {
+   System.out.print(l);
+   if( h.containsKey(l)) {
+    System.out.println(" "+h.get(l));
+   }
+   System.out.println();
   }
- }
- public static void main(String[] args) throws Exception {
-  dir(args[0]);
  }
 }
