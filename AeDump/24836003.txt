@@ -1,0 +1,7 @@
+date:11305784793
+resource:TagesNews
+bLen:5
+sLen:5
+mHash:b164a2192d3dbe46f1615e53e2e4507aefc393d0
+sHash:f46b16ed5a4edf48d3fa99cacadf3c090ed20a9988d75a65aa9bdd8224825abd
+content:2f6e657773
