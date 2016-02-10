@@ -7,20 +7,20 @@
 ; title
 ; link
 ; pubDate
-; content:encoded
+; content:encoded (ignored)
 ; description
-; guid
+; guid (ignored)
 
 ;http://www.tagesschau.de/newsticker.rdf :
 ; title
 ; link
 ; description
-; guid
-; category
+; guid (ignored)
+; category (ignored)
 
-(defn h [m] ; https://gist.github.com/kisom/1698245
+(defn h [b] ; https://gist.github.com/kisom/1698245
  (let [h (java.security.MessageDigest/getInstance "SHA-256")]
-  (. h update m)
+  (. h update b)
   (.digest h)))
 
 (defn hh [m] (apply str (map #(format "%02x" %) m)))

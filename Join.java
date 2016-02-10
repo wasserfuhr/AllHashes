@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
-
+//e.g.:
+// cat BootStrap.txt|java Join AeDump/DumpHash.txt|more
 public class Join {
  public static void main(String[] a) throws Exception {
   Hashtable h=new Hashtable();
@@ -13,8 +14,8 @@ public class Join {
   lr = new LineNumberReader(new InputStreamReader(System.in));
   while(null!=(l=lr.readLine())) {
    System.out.print(l);
-   if( h.containsKey(l)) {
-    System.out.println(" "+h.get(l));
+   if(h.containsKey(l)) {
+    System.out.print(" "+h.get(l));
    }
    System.out.println();
   }
