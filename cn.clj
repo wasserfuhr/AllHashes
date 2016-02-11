@@ -20,7 +20,7 @@
 (defn parsePubDate [s]
  ;http://stackoverflow.com/questions/2705548/parse-rss-pubdate-to-date-object-in-java
  (.parse
-  (java.text.SimpleDateFormat. "EEE, dd MMM yyyy HH:mm:ss zzz"
+  (java.text.SimpleDateFormat. "EEE,dd-MMM-yyyy HH:mm:ss zzz"
    java.util.Locale/ENGLISH) s))
 
 (defn starTime [d]
@@ -49,11 +49,13 @@
  (fn [x]
   (if (= :item (:tag x))
    (let [
-     a (println 0 x )
-     a2 (println 0 (get (:content x) 3))
+     a2 (println 0 (parsePubDate (get (:content x) 3)))
      a1 (println 1 (getTag x 2))
      a3 (println 2 (getTag x 0))
-     a3 (println 3 (getTag x 4))
+     d (getTag x 4)
+     i (.indexOf d ">")
+     j (.lastIndexOf d "<")
+     a3 (println 3 (.substring d (+ i 1) (- j 1)))
      s (str
       (starTime (parsePubDate (second (getTag x 2)))) "\n" ;link
       (getTag x 2) "\n";link
