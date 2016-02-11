@@ -28,3 +28,6 @@
 11703827.883 82f8e83c3f37fd85a6b57ef510b4de9662d96d0d49a4f8e364bad261a815fa20 https://www.tagesschau.de/xml/rss2
 11703828.252 3773fa4922738b2f69abe425fcf1291fff8e364648d2e0b1f41d0e1b7836e32f https://www.tagesschau.de/newsticker.rdf
 11703839.847 ad870f32b24eb951920c7ad53f9c244dc98e9d8e454bf8c2c3436f9f753004b2 https://feeds.bbci.co.uk/news/rss.xml
+11731016.095 ce0cdf66458cc8c7d3272a98764254704d848cdbca1485cf439bb31d41cf73ac https://www.tagesschau.de/xml/rss2
+11731016.411 cb670d7d68d902daace2ef740a5dd3836555da5a0515b972aa58aef04f37d0dc https://www.tagesschau.de/newsticker.rdf
+11731027.679 e8e3c8a20a3b884c4f12870c0402c36fd3e81ff72054383886405fa4b64b2e5c https://feeds.bbci.co.uk/news/rss.xml
