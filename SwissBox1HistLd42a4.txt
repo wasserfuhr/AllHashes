@@ -1,0 +1,500 @@
+   15  tail -f BfHash.log
+   16  cat BfHash.log|grep 0000000|sort
+   17  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+   18  git pull
+   19  javac Cub.java 
+   20  java Cub 2
+   21  git pull
+   22  javac Cub.java 
+   23  java Cub 2
+   24  java Cub 2|xxd
+   25  java Cub 3|xxd
+   26  java Cub 4|xxd
+   27  java Cub 4|xxd|more
+   28  emacs Cub.java
+   29  javac Cub.java
+   30  java Cub 4|xxd|more
+   31  java Cub 0|xxd
+   32  java Cub 1|xxd
+   33  java Cub 2|xxd
+   34  java Cub 3|xxd
+   35  java Cub 4|xxd
+   36  java Cub 5|xxd
+   37  java Cub 5|wc
+   38  java Cub 6|wc
+   39  java Cub 7|wc
+   40  java Cub 8|wc
+   41  java Cub 9|wc
+   42  java -Xmx300m Cub 9|wc
+   43  history 
+   44  git status
+   45  git add Cub.java
+   46  git commit -m "~Cub.java"
+   47  git push
+   48  cp Cub.java Think.java
+   49  emacs Think.java
+   50  javac Think.java
+   51  java Think 
+   52  java Think 9
+   53  java -Xmx130m Think 9
+   54  java -Xmx150m Think 9
+   55  date
+   56  git add Think.java
+   57  git commit -m "+Think.java"
+   58  git push
+   59  cp ct.java vm.java
+   60  emacs vm.java 
+   61  cp LineCount.java VirtualMachine.java
+   62  emacs VirtualMachine.java
+   63  jvac vm.java
+   64  javac vm.java
+   65  java vm
+   66  java vm 1
+   67  java vm 2
+   68  java vm 3
+   69  java vm 4
+   70  java vm 5
+   71  java vm 6
+   72  git add vm.java VirtualMachine.java
+   73  git commit -m "+vm.java +VirtualMachine.java"
+   74  git push
+   75  cat BfHash.log|grep 0000000|sort
+   76  history 
+   77  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+   78  ls -l
+   79  git pull
+   80  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+   81  git pull
+   82  cd TagesShow/
+   83  history|grep curl
+   84  curl http://www.tagesschau.de/xml/rss2 >rss2.xml
+   85  curl http://www.tagesschau.de/newsticker.rdf > rdf.xml
+   86  more rss2.xml 
+   87  grep Israeli *
+   88  ls -l
+   89  more rdf.xml
+   90  cat /home/rawa/BfHash.log|grep 0000000|sort
+   91  top
+   92  tail -f /home/rawa/BfHash.log
+   93  ls -l
+   94  more rdf.xml
+   95  #curl http://www.tagesschau.de/newsticker.rdf > r.xml
+   96  ls -l
+   97  history
+   98  ls -l
+   99  more rdf.xml
+  100  history 
+  101  curl http://www.tagesschau.de/xml/rss2|sha256sum 
+  102  curl http://www.tagesschau.de/xml/rss2|sha256sum
+  103  curl http://www.tagesschau.de/
+  104  history 
+  105  curl http://www.tagesschau.de/newsticker.rdf|sha256sum
+  106  cat BfHash.log|grep 0000000|sort
+  107  history 
+  108  cd GitHoster/GitHub/wasserfuhr/AllHashes/;cd TagesShow/
+  109  curl http://www.tagesschau.de/xml/rss2 >ld42a1.rss
+  110  #curl http://www.tagesschau.de/newsticker.rdf > r.xml
+  111  curl http://www.tagesschau.de/newsticker.rdf > ld42a1.rdf
+  112  ls -l
+  113  zip -9 r rss2.xml 
+  114  ls -l
+  115  curl http://www.tagesschau.de/xml/rss2|shasum
+  116  curl http://www.tagesschau.de/newsticker.rdf|shasum
+  117  curl http://www.tagesschau.de/xml/rss2|shasum
+  118  cat ~/BfHash.log|grep 0000000|sort
+  119  cat BfHash.log|grep 00000000|sort
+  120  history 
+  121  cd GitHoster/GitHub/wasserfuhr/AllHashes/;cd TagesShow/
+  122  #curl http://www.tagesschau.de/newsticker.rdf > r.xml
+  123  curl http://www.tagesschau.de/newsticker.rdf > ld42a2.rdf
+  124  curl http://www.tagesschau.de/xml/rss2 >ld42a2.rss
+  125  ls -l
+  126  rm r.zip
+  127  git pull
+  128  git status
+  129  mv rdf.xml ld42a0.rdf
+  130  mv rss2.xml ld42a0.rss
+  131  ls l
+  132  ls -l
+  133  git add *
+  134  git commit -m "+ld42a?.r??"
+  135  cat ../TmpFileExt.txt
+  136  git push
+  137  ls -l
+  138  more 12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml 
+  139  more 1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml
+  140  more 12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml 
+  141  git pull
+  142  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar -cp ~/.m2/repository/org/clojure/data.xml/0.0.8/data.xml-0.0.8.jar:. news.clj
+  143  cd ..
+  144  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar -cp ~/.m2/repository/org/clojure/data.xml/0.0.8/data.xml-0.0.8.jar:. news.clj
+  145  mvn org.apache.maven.plugins:maven-dependency-plugin:2.10:get -Dartifact=org.clojure:clojure:1.8.0
+  146  /home/rawa/apache-maven-3.2.3/bin/mvn org.apache.maven.plugins:maven-dependency-plugin:2.10:get -Dartifact=org.clojure:clojure:1.8.0
+  147  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar -cp ~/.m2/repository/org/clojure/data.xml/0.0.8/data.xml-0.0.8.jar:. news.clj
+  148  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  149  emacs news.clj
+  150  git pull
+  151  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  152  emacs news.clj
+  153  git pull
+  154  emacs news.clj
+  155  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  156  emacs news.clj
+  157  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  158  emacs news.clj
+  159  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  160  emacs news.clj
+  161  git add news.clj
+  162  git commit -m "~news.clj"
+  163  emacs news.clj
+  164  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  165  emacs news.clj
+  166  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  167  emacs news.clj
+  168  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  169  emacs news.clj
+  170  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  171  emacs news.clj
+  172  more TagesShow/1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml 
+  173  more TagesShow/12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml 
+  174  emacs news.clj
+  175  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  176  emacs news.clj
+  177  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  178  emacs news.clj
+  179  more TagesShow/12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml 
+  180  curl https://www.tagesschau.de/newsticker.rdf|more
+  181  more news.clj
+  182  curl https://www.tagesschau.de/xml/rss2
+  183  emacs news.clj
+  184  curl https://www.tagesschau.de/xml/rss2
+  185  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  186  emacs news.clj
+  187  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  188  git add news.clj
+  189  history|grep commit
+  190  git commit -m "~news.clj"
+  191  emacs news.clj
+  192  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  193  emacs news.clj
+  194  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  195  git status
+  196  git add news.clj
+  197  git commit -m "~news.clj"
+  198  emacs news.clj
+  199  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  200  emacs news.clj
+  201  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  202  ls -l
+  203  cat b62f78384ab76449b6ed953b9c45ac145691900c60a8edd2040933efe47a194a.news 
+  204  sha256sum *news
+  205  more *news
+  206  git add news.clj
+  207  git commit -m "~news.clj"
+  208  emacs news.clj
+  209  rm *news
+  210  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  211  more *news
+  212  emacs news.clj
+  213  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  214  emacs news.clj
+  215  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  216  emacs news.clj
+  217  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  218  emacs news.clj
+  219  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  220  emacs news.clj
+  221  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  222  emacs news.clj
+  223  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  224  history
+  225  git add news.clj;git commit -m "~news.clj"
+  226  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  227  ls -l 12*
+  228  sha256sum 12*
+  229  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  230  sha256sum 12*
+  231  git add news.clj;git commit -m "~news.clj"
+  232  emacs news.clj
+  233  ls l 1*
+  234  ls -l 1*
+  235  rm 11b0aa069360ffe9b307ad400223bb9e2be24b39ef21b01a9fe0eaa12d922110.news
+  236  ls -l *news
+  237  rm 2*news
+  238  rm 3*news
+  239  rm 4*news
+  240  rm 5*news
+  241  rm 6*news
+  242  rm 7*news
+  243  rm 8*news
+  244  rm 9*news
+  245  rm a*news
+  246  rm b*news
+  247  rm c*news
+  248  rm d*news
+  249  rm e*news
+  250  rm f*news
+  251  ls -l
+  252  ls -l|more
+  253  rm 0d73213107c8b0b8b04aee46a356ddc0860a039bea906bf3cba9be7763593b88.news
+  254  mv 1220* TagesShow/
+  255  emacs news.clj
+  256  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  257  emacs news.clj
+  258  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  259  emacs news.clj
+  260  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  261  history 
+  262  git add news.clj;git commit -m "~news.clj"
+  263  ls -l
+  264  ls -l|more
+  265  emacs news.clj
+  266  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  267  cat FeedFetch.txt
+  268  git add news.clj;git commit -m "~news.clj"
+  269  emacs news.clj
+  270  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  271  cat FeedFetch.txt
+  272  emacs FeedFetch.txt
+  273  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  274  cat FeedFetch.txt
+  275  emacs news.clj
+  276  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  277  cat FeedFetch.txt
+  278  emacs FeedFetch.txt
+  279  git add news.clj;git commit -m "~news.clj"
+  280  emacs news.clj
+  281  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  282  emacs FeedFetch.txt
+  283  git add FeedFetch.txt
+  284  git status
+  285  git add news.clj;git commit -m "~news.clj +FeedFetch.txt"
+  286  cat *news
+  287  more *news
+  288  ls -l *l
+  289  cp 1220ec2eb7e09dc978c489a75fac1e2c27da0eb133ca3496c0b95a9bf176cc044b0f.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  290  emacs news.clj
+  291  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  292  emacs FeedFetch.txt
+  293  cp 12201dc7dee415763f509ba78017ed436ce66fcf9af012e4d1a04b6501f90b3fbf74.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  294  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  295  emacs FeedFetch.txt
+  296  git pull
+  297  emacs FeedFetch.txt
+  298  cp 1220b7abb3a674840ce9efe9820b06ba94bfdcbe7621043fceaf0b233dc8e28aca0f.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  299  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  300  emacs FeedFetch.txt
+  301  ls -l *xml
+  302  cat FeedFetch.txt
+  303  emacs FeedFetch.txt
+  304  cat FeedFetch.txt|grep rss
+  305  cp news.clj bbc.clj
+  306  emacs bbc.clj
+  307  mkdir bbc
+  308  cd bbc
+  309  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar ../news.clj
+  310  ls
+  311  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar ../bbc.clj
+  312  mv ../bbc.clj .
+  313  emacs bbc.clj
+  314  ls -l
+  315  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  316  more *
+  317  more *s
+  318  ls -l
+  319  emacs bbc.clj
+  320  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  321  ls -l
+  322  more *s
+  323  emacs bbc.clj
+  324  ls -l
+  325  cat FeedFetch.txt 
+  326  rm 1220*
+  327  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  328  cat FeedFetch.txt 
+  329  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  330  cat FeedFetch.txt 
+  331  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  332  cat FeedFetch.txt 
+  333  ls *l
+  334  more *l
+  335  ls -l
+  336  cat FeedFetch.txt 
+  337  more *s
+  338  cat ../FeedFetch.txt
+  339  rm 1220* FeedFetch.txt
+  340  ls -l
+  341  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  342  ls -l
+  343  cat FeedFetch.txt 
+  344  emacs bbc.clj
+  345  mv bbc.clj ..
+  346  rm *
+  347  cd ..
+  348  rmdir bbc
+  349  git add bbc.clj
+  350  git status
+  351  git commit -m "+bbc.clj ~news.clj"
+  352  more 
+  353  more *news
+  354  cat FeedFetch.txt
+  355  cp 1220d026fe51bd7cb7cefc24a39ea4bf01c55913a08462d4645cad4d3ab50d22d979.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  356  cp 122064bc41e85552dc4c16450d007eecdbf239febcd16a4c24908c1a8a11bbab7e24.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  357  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj 
+  358  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj 
+  359  emacs FeedFetch.txt
+  360  cp 12202abc0d00078187852dd25cc636698f0433e63167a366e329c13eccc5c5e31eef.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  361  emacs FeedFetch.txt
+  362  ls 
+  363  cat /home/rawa/BfHash.log|grep 00000000
+  364  cd AeDump/
+  365  ls
+  366  cat ../dump.clj
+  367  sha256sum *
+  368  emacs dump.sh
+  369  emacs DumpHash.txt
+  370  git pull
+  371  sort -h
+  372  man sort
+  373  sort -k 2 -n DumpHash.txt|mroe
+  374  sort -k 2 -n DumpHash.txt|more
+  375  cd ..
+  376  ls *va
+  377  cat FileSize.java 
+  378  ls -l *va
+  379  cat ByteSig.java 
+  380  grep *java Hashtable
+  381  grep Hashtable *java
+  382  cat SpaceDrive.java
+  383  cp SpaceDrive.java Join.java
+  384  git add Join.java
+  385  git commit -m "+Join.java"
+  386  emacs Join.java
+  387  ls -l *a
+  388  cat SubStr.java
+  389  emacs Join.java
+  390  javac Join.java
+  391  emacs Join.java
+  392  javac Join.java
+  393  #cat BootStrap.txt|java 
+  394  git pull
+  395  cat BootStrap.txt|java Join AeDump/DumpHash.txt|more
+  396  git add Join.java
+  397  git commit -m "~Join.java"
+  398  emacs Join.java
+  399  javac Join.java
+  400  emacs Join.java
+  401  javac Join.java
+  402  emacs Join.java
+  403  javac Join.java
+  404  cat BootStrap.txt|java Join AeDump/DumpHash.txt|more
+  405  git pull
+  406  cat BootStrap.txt|java Join AeDump/DumpHash.txt|more
+  407  cat BootStrap.txt|java Join AeDump/DumpHash.txt > TMPDump
+  408  emacs TMPDump
+  409  rm TMPDump
+  410  emacs TMPDump
+  411  cat dump.clj
+  412  emacs dump.clj
+  413  cd AeDump/
+  414  cat ../TMPDump|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar ../dump.clj
+  415  ls -l
+  416  more DumpHash.txt
+  417  ls -l|more
+  418  ls -sl|more
+  419  ls -l|sort -k 6|more
+  420  ls -l|sort -k 5|more
+  421  ls -l|sort -k 5 -n|more
+  422  more 8056001.txt
+  423  zip -9 ZZ 8056001.txt
+  424  ls -l ZZ 805*
+  425  ls -l ZZ* 805*
+  426  rm ZZ.zip
+  427  cat BfHash.log|grep 00000000
+  428  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  429  history
+  430  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  431  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  432  emacs FeedFetch.txt
+  433  cp 1220e7d044a42fba74e7372095103b6e0954642eee5ea96da682b6a4a26dac26b4a2.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  434  cat BfHash.log|grep 0000000
+  435  history
+  436  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  437  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  438  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  439  emacs -?
+  440  emacs -h
+  441  emacs --help
+  442  emacs FeedFetch.txt +99
+  443  emacs FeedFetch.txt +22
+  444  emacs FeedFetch.txt +21
+  445  emacs +99 FeedFetch.txt
+  446  cp 1220469ca3376255538d3fe6ee9a680cba92f03bba69c94126c18c0c6684434f5081.xml  ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  447  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  448  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  449  emacs +99 FeedFetch.txt
+  450  cp 12205e7cf6f08410ea4eac0b56ea698428c039682f19543462c59296bbb2f7126288.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  451  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  452  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  453  emacs +99 FeedFetch.txt
+  454  cp 1220169e43c21136c1aded80836fb193d29713aa519bec6da84777872f8c5bf96e0c.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  455  cat BfHash.log |grep 0000000
+  456  history 
+  457  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  458  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj;java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  459  emacs FeedFetch.txt +99
+  460  cp 122082f8e83c3f37fd85a6b57ef510b4de9662d96d0d49a4f8e364bad261a815fa20.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  461  git add FeedFetch.txt
+  462  git status
+  463  cat TMPDump
+  464  rm TMPDump
+  465  mv 1220* /home/rawa/SpaceDrive/
+  466  ls -l
+  467  rm TMPDump~ 
+  468  git pull
+  469  git add FeedFetch.txt
+  470  git commit -m "~FeedFetch.txt"
+  471  git pull
+  472  cd AeDump/
+  473  git status
+  474  git add *.txt
+  475  git commit -m "+AeDump/*.txt"
+  476  cd ../TagesShow/
+  477  ls -l
+  478  sha256sum 1220*
+  479  mv 1220* /home/rawa/SpaceDrive/
+  480  git status
+  481  cp /home/rawa/SpaceDrive/1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml .
+  482  cp /home/rawa/SpaceDrive/12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml .
+  483  git status
+  484  ls *x?
+  485  ls *t?
+  486  ls *j?
+  487  cd ..
+  488  ls *x?
+  489  ls *xt?
+  490  rm *xt?
+  491  ls *lj?
+  492  rm *lj?
+  493  git status
+  494  ls AeDump/?DumpHash.txt?
+  495  rm AeDump/?DumpHash.txt?
+  496  git status
+  497  git add Join.java news.clj
+  498  git commit -m "~Join.java ~news.clj"
+  499  ls -l TmpFileExt.txt
+  500  more TmpFileExt.txt
+  501  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  502  git pull
+  503  git status
+  504  more news.txt
+  505  ls -l news.*
+  506  git status
+  507  git add news.txt
+  508  
+  509  history 
+  510  cat clj 
+  511  ./clj neews.clj
+  512  ./clj news.clj
+  513  ./clj bbc.clj
+  514  history > SwissBox1HistLd42a4.txt
