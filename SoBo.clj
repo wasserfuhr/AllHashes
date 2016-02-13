@@ -4,15 +4,6 @@
 
 ;(System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
 
-;http://www.siggibecker.de/noj923yeah/feed/
-; title
-; link
-; pubDate
-; dc:creator
-; category*
-; guid
-; description
-
 (defn h [b] ; https://gist.github.com/kisom/1698245
  (let [h (java.security.MessageDigest/getInstance "SHA-256")]
   (. h update b)
@@ -33,29 +24,10 @@
  (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)))
 
 (defn findTag [x t]
-(do
- (println x)
- (first (:content
-  (first
-   (filter
-    #(= t (:tag %))
-    (:content x)))))))
-
-;(println
- ;(first (:content 
-  ;(first (:content (xml/parse
-   ;M"1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))))))
-
-;(println (xml/parse
- ; "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))
-
-;(println (findTag 
- ;(first (:content 
-  ;(first (:content (xml/parse
-  ; "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))
- ; )) :link
- ;))
-
+ (first (:content (first
+    (filter
+     #(= t (:tag %))
+     (:content x))))))
 
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
@@ -89,8 +61,6 @@
      (spit (str "1220" hs ".news") s)
      (str hs "\n")))))
  (:content (first (:content (xml/parse
-   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))))))
-;  (str "1220"
- ;  (spitNews
-  ;  "http://www.siggibecker.de/noj923yeah/feed/")
-   ".xml"))))))))
+  (str "1220"
+   (spitNews "http://www.siggibecker.de/noj923yeah/feed/")
+    ".xml"))))))))
