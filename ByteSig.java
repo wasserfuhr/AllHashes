@@ -19,7 +19,7 @@ public class ByteSig {
   while((s=lnr.readLine())!=null){
    String s0=s.substring(0,64);
    System.out.print(s0+" ");
-   File f =new File(s0+".mp4");
+   File f =new File("1220"+s0+".mp4");
    FileInputStream fr=new FileInputStream(SD()+f);
    boolean[] sig=new boolean[256];
    int b;

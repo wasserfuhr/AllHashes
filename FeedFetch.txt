@@ -48,3 +48,13 @@
 11867889.901 d2f02e19bc2b3d03b9933dced28fb51dc1e1c8d45e216336a56fba4d485f42c1 https://www.tagesschau.de/xml/rss2
 11867890.267 21ddfcd86eb0ee5c65155d0824bc7387950c448c20749c3364a2ff9fcaf17a9b https://www.tagesschau.de/newsticker.rdf
 11867907.791 47faf78180f2fab4c0392bdfb4f6e1b102819dc49ed1d368c4238a27d3cde0fe https://feeds.bbci.co.uk/news/rss.xml
+11896228.436 fc66e1fecee4d09a967e65bc6d068bdc68bf828c1c66b721af998f7cb6440349 https://www.tagesschau.de/xml/rss2
+11896228.763 dcbf1c1021a394ac44e2310137cce0957a850c05ea8f2b1058302edb30a3c220 https://www.tagesschau.de/newsticker.rdf
+11896239.887 e177feba3296972dbb7a886d1a15021134ea48bf9d29fd2a0df0a88eef0d6216 https://feeds.bbci.co.uk/news/rss.xml
+11917012.850 6beade1c16b8653fa029ebaf528cf1f79e2d756ab8ee59464099f870fc757be2 https://www.tagesschau.de/xml/rss2
+11917013.218 f477e79d66d5a4822e0a6c26a16d4edf35695e0aa66b1a8d5fec03f788fa6e5b https://www.tagesschau.de/newsticker.rdf
+11917024.203 446d284fef46f3ab9dacc7d4eeb4e58d87e166d91940fd079f74fc6e9fe21252 https://feeds.bbci.co.uk/news/rss.xml
+11924685.906 e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c http://www.siggibecker.de/noj923yeah/feed/
+11924796.330 8e41a0a0fcee1f4ccc1ac397146fc303dee152e59884e653b3b63b3b832777e0 https://www.tagesschau.de/xml/rss2
+11924796.709 027a042a551a27feadc85ea80fa6df41e62f6fa7347e148768f026948fe0d46c https://www.tagesschau.de/newsticker.rdf
+11924807.749 69205c98bd77fd313984427a7d574fb54ec72c80ffc548c0b1c24133564bd555 https://feeds.bbci.co.uk/news/rss.xml

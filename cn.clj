@@ -49,20 +49,20 @@
  (fn [x]
   (if (= :item (:tag x))
    (let [
-     a2 (println 0 (parsePubDate (get (:content x) 3)))
-     a1 (println 1 (getTag x 2))
-     a3 (println 2 (getTag x 0))
-     d (getTag x 4)
+     a2 (parsePubDate (get (:content x) 3))
+     d (str (getTag x 4) " ")
      i (.indexOf d ">")
      j (.lastIndexOf d "<")
-     a3 (println 3 (.substring d (+ i 1) (- j 1)))
+     ;strip outer <a>:
+     a3 (if (< i 0) d (.substring d (+ i 1) (- j 1)))
      s (str
-      (starTime (parsePubDate (second (getTag x 2)))) "\n" ;link
+      (starTime a2) "\n" ;link
       (getTag x 2) "\n";link
       (getTag x 0) "\n";title
-      (getTag x 3)) ;description
+      a3) ;description
      hs (hh (h (.getBytes s)))]
     (do
+     (println s)
      (spit (str "21220" hs ".news") s)
      (str hs "\n")))))
  (:content (first (:content (xml/parse

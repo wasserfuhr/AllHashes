@@ -1,0 +1,500 @@
+  163  emacs FeedFetch.txt
+  164  cp 1220e7d044a42fba74e7372095103b6e0954642eee5ea96da682b6a4a26dac26b4a2.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  165  cat BfHash.log|grep 0000000
+  166  history
+  167  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  168  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  169  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  170  emacs -?
+  171  emacs -h
+  172  emacs --help
+  173  emacs FeedFetch.txt +99
+  174  emacs FeedFetch.txt +22
+  175  emacs FeedFetch.txt +21
+  176  emacs +99 FeedFetch.txt
+  177  cp 1220469ca3376255538d3fe6ee9a680cba92f03bba69c94126c18c0c6684434f5081.xml  ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  178  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  179  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  180  emacs +99 FeedFetch.txt
+  181  cp 12205e7cf6f08410ea4eac0b56ea698428c039682f19543462c59296bbb2f7126288.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  182  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  183  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  184  emacs +99 FeedFetch.txt
+  185  cp 1220169e43c21136c1aded80836fb193d29713aa519bec6da84777872f8c5bf96e0c.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  186  cat BfHash.log |grep 0000000
+  187  history 
+  188  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  189  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj;java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  190  emacs FeedFetch.txt +99
+  191  cp 122082f8e83c3f37fd85a6b57ef510b4de9662d96d0d49a4f8e364bad261a815fa20.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  192  git add FeedFetch.txt
+  193  git status
+  194  cat TMPDump
+  195  rm TMPDump
+  196  mv 1220* /home/rawa/SpaceDrive/
+  197  ls -l
+  198  rm TMPDump~ 
+  199  git pull
+  200  git add FeedFetch.txt
+  201  git commit -m "~FeedFetch.txt"
+  202  git pull
+  203  cd AeDump/
+  204  git status
+  205  git add *.txt
+  206  git commit -m "+AeDump/*.txt"
+  207  cd ../TagesShow/
+  208  ls -l
+  209  sha256sum 1220*
+  210  mv 1220* /home/rawa/SpaceDrive/
+  211  git status
+  212  cp /home/rawa/SpaceDrive/1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml .
+  213  cp /home/rawa/SpaceDrive/12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml .
+  214  git status
+  215  ls *x?
+  216  ls *t?
+  217  ls *j?
+  218  cd ..
+  219  ls *x?
+  220  ls *xt?
+  221  rm *xt?
+  222  ls *lj?
+  223  rm *lj?
+  224  git status
+  225  ls AeDump/?DumpHash.txt?
+  226  rm AeDump/?DumpHash.txt?
+  227  git status
+  228  git add Join.java news.clj
+  229  git commit -m "~Join.java ~news.clj"
+  230  ls -l TmpFileExt.txt
+  231  more TmpFileExt.txt
+  232  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  233  git pull
+  234  git status
+  235  more news.txt
+  236  ls -l news.*
+  237  git status
+  238  git add news.txt
+  239  history 
+  240  cat clj 
+  241  ./clj neews.clj
+  242  ./clj news.clj
+  243  ./clj bbc.clj
+  244  history > SwissBox1HistLd42a4.txt
+  245  more SwissBox1HistLd42a4.txt
+  246  git add SwissBox1HistLd42a4.txt
+  247  emacs +99 FeedFetch.txt
+  248  mv 1220* /home/rawa/SpaceDrive/
+  249  git status
+  250  git add SwissBox1HistLd42a4.txt news.txt
+  251  git commit -m "~FeedFetch.txt ~feedClj.clj +SwissBox1HistLd42a4.txt +news.txt"
+  252  git push
+  253  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  254  git status
+  255  git pull
+  256  git push
+  257  git pull
+  258  git push
+  259  sort /home/rawa/pics.txt|more
+  260  sort /home/rawa/pics.txt > p.txt
+  261  rm /home/rawa/pics.txt
+  262  emacs p.txt
+  263  more p.txt|grep http|more
+  264  more p.txt|grep usercontent
+  265  more p.txt|grep usercontent|mroe
+  266  more p.txt|grep usercontent|mor
+  267  more p.txt|grep usercontent|more
+  268  more p.txt|grep usercontent > /home/rawa/g.txt
+  269  rm p.txt
+  270  emacs p.txt
+  271  cat p.txt|java SubStr 0 40|more
+  272  cat /home/rawa/p.txt|java SubStr 0 40|more
+  273  emacs /home/rawa/p.txt
+  274  cat /home/rawa/p.txt|java SubStr 0 40|more
+  275  cat /home/rawa/p.txt|java SubStr 0 80|more
+  276  cat /home/rawa/p.txt|java SubStr 0 120|more
+  277  cat /home/rawa/p.txt|java SubStr 0 108|more
+  278  cat /home/rawa/p.txt|java SubStr 0 104|more
+  279  cat /home/rawa/p.txt|java SubStr 0 104 > /home/rawa/p1.txt
+  280  cat /home/rawa/p.txt|grep private
+  281  cat /home/rawa/p.txt|grep http
+  282  cat /home/rawa/g.txt|grep http
+  283  cat /home/rawa/g.txt|grep http|more
+  284  cat /home/rawa/g.txt|grep jpg|more
+  285  cat /home/rawa/g.txt|grep focus
+  286  cat /home/rawa/pics.txt|grep focus
+  287  cat /home/rawa/pics.txt|grep focus > f.txt
+  288  emacs f.txt
+  289  mv f.txt /home/rawa/f.html
+  290  history |grep clj
+  291  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj;java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  292  emacs +99 FeedFetch.txt
+  293  cp 1220ce0cdf66458cc8c7d3272a98764254704d848cdbca1485cf439bb31d41cf73ac.xml ../DigitalEarth/src/main/webapp/TMPec2e.xml
+  294  more *news
+  295  grep 1220*.news
+  296  grep 1220*.news d
+  297  grep date 1220*.news
+  298  ls -l /home/rawa/*news
+  299  ls -l /home/rawa/SpaceDrive/*news
+  300  ls -l /home/rawa/SpaceDrive/*news|more
+  301  git status
+  302  ls -l /home/rawa/SpaceDrive/*news|more
+  303  ls -l /home/rawa/SpaceDrive/*news|java SubStr 40 120
+  304  ls -l /home/rawa/SpaceDrive/*news|java SubStr 70 130
+  305  ls -l /home/rawa/SpaceDrive/*news|java SubStr 68 137
+  306  ls -l /home/rawa/SpaceDrive/*news|java SubStr 68 134
+  307  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 134
+  308  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130
+  309  cp news.clj feed.clj
+  310  emacs feed.clj
+  311  ls -l *lj
+  312  cat dump.clj
+  313  ls 
+  314  emacs feed.clj
+  315  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj
+  316  emacs feed.clj
+  317  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj
+  318  history 
+  319  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130
+  320  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130>news.txt
+  321  cat news.txt 
+  322  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  323  cat news.txt|
+  324  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj
+  325  emacs feed.clj
+  326  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj
+  327  emacs feed.clj
+  328  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj
+  329  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|sort
+  330  emacs feed.clj
+  331  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|sort
+  332  emacs feed.clj
+  333  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|sort
+  334  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|xxd|more
+  335  man sort
+  336  cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|sort -r
+  337  #cat news.txt|java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar feed.clj|sort -r 
+  338  emacs clj
+  339  chmod +x clj
+  340  ./clj
+  341  cat news.txt|clj feed.clj|sort -r
+  342  cat news.txt|./clj feed.clj|sort -r
+  343  git add clj
+  344  git status
+  345  mv 1220* /home/rawa/SpaceDrive/
+  346  git status
+  347  ls -l T*
+  348  ls -l Tm*
+  349  mv TmpFileExt.txt FileExtLd4294.txt
+  350  git status
+  351  git add FileExtLd4294.txt feed.clj FeedFetch.txt
+  352  git status
+  353  git commit -m "..."
+  354  more p.txt
+  355  rm p.txt
+  356  git status
+  357  cp feed.clj feedJs.clj
+  358  emacs feedJs.clj
+  359  emacs ../DigitalEarth/src/main/webapp/news.clj
+  360  ./clj
+  361  emacs ../DigitalEarth/src/main/webapp/news.clj
+  362  emacs feedJs.clj
+  363  ./clj feedJs.clj
+  364  emacs feedJs.clj
+  365  ./clj feedJs.clj
+  366  history 
+  367  cat news.txt|./clj feedJs.clj
+  368  cat news.txt |./clj feedJs.clj
+  369  more news.txt 
+  370  emacs news.txt 
+  371  cat news.txt |./clj feedJs.clj
+  372  emacs feedJs.clj
+  373  more news.txt|
+  374  history 
+  375  cat news.txt|./clj feed.clj|sort -r
+  376  cat news.txt|./clj feed.clj|sort -r|./clj feedJs.clj
+  377  git add feedJs.clj
+  378  git mv feedJs.clj FeedClj.clj
+  379  git mv FeedClj.clj feedClj.clj
+  380  history 
+  381  emacs ../DigitalEarth/src/main/webapp/news.clj
+  382  emacs feedClj.clj
+  383  git commit -m "+feedClj.clj"
+  384  emacs feedClj.clj
+  385  emacs ../DigitalEarth/src/main/webapp/news.clj
+  386  emacs feedClj.clj
+  387  cat news.txt|./clj feed.clj|sort -r|./clj feedJs.clj
+  388  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj
+  389  emacs feedClj.clj
+  390  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj
+  391  emacs feedClj.clj
+  392  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj
+  393  emacs feedClj.clj
+  394  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj
+  395  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  396  history |grep bbc
+  397  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj;java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
+  398  mv 1220* /home/rawa/SpaceDrive/
+  399  history |grep news.txt
+  400  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  401  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  402  echo $HISTSIZE
+  403  history > SbOneHistLd42a5.txt
+  404  more SbOneHistLd42a5.txt
+  405  cat SbOneHistLd42a5.txt|sort|more
+  406  cat SbOneHistLd42a5.txt|sort -k 2|more
+  407  cat /home/rawa/BfHash.log|grep 00000000
+  408  more ~/.profile
+  409  more ~/.bashrc
+  410  more ~/.bash_history
+  411  ls
+  412  ./clj news.clj
+  413  ./clj bbc.clj
+  414  emacs +99 FeedFetch.txt
+  415  mv 1220* /home/rawa/SpaceDrive/
+  416  history|grep ls
+  417  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  418  git diff news.txt
+  419  history |grep feed
+  420  cd ../DigitalEarth/
+  421  git status
+  422  cd src/main/webapp/
+  423  git add TMPec2e.xml news.clj
+  424  git commit -m "+TMPec2e.xml +news.clj"
+  425  more news.clj
+  426  more TMPec2e.xml 
+  427  git rm TMPec2e.xml
+  428  git commit -m "-TMPec2e.xml"
+  429  git status
+  430  git pull
+  431  git push
+  432  cd ..
+  433  history
+  434  cd AllHashes/
+  435  history|grep clj
+  436  ./clj news.clj;./clj bbc.clj;emacs +99 FeedFetch.txt
+  437  history|grep news
+  438  mv 1220* /home/rawa/SpaceDrive/
+  439  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  440  more news.txt
+  441  history|grep news
+  442  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  443  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  444  history 
+  445  cat FeedFetch.txt 
+  446  more /home/rawa/SpaceDrive/12201bfc6e5dcb860c49dad88f7950962d64fd953b97e9e8188c669e727ff3c65b1b.xml 
+  447  cat FeedFetch.txt 
+  448  more /home/rawa/SpaceDrive/1220bdeb66cb0c668dabfcaf2c2c7dde15b8c3721282a40415af8dc91ab43ac893ca.xml 
+  449  ./clj news.clj
+  450  cp bbc.clj cn.clj
+  451  emacs cn.clj
+  452  ls
+  453  ls -l
+  454  more 12*
+  455  mv 1220* /home/rawa/SpaceDrive/
+  456  ./clj cn.clj
+  457  emacs cn.clj
+  458  ./clj cn.clj
+  459  emacs cn.clj
+  460  ./clj cn.clj
+  461  emacs cn.clj
+  462  ./clj cn.clj
+  463  emacs +50 cn.clj
+  464  ./clj cn.clj
+  465  emacs +50 cn.clj
+  466  ./clj cn.clj
+  467  emacs +50 cn.clj
+  468  ./clj cn.clj
+  469  git add cn.clj
+  470  git commit -m "+cn.clj"
+  471  ./clj +50 cn.clj
+  472  emacs +50 cn.clj
+  473  more FeedFetch.txt
+  474  ls -l
+  475  emacs +50 cn.clj
+  476  ./clj cn.clj
+  477  emacs +50 cn.clj
+  478  ./clj cn.clj
+  479  emacs +50 cn.clj
+  480  ./clj cn.clj
+  481  git add cn.clj
+  482  git commit -m "~cn.clj"
+  483  emacs +50 cn.clj
+  484  ./clj cn.clj
+  485  emacs +50 cn.clj
+  486  ./clj cn.clj
+  487  emacs +50 cn.clj
+  488  ./clj cn.clj
+  489  emacs +50 cn.clj
+  490  ./clj cn.clj
+  491  emacs +50 cn.clj
+  492  ./clj cn.clj
+  493  ls -l
+  494  #####################################################################################################################################################################################
+  495  ./clj cn.clj
+  496  more 1220cc3c8ca8741af07d9eeb3a72f7593a7d713d3b08703242649cb43be8b7d61636
+  497  ls
+  498  more 21220cc3c8ca8741af07d9eeb3a72f7593a7d713d3b08703242649cb43be8b7d61636.news
+  499  more 21220cc3c8ca8741af07d9eeb3a72f7593a7d713d3b08703242649cb43be8b7d61636.news|xxd
+  500  cat BfHash.log|grep 000000
+  501  cat BfHash.log|grep 00000
+  502  ls -l BfHash.log
+  503  cd GitHoster/GitHub/wasserfuhr/AllHashes/
+  504  history
+  505  ./clj news.clj;./clj bbc.clj;emacs +99 FeedFetch.txt
+  506  history
+  507  ls -l 1*
+  508  mv 12* /home/rawa/SpaceDrive/
+  509  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  510  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  511  java ByteSig
+  512  javac ByteSig.java
+  513  java ByteSig
+  514  cat ByteSig.java
+  515  javac Ls.java
+  516  java Ls
+  517  java Ls /home/rawa/SpaceDrive/
+  518  java Ls /home/rawa/SpaceDrive/|java ByteSig
+  519  emacs ByteSig.java
+  520  javac ByteSig.java
+  521  java Ls /home/rawa/SpaceDrive/|java ByteSig
+  522  ls /home/rawa/SpaceDrive/
+  523  ls /home/rawa/SpaceDrive/*news
+  524  ls /home/rawa/SpaceDrive/*news|java SubStr 12 80
+  525  ls /home/rawa/SpaceDrive/*news|java SubStr 22 85
+  526  ls /home/rawa/SpaceDrive/*news|java SubStr 22 95
+  527  ls /home/rawa/SpaceDrive/*news|java SubStr 22 94
+  528  ls /home/rawa/SpaceDrive/*news|java SubStr 26 91
+  529  ls /home/rawa/SpaceDrive/*news|java SubStr 26 90
+  530  ls /home/rawa/SpaceDrive/*news|java SubStr 26 90|java ByteSig
+  531  emacs ByteSig.java
+  532  grep Hashta *
+  533  cat Join.java
+  534  emacs feedClj.clj
+  535  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj 
+  536  emacs feedClj.clj
+  537  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj 
+  538  emacs feedClj.clj
+  539  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj 
+  540  emacs feedClj.clj
+  541  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj 
+  542  history|grep fee
+  543  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  544  emacs feedClj.clj
+  545  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  546  more news.txt
+  547  cat /home/rawa/SpaceDrive/1220d390557f5fa84c12066e83f0dc72a15c9beed7fcddfc08da2fae931325c5c18a.news
+  548  emacs feedClj.clj
+  549  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj |more
+  550  emacs feedClj.clj
+  551  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj |more
+  552  emacs feedClj.clj
+  553  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj |more
+  554  history|grep feed
+  555  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  556  emacs feedClj.clj
+  557  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  558  emacs +999 ../DigitalEarth/src/main/webapp/news.clj
+  559  #
+  560  history|grep news
+  561  ./clj news.clj;./clj bbc.clj;emacs +99 FeedFetch.txt
+  562  mv 1220* /home/rawa/SpaceDrive/
+  563  history|grep news
+  564  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  565  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  566  cp cn.clj SoBo.clj
+  567  emacs SoBo.clj
+  568  git add SoBo.clj
+  569  git commit -m "+SoBo.clj"
+  570  ./clj SoBo.clj
+  571  emacs SoBo.clj
+  572  ./clj SoBo.clj
+  573  emacs SoBo.clj
+  574  ./clj SoBo.clj
+  575  emacs SoBo.clj
+  576  ./clj SoBo.clj
+  577  git add SoBo.clj
+  578  git commit -m "~SoBo.clj"
+  579  emacs SoBo.clj
+  580  ./clj SoBo.clj
+  581  git add SoBo.clj
+  582  git commit -m "~SoBo.clj"
+  583  ping www.siggibecker.de
+  584  ./clj SoBo.clj
+  585  ping www.siggibecker.de
+  586  ./clj SoBo.clj
+  587  emacs SoBo.clj
+  588  ./clj SoBo.clj
+  589  emacs SoBo.clj
+  590  ./clj SoBo.clj
+  591  cat SoBo.clj
+  592  emacs SoBo.clj
+  593  cat 1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml 
+  594  emacs SoBo.clj
+  595  ./clj SoBo.clj
+  596  emacs +42 SoBo.clj
+  597  ./clj SoBo.clj
+  598  emacs +42 SoBo.clj
+  599  ./clj SoBo.clj
+  600  emacs +42 SoBo.clj
+  601  ./clj SoBo.clj
+  602  emacs +42 SoBo.clj
+  603  ./clj SoBo.clj
+  604  emacs +42 SoBo.clj
+  605  ./clj SoBo.clj
+  606  emacs +42 SoBo.clj
+  607  ./clj SoBo.clj
+  608  emacs +42 SoBo.clj
+  609  ./clj SoBo.clj
+  610  emacs +42 SoBo.clj
+  611  ./clj SoBo.clj
+  612  cat 1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml 
+  613  more 1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml 
+  614  ./clj SoBo.clj
+  615  emacs +42 SoBo.clj
+  616  ./clj SoBo.clj
+  617  emacs +42 SoBo.clj
+  618  ./clj SoBo.clj
+  619  emacs +42 SoBo.clj
+  620  ./clj SoBo.clj
+  621  emacs +42 SoBo.clj
+  622  ./clj SoBo.clj
+  623  emacs +42 SoBo.clj
+  624  ./clj SoBo.clj
+  625  emacs +42 SoBo.clj
+  626  ./clj SoBo.clj
+  627  git add SoBo.clj
+  628  history|grep comm
+  629  git commit -m "~SoBo.clj"
+  630  emacs +42 SoBo.clj
+  631  ./clj SoBo.clj
+  632  emacs +42 SoBo.clj
+  633  ./clj SoBo.clj
+  634  emacs +81 SoBo.clj
+  635  ./clj SoBo.clj
+  636  emacs +81 SoBo.clj
+  637  ./clj SoBo.clj
+  638  emacs SoBo.clj
+  639  ./clj SoBo.clj
+  640  emacs +77 SoBo.clj
+  641  ./clj SoBo.clj
+  642  git add SoBo.clj
+  643  git commit -m "~SoBo.clj"
+  644  emacs SoBo.clj
+  645  ./clj SoBo.clj
+  646  emacs +68 SoBo.clj
+  647  ./clj SoBo.clj
+  648  ls -l 1*
+  649  rm 1*
+  650  git add SoBo.clj
+  651  git commit -m "~SoBo.clj"
+  652  ./clj SoBo.clj
+  653  ls -l 1*
+  654  emacs +99 FeedFetch.txt
+  655  ./clj news.clj;./clj bbc.clj;./clj SoBo.clj
+  656  emacs +99 FeedFetch.txt
+  657  ls -l 1*
+  658  mv 1* /home/rawa/SpaceDrive/
+  659  history|grep news
+  660  ls -l /home/rawa/SpaceDrive/*news|java SubStr 66 130 >news.txt
+  661  cat news.txt|./clj feed.clj|sort -r|./clj feedClj.clj > ../DigitalEarth/src/main/webapp/news.clj
+  662  more news.txt
