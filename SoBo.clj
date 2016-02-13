@@ -1,8 +1,6 @@
-; mvn org.apache.maven.plugins:maven-dependency-plugin:2.10:get -Dartifact=org.clojure:clojure:1.8.0
-; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
 (require '[clojure.xml :as xml])
 
-;(System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
+(System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
 
 (defn h [b] ; https://gist.github.com/kisom/1698245
  (let [h (java.security.MessageDigest/getInstance "SHA-256")]
@@ -21,7 +19,7 @@
  (/ (- (.getTime d) 1443408427000) 1000))
 
 (defn starTimeD [d]
- (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)))
+ (.substring (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)) 0 12))
 
 (defn findTag [x t]
  (first (:content (first
@@ -49,9 +47,8 @@
  (fn [x]
   (if (= :item (:tag x))
    (let [
-     t (parsePubDate (findTag x :pubDate))
      s (str
-      (starTime t) "\n";link
+      (starTime (parsePubDate (findTag x :pubDate))) "\n";link
       (findTag x :link) "\n"
       (findTag x :title) "\n"
       (findTag x :description))
