@@ -2,8 +2,9 @@
 ; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
 (require '[clojure.xml :as xml])
 
+(println "hi!")
 (System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
-(slurp "http://sl4.eu/news")
+(slurp "https://dresdenlabs.appspot.com/news")
 
 (dfdfsf)
 ;http://www.siggibecker.de/noj923yeah/feed/
