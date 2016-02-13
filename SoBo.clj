@@ -2,7 +2,7 @@
 ; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
 (require '[clojure.xml :as xml])
 
-(System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
+;(System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
 
 ;http://www.siggibecker.de/noj923yeah/feed/
 ; title
@@ -23,7 +23,7 @@
 (defn parsePubDate [s]
  ;http://stackoverflow.com/questions/2705548/parse-rss-pubdate-to-date-object-in-java
  (.parse
-  (java.text.SimpleDateFormat. "EEE,dd-MMM-yyyy HH:mm:ss zzz"
+  (java.text.SimpleDateFormat. "EEE, dd MMM yyyy HH:mm:ss zzz"
    java.util.Locale/ENGLISH) s))
 
 (defn starTime [d]
@@ -31,6 +31,32 @@
 
 (defn starTimeD [d]
  (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)))
+
+(defn findTag [x t]
+ (first
+  (map (fn [i]
+   (if (= t (:tag i))
+    (first (:content i)))
+   (:content x)))))
+
+(println
+ (first (:content 
+  (first (:content (xml/parse
+   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))))))
+
+;(println (xml/parse
+ ; "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))
+
+(println (findTag 
+ (first (:content 
+  (first (:content (xml/parse
+   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))
+  )) :link
+ ))
+
+
+
+(ddd)
 
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
