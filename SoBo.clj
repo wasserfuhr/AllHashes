@@ -2,11 +2,8 @@
 ; java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar bbc.clj
 (require '[clojure.xml :as xml])
 
-(println "hi!")
 (System/setProperty "http.agent" "AlphaNews (http://sl4.eu/news)")
-(slurp "https://dresdenlabs.appspot.com/news")
 
-(dfdfsf)
 ;http://www.siggibecker.de/noj923yeah/feed/
 ; title
 ; link
@@ -55,24 +52,19 @@
  (fn [x]
   (if (= :item (:tag x))
    (let [
-     a2 (parsePubDate (get (:content x) 3))
-     d (str (getTag x 4) " ")
-     i (.indexOf d ">")
-     j (.lastIndexOf d "<")
-     ;strip outer <a>:
-     a3 (if (< i 0) d (.substring d (+ i 1) (- j 1)))
+     t (parsePubDate (getTag x 2))
      s (str
-      (starTime a2) "\n" ;link
+      (starTime t) "\n";link
       (getTag x 2) "\n";link
       (getTag x 0) "\n";title
-      a3) ;description
+      "\n")
      hs (hh (h (.getBytes s)))]
     (do
      (println s)
-     (spit (str "21220" hs ".news") s)
+     (spit (str "1220" hs ".news") s)
      (str hs "\n")))))
  (:content (first (:content (xml/parse
   (str "1220"
    (spitNews
-    "http://www.siggibecker.de/noj923yeah/comments/feed/")
+    "http://www.siggibecker.de/noj923yeah/feed/")
    ".xml"))))))))
