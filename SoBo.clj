@@ -33,30 +33,29 @@
  (format "%f" (/ (- (.getTime d) 1443408427000) 1000.0)))
 
 (defn findTag [x t]
- (first
-  (map (fn [i]
-   (if (= t (:tag i))
-    (first (:content i)))
-   (:content x)))))
+(do
+ (println x)
+ (first (:content
+  (first
+   (filter
+    #(= t (:tag %))
+    (:content x)))))))
 
-(println
- (first (:content 
-  (first (:content (xml/parse
-   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))))))
+;(println
+ ;(first (:content 
+  ;(first (:content (xml/parse
+   ;M"1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))))))
 
 ;(println (xml/parse
  ; "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml"))
 
-(println (findTag 
- (first (:content 
-  (first (:content (xml/parse
-   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))
-  )) :link
- ))
+;(println (findTag 
+ ;(first (:content 
+  ;(first (:content (xml/parse
+  ; "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))
+ ; )) :link
+ ;))
 
-
-
-(ddd)
 
 (defn getTag [x n]
  (first (:content (get (:content x) n))))
@@ -78,19 +77,20 @@
  (fn [x]
   (if (= :item (:tag x))
    (let [
-     t (parsePubDate (getTag x 2))
+     t (parsePubDate (findTag x :pubDate))
      s (str
       (starTime t) "\n";link
-      (getTag x 2) "\n";link
-      (getTag x 0) "\n";title
-      "\n")
+      (findTag x :link) "\n"
+      (findTag x :title) "\n"
+      (findTag x :description))
      hs (hh (h (.getBytes s)))]
     (do
      (println s)
      (spit (str "1220" hs ".news") s)
      (str hs "\n")))))
  (:content (first (:content (xml/parse
-  (str "1220"
-   (spitNews
-    "http://www.siggibecker.de/noj923yeah/feed/")
+   "1220e1c2deb2a06cef235f73f6b5548c1bb644009dbc9f3d83a807c7840697b99b6c.xml")))))))
+;  (str "1220"
+ ;  (spitNews
+  ;  "http://www.siggibecker.de/noj923yeah/feed/")
    ".xml"))))))))
