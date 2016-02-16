@@ -5,5 +5,5 @@ public class Sum{
   LineNumberReader lnr=new LineNumberReader(new InputStreamReader(System.in));
   long sum=0;String s;
   while((s=lnr.readLine())!=null){
-   sum+=new Long(s);}
+   sum+=new Long(s.trim());}
   System.out.println(sum);}}
