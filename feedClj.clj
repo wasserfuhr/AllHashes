@@ -10,5 +10,5 @@
     :title (str "\"" (.replaceAll (get f 2) "\"" "\\\\\"") "\"")
     :more (str "\"" (.replaceAll (.replaceAll (get f 3) "\\\\" "") "\"" "\\\\\"") "\"")})))
   (line-seq (java.io.BufferedReader. *in*))))
-(println "{:t 0 :title \"Hi HiPo EtAi!\" :link \"/\"}")
+(println "{:t 0 :id \"cafebabe\" :title \"Hi HiPo EtAi!\" :link \"/\"}")
 (println "]")
