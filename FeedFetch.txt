@@ -95,3 +95,7 @@
 12380564.972 0733eb50b8d775c3877fe74007a152e4d64f130aa2fcf388965cf2c14bbf689f https://www.tagesschau.de/newsticker.rdf
 12380576.414 46e7d66c6bb660ddc6594512033fb25171d24df385916e6b0e574a976193e058 https://feeds.bbci.co.uk/news/rss.xml
 12380588.696 d26ee1b8b9774de8dc215a6743accadd645d119b42ceb4cefaf3d53783ab8dd0 https://www.facebook.com/feeds/notifications.php?id=509034915&viewer=509034915&key=AWil_caakqb8i_mH&format=rss20
+12649343.976 31ea52f19c95a54321ac4b7fa253efbb82395587fb2079603f4fc07be7a14038 https://www.tagesschau.de/xml/rss2
+0;256;0c12649344.760000 d4371cad5a169251c28d7879bb90ee4a96198101f6cbdb045dd4cee5cd14bbd5 https://www.tagesschau.de/newsticker.rdf
+12649356.333 e8c5289181a1f77d433be7f9002492a2ba29adf0bd1209940a452ef014f9ab0a https://feeds.bbci.co.uk/news/rss.xml
+12649368.399 06ee5d7420995d289b79e1cf7e5faee5653ed14c27df8b370f0a2cc3c91db397 https://www.facebook.com/feeds/notifications.php?id=509034915&viewer=509034915&key=AWil_caakqb8i_mH&format=rss20
