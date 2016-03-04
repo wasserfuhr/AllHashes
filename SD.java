@@ -10,12 +10,10 @@ public class SD{
   String s;while((s=lnr.readLine())!=null){
    if(s.substring(0,64).equals(hash)){
     return s.substring(65);}}
-  //
-  DirectoryStream<Path> stream=Files.newDirectoryStream(
+  DirectoryStream<Path>stream=Files.newDirectoryStream(
    FileSystems.getDefault().getPath("H:/SpaceDrive"),"1220"+hash+".*");
   for(final Path p:stream){
-   return .toFile().getName();}
+   return p.toFile().getName().substring(69);}
   return null;}
- public static void main(String[] a) throws Exception {
+ public static void main(String[]a)throws Exception{
   ext("a0fcb8c6406166fcc446b455b4df9558ce441aa26536a469be4c26d784d74bd4x");}}
-
