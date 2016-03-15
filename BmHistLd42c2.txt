@@ -1,0 +1,500 @@
+   45  emacs news.clj
+   46  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   47  emacs news.clj
+   48  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   49  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   50  emacs news.clj
+   51  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   52  emacs news.clj
+   53  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   54  emacs news.clj
+   55  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   56  emacs news.clj
+   57  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   58  emacs news.clj
+   59  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   60  emacs news.clj
+   61  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   62  emacs news.clj
+   63  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   64  emacs news.clj
+   65  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   66  emacs news.clj
+   67  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   68  emacs news.clj
+   69  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   70  emacs news.clj
+   71  history 
+   72  git add news.clj
+   73  git commit -m "~news.clj"
+   74  emacs news.clj
+   75  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   76  emacs news.clj
+   77  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   78  emacs news.clj
+   79  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   80  emacs news.clj
+   81  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   82  emacs news.clj
+   83  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   84  emacs news.clj
+   85  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   86  emacs news.clj
+   87  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   88  emacs news.clj
+   89  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   90  emacs news.clj
+   91  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   92  emacs news.clj
+   93  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   94  emacs news.clj
+   95  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   96  emacs news.clj
+   97  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   98  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+   99  emacs news.clj
+  100  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  101  history|grep git
+  102  git add news.clj;git commit -m "~news.clj"
+  103  emacs news.clj
+  104  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  105  emacs news.clj
+  106  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar news.clj
+  107  git status
+  108  more alpha.txt
+  109  xxd alpha.txt 
+  110  git add alpha.txt
+  111  git add news.clj
+  112  git commit -m "+alpha.txt ~news.clj"
+  113  git status
+  114  git pull
+  115  git status
+  116  more BootStrapDresdenLabsLd428d.txt
+  117  cd AeDump
+  118  ls- l
+  119  ls -l
+  120  git push
+  121  git status
+  122  ls -l
+  123  pwd
+  124  cd ..
+  125  emacs news.clj
+  126  tail AeDump/dump.sh 
+  127  cp test.clj dump.clj
+  128  emacs dump.clj
+  129  ls BootStrapDresdenLabsLd428d.txt 
+  130  emacs dump.clj
+  131  cat dump.clj
+  132  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar dump.clj
+  133  git add dump.clj
+  134  git commit -m "+dump.clj"
+  135  emacs dump.clj
+  136  java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar dump.clj
+  137  emacs dump.clj
+  138  cat git add dump.clj
+  139  git commit -m "~dump.clj"
+  140  git add dump.clj
+  141  git commit -m "~dump.clj"
+  142  git push
+  143  mkdir TagesShow
+  144  cd TagesShow/
+  145  curl http://www.tagesschau.de/newsticker.rdf|shasum -a 256
+  146  curl http://www.tagesschau.de/newsticker.rdf > 365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml
+  147  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  148  curl http://www.tagesschau.de/newsticker.rdf > 1220089b6d25f3577ad85ec3c1a0a99abaf49164b5c0906e513d78ecd08b278a602e.xml
+  149  ls -l
+  150  mv 365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml 1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml
+  151  shasum -a *
+  152  shasum -a 256 *
+  153  rm 1220089b6d25f3577ad85ec3c1a0a99abaf49164b5c0906e513d78ecd08b278a602e.xml 
+  154  curl http://www.tagesschau.de/xml/rss2>1220089b6d25f3577ad85ec3c1a0a99abaf49164b5c0906e513d78ecd08b278a602e.xml
+  155  shasum -a 256 *
+  156  curl http://www.tagesschau.de/xml/rss2
+  157  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  158  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  159  curl http://www.tagesschau.de/xml/rss2|more
+  160  curl http://www.tagesschau.de/xml/rss2|more
+  161  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  162  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  163  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  164  curl http://www.tagesschau.de/xml/rss2|shasum -a 256 >12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml
+  165  history
+  166  shasum -a 256 *
+  167  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  168  curl http://www.tagesschau.de/xml/rss2|shasum -a 256
+  169  curl http://www.tagesschau.de/xml/rss2|shasum -a 256 >           6e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml
+  170  shasum -a 256 *
+  171  wget
+  172  mv 1220089b6d25f3577ad85ec3c1a0a99abaf49164b5c0906e513d78ecd08b278a602e.xml 12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml
+  173  rm 6e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml 
+  174  ls -l
+  175  shasum -a 256 *
+  176  ls -l
+  177  more 1220*
+  178  more 1220*
+  179  ls -l
+  180  git add *
+  181  git commit -m "TagesKlaus..."
+  182  git push
+  183  git pull
+  184  git push
+  185  ls -l ~/Desktop/HiPoBorgDeskTop565/|sort -k 5
+  186  ls -l 
+  187  ls -l ..|more
+  188  ls -l ..|sort -k 5
+  189  cat ../alpha.txt ../alpha.txt > 6
+  190  cd ..
+  191  cat README.md Mv1220.java >7
+  192  ls -l ?
+  193  mv TagesShow/6 .
+  194  cat Mem.java Mem.java? >8
+  195  ls -l ?
+  196  cat 6 6 8 alpha.txt > 5
+  197  ls -l ?
+  198  rm 6 7 8
+  199  cat 5 5 5 5>1
+  200  cat 5 5 5 5 >1
+  201  ls -l ?
+  202  rm 5
+  203  cat 1 1 1 1 >4
+  204  cat 4 4 4 4 >2
+  205  ls -l ?
+  206  rm 1 4
+  207  cat 2 2 2 2 >3
+  208  cat 3 3 3 3 >2
+  209  ls -l ?
+  210  cat 2 2 2 2 >3
+  211  cat 3 3 3 3 >2
+  212  ls -l ?
+  213  cat 2 2 2 2 >3
+  214  ls -l ?
+  215  cat 3 3 3 3 >1
+  216  cat 3 3 3 3 >2
+  217  ls -l ?
+  218  date;cat 2 2 2 2 >3;date
+  219  ls -l ?
+  220  date -?
+  221  man date
+  222  ls -l ?
+  223  date; cat 3 3 3 3 > 4;date
+  224  ls -l ?
+  225  cat 3 3 > 1
+  226  df
+  227  rm 4
+  228  ls -l ?
+  229  rm 2 3
+  230  ls -l ?
+  231  ls -l 1
+  232  date;cat 1 1 1 > 3;date
+  233  ls -l 3
+  234  rm 3
+  235  date;cat 1 1 1 > 4;date
+  236  ls -l 4
+  237  rm 4
+  238  date;cat 1 1 1 1 > 4;date
+  239  rm 4
+  240  ls -l
+  241  ls -l ?
+  242  rm 1
+  243  pwd
+  244  cd ..
+  245  ls
+  246  more HashIndex.txt 
+  247        
+  248  history
+  249  history >BorgMacBashLd42a4.txt
+  250  mv BorgMacBashLd42a4.txt /Users/rawa/Desktop/HiPoBorgDeskTop565/
+  251  exit
+  252  pwd
+  253  cd AllHashes/
+  254  git status
+  255  git pull
+  256  cd ..
+  257  git clone https://github.com/wasserfuhr/DigitalEarth.git
+  258  history > BorgMacBashLd42a3.txt
+  259  cd AllHashes/
+  260  git pull
+  261  git status
+  262  emacs .gitignore
+  263  git status
+  264  git add .gitignore
+  265  git commit -m "~.gitignore"
+  266  git status
+  267  git push
+  268  git status
+  269  exit
+  270  exit
+  271  pwd
+  272  cd ..
+  273  ls -l
+  274  ls HeidiWiki/mindbroker.wiki
+  275  history
+  276  pwd
+  277  ls HeidiWiki/mindbroker.wiki/BerndBuhler.wiki 
+  278  ls ungit.wiki/BernhardRiemann.wiki 
+  279  pwd
+  280  cd DigitalEarth/
+  281  git pull
+  282  cat src/main/webapp/crush.clj
+  283  cd ..
+  284  pwd
+  285  ls
+  286  /Users/rawa/Desktop/ffmpeg 
+  287  /Users/rawa/Desktop/ffmpeg ~/Desktop/HiPoBorgDeskTop565/AUD0213.3gp 
+  288  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley  ~/Desktop/HiPoBorgDeskTop565/AUD0213.3gp 
+  289  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley -?
+  290  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley -h
+  291  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley  ~/Desktop/HiPoBorgDeskTop565/AUD0213.3gp -t
+  292  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley  ~/Desktop/HiPoBorgDeskTop565/AUD0213.3gp -T
+  293  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley --help
+  294  /Users/rawa/Desktop/AtomicParsley-MacOSX-0.9.0/AtomicParsley --help
+  295  cd ungit.wiki/
+  296  git pull
+  297  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop565/DcIm/*571*
+  298  shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop565/DcIm/*571*
+  299  cd /Users/rawa/Desktop/HiPoBorgDeskTop565/DcIm
+  300  ls -l|sort -n -k 5|more
+  301  ls -l|sort -r -n -k 5|more
+  302  ls -l|sort -r -n -k 5 >ImageSet571.txt
+  303  emacs ImageSet571.txt
+  304  wc ImageSet571.txt
+  305  xxd ImageSet571.txt|more
+  306  emacs ImageSet571.txt
+  307  wc ImageSet571.txt
+  308  more ImageSet571.txt
+  309  more ImageSet571.txt
+  310  more ImageSet571.txt|sort -k 3
+  311  more ImageSet571.txt
+  312  grep ssh
+  313  history|grep ssh
+  314  cd ..
+  315  cd ..
+  316  ipfs
+  317  cd ImageSet571/
+  318  /Users/rawa/Desktop/ipfs/ipfs add *
+  319  ls -l ~/.ipfs/blocks/1220*
+  320  cd ~/.ipfs/blocks/
+  321  ls -l
+  322  ps aux
+  323  ps aux |grep ipfs
+  324  cd ..
+  325  ls
+  326  ls logs/
+  327  cat config 
+  328  curl http://planet.sl4.eu/RootHandler.jsp?p=sh |shasum -a 256
+  329  pwd
+  330  cd
+  331  cd Desktop/ImageSet571/
+  332  ls -l
+  333  shasum -a 256 *
+  334  mv CAM18724.jpg 1220a998ea75ea7f8b84cdb2ed0f1df66fd805993618db39a6e43c88f28575fd7570.jpg
+  335  mv CAM18731.jpg 1220fd393ffb5176168e316881d49f58399c22f11e77fdfb7ac41008ac53d5ff6089.jpg
+  336  mv CAM18736.jpg 1220260b2c36db94fe58dda149f99c0250f7eabf6c48725e0c13b8f24379703875b6.jpg
+  337  mv CAM18737.jpg 12205e4001ab8d601667b095de851010c75502a0afaf591fcd37d3762bff5bf3356c.jpg
+  338  mv CAM18744.jpg 1220627a294d813d0cc204b919cfee2cceabff1bae9ffeb3e6ae4a22bbe6c618f31b.jpg
+  339  mv CAM18768.jpg 1220eea8e805076583282bf5080c4cbfe003bdc6ec2674921ab9bab2931181c191ca.jpg
+  340  mv CAM18773.jpg 12208e23ac675773febf2ba60aefeaf0d36837e095a32a51005d72795483cc5afd01.jpg
+  341  mv CAM18792.jpg 12206408e1d0648cd13d6588117d17cc7cd79c7fc190c65af9468d4aa97456d997da.jpg
+  342  mv CAM18795.jpg 1220ed01bc2bdd7f6cebf46b08ccd5e7b0d29bb12d7e99f6073be35de2aa6e5aff8b.jpg
+  343  mv CAM18797.jpg 12205541b6f5671e123dd02b7baf25e452f631246a6a7230cbe7b012c9f77d83602d.jpg
+  344  mv CAM18798.jpg 12207f74dab37d2fa76897b94916d8fe6cab7d8d1e770a60ca1d03061dd3135c9cae.jpg
+  345  mv CAM18799.jpg 1220c0894d8bd35d42f69bb0e0f8be93787959a1580bf2448059f2c7147dfe66c862.jpg
+  346  mv CAM18816.jpg 12207c509670068a17b795d7de4221318a7bba285efffc36234fa7aa04c27022bd94.jpg
+  347  mv CAM18835.jpg 12209959d66c9890b243cd6f3763b2cdffa2bba7ee3c0072790fbb4748705f664501.jpg
+  348  mv CAM18846.jpg 1220752ab3b50c8c6926a26a3007e62e65037bfa46b0a9eac2aa7e66a26440bc1bed.jpg
+  349  mv CAM18855.jpg 122060a4f46eebef3a725448ddf1c5d369f40b75f1a0579e2da585f80b4c439b8526.jpg
+  350  mv CAM18859.jpg 1220a44bc88ec1e694c49ed3bf0a330bdb1f451eaa930f22dbeae63b6565d12d31e0.jpg
+  351  mv CAM18896.jpg 122099e5878c3c71f43e21576f459cac92e287b644f5866ead3f07122060675e2087.jpg
+  352  mv CAM18899.jpg 12208257666e5fe16c141e21d3475e343e6ed83ec4b803ce7ab6a40139b2786bfd18.jpg
+  353  mv CAM18904.jpg 122050b65b170d3086d3bc3d1b5e2e5931d566a21e61bd1595c5c54e1bf9028763b2.jpg
+  354  mv CAM18906.jpg 12205ebce94d73b7628ad78d2bddce546f3cf36fc6e83b274830ede67611154a0bef.jpg
+  355  mv CAM18907.jpg 1220ac8717405ea2872c1d3f8872bb2f648f7f56281524debc026ae12237e5d791c1.jpg
+  356  mv CAM18997.jpg 12207e1cb8db1e9fb7fb8b317a6693613d2613bd8703876cd4c02d15680cc6ee3b20.jpg
+  357  mv CAM19016.jpg 122043d0122b2203436def62131f8034e640617e7e680d28408f6418591d447a712b.jpg
+  358  mv CAM19025.jpg 1220b7b8d577205b28c0596c944b6416399c2f12d33d10b258ab642df7153d9e8577.jpg
+  359  mv CAM19033.jpg 12205418a0f5ea5a07748d1790ef543b2a2986beecdd0c5ee948f214a4f952cd069a.jpg
+  360  mv CAM19034.jpg 12208e73e55ef128ac55ad22d14432676bda60be0fc5c45804a244e02b7a57e9b85c.jpg
+  361  mv CAM19075.jpg 12206fcaa5dcd1d963d54147790090f832d594df2058d07b8e381928d093b2ef6843.jpg
+  362  mv CAM19084.jpg 1220f4aea2d7c0dea662bf7a3c823ae44993c6e7383a4e7a0e972b028f8e815ed146.jpg
+  363  mv CAM19087.jpg 1220773445299875f6080fc7f411595796c8102b48a9379c04e50129914c7b64f76a.jpg
+  364  mv CAM19109.jpg 1220c79a1a8d8f38b930551f014f674c7e960887949c4635494bdfa15dc8d017d8ce.jpg
+  365  mv CAM19113.jpg 1220174d3165347e3a8400bce8fa54efd212866dd5107ee71516ad03fd8d8bc57f8e.jpg
+  366  mv CAM19133.jpg 12209832140681b8178677f445fe1914387f1805e8600f999a8a2e2045bc7f413c9e.jpg
+  367  mv CAM19134.jpg 1220fe131b08a057425f3be4d424624ad2664267340f46c219cffe5a5b71d3fc5ff5.jpg
+  368  mv CAM19138.jpg 1220885c22c26daa2cdafa57e0a6782c92d03b96a17586b1005f6641a1302e503e20.jpg
+  369  mv CAM19142.jpg 1220eef9c2f5ecb789a42df60435ebfdfbc39a9963393eaa72568252b06d27aa3fe4.jpg
+  370  mv CAM19143.jpg 12200fc46289b0f420e9cfbee76d5779774fc5eba361d945162511dd0eaa112f6abb.jpg
+  371  mv CAM19144.jpg 122093753a86d7837aa2f002f92b520b9ef75e655d7979feb43fd8a1eb6a21789e20.jpg
+  372  mv CAM19168.jpg 1220bc4badadecdb1d256164e7f10051b7338d405f0c70d3e7a991f7ea6247805490.jpg
+  373  mv CAM19174.jpg 122028e988a6fe7cf25500d1bdd90aa22f7b05dd9d42ad6321b71afbea016b838dda.jpg
+  374  mv CAM19176.jpg 1220675f67b3c069f761397a049754608eafb8a8084957e13960ce7bf0758bce3e27.jpg
+  375  mv CAM19179.jpg 12200ab6ab0adbb907671387065b121e7e91c21f64a19633f4db5947ddb37a04cf43.jpg
+  376  mv CAM19192.jpg 1220ffaff3d5909f07c698a663c4968cfea0c1551d75f5ed07559aa08344827ab6fc.jpg
+  377  mv CAM19264.jpg 12200082ac9151c78f2075911cabf6806dbdc46406c025c05d1cee8a970992a82ebf.jpg
+  378  mv CAM19275.jpg 1220e362d7b46d8c74b81cebc28c6c019dbca76f0d4e67c3ec10907b45a6644f7730.jpg
+  379  mv CAM19282.jpg 12208303821ae54e0cea12a478b812683365dee16b354d75ca0972a720a036b9effb.jpg
+  380  mv CAM19319.jpg 1220a21498fb9aa7a8b04d9b36057637bd4a9c8a886956670163f11dc537f4a79361.jpg
+  381  mv CAM19323.jpg 122029293a54ae373ce272bd7f1accddedf585d393fdf537675067d2457dc2b78de8.jpg
+  382  mv CAM19327.jpg 1220b9a9109dc8c050841f2c5035b9df8d16a14bac39d5485a70999c3d6b34a9fb54.jpg
+  383  mv CAM19355.jpg 1220500981ad0196dda38d0b4db00eaf7b81b6bae3b4ed470f56f04dd253d8a27ac3.jpg
+  384  mv CAM19364.jpg 12201b155fcba0490d07c132daa7cb8a6469593d7acfae83223ca9d169ad419a957e.jpg
+  385  mv CAM19369.jpg 122066071e954a4cd35b3c922730db866b333b7c9f484575b0acee51960093e4da0f.jpg
+  386  mv CAM19412.jpg 1220c76516f4c62c369acd5c25e8c293ccca27803c4531dd067d0aa7e75b2ea9cf7e.jpg
+  387  mv CAM19419.jpg 12203601db476432d2fcde4f6dd16651637871690fb25e2d90eae89320ef83d40e65.jpg
+  388  mv CAM19436.jpg 1220d285dd0983143d85029a8a6e4c563ae12f7c500886e6880c3e8b6b8377d2f229.jpg
+  389  mv CAM19446.jpg 1220561c64d3ffc9ac8af84dd46cea8120d827ba7ad2fadc4cea7e1e69cfeb8a43f9.jpg
+  390  mv CAM19453.jpg 12203adb3da5cc8082cc2b305a99c148980461f3661aa6ad5774f9eb359808c3c82c.jpg
+  391  mv CAM19459.jpg 12209cabb093cea06624a09d7a2791a4d1263927f37ff79901ba698186a7459fdc2e.jpg
+  392  mv CAM19527.jpg 12204bb774fd8f75a85ee8f89bce47a3830ed49588a732a14fae3e8e5b7d3139f916.jpg
+  393  mv CAM19532.jpg 1220808cae0b2f48da6eb23caa3c065285b1fc2ac49d9d823e3cc8f8fac4efe98130.jpg
+  394  mv CAM19546.jpg 1220f3abbfaf67bc483386704dca22f1241986842d2554b6f43116726be2ff7908f8.jpg
+  395  mv CAM19564.jpg 1220a98252e87db3dc7f2c79c12da2a4c17d45f8ededdd2b9cc104efbd3fffa5cd74.jpg
+  396  mv CAM19571.jpg 12208dfa0b415ea4bbfd73a2b283b8c5d4ebaba8e6ae40c5b9c077d22231e7ad8aba.jpg
+  397  mv CAM19573.jpg 1220256820f47b790a47f11cde83c5deb82cb5426b0ac190b42a5f414a179d2e379c.jpg
+  398  ls
+  399  cd ..
+  400  xxd RootHandler.jpeg |more
+  401  xxd ImageSet571/1220a44bc88ec1e694c49ed3bf0a330bdb1f451eaa930f22dbeae63b6565d12d31e0.jpg|more
+  402  xxd RootHandler.jpeg |more
+  403  pwd
+  404  ls -l RootHandler.jpeg 
+  405  ls -l RootHandler*
+  406  wget http://planet.sl4.eu/RootHandler.jsp?p=img\&h=a44bc88ec1e694c49ed3bf0a330bdb1f451eaa930f22dbeae63b6565d12d31e0
+  407  curl http://planet.sl4.eu/RootHandler.jsp?p=img\&h=a44bc88ec1e694c49ed3bf0a330bdb1f451eaa930f22dbeae63b6565d12d31e0
+  408  curl http://planet.sl4.eu/RootHandler.jsp?p=img\&h=a44bc88ec1e694c49ed3bf0a330bdb1f451eaa930f22dbeae63b6565d12d31e0 > Rtmp.jpg
+  409  cd ImageSet571/
+  410  ls
+  411  sort ImageSet571.txt
+  412  sort ImageSet571.txt > i.txt
+  413  wc i.txt
+  414  emacs i.txt
+  415  wc i.txt
+  416  shasum -a 256 i.txt
+  417  cat i.txt
+  418  wc i.txt
+  419  shasum -a 256 i.txt
+  420  sort
+  421  sort -?
+  422  sort --h
+  423  history 
+  424  /Users/rawa/Desktop/ipfs/ipfs get QmRoNcVcr5FraLirCwbqtQj6mPL1niZjG1qx8az87tQHw7
+  425  curl planet.sl4.eu/ae.log > ae.log
+  426  shasum -a 256 ae.log
+  427  mv ae.log ../HiPoBorgDeskTop565/AeDdLabsLd42ab.log
+  428  more ../HiPoBorgDeskTop565/AeDdLabsLd42ab.log
+  429  exit
+  430  pwd
+  431  cat ../ungit.wiki/Han
+  432  more ~/Desktop/wikidatawiki-20160203-all-titles
+  433  tail ~/Desktop/wikidatawiki-20160203-all-titles
+  434  more ~/Desktop/wikidatawiki-20160203-all-titles
+  435  whois 23.81.69.221
+  436  history > /Users/rawa/Desktop/HiPoBorgDeskTop566/BorgMacBashLd42bf.txt
+  437  curl https://www.facebook.com/feeds/notifications.php?id=509034915&viewer=509034915&key=AWil_caakqb8i_mH&format=rss20 |shasum -a 256
+  438  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |shasum -a 256
+  439  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |shasum -a 256
+  440  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |shasum -a 256
+  441  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |shasum -a 256
+  442  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |more
+  443  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |wc
+  444  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |wc
+  445  curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 |wc
+  446  curl https://dresdenlabs.appspot.com/at
+  447  a=curl https://dresdenlabs.appspot.com/at; echo at$a
+  448  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a
+  449  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  450  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  451  ls -l fb*
+  452  diff fbd8ac2*
+  453  history 
+  454  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  455  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  456  ls -l f*
+  457  git status
+  458  git add fbd*
+  459  git commit -m "+fbd8*.xml"
+  460  git pull
+  461  git status
+  462  git push
+  463  mv /Users/rawa/Desktop/HiPoBorgDeskTop566/ /Users/rawa/Public/
+  464  cd ..
+  465  cd /Users/rawa/Public/
+  466  mkdir git
+  467  mv AllHashes/ git/
+  468  mv DigitalEarth/ git/
+  469  mv ungit.wiki/ git/
+  470  ls l
+  471  ls -l
+  472  cd HeidiWiki/
+  473  ls 
+  474  git clone github.com/wasserfuhr/NooSphere
+  475  git clone https://github.com/wasserfuhr/NooSphere
+  476  ls /Users/rawa/Desktop/
+  477  ls /Users/rawa/Desktop/
+  478  pwd
+  479  ls
+  480  mv NooSphere/ ../git/
+  481  cd ..
+  482  mv -i /Users/rawa/Desktop/* .
+  483  cd git/AllHashes/
+  484  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  485  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  486  git status
+  487  git pull
+  488  git add fbd*
+  489  ls *Hist*
+  490  history > BmHistLd42c0.txt
+  491  git add BmHistLd42c0.txt 
+  492  git commit -am "+fbd*.xml +BmHistLd42c0.txt"
+  493  git push
+  494  history 
+  495  git status
+  496  history 
+  497  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  498  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://195.10.36.182/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m?akacasthops=1 >infoRadio$a.mp3
+  499  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  500  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://195.10.36.182/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m?akacasthops=1 >infoRadio$a.mp3
+  501  #shasum -a 256 I
+  502  ls -l
+  503  rm infoRadiod9edb2.a4?????????*
+  504  shasum -a 256 infoRadiod9edb2.a4.mp3 
+  505  wc infoRadiod9edb2.a4.mp3 
+  506  man wc
+  507  history 
+  508  uptime
+  509  uptime -?
+  510  ls
+  511  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://195.10.36.182/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m?akacasthops=1 >infoRadio$a.mp3
+  512  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://195.10.36.182/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m?akacasthops=1 >infoRadio$a.mp3
+  513  history 
+  514  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://195.10.36.182/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m?akacasthops=1 >infoRadio$a.mp3
+  515  #http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m
+  516   a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl #http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >infoRadio$a.mp3
+  517   a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >InfoRadio$a.mp3
+  518  history |grep fb
+  519  a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl https://www.facebook.com/feeds/notifications.php?id=509034915\&viewer=509034915\&key=AWil_caakqb8i_mH\&format=rss20 >fb$a.xml
+  520  git pull
+  521  git status
+  522  mv infoRadiod9edb2.a4.mp3 InfoRadiod9edb2.a4.mp3 
+  523  git status
+  524  ls fb*
+  525  ls -l fb*
+  526  #git fbd8ac20.f3.xml 
+  527  mv fbd9ed35.73.xml atd9ed35.73.FbNot.xml 
+  528  mv fbd9eda7.fb.xml atd9eda7.fb.FbNot.xml 
+  529   a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  530  git pull
+  531  curl https://dresdenlabs.appspot.com/eval/22456004|shasum -a 256
+  532   a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  533  shasum -a /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  534  shasum -a /Users/rawa/Public/HiPoBorgDeskTop566/at*
+  535  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/at*
+  536  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  537  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  538  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  539  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  540  ls -l a*
+  541  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/at*
+  542  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/at*
+  543  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  544  history > BmHistLd42c2.txt
