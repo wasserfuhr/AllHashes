@@ -13,10 +13,10 @@ public final class ShaTfs{
   0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2};
  private ShaTfs(){}
  public static void main(String[]a) throws Exception{
-  InputStreamReaderi=new InputStreamReader(System.in);
+  InputStreamReader i=new InputStreamReader(System.in);
   ByteArrayOutputStream buf = new ByteArrayOutputStream();
   int b;
-  while((b=lnr.read())>=0){
+  while((b=i.read())>=0){
    buf.write(b);}
   System.out.println(digest(buf.toByteArray()));
  }
