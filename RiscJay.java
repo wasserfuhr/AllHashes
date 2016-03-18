@@ -1,4 +1,5 @@
 import java.io.*;
+//https://github.com/riscv/riscv-angel/blob/release/inst_src.js
 public class RiscJay{
  public static void main(String[]a) throws Exception{
   InputStreamReader i=new InputStreamReader(System.in);
