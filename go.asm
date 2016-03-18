@@ -1,16 +1,14 @@
-	;; http://peter.michaux.ca/articles/assembly-hello-world-for-os-x
-	;;  hello.asm - a "hello, world" program using NASM
+;; http://peter.michaux.ca/articles/assembly-hello-world-for-os-x
+;;  hello.asm - a "hello, world" program using NASM
 
-	section .text
+section .text
 
-	global mystart		; make the main function externally visible
+global mystart		; make the main function externally visible
 
 mystart:
 
-	;;  1 print "hello, world"
-
-	;;  1a prepare the arguments for the system call to write
-	    push dword mylen	; message length
+;;  1a prepare the arguments for the system call to write
+ push dword mylen	; message length
 	    push dword mymsg	; message to write
 	    push dword 1	; file descriptor value
 
