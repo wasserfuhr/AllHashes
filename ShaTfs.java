@@ -15,12 +15,12 @@ public final class ShaTfs{
  public static void main(String[]a) throws Exception{
   InputStreamReader i=new InputStreamReader(System.in);
   ByteArrayOutputStream buf = new ByteArrayOutputStream();
-  int b;
-  while((b=i.read())>=0){
-   buf.write(b);}
-  byte a[]=digest(buf.toByteArray());
+  int r;
+  while((r=i.read())>=0){
+   buf.write(r);}
+  byte d[]=digest(buf.toByteArray());
   StringBuilder sb = new StringBuilder(a.length*2);
-  for(byte b: a)sb.append(String.format("%02x", b & 0xff));
+  for(byte b:d)sb.append(String.format("%02x",b&0xff));
   System.out.println(sb.toString());
  }
 
