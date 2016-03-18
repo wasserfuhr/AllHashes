@@ -22,11 +22,10 @@ go:
 
 ;;make the call to sys call to exit
  mov eax, 0x1	; system call number for exit
- sub esp, 4		; OS X (and BSD) system calls needs "extra space" on stack
- int 0x80		; make the system call
-
+ sub esp, 4	; OS X (and BSD) system calls needs "extra space" on stack
+ int 0x80	; make the system call
 ;;no need to clean up the stack because no code here would executed: already exited
 
 section .data
- mymsg db "HelloDworld",0xa ; string with a carriage-return
- mylen equ $-mymsg	       ; string length in bytes
+ mymsg db "HelloDworld",0xa ;string with a carriage-return
+ mylen equ $-mymsg	    ;string length in bytes
