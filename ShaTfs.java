@@ -18,7 +18,7 @@ public final class ShaTfs{
   int b;
   while((b=lnr.read())>=0){
    buf.write(b);}
-  System.out.println(digest(buf.toArray()));
+  System.out.println(digest(buf.toByteArray()));
  }
 
  public static byte[] digest(final byte[] message){
