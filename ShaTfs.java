@@ -18,7 +18,10 @@ public final class ShaTfs{
   int b;
   while((b=i.read())>=0){
    buf.write(b);}
-  System.out.println(digest(buf.toByteArray()));
+  byte a[]=digest(buf.toByteArray());
+  StringBuilder sb = new StringBuilder(a.length*2);
+  for(byte b: a)sb.append(String.format("%02x", b & 0xff));
+  System.out.println(sb.toString());
  }
 
  public static byte[] digest(final byte[] message){
