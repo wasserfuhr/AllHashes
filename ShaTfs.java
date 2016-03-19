@@ -2,6 +2,67 @@
 //package com.sci.skristminer.util;@author sci4me
 import java.io.*;
 public final class ShaTfs{
+    //https://www.nayuki.io/res/notepadcrypt-format-decryptor-java/decryptnotepadcrypt.java
+    private static byte[] getSha256Hash(byte[] msg) {
+	if (msg.length > Integer.MAX_VALUE / 8)
+	    throw new IllegalArgumentException("Message too large for this implementation");
+	
+	// Add 1 byte for termination, 8 bytes for length, then round up to multiple of block size (64)
+	byte[] padded = Arrays.copyOf(msg, (msg.length + 1 + 8 + 63) / 64 * 64);
+	padded[msg.length] = (byte)0x80;
+	for (int i = 0; i < 4; i++)
+	    padded[padded.length - 1 - i] = (byte)((msg.length * 8) >>> (i * 8));
+	
+	// Table of round constants
+	final int[] K = {
+	    0x428A2F98, 0x71374491, 0xB5C0FBCF, 0xE9B5DBA5, 0x3956C25B, 0x59F111F1, 0x923F82A4, 0xAB1C5ED5,
+	    0xD807AA98, 0x12835B01, 0x243185BE, 0x550C7DC3, 0x72BE5D74, 0x80DEB1FE, 0x9BDC06A7, 0xC19BF174,
+	    0xE49B69C1, 0xEFBE4786, 0x0FC19DC6, 0x240CA1CC, 0x2DE92C6F, 0x4A7484AA, 0x5CB0A9DC, 0x76F988DA,
+	    0x983E5152, 0xA831C66D, 0xB00327C8, 0xBF597FC7, 0xC6E00BF3, 0xD5A79147, 0x06CA6351, 0x14292967,
+	    0x27B70A85, 0x2E1B2138, 0x4D2C6DFC, 0x53380D13, 0x650A7354, 0x766A0ABB, 0x81C2C92E, 0x92722C85,
+	    0xA2BFE8A1, 0xA81A664B, 0xC24B8B70, 0xC76C51A3, 0xD192E819, 0xD6990624, 0xF40E3585, 0x106AA070,
+	    0x19A4C116, 0x1E376C08, 0x2748774C, 0x34B0BCB5, 0x391C0CB3, 0x4ED8AA4A, 0x5B9CCA4F, 0x682E6FF3,
+	    0x748F82EE, 0x78A5636F, 0x84C87814, 0x8CC70208, 0x90BEFFFA, 0xA4506CEB, 0xBEF9A3F7, 0xC67178F2,
+	};
+	
+	// Compress each block
+	int[] state = {0x6A09E667, 0xBB67AE85, 0x3C6EF372, 0xA54FF53A, 0x510E527F, 0x9B05688C, 0x1F83D9AB, 0x5BE0CD19};
+	for (int off = 0; off < padded.length; off += 64) {
+	    int[] schedule = new int[64];
+	    for (int i = 0; i < 16; i++)
+		schedule[i] = toInt32(padded, off + i * 4);
+	    for (int i = 16; i < 64; i++) {
+		int x = schedule[i - 15];
+		int y = schedule[i -  2];
+		schedule[i] = schedule[i - 16] + schedule[i - 7] +
+		    (rotateRight(x,  7) ^ rotateRight(x, 18) ^ (x >>>  3)) +
+		    (rotateRight(y, 17) ^ rotateRight(y, 19) ^ (y >>> 10));
+	    }
+	    
+	    int a = state[0], b = state[1], c = state[2], d = state[3];
+	    int e = state[4], f = state[5], g = state[6], h = state[7];
+	    for (int i = 0; i < 64; i++) {
+		int t1 = h + (rotateRight(e, 6) ^ rotateRight(e, 11) ^ rotateRight(e, 25)) + ((e & f) ^ (~e & g)) + K[i] + schedule[i];
+		int t2 = (rotateRight(a, 2) ^ rotateRight(a, 13) ^ rotateRight(a, 22)) + ((a & b) ^ (a & c) ^ (b & c));
+		h = g;
+		g = f;
+		f = e;
+		e = d + t1;
+		d = c;
+		c = b;
+		b = a;
+		a = t1 + t2;
+	    }
+	    state[0] += a; state[1] += b; state[2] += c; state[3] += d;
+	    state[4] += e; state[5] += f; state[6] += g; state[7] += h;
+	}
+	
+	// Serialize state as result
+	byte[] hash = new byte[state.length * 4];
+	for (int i = 0; i < hash.length; i++)
+	    hash[i] = (byte)(state[i / 4] >>> ((3 - i % 4) * 8));
+	return hash;
+    }
  private static final int[] K = {
   0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,
   0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174,
@@ -18,8 +79,9 @@ public final class ShaTfs{
   int r;
   while((r=i.read())>=0){
    buf.write(r);}
-  byte d[]=digest(buf.toByteArray());
-  StringBuilder sb = new StringBuilder(a.length*2);
+  byte d[]=//digest(
+		  getSha256Hash(buf.toByteArray());
+  StringBuilder sb = new StringBuilder(32);
   for(byte b:d)sb.append(String.format("%02x",b&0xff));
   System.out.println(sb.toString());
  }
