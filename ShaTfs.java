@@ -1,8 +1,16 @@
 //https://github.com/sci4me/SKristMiner/blob/master/src/main/java/com/sci/skristminer/util/SHA256.java
 //package com.sci.skristminer.util;@author sci4me
 import java.io.*;
+import java.util.Arrays;
+import static java.lang.Integer.rotateRight;
 public final class ShaTfs{
     //https://www.nayuki.io/res/notepadcrypt-format-decryptor-java/decryptnotepadcrypt.java
+    static int toInt32(byte[] b, int off) {  // Big endian
+	return (b[off + 0] & 0xFF) << 24 |
+	    (b[off + 1] & 0xFF) << 16 |
+	    (b[off + 2] & 0xFF) <<  8 |
+	    (b[off + 3] & 0xFF) <<  0;
+    }
     private static byte[] getSha256Hash(byte[] msg) {
 	if (msg.length > Integer.MAX_VALUE / 8)
 	    throw new IllegalArgumentException("Message too large for this implementation");
