@@ -82,7 +82,7 @@ public final class ShaTfs{
   0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2};
  private ShaTfs(){}
  public static void main(String[]a) throws Exception{
-  InputStreamReader i=new InputStreamReader(System.in);
+  InputStream i=System.in;
   ByteArrayOutputStream buf = new ByteArrayOutputStream();
   int r;
   while((r=i.read())>=0){
