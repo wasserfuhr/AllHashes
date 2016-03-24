@@ -70,7 +70,7 @@ int fastIter(unsigned char data[]){
       for (int i=0; i < SHA256_DIGEST_LENGTH; i++) {
        sprintf((char*)&(buf[i*2]), "%02x", mhash[i]);
       }
-      fprintf(stdout,"%s %02x%02x%02x%02x%02x%02x\n", buf, k,l,data[2],data[3],data[4],data[5]);
+      fprintf(stdout,"%s %02x%02x%02x%02x%02x%02x %ld\n", buf, k,l,data[2],data[3],data[4],data[5],clock());
       fflush(stdout);
       break;
      }
