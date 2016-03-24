@@ -24,7 +24,7 @@ int main(void){
   do{
    unsigned char k=0;
    do{
-    unsigned char j=0;
+    unsigned char j=0x5c;
     do{
      fprintf(stdout,"%-40s ______%02x%02x%02x\n", "", j, k,l);
      fflush(stdout);
