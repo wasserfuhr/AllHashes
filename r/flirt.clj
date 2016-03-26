@@ -1,0 +1,1 @@
+(fn [rq rs](.sendRedirect rs"http://www.finya.de/Messages/mailbox"))
