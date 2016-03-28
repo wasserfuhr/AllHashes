@@ -1,5 +1,3 @@
-public class Think {
- public static void main(String[] a) {
-  Cub.main(a);
- }
-}
+public class H20{
+ public static float m(float c){
+  return 1000-c}}
