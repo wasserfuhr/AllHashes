@@ -1,0 +1,1 @@
+(fn[rq rs](.sendRedirect rs"https://www.flickr.com/photos/lifecosmos"))
