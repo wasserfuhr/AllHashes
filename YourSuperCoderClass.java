@@ -37,4 +37,4 @@ String s[]={"",
 "29...10-25",
 "27...10-30"};
 System.out.print("1980:04-06...09-28\n");
- for(int i=1;i<=36;i++)System.out.print((1980+i)+":03-"+s[i]+"\n");}}
+for(int i=1;i<=36;i++)System.out.print((1980+i)+":03-"+((i<16)?"09":"10")+s[i]+"\n");}}
