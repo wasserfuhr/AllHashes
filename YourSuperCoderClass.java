@@ -1,5 +1,5 @@
 public class YourSuperCoderClass{public static void main(String[]a){
-   String s[]={"1980:04-06...09-28\n",
+String s[]={
 "1981:03-29...09-27",
 "1982:03-28...09-26",
 "1983:03-27...09-25",
@@ -36,5 +36,5 @@ public class YourSuperCoderClass{public static void main(String[]a){
 "2014:03-30...10-26",
 "2015:03-29...10-25",
 "2016:03-27...10-30"};
- ystem.out.print((1980+i)+":"+s[i]+"\n");}}
- for(int i=0;i<=36;i++)System.out.print((1980+i)+":"+s[i]+"\n");}}
+System.out.print("1980:04-06...09-28\n");
+ for(int i=1;i<=36;i++)System.out.print((1980+i)+":"+s[i]+"\n");}}
