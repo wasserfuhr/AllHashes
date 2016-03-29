@@ -36,4 +36,4 @@ public class YourSuperCoderClass{public static void main(String[]a){
 			      "2014:03-30...10-26\n",
 			      "2015:03-29...10-25\n",
 			      "2016:03-27...10-30\n"};
-for(int i=0;i<=36;i++)System.out.print(s[i]);}}
+   for(int i=0;i<=36;i++)System.out.print(1980+i)s([i]);}}
