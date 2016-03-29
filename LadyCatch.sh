@@ -3,7 +3,7 @@ ua="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, 
 while true
 do
  date;a=`curl https://floatingboat2013.appspot.com/at`
- echo ">at$>"a
+ echo ">>at$a:"
  curl -A "$ua" $b\?12 > ~/Desktop/FrauenCam12At$a.jpg
  curl -A "$ua" $b\?22 > ~/Desktop/FrauenCam22At$a.jpg
  curl -A "$ua" $b\?32 > ~/Desktop/FrauenCam32At$a.jpg
