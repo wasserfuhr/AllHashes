@@ -1,17 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1265.21">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier}
-  </style>
-</head>
-<body>
-<p class="p1">06.04.1980, 02:00 MEZ – 28.09.1980, 03:00 MESZ</p>
+p1">06.04.1980, 02:00 MEZ – 28.09.1980, 03:00 MESZ</p>
 <p class="p1">29.03.1981, 02:00 MEZ – 27.09.1981, 03:00 MESZ</p>
 <p class="p1">28.03.1982, 02:00 MEZ – 26.09.1982, 03:00 MESZ</p>
 <p class="p1">27.03.1983, 02:00 MEZ – 25.09.1983, 03:00 MESZ</p>
@@ -48,5 +35,3 @@
 <p class="p1">30.03.2014, 02:00 MEZ – 26.10.2014, 03:00 MESZ</p>
 <p class="p1">29.03.2015, 02:00 MEZ – 25.10.2015, 03:00 MESZ</p>
 <p class="p1">27.03.2016, 02:00 MEZ – 30.10.2016, 03:00 MESZ</p>
-</body>
-</html>
