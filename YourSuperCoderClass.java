@@ -1,5 +1,5 @@
 public class YourSuperCoderClass{public static void main(String[]a){
-   String s[]={"1980:04-06...09-28",
+   String s[]={"1980:04-06.n..09-28\",
       "1981:03-29...09-27\n",
 		      "1982:03-28...09-26\n",
 		      "1983:03-27...09-25\n",
