@@ -1,0 +1,1 @@
+also noch mal zum VerSteh-bar machen: wir suchen hier den WeltWelt effizientestes ByteCode zum berechnen der SommerZeit - also ein feature das laut RayKurzweil auf ueber rund 6000000000 SmartPhone's benoetigt wird. PreisGeld? kuckst Du PieschenBank!! ;) -RaWa
