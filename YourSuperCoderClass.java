@@ -74,4 +74,4 @@ String t[]={"",
 "25",
 "30"};
 System.out.print("1980:04-06-28\n");
-for(int i=1;i<=36;i++)System.out.print((1980+i)+":03-"+s[i]+((i<16)?"09":"10")+t[i]+"\n");}}
+for(int i=1;i<=36;i++)System.out.print((1980+i)+":03-"+s[i]+"..."+((i<16)?"09":"10")+t[i]+"\n");}}
