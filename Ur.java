@@ -1,5 +1,5 @@
 public class Ur{
- public static void main(String[] a){
+ public static void main(String[] a)throws Exception{
   long lastSec=0;
   while(true){
    long c=System.currentTimeMillis();
