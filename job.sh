@@ -1,1 +1,1 @@
-#
+cd /home/rawa/git/AllHashes;git pull&
