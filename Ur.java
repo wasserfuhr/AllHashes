@@ -5,4 +5,4 @@ public class Ur{
    long c=System.currentTimeMillis();
    if(c/1000>lastSec){
     System.out.println(c);
-    lastSec=c/1000}}}
+    lastSec=c/1000;}}}}
