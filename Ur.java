@@ -5,4 +5,5 @@ public class Ur{
    long c=System.currentTimeMillis();
    if(c/1000>lastSec){
     System.out.println(c);
+    Runtime.exec("/home/rawa/git/AllHashes/job.sh");
     lastSec=c/1000;}}}}
