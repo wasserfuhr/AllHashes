@@ -1,0 +1,1 @@
+(fn [rq rs] (.sendRedirect rs "https://cdn.rawgit.com/wasserfuhr/DigitalEarth/master/src/main/webapp/img/TapeOut54dRc1.pdf"))
