@@ -1,0 +1,2094 @@
+﻿Microsoft Windows [Version 6.0.6001]
+Copyright (c) 2006 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\RainerWasserfuhr>Desktop\sha256sum.exe Desktop\9405001.txt
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *Desktop\\9405001.txt
+
+C:\Users\RainerWasserfuhr>copy Desktop\9405001.txt f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+        1 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr>Desktop\sha256sum.exe f:\1220*
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *f:\\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+
+C:\Users\RainerWasserfuhr>more f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+:090722 ; 2016-04-09+2
+:090722 ╬▒t ffffff
+:0033 L LinSofa
+:0030 BuTz 0
+:0028 L KeuTa
+:002617 z 73
+:0005 p 4xxg
+:0005 L LinBad
+:0003 L KeuTa
+:000000 ; 2016-04-09+2
+:235959 ; 2016-04-08+2
+:2356 L KeuTa
+:2354 L LinSofa
+:2310 n 1460149815000
+:2309 L LinSofa
+:2257 BuTz 0
+:2255 L KeuTa
+:225402 z 74
+:2228 p 4xxg
+:2228 L LinBad
+:2224 LinSofa
+:2210 # 72d8cd668babca0e548161f69df9ab440c59ae6fea729233917b1b380cf0319a
+:2213 # c193a9e37edc95536057fd37df1a4b46170ac6d050d2dd2e8eae074f51de9daa
+:2211 # 4cdac3f3d6b9151ad8d56536b9c7bcc0ccd94bdcde259ce7df06e0b14655cc5f
+:2209 # 7e462a2190fefda4a222b444d9dca796cb6e7f7db3fb953c71ad632ae1fa2dc2
+:2203 # b09862951581360eb50e9f9c2c2f48dbb1ffcfbbf498c797ff8fa488fe606394
+:2154 TaTo WikiPedia IpFs RaWa
+:2139 L LinSofa
+:2138 BuTz 0
+:2137 KeuTa
+:213430 z 75
+:213430 h2
+:2132 $ 784
+:2110 L LinSofa
+:2057 L KeuTa
+:2056 BuTz 0
+:2055 $ 783
+:2050 BuTz 1
+:204756 z 76
+:204756 L h2
+:2045 $ 782
+:2036 L KeuTa
+:2024 p3xxg
+:2024 L GeldGribe
+:2021 DidIt SuessKreis
+:1924 BuTz 0
+:192135 z 77
+:1919 $ 781
+:1847 P BorBf
+:1820 $ 780
+:1721 ┬Ñ 22289
+:1721 p 4xxg
+:1721 P GeldGrube
+:171717 z 78
+:171717 L h2
+:1715 $ 779
+:1705 L KeuTa
+:1613 BuTz 1
+:1610 L KeuTa
+:1606 ┬Ñ 22277
+:1606 p 4xxg
+:1606 L GeldGrube
+:160600 z 79
+:160600 L h2
+:1604 $ 778
+:1555 L KeuTa
+:1549 DiebesPower 73
+:1517 L KeuTa
+:1509 ╬▒t ff034f.67
+:1506 # e1fec5306bde7c851eb76b9459bc2caebd2cd8d377a6ae913b12b98819664d28
+:1500 L KeuTa
+:1459 BuTz 1
+:145805 z 7a
+:145805 L h2
+:1456 $ 777
+:145507 ╬▒t ff0000
+:145506 ╬▒t feffff
+
+C:\Users\RainerWasserfuhr>dir f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+ Volume in Laufwerk F: hat keine Bezeichnung.
+ Volumeseriennummer: 6FB5-62D9
+
+ Verzeichnis von f:\
+
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+               1 Datei(en),          1,575 Bytes
+               0 Verzeichnis(se),  1,470,955,520 Bytes frei
+
+C:\Users\RainerWasserfuhr>dir
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr
+
+2016-03-23  07:14 PM    <DIR>          .
+2016-03-23  07:14 PM    <DIR>          ..
+2016-01-19  03:46 AM             1,828 .bash_history
+2014-10-29  07:41 PM    <DIR>          .gimp-2.6
+2014-09-29  12:52 AM                63 .gitconfig
+2014-09-27  03:56 AM    <DIR>          .hatari
+2014-12-18  08:13 AM    <DIR>          .isabelle
+2015-05-21  11:39 PM             2,182 .kdiff3rc
+2014-10-10  06:28 AM    <DIR>          .local
+2014-09-27  04:06 AM    <DIR>          .m2
+2016-02-06  05:48 PM    <DIR>          .oracle_jre_usage
+2014-10-29  07:43 PM             3,999 .recently-used.xbel
+2014-12-20  08:34 PM    <DIR>          .thumbnails
+2016-02-06  05:19 AM    <DIR>          AllHashes
+2012-10-28  01:59 PM    <DIR>          Contacts
+2016-04-09  12:37 AM    <DIR>          Desktop
+2016-03-06  07:27 AM    <DIR>          Documents
+2016-04-09  12:37 AM    <DIR>          Downloads
+2012-10-28  01:59 PM    <DIR>          Favorites
+2016-04-05  10:11 PM    <DIR>          Google Drive
+2014-10-01  09:24 AM    <DIR>          Music
+2016-03-23  07:14 PM    <DIR>          Pictures
+2012-10-28  01:59 PM    <DIR>          Searches
+2014-09-28  02:42 PM            18,432 UrBase - Kopie (1).sqlite
+2014-10-07  06:04 PM            28,672 UrBase.sqlite
+               6 Datei(en),         55,176 Bytes
+              19 Verzeichnis(se),  1,042,280,448 Bytes frei
+
+C:\Users\RainerWasserfuhr>cd AllHashes
+
+C:\Users\RainerWasserfuhr\AllHashes>clj
+Der Befehl "clj" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>dir c*
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+2016-02-06  02:37 AM         1,265,258 c10.zip
+2016-02-06  02:20 AM       134,217,728 c9.txt
+2016-02-06  02:31 AM           160,089 c9.zip
+2016-01-18  11:09 PM             1,310 CastCat.txt
+2016-01-18  11:09 PM            11,769 CastHash.txt
+2016-01-18  11:09 PM            26,667 CastId.txt
+2016-01-18  11:09 PM           153,281 CastName.txt
+2016-02-06  01:03 AM               330 ct.class
+2016-01-23  03:32 PM               109 ct.java
+2016-02-06  02:19 AM               756 Cub.class
+2016-02-06  02:19 AM               368 Cub.java
+2016-02-06  02:26 AM     1,073,741,824 cube10.txt
+2016-02-06  04:17 AM        16,777,216 cube8.txt
+              13 Datei(en),  1,226,356,705 Bytes
+               0 Verzeichnis(se),  1,042,210,816 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>cd ..
+
+C:\Users\RainerWasserfuhr>dir
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr
+
+2016-03-23  07:14 PM    <DIR>          .
+2016-03-23  07:14 PM    <DIR>          ..
+2016-01-19  03:46 AM             1,828 .bash_history
+2014-10-29  07:41 PM    <DIR>          .gimp-2.6
+2014-09-29  12:52 AM                63 .gitconfig
+2014-09-27  03:56 AM    <DIR>          .hatari
+2014-12-18  08:13 AM    <DIR>          .isabelle
+2015-05-21  11:39 PM             2,182 .kdiff3rc
+2014-10-10  06:28 AM    <DIR>          .local
+2014-09-27  04:06 AM    <DIR>          .m2
+2016-02-06  05:48 PM    <DIR>          .oracle_jre_usage
+2014-10-29  07:43 PM             3,999 .recently-used.xbel
+2014-12-20  08:34 PM    <DIR>          .thumbnails
+2016-02-06  05:19 AM    <DIR>          AllHashes
+2012-10-28  01:59 PM    <DIR>          Contacts
+2016-04-09  12:37 AM    <DIR>          Desktop
+2016-03-06  07:27 AM    <DIR>          Documents
+2016-04-09  12:37 AM    <DIR>          Downloads
+2012-10-28  01:59 PM    <DIR>          Favorites
+2016-04-05  10:11 PM    <DIR>          Google Drive
+2014-10-01  09:24 AM    <DIR>          Music
+2016-03-23  07:14 PM    <DIR>          Pictures
+2012-10-28  01:59 PM    <DIR>          Searches
+2014-09-28  02:42 PM            18,432 UrBase - Kopie (1).sqlite
+2014-10-07  06:04 PM            28,672 UrBase.sqlite
+               6 Datei(en),         55,176 Bytes
+              19 Verzeichnis(se),  1,045,807,104 Bytes frei
+
+C:\Users\RainerWasserfuhr>cd AllHashes
+
+C:\Users\RainerWasserfuhr\AllHashes>git pull
+remote: Counting objects: 1103, done.
+remote: Compressing objects: 100% (43/43), done.
+Receiving objects: 100% (1103/1103), 1.01 MiB | 241.00 KiB/s, done.
+ 22 (delta 22), pack-reused 1037
+Resolving deltas: 100% (592/592), completed with 13 local objects.
+From https://github.com/wasserfuhr/AllHashes
+   48819c2..ccc3fd1  master     -> origin/master
+Updating 48819c2..ccc3fd1
+Fast-forward
+ .gitignore                                         |    3 +-
+ AeDump.java                                        |    3 +-
+ AeDump/13816001.txt                                |   12 +-
+ AeDump/15726001.txt                                |    7 +
+ AeDump/15736001.txt                                |    7 +
+ AeDump/15746001.txt                                |    7 +
+ AeDump/15746002.txt                                |    7 +
+ AeDump/15756001.txt                                |    7 +
+ AeDump/15756002.txt                                |    7 +
+ AeDump/15756003.txt                                |    7 +
+ AeDump/15766001.txt                                |    7 +
+ AeDump/15776001.txt                                |    7 +
+ AeDump/15776002.txt                                |    7 +
+ AeDump/16696001.txt                                |    7 +
+ AeDump/16696002.txt                                |    7 +
+ AeDump/16696003.txt                                |    7 +
+ AeDump/16696004.txt                                |    7 +
+ AeDump/16706001.txt                                |    7 +
+ AeDump/16706002.txt                                |    7 +
+ AeDump/16716001.txt                                |    7 +
+ AeDump/16716002.txt                                |    7 +
+ AeDump/16726001.txt                                |    7 +
+ AeDump/16726002.txt                                |    7 +
+ AeDump/17646001.txt                                |    7 +
+ AeDump/17646002.txt                                |    7 +
+ AeDump/17646003.txt                                |    7 +
+ AeDump/17646004.txt                                |    7 +
+ AeDump/17646005.txt                                |    7 +
+ AeDump/17656001.txt                                |    7 +
+ AeDump/17656002.txt                                |    7 +
+ AeDump/17656003.txt                                |    7 +
+ AeDump/17656004.txt                                |    7 +
+ AeDump/17666001.txt                                |    7 +
+ AeDump/17676001.txt                                |    7 +
+ AeDump/17676002.txt                                |    7 +
+ AeDump/17686001.txt                                |    7 +
+ AeDump/17696001.txt                                |    7 +
+ AeDump/17696002.txt                                |    7 +
+ AeDump/18656001.txt                                |    7 +
+ AeDump/18656002.txt                                |    7 +
+ AeDump/18666001.txt                                |    7 +
+ AeDump/18676001.txt                                |    7 +
+ AeDump/18676002.txt                                |    7 +
+ AeDump/18676003.txt                                |    7 +
+ AeDump/18676004.txt                                |    7 +
+ AeDump/18676005.txt                                |    7 +
+ AeDump/18676006.txt                                |    7 +
+ AeDump/18686001.txt                                |    7 +
+ AeDump/18696001.txt                                |    7 +
+ AeDump/18696002.txt                                |    7 +
+ AeDump/18696003.txt                                |    7 +
+ AeDump/18696004.txt                                |    7 +
+ AeDump/18706001.txt                                |    7 +
+ AeDump/18706002.txt                                |    7 +
+ AeDump/18706003.txt                                |    7 +
+ AeDump/18716001.txt                                |    7 +
+ AeDump/18716002.txt                                |    7 +
+ AeDump/18726001.txt                                |    7 +
+ AeDump/18726002.txt                                |    7 +
+ AeDump/18726003.txt                                |    7 +
+ AeDump/18726004.txt                                |    7 +
+ AeDump/18736001.txt                                |    7 +
+ AeDump/18736002.txt                                |    7 +
+ AeDump/18736003.txt                                |    7 +
+ AeDump/18736004.txt                                |    7 +
+ AeDump/18746001.txt                                |    7 +
+ AeDump/19726001.txt                                |    7 +
+ AeDump/19726002.txt                                |    7 +
+ AeDump/19736001.txt                                |    7 +
+ AeDump/20816002.txt                                |    7 +
+ AeDump/20816003.txt                                |    7 +
+ AeDump/20816004.txt                                |    7 +
+ AeDump/21086002.txt                                |    7 +
+ AeDump/21086003.txt                                |    7 +
+ AeDump/21096001.txt                                |    7 +
+ AeDump/21096002.txt                                |    7 +
+ AeDump/21106001.txt                                |    7 +
+ AeDump/21116001.txt                                |    7 +
+ AeDump/21126001.txt                                |    7 +
+ AeDump/21126002.txt                                |    7 +
+ AeDump/21136001.txt                                |    7 +
+ AeDump/21136002.txt                                |    7 +
+ AeDump/21136003.txt                                |    7 +
+ AeDump/21146001.txt                                |    7 +
+ AeDump/21146002.txt                                |    7 +
+ AeDump/21146003.txt                                |    7 +
+ AeDump/21146004.txt                                |    7 +
+ AeDump/21146005.txt                                |    7 +
+ AeDump/21146006.txt                                |    7 +
+ AeDump/21156001.txt                                |    7 +
+ AeDump/21156002.txt                                |    7 +
+ AeDump/21156003.txt                                |    7 +
+ AeDump/21156004.txt                                |    7 +
+ AeDump/21156005.txt                                |    7 +
+ AeDump/21156006.txt                                |    7 +
+ AeDump/21156007.txt                                |    7 +
+ AeDump/21156008.txt                                |    7 +
+ AeDump/21156009.txt                                |    7 +
+ AeDump/21166001.txt                                |    7 +
+ AeDump/21176001.txt                                |    7 +
+ AeDump/21176002.txt                                |    7 +
+ AeDump/21176003.txt                                |    7 +
+ AeDump/21176004.txt                                |    7 +
+ AeDump/21176005.txt                                |    7 +
+ AeDump/21176006.txt                                |    7 +
+ AeDump/21176007.txt                                |    7 +
+ AeDump/21176008.txt                                |    7 +
+ AeDump/21186001.txt                                |    7 +
+ AeDump/21186002.txt                                |    7 +
+ AeDump/21186003.txt                                |    7 +
+ AeDump/21196001.txt                                |    7 +
+ AeDump/21906001.txt                                |    7 +
+ AeDump/21916001.txt                                |    7 +
+ AeDump/21926001.txt                                |    7 +
+ AeDump/21926002.txt                                |    7 +
+ AeDump/21926003.txt                                |    7 +
+ AeDump/21936001.txt                                |    7 +
+ AeDump/21946001.txt                                |    7 +
+ AeDump/21946002.txt                                |    7 +
+ AeDump/21946003.txt                                |    7 +
+ AeDump/21956001.txt                                |    7 +
+ AeDump/21966001.txt                                |    7 +
+ AeDump/22866001.txt                                |   12 +-
+ AeDump/22876001.txt                                |    7 +
+ AeDump/22876002.txt                                |    7 +
+ AeDump/22886001.txt                                |    7 +
+ AeDump/22896001.txt                                |    7 +
+ AeDump/22906001.txt                                |    7 +
+ AeDump/22916001.txt                                |    7 +
+ AeDump/22926001.txt                                |    7 +
+ AeDump/22936001.txt                                |    7 +
+ AeDump/22936002.txt                                |    7 +
+ AeDump/22936003.txt                                |    7 +
+ AeDump/22936004.txt                                |    7 +
+ AeDump/22946001.txt                                |    7 +
+ AeDump/22946002.txt                                |    7 +
+ AeDump/22946003.txt                                |    7 +
+ AeDump/22946004.txt                                |    7 +
+ AeDump/22946005.txt                                |    7 +
+ AeDump/22956001.txt                                |    7 +
+ AeDump/23826001.txt                                |    7 +
+ AeDump/23826002.txt                                |    7 +
+ AeDump/23836001.txt                                |    7 +
+ AeDump/23836002.txt                                |    7 +
+ AeDump/23846002.txt                                |    7 +
+ AeDump/23856001.txt                                |    7 +
+ AeDump/23856002.txt                                |    7 +
+ AeDump/23866001.txt                                |    7 +
+ AeDump/23876001.txt                                |    7 +
+ AeDump/23876002.txt                                |    7 +
+ AeDump/23876003.txt                                |    7 +
+ AeDump/23886001.txt                                |    7 +
+ AeDump/23896001.txt                                |    7 +
+ AeDump/23896002.txt                                |    7 +
+ AeDump/23906001.txt                                |    7 +
+ AeDump/23916001.txt                                |    7 +
+ AeDump/23916002.txt                                |    7 +
+ AeDump/23926001.txt                                |    7 +
+ AeDump/23936001.txt                                |    7 +
+ AeDump/24826001.txt                                |    7 +
+ AeDump/24836001.txt                                |    7 +
+ AeDump/24836002.txt                                |    7 +
+ AeDump/24836003.txt                                |    7 +
+ AeDump/24836004.txt                                |    7 +
+ AeDump/24836005.txt                                |    7 +
+ AeDump/24846001.txt                                |    7 +
+ AeDump/24846002.txt                                |    7 +
+ AeDump/24846003.txt                                |    7 +
+ AeDump/24846004.txt                                |    7 +
+ AeDump/24846005.txt                                |    7 +
+ AeDump/24846006.txt                                |    7 +
+ AeDump/24856001.txt                                |    7 +
+ AeDump/24856002.txt                                |    7 +
+ AeDump/24866001.txt                                |    7 +
+ AeDump/24866002.txt                                |    7 +
+ AeDump/24876001.txt                                |    7 +
+ AeDump/24876002.txt                                |    7 +
+ AeDump/24876003.txt                                |    7 +
+ AeDump/24886001.txt                                |    7 +
+ AeDump/24886002.txt                                |    7 +
+ AeDump/24896001.txt                                |    7 +
+ AeDump/24906001.txt                                |    7 +
+ AeDump/DumpHash.txt                                | 3040 +++++++++++
+ BaJs.java                                          |   15 +-
+ BfHash.c                                           |   66 +-
+ BfHash.sh                                          |   38 +
+ BmHistLd42c0.txt                                   |  500 ++
+ BmHistLd42c2.txt                                   |  500 ++
+ BmHistLd42c4.txt                                   |  500 ++
+ BmHistLd42c5.txt                                   |  500 ++
+ BmHistLd42c8.txt                                   |  500 ++
+ BmHistLd42cb.txt                                   |  500 ++
+ BmHistLd42d2.txt                                   |  500 ++
+ BmHistLd42d4.txt                                   |  500 ++
+ BmHistLd42d5.txt                                   |  500 ++
+ BmHistLd42d7.txt                                   |  500 ++
+ BootStrap.txt => BootStrap.dresdenlabs.txt         | 1827 ++++++-
+ BootStrap.floatingboat2013.txt                     |  578 +++
+ BootStrap.knot-net.txt                             |  189 +
+ ByteSig.java                                       |    2 +-
+ Bz2.java                                           |   17 +
+ DsTable.txt                                        |   37 +
+ FeedFetch.txt                                      |  101 +
+ FileExtLd4294.txt                                  |  795 +++
+ FileSize.java                                      |   15 +-
+ FileSizeLd42af.txt                                 |  771 +++
+ H20.java                                           |    3 +
+ Hanf.txt                                           | 1403 ++++++
+ HashMeta.txt                                       |   25 +
+ IdUrl.txt                                          |    6 +
+ Join.java                                          |   23 +
+ LadyCatch.sh                                       |   11 +
+ Ls.java                                            |   12 +-
+ RiscJay.java                                       |   13 +
+ SD.java                                            |   37 +-
+ SbOneHistLd42a4.txt                                |  500 ++
+ SbOneHistLd42a5.txt                                |  500 ++
+ SbOneHistLd42a6.txt                                |  500 ++
+ SbOneHistLd42bb.txt                                |  500 ++
+ SbOneHistLd42bc.txt                                |  500 ++
+ SbOneHistLd42bd.txt                                |  500 ++
+ SbOneHistLd42be.txt                                |  500 ++
+ SbOneHistLd42bf.txt                                |  500 ++
+ SbOneHistLd42c0.txt                                |  500 ++
+ SbOneHistLd42c1.txt                                |  500 ++
+ SbOneHistLd42c4.txt                                |  500 ++
+ SbOneHistLd42c5.txt                                |  500 ++
+ SbOneHistLd42c7.txt                                |  500 ++
+ SbOneHistLd42c8.txt                                |  500 ++
+ SbOneHistLd42c9.txt                                |  500 ++
+ SbOneHistLd42cb.txt                                |  500 ++
+ SbOneHistLd42cd.txt                                |  500 ++
+ SbOneHistLd42cf.txt                                |  500 ++
+ SbOneHistLd42d0.txt                                |  500 ++
+ SbOneHistLd42d3.txt                                |  500 ++
+ SbOneHistLd42d8.txt                                |  500 ++
+ ShaTfs.java                                        |  241 +
+ ShortHash.txt                                      |   65 +-
+ ShortHash1.txt                                     |    3 +
+ SoBo.clj                                           |   63 +
+ SpaceDrive1LsLd4bb.txt                             | 5326 ++++++++++++++++++++
+ SubStr.java                                        |   22 +-
+ Sum.java                                           |   16 +-
+ SummerTimeTable.txt                                |   37 +
+ SuperCoderChallenge.txt                            |   37 +
+ ...28494cc48de8097f323d855d45002b331a82d35029d.xml |  233 +
+ ...52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml |  984 ++++
+ TagesShow/ld42a0.rdf                               |  233 +
+ TagesShow/ld42a0.rss                               |  959 ++++
+ TagesShow/ld42a1.rdf                               |  275 +
+ TagesShow/ld42a1.rss                               |  924 ++++
+ TagesShow/ld42a2.rdf                               |  184 +
+ TagesShow/ld42a2.rss                               |  959 ++++
+ Ur.java                                            |    9 +
+ YourSuperCoderClass.class                          |  Bin 0 -> 1332 bytes
+ YourSuperCoderClass.java                           |   77 +
+ a.out                                              |    0
+ atd8ac20.f3.FbNot.xml                              |  682 +++
+ atd8ac2b.71.FbNot.xml                              |  682 +++
+ atd8b661.3d.FbNot.xml                              |  675 +++
+ atd8b668.71.FbNot.xml                              |  675 +++
+ atd8d47e.fc.FbNot.xml                              |  682 +++
+ atd9138f.00.FbNot.xml                              |  691 +++
+ atd9ed35.73.FbNot.xml                              |  705 +++
+ atd9eda7.fb.FbNot.xml                              |  705 +++
+ atda3105.a6.FbNot.xml                              |  716 +++
+ atda3631.73.FbNot.xml                              |    0
+ atda3655.22.FbNot.xml                              |    0
+ atda367c.23.FbNot.xml                              |    0
+ atda3ea7.10.FbNot.xml                              |    0
+ atdf282e.5b.FbNot.xml                              |  663 +++
+ atdf306a.24.FbNot.xml                              |  670 +++
+ atf6c8ea.f9.dsStat.dresdenlabs.txt                 |  176 +
+ atf9a3a1.59.BmHist.txt                             |  500 ++
+ atfab2e9.13.dsStat.dresdenlabs.txt                 |  176 +
+ atfab828.a3.purge.txt                              |    1 +
+ atfab99b.ba.history.dresdenlabs.csv                | 3881 ++++++++++++++
+ atfad152.15.history.alpha-bet.csv                  | 3881 ++++++++++++++
+ atfad152.15.history.dresdenlabs.csv                | 3881 ++++++++++++++
+ atfad152.15.history.floatingboat2013.csv           | 3881 ++++++++++++++
+ atfad152.15.history.knot-net.csv                   | 3881 ++++++++++++++
+ atfad152.15.history.lin-lab.csv                    | 3881 ++++++++++++++
+ atfad152.15.history.new-egypt.csv                  | 3881 ++++++++++++++
+ atfaeec0.79.BmHist.txt                             |  500 ++
+ atfb079e.67.BmHist.txt                             |  500 ++
+ atfc6a21.c9.BmHist.txt                             |  500 ++
+ bbc.clj                                            |   65 +
+ bley/README.md                                     |    1 +
+ bley/YourSuperCoderClass.java                      |   77 +
+ clj                                                |    1 +
+ cn.clj                                             |   72 +
+ fb.clj                                             |   66 +
+ feed.clj                                           |    5 +
+ feedClj.clj                                        |   14 +
+ go                                                 |  Bin 0 -> 8320 bytes
+ go.asm                                             |   31 +
+ go.o                                               |  Bin 0 -> 372 bytes
+ job.sh                                             |    3 +
+ ld.txt                                             |    4 +
+ news.clj                                           |   81 +-
+ news.txt                                           | 2093 ++++++++
+ r/1.clj                                            |    1 +
+ r/Edit.jsp.clj                                     |    1 +
+ r/alpha.clj                                        |   20 +
+ r/base.clj                                         |    1 +
+ r/bolle.clj                                        |    1 +
+ r/cosmos.clj                                       |    1 +
+ r/crush.clj                                        |   17 +
+ r/feed.clj                                         |    9 +
+ r/flirt.clj                                        |    1 +
+ r/follow.clj                                       |    1 +
+ r/go.clj                                           |   17 +
+ r/grow.clj                                         |  109 +
+ r/hot.clj                                          |    1 +
+ r/like.clj                                         |    1 +
+ r/listen.clj                                       |    1 +
+ r/love.clj                                         |   14 +
+ r/purgeSessions.clj                                |   34 +
+ r/raw.clj                                          |    8 +
+ r/robots.txt.clj                                   |    5 +
+ r/rss.jsp.clj                                      |    1 +
+ r/rss.rdf.clj                                      |    1 +
+ r/start.clj                                        |    1 +
+ r/t.clj                                            |  105 +
+ r/test.clj                                         |    1 +
+ test.clj                                           |    3 -
+ 326 files changed, 76224 insertions(+), 157 deletions(-)
+ create mode 100644 AeDump/15726001.txt
+ create mode 100644 AeDump/15736001.txt
+ create mode 100644 AeDump/15746001.txt
+ create mode 100644 AeDump/15746002.txt
+ create mode 100644 AeDump/15756001.txt
+ create mode 100644 AeDump/15756002.txt
+ create mode 100644 AeDump/15756003.txt
+ create mode 100644 AeDump/15766001.txt
+ create mode 100644 AeDump/15776001.txt
+ create mode 100644 AeDump/15776002.txt
+ create mode 100644 AeDump/16696001.txt
+ create mode 100644 AeDump/16696002.txt
+ create mode 100644 AeDump/16696003.txt
+ create mode 100644 AeDump/16696004.txt
+ create mode 100644 AeDump/16706001.txt
+ create mode 100644 AeDump/16706002.txt
+ create mode 100644 AeDump/16716001.txt
+ create mode 100644 AeDump/16716002.txt
+ create mode 100644 AeDump/16726001.txt
+ create mode 100644 AeDump/16726002.txt
+ create mode 100644 AeDump/17646001.txt
+ create mode 100644 AeDump/17646002.txt
+ create mode 100644 AeDump/17646003.txt
+ create mode 100644 AeDump/17646004.txt
+ create mode 100644 AeDump/17646005.txt
+ create mode 100644 AeDump/17656001.txt
+ create mode 100644 AeDump/17656002.txt
+ create mode 100644 AeDump/17656003.txt
+ create mode 100644 AeDump/17656004.txt
+ create mode 100644 AeDump/17666001.txt
+ create mode 100644 AeDump/17676001.txt
+ create mode 100644 AeDump/17676002.txt
+ create mode 100644 AeDump/17686001.txt
+ create mode 100644 AeDump/17696001.txt
+ create mode 100644 AeDump/17696002.txt
+ create mode 100644 AeDump/18656001.txt
+ create mode 100644 AeDump/18656002.txt
+ create mode 100644 AeDump/18666001.txt
+ create mode 100644 AeDump/18676001.txt
+ create mode 100644 AeDump/18676002.txt
+ create mode 100644 AeDump/18676003.txt
+ create mode 100644 AeDump/18676004.txt
+ create mode 100644 AeDump/18676005.txt
+ create mode 100644 AeDump/18676006.txt
+ create mode 100644 AeDump/18686001.txt
+ create mode 100644 AeDump/18696001.txt
+ create mode 100644 AeDump/18696002.txt
+ create mode 100644 AeDump/18696003.txt
+ create mode 100644 AeDump/18696004.txt
+ create mode 100644 AeDump/18706001.txt
+ create mode 100644 AeDump/18706002.txt
+ create mode 100644 AeDump/18706003.txt
+ create mode 100644 AeDump/18716001.txt
+ create mode 100644 AeDump/18716002.txt
+ create mode 100644 AeDump/18726001.txt
+ create mode 100644 AeDump/18726002.txt
+ create mode 100644 AeDump/18726003.txt
+ create mode 100644 AeDump/18726004.txt
+ create mode 100644 AeDump/18736001.txt
+ create mode 100644 AeDump/18736002.txt
+ create mode 100644 AeDump/18736003.txt
+ create mode 100644 AeDump/18736004.txt
+ create mode 100644 AeDump/18746001.txt
+ create mode 100644 AeDump/19726001.txt
+ create mode 100644 AeDump/19726002.txt
+ create mode 100644 AeDump/19736001.txt
+ create mode 100644 AeDump/20816002.txt
+ create mode 100644 AeDump/20816003.txt
+ create mode 100644 AeDump/20816004.txt
+ create mode 100644 AeDump/21086002.txt
+ create mode 100644 AeDump/21086003.txt
+ create mode 100644 AeDump/21096001.txt
+ create mode 100644 AeDump/21096002.txt
+ create mode 100644 AeDump/21106001.txt
+ create mode 100644 AeDump/21116001.txt
+ create mode 100644 AeDump/21126001.txt
+ create mode 100644 AeDump/21126002.txt
+ create mode 100644 AeDump/21136001.txt
+ create mode 100644 AeDump/21136002.txt
+ create mode 100644 AeDump/21136003.txt
+ create mode 100644 AeDump/21146001.txt
+ create mode 100644 AeDump/21146002.txt
+ create mode 100644 AeDump/21146003.txt
+ create mode 100644 AeDump/21146004.txt
+ create mode 100644 AeDump/21146005.txt
+ create mode 100644 AeDump/21146006.txt
+ create mode 100644 AeDump/21156001.txt
+ create mode 100644 AeDump/21156002.txt
+ create mode 100644 AeDump/21156003.txt
+ create mode 100644 AeDump/21156004.txt
+ create mode 100644 AeDump/21156005.txt
+ create mode 100644 AeDump/21156006.txt
+ create mode 100644 AeDump/21156007.txt
+ create mode 100644 AeDump/21156008.txt
+ create mode 100644 AeDump/21156009.txt
+ create mode 100644 AeDump/21166001.txt
+ create mode 100644 AeDump/21176001.txt
+ create mode 100644 AeDump/21176002.txt
+ create mode 100644 AeDump/21176003.txt
+ create mode 100644 AeDump/21176004.txt
+ create mode 100644 AeDump/21176005.txt
+ create mode 100644 AeDump/21176006.txt
+ create mode 100644 AeDump/21176007.txt
+ create mode 100644 AeDump/21176008.txt
+ create mode 100644 AeDump/21186001.txt
+ create mode 100644 AeDump/21186002.txt
+ create mode 100644 AeDump/21186003.txt
+ create mode 100644 AeDump/21196001.txt
+ create mode 100644 AeDump/21906001.txt
+ create mode 100644 AeDump/21916001.txt
+ create mode 100644 AeDump/21926001.txt
+ create mode 100644 AeDump/21926002.txt
+ create mode 100644 AeDump/21926003.txt
+ create mode 100644 AeDump/21936001.txt
+ create mode 100644 AeDump/21946001.txt
+ create mode 100644 AeDump/21946002.txt
+ create mode 100644 AeDump/21946003.txt
+ create mode 100644 AeDump/21956001.txt
+ create mode 100644 AeDump/21966001.txt
+ create mode 100644 AeDump/22876001.txt
+ create mode 100644 AeDump/22876002.txt
+ create mode 100644 AeDump/22886001.txt
+ create mode 100644 AeDump/22896001.txt
+ create mode 100644 AeDump/22906001.txt
+ create mode 100644 AeDump/22916001.txt
+ create mode 100644 AeDump/22926001.txt
+ create mode 100644 AeDump/22936001.txt
+ create mode 100644 AeDump/22936002.txt
+ create mode 100644 AeDump/22936003.txt
+ create mode 100644 AeDump/22936004.txt
+ create mode 100644 AeDump/22946001.txt
+ create mode 100644 AeDump/22946002.txt
+ create mode 100644 AeDump/22946003.txt
+ create mode 100644 AeDump/22946004.txt
+ create mode 100644 AeDump/22946005.txt
+ create mode 100644 AeDump/22956001.txt
+ create mode 100644 AeDump/23826001.txt
+ create mode 100644 AeDump/23826002.txt
+ create mode 100644 AeDump/23836001.txt
+ create mode 100644 AeDump/23836002.txt
+ create mode 100644 AeDump/23846002.txt
+ create mode 100644 AeDump/23856001.txt
+ create mode 100644 AeDump/23856002.txt
+ create mode 100644 AeDump/23866001.txt
+ create mode 100644 AeDump/23876001.txt
+ create mode 100644 AeDump/23876002.txt
+ create mode 100644 AeDump/23876003.txt
+ create mode 100644 AeDump/23886001.txt
+ create mode 100644 AeDump/23896001.txt
+ create mode 100644 AeDump/23896002.txt
+ create mode 100644 AeDump/23906001.txt
+ create mode 100644 AeDump/23916001.txt
+ create mode 100644 AeDump/23916002.txt
+ create mode 100644 AeDump/23926001.txt
+ create mode 100644 AeDump/23936001.txt
+ create mode 100644 AeDump/24826001.txt
+ create mode 100644 AeDump/24836001.txt
+ create mode 100644 AeDump/24836002.txt
+ create mode 100644 AeDump/24836003.txt
+ create mode 100644 AeDump/24836004.txt
+ create mode 100644 AeDump/24836005.txt
+ create mode 100644 AeDump/24846001.txt
+ create mode 100644 AeDump/24846002.txt
+ create mode 100644 AeDump/24846003.txt
+ create mode 100644 AeDump/24846004.txt
+ create mode 100644 AeDump/24846005.txt
+ create mode 100644 AeDump/24846006.txt
+ create mode 100644 AeDump/24856001.txt
+ create mode 100644 AeDump/24856002.txt
+ create mode 100644 AeDump/24866001.txt
+ create mode 100644 AeDump/24866002.txt
+ create mode 100644 AeDump/24876001.txt
+ create mode 100644 AeDump/24876002.txt
+ create mode 100644 AeDump/24876003.txt
+ create mode 100644 AeDump/24886001.txt
+ create mode 100644 AeDump/24886002.txt
+ create mode 100644 AeDump/24896001.txt
+ create mode 100644 AeDump/24906001.txt
+ create mode 100644 AeDump/DumpHash.txt
+ create mode 100644 BmHistLd42c0.txt
+ create mode 100644 BmHistLd42c2.txt
+ create mode 100644 BmHistLd42c4.txt
+ create mode 100644 BmHistLd42c5.txt
+ create mode 100644 BmHistLd42c8.txt
+ create mode 100644 BmHistLd42cb.txt
+ create mode 100644 BmHistLd42d2.txt
+ create mode 100644 BmHistLd42d4.txt
+ create mode 100644 BmHistLd42d5.txt
+ create mode 100644 BmHistLd42d7.txt
+ rename BootStrap.txt => BootStrap.dresdenlabs.txt (61%)
+ create mode 100644 BootStrap.floatingboat2013.txt
+ create mode 100644 BootStrap.knot-net.txt
+ create mode 100644 Bz2.java
+ create mode 100644 DsTable.txt
+ create mode 100644 FeedFetch.txt
+ create mode 100644 FileExtLd4294.txt
+ create mode 100644 FileSizeLd42af.txt
+ create mode 100644 H20.java
+ create mode 100644 Hanf.txt
+ create mode 100644 HashMeta.txt
+ create mode 100644 IdUrl.txt
+ create mode 100644 Join.java
+ create mode 100755 LadyCatch.sh
+ create mode 100644 RiscJay.java
+ create mode 100644 SbOneHistLd42a4.txt
+ create mode 100644 SbOneHistLd42a5.txt
+ create mode 100644 SbOneHistLd42a6.txt
+ create mode 100644 SbOneHistLd42bb.txt
+ create mode 100644 SbOneHistLd42bc.txt
+ create mode 100644 SbOneHistLd42bd.txt
+ create mode 100644 SbOneHistLd42be.txt
+ create mode 100644 SbOneHistLd42bf.txt
+ create mode 100644 SbOneHistLd42c0.txt
+ create mode 100644 SbOneHistLd42c1.txt
+ create mode 100644 SbOneHistLd42c4.txt
+ create mode 100644 SbOneHistLd42c5.txt
+ create mode 100644 SbOneHistLd42c7.txt
+ create mode 100644 SbOneHistLd42c8.txt
+ create mode 100644 SbOneHistLd42c9.txt
+ create mode 100644 SbOneHistLd42cb.txt
+ create mode 100644 SbOneHistLd42cd.txt
+ create mode 100644 SbOneHistLd42cf.txt
+ create mode 100644 SbOneHistLd42d0.txt
+ create mode 100644 SbOneHistLd42d3.txt
+ create mode 100644 SbOneHistLd42d8.txt
+ create mode 100644 ShaTfs.java
+ create mode 100644 ShortHash1.txt
+ create mode 100644 SoBo.clj
+ create mode 100644 SpaceDrive1LsLd4bb.txt
+ create mode 100644 SummerTimeTable.txt
+ create mode 100644 SuperCoderChallenge.txt
+ create mode 100644 TagesShow/1220365d48736e80947288c5328494cc48de8097f323d855d45002b331a82d35029d.xml
+ create mode 100644 TagesShow/12206e3a3d1854061a7e15d8c52d3e371c30529a3ca6c10ddd2e77a637fc13dc2aea.xml
+ create mode 100644 TagesShow/ld42a0.rdf
+ create mode 100644 TagesShow/ld42a0.rss
+ create mode 100644 TagesShow/ld42a1.rdf
+ create mode 100644 TagesShow/ld42a1.rss
+ create mode 100644 TagesShow/ld42a2.rdf
+ create mode 100644 TagesShow/ld42a2.rss
+ create mode 100644 Ur.java
+ create mode 100644 YourSuperCoderClass.class
+ create mode 100644 YourSuperCoderClass.java
+ create mode 100644 a.out
+ create mode 100644 atd8ac20.f3.FbNot.xml
+ create mode 100644 atd8ac2b.71.FbNot.xml
+ create mode 100644 atd8b661.3d.FbNot.xml
+ create mode 100644 atd8b668.71.FbNot.xml
+ create mode 100644 atd8d47e.fc.FbNot.xml
+ create mode 100644 atd9138f.00.FbNot.xml
+ create mode 100644 atd9ed35.73.FbNot.xml
+ create mode 100644 atd9eda7.fb.FbNot.xml
+ create mode 100644 atda3105.a6.FbNot.xml
+ create mode 100644 atda3631.73.FbNot.xml
+ create mode 100644 atda3655.22.FbNot.xml
+ create mode 100644 atda367c.23.FbNot.xml
+ create mode 100644 atda3ea7.10.FbNot.xml
+ create mode 100644 atdf282e.5b.FbNot.xml
+ create mode 100644 atdf306a.24.FbNot.xml
+ create mode 100644 atf6c8ea.f9.dsStat.dresdenlabs.txt
+ create mode 100644 atf9a3a1.59.BmHist.txt
+ create mode 100644 atfab2e9.13.dsStat.dresdenlabs.txt
+ create mode 100644 atfab828.a3.purge.txt
+ create mode 100644 atfab99b.ba.history.dresdenlabs.csv
+ create mode 100644 atfad152.15.history.alpha-bet.csv
+ create mode 100644 atfad152.15.history.dresdenlabs.csv
+ create mode 100644 atfad152.15.history.floatingboat2013.csv
+ create mode 100644 atfad152.15.history.knot-net.csv
+ create mode 100644 atfad152.15.history.lin-lab.csv
+ create mode 100644 atfad152.15.history.new-egypt.csv
+ create mode 100644 atfaeec0.79.BmHist.txt
+ create mode 100644 atfb079e.67.BmHist.txt
+ create mode 100644 atfc6a21.c9.BmHist.txt
+ create mode 100644 bbc.clj
+ create mode 100644 bley/README.md
+ create mode 100644 bley/YourSuperCoderClass.java
+ create mode 100755 clj
+ create mode 100644 cn.clj
+ create mode 100644 fb.clj
+ create mode 100644 feed.clj
+ create mode 100644 feedClj.clj
+ create mode 100755 go
+ create mode 100644 go.asm
+ create mode 100644 go.o
+ create mode 100755 job.sh
+ create mode 100644 ld.txt
+ create mode 100644 news.txt
+ create mode 100644 r/1.clj
+ create mode 100644 r/Edit.jsp.clj
+ create mode 100644 r/alpha.clj
+ create mode 100644 r/base.clj
+ create mode 100644 r/bolle.clj
+ create mode 100644 r/cosmos.clj
+ create mode 100644 r/crush.clj
+ create mode 100644 r/feed.clj
+ create mode 100644 r/flirt.clj
+ create mode 100644 r/follow.clj
+ create mode 100644 r/go.clj
+ create mode 100644 r/grow.clj
+ create mode 100644 r/hot.clj
+ create mode 100644 r/like.clj
+ create mode 100644 r/listen.clj
+ create mode 100644 r/love.clj
+ create mode 100644 r/purgeSessions.clj
+ create mode 100644 r/raw.clj
+ create mode 100644 r/robots.txt.clj
+ create mode 100644 r/rss.jsp.clj
+ create mode 100644 r/rss.rdf.clj
+ create mode 100644 r/start.clj
+ create mode 100644 r/t.clj
+ create mode 100644 r/test.clj
+ delete mode 100644 test.clj
+
+C:\Users\RainerWasserfuhr\AllHashes>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        DirG.txt
+        HashPathG.txt
+        c10.zip
+        c9.txt
+        c9.zip
+        cube10.txt
+        cube8.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\RainerWasserfuhr\AllHashes>clj
+Der Befehl "clj" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>.\clj
+Der Befehl ".\clj" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>copy clj clj.bat
+        1 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>clj.bat
+
+C:\Users\RainerWasserfuhr\AllHashes>java -jar ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar $1
+Error: Unable to access jarfile ~/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+
+C:\Users\RainerWasserfuhr\AllHashes>textedit clj.bat
+Der Befehl "textedit" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>mnorepad clj.bat
+Der Befehl "mnorepad" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>notepad clj.bat
+
+C:\Users\RainerWasserfuhr\AllHashes>notepad clj.bat
+
+C:\Users\RainerWasserfuhr\AllHashes>clj.bat
+
+C:\Users\RainerWasserfuhr\AllHashes>java -jar \Users\RainerWasserfuhr/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar $1
+Exception in thread "main" java.io.FileNotFoundException: $1 (Das System kann die angegebene Datei nicht finden)
+        at java.io.FileInputStream.open0(Native Method)
+        at java.io.FileInputStream.open(Unknown Source)
+        at java.io.FileInputStream.<init>(Unknown Source)
+        at java.io.FileInputStream.<init>(Unknown Source)
+        at clojure.lang.Compiler.loadFile(Compiler.java:7314)
+        at clojure.main$load_script.invokeStatic(main.clj:275)
+        at clojure.main$script_opt.invokeStatic(main.clj:335)
+        at clojure.main$script_opt.invoke(main.clj:330)
+        at clojure.main$main.invokeStatic(main.clj:421)
+        at clojure.main$main.doInvoke(main.clj:384)
+        at clojure.lang.RestFn.invoke(RestFn.java:408)
+        at clojure.lang.Var.invoke(Var.java:379)
+        at clojure.lang.AFn.applyToHelper(AFn.java:154)
+        at clojure.lang.Var.applyTo(Var.java:700)
+        at clojure.main.main(main.java:37)
+
+C:\Users\RainerWasserfuhr\AllHashes>clj.bat
+
+C:\Users\RainerWasserfuhr\AllHashes>java -jar \Users\RainerWasserfuhr/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+Clojure 1.8.0
+user=> dir
+CompilerException java.lang.RuntimeException: Can't take value of a macro: #'clojure.repl/dir, compiling:(NO_SOURCE_PATH:0:0)
+user=>
+IOException Fⁿr diesen Befehl ist nicht genⁿgend Speicher verfⁿgbar  java.io.FileInputStream.available (:-2)
+user=> "3a303930373232203b20323031362d30342d30392b320d0a3a30393037323220ceb174206666666666660d0a3a30303333204c204c696e536f66610d0a3a30303330204275547a20300d0a3a
+30303238204c204b657554610d0a3a303032363137207a2037330d0a3a30303035207020347878670d0a3a30303035204c204c696e4261640d0a3a30303033204c204b657554610d0a3a303030303030
+203b20323031362d30342d30392b320d0a3a323335393539203b20323031362d30342d30382b320d0a3a32333536204c204b657554610d0a3a32333534204c204c696e536f66610d0a3a32333130206e
+20313436303134393831353030300d0a3a32333039204c204c696e536f66610d0a3a32323537204275547a20300d0a3a32323535204c204b657554610d0a3a323235343032207a2037340d0a3a323232
+38207020347878670d0a3a32323238204c204c696e4261640d0a3a32323234204c696e536f66610d0a3a3232313020232037326438636436363862616263613065353438313631663639646639616234
+3430633539616536666561373239323333393137623162333830636630333139610d0a3a3232313320232063313933613965333765646339353533363035376664333764663161346234363137306163
+3664303530643264643265386561653037346635316465396461610d0a3a3232313120232034636461633366336436623931353161643864353635333662396337626363306363643934626463646532
+3539636537646630366530623134363535636335660d0a3a3232303920232037653436326132313930666566646134613232326234343464396463613739366362366537663764623366623935336337
+3161643633326165316661326463320d0a3a3232303320232062303938363239353135383133363065623530653966396332633266343864626231666663666262663439386337393766663866613438
+3866653630363339340d0a3a32313534205461546f2057696b695065646961204970467320526157610d0a3a32313339204c204c696e536f66610d0a3a32313338204275547a20300d0a3a3231333720
+4b657554610d0a3a323133343330207a2037350d0a3a3231333433302068320d0a3a323133322024203738340d0a3a32313130204c204c696e536f66610d0a3a32303537204c204b657554610d0a3a32
+303536204275547a20300d0a3a323035352024203738330d0a3a32303530204275547a20310d0a3a323034373536207a2037360d0a3a323034373536204c2068320d0a3a323034352024203738320d0a
+3a32303336204c204b657554610d0a3a323032342070337878670d0a3a32303234204c2047656c6447726962650d0a3a323032312044696449742053756573734b726569730d0a3a3139323420427554
+7a20300d0a3a313932313335207a2037370d0a3a313931392024203738310d0a3a31383437205020426f7242660d0a3a313832302024203738300d0a3a3137323120c2a52032323238390d0a3a313732
+31207020347878670d0a3a3137323120502047656c6447727562650d0a3a313731373137207a2037380d0a3a313731373137204c2068320d0a3a313731352024203737390d0a3a31373035204c204b65
+7554610d0a3a31363133204275547a20310d0a3a31363130204c204b657554610d0a3a3136303620c2a52032323237370d0a3a31363036207020347878670d0a3a31363036204c2047656c6447727562
+650d0a3a313630363030207a2037390d0a3a313630363030204c2068320d0a3a313630342024203737380d0a3a31353535204c204b657554610d0a3a3135343920446965626573506f7765722037330d
+0a3a31353137204c204b657554610d0a3a3135303920ceb174206666303334662e36370d0a3a313530362023206531666563353330366264653763383531656237366239343539626332636165626432
+63643864333737613661653931336231326239383831393636346432380d0a3a31353030204c204b657554610d0a3a31343539204275547a20310d0a3a313435383035207a2037610d0a3a3134353830
+35204c2068320d0a3a313435362024203737370d0a3a31343535303720ceb174206666303030300d0a3a31343535303620ceb17420666566666666"
+"3a303930373232203b20323031362d30342d30392b320d0a3a30393037323220ceb174206666666666660d0a3a30303333204c204c696e536f66610d0a3a30303330204275547a20300d0a3a3030323
+8204c204b657554610d0a3a303032363137207a2037330d0a3a30303035207020347878670d0a3a30303035204c204c696e4261640d0a3a30303033204c204b657554610d0a3a303030303030203b203
+23031362d30342d30392b320d0a3a323335393539203b20323031362d30342d30382b320d0a3a32333536204c204b657554610d0a3a32333534204c204c696e536f66610d0a3a32333130206e2031343
+6303134393831353030300d0a3a32333039204c204c696e536f66610d0a3a32323537204275547a20300d0a3a32323535204c204b657554610d0a3a323235343032207a2037340d0a3a3232323820702
+0347878670d0a3a32323238204c204c696e4261640d0a3a32323234204c696e536f66610d0a3a32323130202320373264386364363638626162636130653534383136316636396466396162343430633
+539616536666561373239323333393137623162333830636630333139610d0a3a32323133202320633139336139653337656463393535333630353766643337646631613462343631373061633664303
+530643264643265386561653037346635316465396461610d0a3a32323131202320346364616333663364366239313531616438643536353336623963376263633063636439346264636465323539636
+537646630366530623134363535636335660d0a3a32323039202320376534363261323139306665666461346132323262343434643964636137393663623665376637646233666239353363373161643
+633326165316661326463320d0a3a32323033202320623039383632393531353831333630656235306539663963326332663438646262316666636662626634393863373937666638666134383866653
+630363339340d0a3a32313534205461546f2057696b695065646961204970467320526157610d0a3a32313339204c204c696e536f66610d0a3a32313338204275547a20300d0a3a32313337204b65755
+4610d0a3a323133343330207a2037350d0a3a3231333433302068320d0a3a323133322024203738340d0a3a32313130204c204c696e536f66610d0a3a32303537204c204b657554610d0a3a323035362
+04275547a20300d0a3a323035352024203738330d0a3a32303530204275547a20310d0a3a323034373536207a2037360d0a3a323034373536204c2068320d0a3a323034352024203738320d0a3a32303
+336204c204b657554610d0a3a323032342070337878670d0a3a32303234204c2047656c6447726962650d0a3a323032312044696449742053756573734b726569730d0a3a31393234204275547a20300
+d0a3a313932313335207a2037370d0a3a313931392024203738310d0a3a31383437205020426f7242660d0a3a313832302024203738300d0a3a3137323120c2a52032323238390d0a3a3137323120702
+0347878670d0a3a3137323120502047656c6447727562650d0a3a313731373137207a2037380d0a3a313731373137204c2068320d0a3a313731352024203737390d0a3a31373035204c204b657554610
+d0a3a31363133204275547a20310d0a3a31363130204c204b657554610d0a3a3136303620c2a52032323237370d0a3a31363036207020347878670d0a3a31363036204c2047656c6447727562650d0a3
+a313630363030207a2037390d0a3a313630363030204c2068320d0a3a313630342024203737380d0a3a31353535204c204b657554610d0a3a3135343920446965626573506f7765722037330d0a3a313
+53137204c204b657554610d0a3a3135303920ceb174206666303334662e36370d0a3a3135303620232065316665633533303662646537633835316562373662393435396263326361656264326364386
+4333737613661653931336231326239383831393636346432380d0a3a31353030204c204b657554610d0a3a31343539204275547a20310d0a3a313435383035207a2037610d0a3a313435383035204c2
+068320d0a3a313435362024203737370d0a3a31343535303720ceb174206666303030300d0a3a31343535303620ceb17420666566666666"
+user=>
+Batchvorgang abbrechen (J/N)? j
+
+C:\Users\RainerWasserfuhr\AllHashes>javac
+Usage: javac <options> <source files>
+where possible options include:
+  -g                         Generate all debugging info
+  -g:none                    Generate no debugging info
+  -g:{lines,vars,source}     Generate only some debugging info
+  -nowarn                    Generate no warnings
+  -verbose                   Output messages about what the compiler is doing
+  -deprecation               Output source locations where deprecated APIs are used
+  -classpath <path>          Specify where to find user class files and annotation processors
+  -cp <path>                 Specify where to find user class files and annotation processors
+  -sourcepath <path>         Specify where to find input source files
+  -bootclasspath <path>      Override location of bootstrap class files
+  -extdirs <dirs>            Override location of installed extensions
+  -endorseddirs <dirs>       Override location of endorsed standards path
+  -proc:{none,only}          Control whether annotation processing and/or compilation is done.
+  -processor <class1>[,<class2>,<class3>...] Names of the annotation processors to run; bypasses default discovery process
+  -processorpath <path>      Specify where to find annotation processors
+  -d <directory>             Specify where to place generated class files
+  -s <directory>             Specify where to place generated source files
+  -implicit:{none,class}     Specify whether or not to generate class files for implicitly referenced files
+  -encoding <encoding>       Specify character encoding used by source files
+  -source <release>          Provide source compatibility with specified release
+  -target <release>          Generate class files for specific VM version
+  -version                   Version information
+  -help                      Print a synopsis of standard options
+  -Akey[=value]              Options to pass to annotation processors
+  -X                         Print a synopsis of nonstandard options
+  -J<flag>                   Pass <flag> directly to the runtime system
+  -Werror                    Terminate compilation if warnings occur
+  @<filename>                Read options and filenames from file
+
+
+C:\Users\RainerWasserfuhr\AllHashes>more BitCount.java
+import java.io.*;
+
+public class BitCount {
+ public static void main(String[] a) throws Exception {
+  LineNumberReader l = new LineNumberReader(new InputStreamReader(System.in));
+  String s;
+  while((s=lnr.readLine())!=null) {
+   FileInputStream fr=new FileInputStream(SD.ext(s));
+   int bitCt=0;
+   int b;
+   while((b=fr.read())>=0) {
+    for(int i=0; i<8; i++) {
+     if(0<(b&(1<<i))) {
+      bitCt++;
+     }
+    }
+   }
+   System.out.println(s+" "+bitCt);
+  }
+ }
+}
+
+C:\Users\RainerWasserfuhr\AllHashes>notepad In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>move In9405001.clj.txt In9405001.clj
+        1 Datei(en) verschoben.
+
+C:\Users\RainerWasserfuhr\AllHashes>git add In9405001.clj In9405001.java
+warning: CRLF will be replaced by LF in In9405001.clj.
+The file will have its original line endings in your working directory.
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -m "+In9405001.clj +In9405001.java"
+[master c57a24c] +In9405001.clj +In9405001.java
+warning: CRLF will be replaced by LF in In9405001.clj.
+The file will have its original line endings in your working directory.
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 2 files changed, 95 insertions(+)
+ create mode 100644 In9405001.clj
+ create mode 100644 In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+4a378f5] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 18 insertions(+), 48 deletions(-)
+ rewrite In9405001.java (98%)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+In9405001.java:1: error: illegal character: \187
+∩╗┐public class In9405001{
+ ^
+In9405001.java:1: error: illegal character: \191
+∩╗┐public class In9405001{
+  ^
+2 errors
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+In9405001.java:4: error: cannot find symbol
+  for(int i=0;i<s.length;i+=2){
+                 ^
+  symbol:   variable length
+  location: variable s of type String
+1 error
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+336df87] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+09a6ed6] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+3a303930373232203b20323031362d30342d30392b320d0a3a30393037323220ceb174206666666666660d0a3a30303333204c204c696e536f66610d0a3a30303330204275547a20300d0a3a30303238
+204c204b657554610d0a3a303032363137207a2037330d0a3a30303035207020347878670d0a3a30303035204c204c696e4261640d0a3a30303033204c204b657554610d0a3a303030303030203b2032
+3031362d30342d30392b320d0a3a323335393539203b20323031362d30342d30382b320d0a3a32333536204c204b657554610d0a3a32333534204c204c696e536f66610d0a3a32333130206e20313436
+303134393831353030300d0a3a32333039204c204c696e536f66610d0a3a32323537204275547a20300d0a3a32323535204c204b657554610d0a3a323235343032207a2037340d0a3a32323238207020
+347878670d0a3a32323238204c204c696e4261640d0a3a32323234204c696e536f66610d0a3a323231302023203732643863643636386261626361306535343831363166363964663961623434306335
+39616536666561373239323333393137623162333830636630333139610d0a3a323231332023206331393361396533376564633935353336303537666433376466316134623436313730616336643035
+30643264643265386561653037346635316465396461610d0a3a323231312023203463646163336633643662393135316164386435363533366239633762636330636364393462646364653235396365
+37646630366530623134363535636335660d0a3a323230392023203765343632613231393066656664613461323232623434346439646361373936636236653766376462336662393533633731616436
+33326165316661326463320d0a3a323230332023206230393836323935313538313336306562353065396639633263326634386462623166666366626266343938633739376666386661343838666536
+30363339340d0a3a32313534205461546f2057696b695065646961204970467320526157610d0a3a32313339204c204c696e536f66610d0a3a32313338204275547a20300d0a3a32313337204b657554
+610d0a3a323133343330207a2037350d0a3a3231333433302068320d0a3a323133322024203738340d0a3a32313130204c204c696e536f66610d0a3a32303537204c204b657554610d0a3a3230353620
+4275547a20300d0a3a323035352024203738330d0a3a32303530204275547a20310d0a3a323034373536207a2037360d0a3a323034373536204c2068320d0a3a323034352024203738320d0a3a323033
+36204c204b657554610d0a3a323032342070337878670d0a3a32303234204c2047656c6447726962650d0a3a323032312044696449742053756573734b726569730d0a3a31393234204275547a20300d
+0a3a313932313335207a2037370d0a3a313931392024203738310d0a3a31383437205020426f7242660d0a3a313832302024203738300d0a3a3137323120c2a52032323238390d0a3a31373231207020
+347878670d0a3a3137323120502047656c6447727562650d0a3a313731373137207a2037380d0a3a313731373137204c2068320d0a3a313731352024203737390d0a3a31373035204c204b657554610d
+0a3a31363133204275547a20310d0a3a31363130204c204b657554610d0a3a3136303620c2a52032323237370d0a3a31363036207020347878670d0a3a31363036204c2047656c6447727562650d0a3a
+313630363030207a2037390d0a3a313630363030204c2068320d0a3a313630342024203737380d0a3a31353535204c204b657554610d0a3a3135343920446965626573506f7765722037330d0a3a3135
+3137204c204b657554610d0a3a3135303920ceb174206666303334662e36370d0a3a31353036202320653166656335333036626465376338353165623736623934353962633263616562643263643864
+333737613661653931336231326239383831393636346432380d0a3a31353030204c204b657554610d0a3a31343539204275547a20310d0a3a313435383035207a2037610d0a3a313435383035204c20
+68320d0a3a313435362024203737370d0a3a31343535303720ceb174206666303030300d0a3a31343535303620ceb17420666566666666
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+3a303930373232203b20323031362d30342d30392b320d0a3a30393037323220ceb174206666666666660d0a3a30303333204c204c696e536f66610d0a3a30303330204275547a20300d0a3a30303238
+204c204b657554610d0a3a303032363137207a2037330d0a3a30303035207020347878670d0a3a30303035204c204c696e4261640d0a3a30303033204c204b657554610d0a3a303030303030203b2032
+3031362d30342d30392b320d0a3a323335393539203b20323031362d30342d30382b320d0a3a32333536204c204b657554610d0a3a32333534204c204c696e536f66610d0a3a32333130206e20313436
+303134393831353030300d0a3a32333039204c204c696e536f66610d0a3a32323537204275547a20300d0a3a32323535204c204b657554610d0a3a323235343032207a2037340d0a3a32323238207020
+347878670d0a3a32323238204c204c696e4261640d0a3a32323234204c696e536f66610d0a3a323231302023203732643863643636386261626361306535343831363166363964663961623434306335
+39616536666561373239323333393137623162333830636630333139610d0a3a323231332023206331393361396533376564633935353336303537666433376466316134623436313730616336643035
+30643264643265386561653037346635316465396461610d0a3a323231312023203463646163336633643662393135316164386435363533366239633762636330636364393462646364653235396365
+37646630366530623134363535636335660d0a3a323230392023203765343632613231393066656664613461323232623434346439646361373936636236653766376462336662393533633731616436
+33326165316661326463320d0a3a323230332023206230393836323935313538313336306562353065396639633263326634386462623166666366626266343938633739376666386661343838666536
+30363339340d0a3a32313534205461546f2057696b695065646961204970467320526157610d0a3a32313339204c204c696e536f66610d0a3a32313338204275547a20300d0a3a32313337204b657554
+610d0a3a323133343330207a2037350d0a3a3231333433302068320d0a3a323133322024203738340d0a3a32313130204c204c696e536f66610d0a3a32303537204c204b657554610d0a3a3230353620
+4275547a20300d0a3a323035352024203738330d0a3a32303530204275547a20310d0a3a323034373536207a2037360d0a3a323034373536204c2068320d0a3a323034352024203738320d0a3a323033
+36204c204b657554610d0a3a323032342070337878670d0a3a32303234204c2047656c6447726962650d0a3a323032312044696449742053756573734b726569730d0a3a31393234204275547a20300d
+0a3a313932313335207a2037370d0a3a313931392024203738310d0a3a31383437205020426f7242660d0a3a313832302024203738300d0a3a3137323120c2a52032323238390d0a3a31373231207020
+347878670d0a3a3137323120502047656c6447727562650d0a3a313731373137207a2037380d0a3a313731373137204c2068320d0a3a313731352024203737390d0a3a31373035204c204b657554610d
+0a3a31363133204275547a20310d0a3a31363130204c204b657554610d0a3a3136303620c2a52032323237370d0a3a31363036207020347878670d0a3a31363036204c2047656c6447727562650d0a3a
+313630363030207a2037390d0a3a313630363030204c2068320d0a3a313630342024203737380d0a3a31353535204c204b657554610d0a3a3135343920446965626573506f7765722037330d0a3a3135
+3137204c204b657554610d0a3a3135303920ceb174206666303334662e36370d0a3a31353036202320653166656335333036626465376338353165623736623934353962633263616562643263643864
+333737613661653931336231326239383831393636346432380d0a3a31353030204c204b657554610d0a3a31343539204275547a20310d0a3a313435383035207a2037610d0a3a313435383035204c20
+68320d0a3a313435362024203737370d0a3a31343535303720ceb174206666303030300d0a3a31343535303620ceb17420666566666666
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+        DirG.txt
+        HashPathG.txt
+        c10.zip
+        c9.txt
+        c9.zip
+        clj.bat
+        cube10.txt
+        cube8.txt
+
+nothing added to commit but untracked files present
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+9b2fa38] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+:090722 ; 2016-04-09+2
+:090722 ╬▒t ffffff
+:0033 L LinSofa
+:0030 BuTz 0
+:0028 L KeuTa
+:002617 z 73
+:0005 p 4xxg
+:0005 L LinBad
+:0003 L KeuTa
+:000000 ; 2016-04-09+2
+:235959 ; 2016-04-08+2
+:2356 L KeuTa
+:2354 L LinSofa
+:2310 n 1460149815000
+:2309 L LinSofa
+:2257 BuTz 0
+:2255 L KeuTa
+:225402 z 74
+:2228 p 4xxg
+:2228 L LinBad
+:2224 LinSofa
+:2210 # 72d8cd668babca0e548161f69df9ab440c59ae6fea729233917b1b380cf0319a
+:2213 # c193a9e37edc95536057fd37df1a4b46170ac6d050d2dd2e8eae074f51de9daa
+:2211 # 4cdac3f3d6b9151ad8d56536b9c7bcc0ccd94bdcde259ce7df06e0b14655cc5f
+:2209 # 7e462a2190fefda4a222b444d9dca796cb6e7f7db3fb953c71ad632ae1fa2dc2
+:2203 # b09862951581360eb50e9f9c2c2f48dbb1ffcfbbf498c797ff8fa488fe606394
+:2154 TaTo WikiPedia IpFs RaWa
+:2139 L LinSofa
+:2138 BuTz 0
+:2137 KeuTa
+:213430 z 75
+:213430 h2
+:2132 $ 784
+:2110 L LinSofa
+:2057 L KeuTa
+:2056 BuTz 0
+:2055 $ 783
+:2050 BuTz 1
+:204756 z 76
+:204756 L h2
+:2045 $ 782
+:2036 L KeuTa
+:2024 p3xxg
+:2024 L GeldGribe
+:2021 DidIt SuessKreis
+:1924 BuTz 0
+:192135 z 77
+:1919 $ 781
+:1847 P BorBf
+:1820 $ 780
+:1721 ┬Ñ 22289
+:1721 p 4xxg
+:1721 P GeldGrube
+:171717 z 78
+:171717 L h2
+:1715 $ 779
+:1705 L KeuTa
+:1613 BuTz 1
+:1610 L KeuTa
+:1606 ┬Ñ 22277
+:1606 p 4xxg
+:1606 L GeldGrube
+:160600 z 79
+:160600 L h2
+:1604 $ 778
+:1555 L KeuTa
+:1549 DiebesPower 73
+:1517 L KeuTa
+:1509 ╬▒t ff034f.67
+:1506 # e1fec5306bde7c851eb76b9459bc2caebd2cd8d377a6ae913b12b98819664d28
+:1500 L KeuTa
+:1459 BuTz 1
+:145805 z 7a
+:145805 L h2
+:1456 $ 777
+:145507 ╬▒t ff0000
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001 > 99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99.txt
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+2016-04-09  11:05 PM             1,557 99.txt
+               1 Datei(en),          1,557 Bytes
+               0 Verzeichnis(se),  1,034,223,616 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe 99.txt
+c38651ca085038040a8da7ef28cc26e2a913d811a5ff6047a91dd98062752e09 *99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+810c96b] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+:090722 ; 2016-04-09+2
+Exception in thread "main" java.lang.NumberFormatException: Value out of range. Value:"ce" Radix:16
+        at java.lang.Byte.parseByte(Unknown Source)
+        at In9405001.main(In9405001.java:5)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+In9405001.java:5: error: cannot find symbol
+   System.out.write(255&Integer.parseInteger(s.substring(i,i+2),16));
+                               ^
+  symbol:   method parseInteger(String,int)
+  location: class Integer
+1 error
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+4060cfc] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+        99.txt
+        DirG.txt
+        HashPathG.txt
+        c10.zip
+        c9.txt
+        c9.zip
+        clj.bat
+        cube10.txt
+        cube8.txt
+
+nothing added to commit but untracked files present
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+In9405001.java:5: error: cannot find symbol
+   System.out.write(255&Integer.parseInteger(s.substring(i,i+2),16));
+                               ^
+  symbol:   method parseInteger(String,int)
+  location: class Integer
+1 error
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+5fa6714] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+:090722 ; 2016-04-09+2
+:090722 ╬▒t ffffff
+:0033 L LinSofa
+:0030 BuTz 0
+:0028 L KeuTa
+:002617 z 73
+:0005 p 4xxg
+:0005 L LinBad
+:0003 L KeuTa
+:000000 ; 2016-04-09+2
+:235959 ; 2016-04-08+2
+:2356 L KeuTa
+:2354 L LinSofa
+:2310 n 1460149815000
+:2309 L LinSofa
+:2257 BuTz 0
+:2255 L KeuTa
+:225402 z 74
+:2228 p 4xxg
+:2228 L LinBad
+:2224 LinSofa
+:2210 # 72d8cd668babca0e548161f69df9ab440c59ae6fea729233917b1b380cf0319a
+:2213 # c193a9e37edc95536057fd37df1a4b46170ac6d050d2dd2e8eae074f51de9daa
+:2211 # 4cdac3f3d6b9151ad8d56536b9c7bcc0ccd94bdcde259ce7df06e0b14655cc5f
+:2209 # 7e462a2190fefda4a222b444d9dca796cb6e7f7db3fb953c71ad632ae1fa2dc2
+:2203 # b09862951581360eb50e9f9c2c2f48dbb1ffcfbbf498c797ff8fa488fe606394
+:2154 TaTo WikiPedia IpFs RaWa
+:2139 L LinSofa
+:2138 BuTz 0
+:2137 KeuTa
+:213430 z 75
+:213430 h2
+:2132 $ 784
+:2110 L LinSofa
+:2057 L KeuTa
+:2056 BuTz 0
+:2055 $ 783
+:2050 BuTz 1
+:204756 z 76
+:204756 L h2
+:2045 $ 782
+:2036 L KeuTa
+:2024 p3xxg
+:2024 L GeldGribe
+:2021 DidIt SuessKreis
+:1924 BuTz 0
+:192135 z 77
+:1919 $ 781
+:1847 P BorBf
+:1820 $ 780
+:1721 ┬Ñ 22289
+:1721 p 4xxg
+:1721 P GeldGrube
+:171717 z 78
+:171717 L h2
+:1715 $ 779
+:1705 L KeuTa
+:1613 BuTz 1
+:1610 L KeuTa
+:1606 ┬Ñ 22277
+:1606 p 4xxg
+:1606 L GeldGrube
+:160600 z 79
+:160600 L h2
+:1604 $ 778
+:1555 L KeuTa
+:1549 DiebesPower 73
+:1517 L KeuTa
+:1509 ╬▒t ff034f.67
+:1506 # e1fec5306bde7c851eb76b9459bc2caebd2cd8d377a6ae913b12b98819664d28
+:1500 L KeuTa
+:1459 BuTz 1
+:145805 z 7a
+:145805 L h2
+:1456 $ 777
+:145507 ╬▒t ff0000
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ca0fe5c] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001
+:090722 ; 2016-04-09+2
+:090722 ╬▒t ffffff
+:0033 L LinSofa
+:0030 BuTz 0
+:0028 L KeuTa
+:002617 z 73
+:0005 p 4xxg
+:0005 L LinBad
+:0003 L KeuTa
+:000000 ; 2016-04-09+2
+:235959 ; 2016-04-08+2
+:2356 L KeuTa
+:2354 L LinSofa
+:2310 n 1460149815000
+:2309 L LinSofa
+:2257 BuTz 0
+:2255 L KeuTa
+:225402 z 74
+:2228 p 4xxg
+:2228 L LinBad
+:2224 LinSofa
+:2210 # 72d8cd668babca0e548161f69df9ab440c59ae6fea729233917b1b380cf0319a
+:2213 # c193a9e37edc95536057fd37df1a4b46170ac6d050d2dd2e8eae074f51de9daa
+:2211 # 4cdac3f3d6b9151ad8d56536b9c7bcc0ccd94bdcde259ce7df06e0b14655cc5f
+:2209 # 7e462a2190fefda4a222b444d9dca796cb6e7f7db3fb953c71ad632ae1fa2dc2
+:2203 # b09862951581360eb50e9f9c2c2f48dbb1ffcfbbf498c797ff8fa488fe606394
+:2154 TaTo WikiPedia IpFs RaWa
+:2139 L LinSofa
+:2138 BuTz 0
+:2137 KeuTa
+:213430 z 75
+:213430 h2
+:2132 $ 784
+:2110 L LinSofa
+:2057 L KeuTa
+:2056 BuTz 0
+:2055 $ 783
+:2050 BuTz 1
+:204756 z 76
+:204756 L h2
+:2045 $ 782
+:2036 L KeuTa
+:2024 p3xxg
+:2024 L GeldGribe
+:2021 DidIt SuessKreis
+:1924 BuTz 0
+:192135 z 77
+:1919 $ 781
+:1847 P BorBf
+:1820 $ 780
+:1721 ┬Ñ 22289
+:1721 p 4xxg
+:1721 P GeldGrube
+:171717 z 78
+:171717 L h2
+:1715 $ 779
+:1705 L KeuTa
+:1613 BuTz 1
+:1610 L KeuTa
+:1606 ┬Ñ 22277
+:1606 p 4xxg
+:1606 L GeldGrube
+:160600 z 79
+:160600 L h2
+:1604 $ 778
+:1555 L KeuTa
+:1549 DiebesPower 73
+:1517 L KeuTa
+:1509 ╬▒t ff034f.67
+:1506 # e1fec5306bde7c851eb76b9459bc2caebd2cd8d377a6ae913b12b98819664d28
+:1500 L KeuTa
+:1459 BuTz 1
+:145805 z 7a
+:145805 L h2
+:1456 $ 777
+:145507 ╬▒t ff0000
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001 >99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99.txt
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+2016-04-09  11:25 PM             1,557 99.txt
+               1 Datei(en),          1,557 Bytes
+               0 Verzeichnis(se),  1,034,375,168 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe 99.txt
+c38651ca085038040a8da7ef28cc26e2a913d811a5ff6047a91dd98062752e09 *99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir ..\Desktop
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\Desktop
+
+2016-04-09  12:37 AM    <DIR>          .
+2016-04-09  12:37 AM    <DIR>          ..
+2016-04-09  12:37 AM             1,575 9405001.txt
+2016-04-04  02:39 AM         5,670,535 AllHashes-master.zip
+2016-04-05  10:22 PM           111,041 atfb741b.22.TinesHp.png
+2016-03-23  03:55 AM         4,375,704 clisp-2.49-win32-mingw-big.exe
+2016-03-15  02:04 AM           241,210 history.csv
+2016-03-31  01:06 AM           453,551 ld42d5.FinYa.png
+2016-03-31  01:10 AM           726,891 ld42d5.TinesHpDeskTopKacker.png
+2014-11-06  04:19 PM    <DIR>          muddLib07.jelib
+2016-03-23  10:35 PM         1,383,853 ProgrammingGroundUp-1-0-booksize.pdf
+2015-01-15  03:41 AM           495,616 putty.exe
+2016-03-19  02:31 PM           486,065 riscv-spec-v2.0.pdf
+2014-09-29  07:07 AM            67,072 sha1sum.exe
+2014-09-29  07:08 AM            73,216 sha256sum.exe
+2014-11-21  04:24 AM    <DIR>          TinesDeskTop54d
+2016-02-10  02:09 AM    <DIR>          TinesDeskTop54e
+2015-04-12  05:31 PM    <DIR>          TinesDeskTop54f
+2016-02-10  03:13 AM    <DIR>          TinesDeskTop550
+2016-03-08  02:43 PM    <DIR>          TinesDeskTop565
+2016-03-23  06:02 PM    <DIR>          TinesDeskTop56e
+2014-09-29  07:33 AM        10,670,424 WinSCP.exe
+              13 Datei(en),     24,756,753 Bytes
+               9 Verzeichnis(se),  1,033,175,040 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>notepad ..\Desktop\9405001.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+Datei nicht gefunden
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99.txt
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+2016-04-09  11:25 PM             1,557 99.txt
+               1 Datei(en),          1,557 Bytes
+               0 Verzeichnis(se),  1,034,780,672 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "~In9405001.java"
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+[master warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+56246fd] ~In9405001.java
+warning: CRLF will be replaced by LF in In9405001.java.
+The file will have its original line endings in your working directory.
+ 1 file changed, 2 insertions(+), 13 deletions(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>javac In9405001.java
+
+C:\Users\RainerWasserfuhr\AllHashes>java In9405001>99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+Datei nicht gefunden
+
+C:\Users\RainerWasserfuhr\AllHashes>dir 99.txt
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+2016-04-10  12:26 AM             1,575 99.txt
+               1 Datei(en),          1,575 Bytes
+               0 Verzeichnis(se),  1,034,448,896 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe 99.txt
+6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>git status
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        99.txt
+        DirG.txt
+        HashPathG.txt
+        c10.zip
+        c9.txt
+        c9.zip
+        clj.bat
+        cube10.txt
+        cube8.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\RainerWasserfuhr\AllHashes>git add 99.txt
+warning: CRLF will be replaced by LF in 99.txt.
+The file will have its original line endings in your working directory.
+
+C:\Users\RainerWasserfuhr\AllHashes>git commit -am "+99.txt"
+[master 94f40f9] +99.txt
+warning: CRLF will be replaced by LF in 99.txt.
+The file will have its original line endings in your working directory.
+ 1 file changed, 77 insertions(+)
+ create mode 100644 99.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe ..\Desktop\9405001.txt
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *..\\Desktop\\9405001.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe ..\Desktop\3575009.txt
+\2f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0 *..\\Desktop\\3575009.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>rem ..\Desktop\3575009.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir f
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+Datei nicht gefunden
+
+C:\Users\RainerWasserfuhr\AllHashes>dir f:
+ Volume in Laufwerk F: hat keine Bezeichnung.
+ Volumeseriennummer: 6FB5-62D9
+
+ Verzeichnis von F:\
+
+2016-01-29  11:55 AM    <DIR>          LOST.DIR
+2014-06-03  02:47 PM    <DIR>          .android_secure
+2015-02-24  04:01 PM    <DIR>          DCIM
+2016-03-22  05:15 PM    <DIR>          SoundRecorder
+2016-01-29  03:34 AM    <DIR>          QuickMemo
+2014-06-26  12:21 AM    <DIR>          Android
+2016-01-14  10:44 AM    <DIR>          SoundRecorderInternal
+2016-01-14  10:46 AM    <DIR>          QuickMemoInternal
+2015-01-25  11:14 PM    <DIR>          .showme
+2016-01-20  12:32 AM        10,877,819 CAM15746.mp4
+2016-01-14  10:47 AM    <DIR>          runtasticInternal
+2016-01-20  12:33 AM         5,644,404 CAM05685.mp4
+2016-01-20  12:33 AM         5,093,030 CAM05718.mp4
+2016-01-20  12:34 AM         4,358,061 CAM04372.mp4
+2016-03-17  10:59 AM    <DIR>          download
+2016-03-13  05:33 PM           181,633 AUD0273.3gp
+2016-03-13  05:33 PM         1,476,492 AUD0272.3gp
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+               7 Datei(en),     27,633,014 Bytes
+              11 Verzeichnis(se),  1,470,955,520 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>copy ..\Desktop\3575009.txt f:\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+        1 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>winscp
+Der Befehl "winscp" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe f:\1220*
+\05ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a *f:\\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+\2f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0 *f:\\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *f:\\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir f:\1220*
+ Volume in Laufwerk F: hat keine Bezeichnung.
+ Volumeseriennummer: 6FB5-62D9
+
+ Verzeichnis von f:\
+
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+2016-04-11  12:23 AM               590 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+2016-03-04  11:28 PM           346,190 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+               3 Datei(en),        348,355 Bytes
+               0 Verzeichnis(se),  1,470,562,304 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>dir g
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 00FD-2DFD
+
+ Verzeichnis von C:\Users\RainerWasserfuhr\AllHashes
+
+Datei nicht gefunden
+
+C:\Users\RainerWasserfuhr\AllHashes>dir g:
+ Datenträger in Laufwerk G: ist Volume
+ Volumeseriennummer: A06E-8652
+
+ Verzeichnis von G:\
+
+2014-12-20  04:26 PM    <DIR>          TerraDrive
+               0 Datei(en),              0 Bytes
+               1 Verzeichnis(se), 135,994,933,248 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>git pull
+remote: Counting objects: 6, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From https://github.com/wasserfuhr/AllHashes
+   ccc3fd1..5682753  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ IdUrl.txt     | 2 +-
+ ShortHash.txt | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\RainerWasserfuhr\AllHashes>dir g:\TerraDrive
+ Datenträger in Laufwerk G: ist Volume
+ Volumeseriennummer: A06E-8652
+
+ Verzeichnis von g:\TerraDrive
+
+2014-12-20  04:26 PM    <DIR>          .
+2014-12-20  04:26 PM    <DIR>          ..
+2013-12-02  06:52 PM        14,947,306 05b249eaea9a18c11913fa0b66881e1ed98f1357.mp4
+2013-12-10  02:52 PM        14,411,866 0926577316bcd1372b0a581391f5ea3b4e13d3b1.mp4
+2013-11-30  05:24 PM        14,283,501 0a9f0f124f4e8b5da18f16e062e40f962371fa02.mp4
+2014-01-02  09:03 PM        14,353,048 0d8636edfcd73ceac63010e352bf32fc20af7aed.mp4
+2013-12-18  05:56 PM        14,667,583 0e34fc145b1dcb4016d0a06772fab2902ecb1d70.mp4
+2013-12-11  10:32 PM        14,168,195 0e49f788eacdb70fbf6869186e3c5779b6fb7d80.mp4
+2013-12-28  02:02 PM        14,449,856 0f2768f62ed776d9aea3346038f9f5ca54cc0471.mp4
+2013-11-06  11:22 PM        14,871,089 1063e74907daed8c0576be505d140a939f7ebf2c.mp4
+2013-12-06  01:42 AM        14,489,316 132fa351f3a9929bdefe21c9e5b5505aba9384d4.mp4
+2013-12-18  03:22 PM        14,411,257 1344e2a80a8ef28ad1c1678eefebf70cdf587436.mp4
+2013-12-09  11:42 PM        15,356,427 15e5fa26d7c99ef756539883b8b443acc29eb21b.mp4
+2013-12-15  12:30 AM        14,676,080 182bf2b7480abfcf9876fe538664f3697765d7b8.mp4
+2013-12-30  12:34 AM        14,586,278 1a5a11c0202a11916467f31f1412cb3c98f56ba7.mp4
+2013-12-24  06:46 PM        14,444,990 1cd9ace5e80bf1c4077478f1c523f767a81d17c5.mp4
+2013-12-28  08:42 PM        15,236,626 1d91e1630397fa74243f7b8bdcd00ac791e287c5.mp4
+2014-01-02  12:00 AM        14,493,356 1dfb60d624a55d259dabe377f27e4977b774a9e2.mp4
+2013-12-14  03:15 AM        15,351,347 1ff2fc9ea82c7fee16aa279f31e717cf9a7c96d7.mp4
+2013-12-15  05:05 PM        14,380,202 2224249547821b5d15b2d2e31800c80a2a3cb66b.mp4
+2013-12-11  01:24 AM        14,470,966 25bc47d3e808e279ea2e378c751a7600bc17fef9.mp4
+2013-11-29  03:16 AM        15,052,476 267d698387392a64a0ab17fc64b9678a04bc2d0f.mp4
+2013-12-04  04:12 PM        15,046,302 2b99f78e2dc5ffa29db5f94e13d6dc802e46845c.mp4
+2013-12-04  03:23 PM        15,074,372 2df3a67b77f33ce5d9b0f5ddfcfc6dc3a7d9b45b.mp4
+2013-12-28  05:31 PM        14,719,936 2fed7cf0db991a0b8eb39d0a1fe51b7f1f1625fb.mp4
+2013-12-31  01:00 AM        15,354,943 3072cd3b7930c67dba3bacabdf55381607d1b788.mp4
+2013-12-09  05:41 PM        14,566,844 312a73811a69abab45c9a4fc31cceb5812f24d48.mp4
+2014-01-01  05:11 PM        14,366,758 3170847cb3ea8c73adf05a063ca33ff45267d86b.mp4
+2013-12-24  03:38 PM        14,394,187 33f46c82904be2a7d3f2c19448e91b24f9dc7831.mp4
+2013-11-06  11:18 PM        14,432,307 35f9c2c70550662adbf308eae4dbcd462940b7d1.mp4
+2014-05-05  12:14 PM        15,002,784 365cee6a339fec306a51313d3183a7c5e12c02b6.mp3
+2013-12-10  05:31 PM        14,933,182 373f06e6a06ce0f553903780025f9f8eaa6ff7d5.mp4
+2013-12-28  07:41 PM        14,428,327 375e2dfbcc3d0e2de949cbe57e463d410d398d8a.mp4
+2013-12-10  09:41 PM        14,703,693 384cb7bac59a8374f0b1afc39884c79e7574f554.mp4
+2013-12-04  03:37 AM        14,442,412 390fe928bb9689b4ab440666c38fcced7bfbec26.mp4
+2013-11-29  03:28 PM        15,278,734 3d24d9197ba3f2f65383561b5d325dc14ef84de4.mp4
+2013-12-18  01:48 AM        15,077,604 40c9995bd99bd5b21b3803649edc71501eb90c36.mp4
+2013-12-10  02:30 PM        14,277,448 41b13c742665b57dbe391fe03e8a0edf3120b30f.mp4
+2014-03-19  04:52 AM        44,237,586 444242cf621c60f768bb6e2d99cfcf2bf8fe50ba.zip
+2013-12-17  04:26 PM        14,741,746 44d9ad67c54bc995318195990a2363d13021c0c8.mp4
+2013-12-11  01:12 PM        14,882,908 46fb7b4ab98d97c3af8adb0c6c83e651d801ae4f.mp4
+2013-12-10  12:32 AM        15,299,248 4ddf7377ed7ec36c4851dba1c00df9f881fcd961.mp4
+2013-12-04  05:00 AM        14,511,890 55cd03e9d8db86e2f9378bc682911dfaa30cbfff.mp4
+2013-12-26  12:49 PM        14,790,122 5b95cd4d20416925611ca012a34e12a0a4d18bcf.mp4
+2013-12-03  01:58 PM        14,288,839 5e5ceaf5396dc98ed56018e83a71144c76421a1f.mp4
+2013-12-14  12:41 AM        14,150,223 5fdb8554d03902f74bb1ef1d6609b8ebd221fc52.mp4
+2013-12-14  04:27 PM        14,279,455 610876708f283124b0aeb3b9b6d153c9aa5754db.mp4
+2013-12-04  02:41 AM        15,353,712 615bd5456141b5ee5d277558e0c7812199d1a5d5.mp4
+2014-01-02  02:04 AM        15,348,497 62b81745cd77ec5b3905a0d5cbd22799a96d7717.mp4
+2013-12-01  02:22 AM        14,201,283 63f209bf9e7907513ec76930d80a39bddf585354.mp4
+2013-11-13  02:22 AM        15,039,289 69765b51ad829fb6670dda2de38f87e36ce4b55f.mp4
+2014-08-11  12:31 AM        44,237,586 69d02a789958f28ef23213c75160c63f46f4b6e0.zip
+2013-12-17  07:23 PM        14,627,658 6ab9f3ca7048d3072da0c5baed8fb9411fc12556.mp4
+2013-12-26  09:29 PM        14,159,363 6b80a6e36c907d9417ee1192043c07d5043bccd5.mp4
+2013-12-07  04:03 PM        14,348,185 6ba1f92bd4b2f1b5611e1ec2373321a19d1545a5.mp4
+2013-12-03  04:00 PM        15,128,252 6d9126bf259bc81b915edc8977d8ec2322be3839.mp4
+2013-12-04  06:49 PM        14,693,874 6fdefc4f2e7de1d2b96fa28125fb445ff17b6df3.mp4
+2013-12-24  09:38 PM        14,364,517 706f71cf96eac71f86979b2e952651d811db0982.mp4
+2013-12-17  04:01 PM        14,695,723 7134565186f533a38b340be78bab9b932d7433c4.mp4
+2013-12-31  01:05 PM        14,637,025 713ceea823e334ee885b71ec618e5169c3a48767.mp4
+2013-12-30  08:29 PM        14,870,195 73070d94b9eb00a05cc7d4d4e9f69367b5d2c263.mp4
+2013-12-22  03:07 AM        14,398,124 742b5fc8cee6a894e6cb94a38749cb5fb27ae8f9.mp4
+2013-12-31  12:36 PM        14,248,310 746ae25b3943e7ba6b60628ca878f6eec6a94610.mp4
+2013-12-26  06:25 PM        15,257,432 7482f189d8726d40e074ffc56350d32b8009511f.mp4
+2013-12-03  04:26 PM        14,131,898 75cf9a1371de3605c496ffafdd7499b73408d140.mp4
+2013-12-17  10:27 PM        15,257,094 7619121c5efd5d15bc9c78b76947909d2a5034fb.mp4
+2013-12-01  06:31 PM        15,357,840 769a5564e0655f7644becee0106bf205653828a8.mp4
+2013-12-29  08:08 PM        14,494,913 7d1b15dff051b65b6d014528cc3b3747b6ee8c45.mp4
+2013-11-06  11:23 PM        15,192,040 7db7f8e87fcaac58f85280158662e0008dbdf136.mp4
+2013-12-07  10:41 PM        14,982,134 805a1b65c5db0a21630634fdc039f02f874779f9.mp4
+2013-12-11  07:08 PM        14,721,974 85cd960bc68735eddb377a2a431832c6290a5e55.mp4
+2013-12-08  12:42 AM        15,311,046 874bfee733bb504f8127672f9f3400a9b5072c61.mp4
+2013-12-09  03:53 PM        15,370,822 897d421a9bd85e7220164f8450ec54d5f9ca05f5.mp4
+2014-09-12  12:41 PM        16,990,514 b75876be5d725e220908d7bb6ffd267014b55c88.zip
+2012-03-01  03:48 PM        33,049,651 c1e6ed271e747d5ce3dee8d1d66e2b5ec1c5909a.zip
+              73 Datei(en),  1,154,852,566 Bytes
+               2 Verzeichnis(se), 135,994,933,248 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>dir h:
+ Datenträger in Laufwerk H: ist SpaceDrive3
+ Volumeseriennummer: 707D-B6FF
+
+ Verzeichnis von H:\
+
+2014-09-02  12:51 AM                 4 00000000009d31dae92797ddf460409f34959317.bfh
+2014-09-02  12:57 AM                 4 000000002c2b89c0e368c5065d634fb6ac048963.bfh
+2014-09-02  12:07 AM                 4 00000070cfeaaa1c703064a70bc44c21831278ab.bfh
+2014-09-02  03:21 PM        12,612,145 000ed200002459ad4949ae9939e2ddad3f4fb948.mp4
+2013-12-13  02:44 AM        11,614,018 006e3d680abb1890fd4efeecbe5dd7e4d62f65d8.mp4
+2013-12-15  12:23 AM        13,479,892 0088892fa3e4a0f1e3bbdafa4350350ffe8025b2.mp4
+2013-12-06  03:41 AM        14,128,480 00bfc00a6bdab5311cbc0de24d7f516e369d81a1.mp4
+2013-12-04  06:44 AM        10,710,769 00f4cb9e52707bd1d298f95e73e1e4293f9eddf6.mp4
+2013-12-11  10:05 PM         5,069,751 010c0e416b69ef2062ce547e495299a06a557328.mp4
+2013-12-04  07:20 PM        13,761,073 01a9b9c4484c6d4c04743c312a04e56c9b3d39ac.mp4
+2013-12-05  04:26 PM        13,224,612 01bbc2e7efb45d9b4556f7a238175a4b8094059c.mp4
+2013-11-29  04:06 PM        15,617,545 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+2016-02-14  06:09 PM    <DIR>          100LGDSC
+2014-09-16  04:24 PM           402,917 1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+2016-01-18  11:51 PM    <DIR>          BorgSoundRecorder
+2016-02-11  03:59 AM    <DIR>          gd
+2016-02-13  12:20 PM    <DIR>          git
+2016-02-10  11:11 PM    <DIR>          GoogleDrive
+2016-01-08  04:33 AM            34,761 MdFive.txt
+2016-01-13  09:30 PM    <DIR>          SdBlue
+2016-01-14  01:27 AM    <DIR>          SdRed
+2016-01-08  05:02 AM            35,130 ShaOne.txt
+2016-01-18  11:36 PM    <DIR>          SoundRecorder
+2016-02-10  10:34 PM    <DIR>          SpaceDrive
+2016-01-13  09:02 PM    <DIR>          TinesDeskTop54d
+2016-02-14  06:12 PM    <DIR>          TinesDeskTop54e
+2016-01-13  09:04 PM    <DIR>          TinesDeskTop54f
+2016-01-13  09:18 PM    <DIR>          TinesDeskTop550
+2016-02-14  06:15 PM    <DIR>          TinesDeskTop565
+              15 Datei(en),    110,691,105 Bytes
+              14 Verzeichnis(se), 386,703,441,920 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>dir f:\1220*
+ Volume in Laufwerk F: hat keine Bezeichnung.
+ Volumeseriennummer: 6FB5-62D9
+
+ Verzeichnis von f:\
+
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+2016-04-11  12:23 AM               590 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+2016-03-04  11:28 PM           346,190 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+               3 Datei(en),        348,355 Bytes
+               0 Verzeichnis(se),  1,470,562,304 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>copy f:\1220* h:
+f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+Zugriff verweigert
+f:\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+Zugriff verweigert
+f:\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+Zugriff verweigert
+        0 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>dir h:
+ Datenträger in Laufwerk H: ist SpaceDrive3
+ Volumeseriennummer: 707D-B6FF
+
+ Verzeichnis von H:\
+
+2014-09-02  12:51 AM                 4 00000000009d31dae92797ddf460409f34959317.bfh
+2014-09-02  12:57 AM                 4 000000002c2b89c0e368c5065d634fb6ac048963.bfh
+2014-09-02  12:07 AM                 4 00000070cfeaaa1c703064a70bc44c21831278ab.bfh
+2014-09-02  03:21 PM        12,612,145 000ed200002459ad4949ae9939e2ddad3f4fb948.mp4
+2013-12-13  02:44 AM        11,614,018 006e3d680abb1890fd4efeecbe5dd7e4d62f65d8.mp4
+2013-12-15  12:23 AM        13,479,892 0088892fa3e4a0f1e3bbdafa4350350ffe8025b2.mp4
+2013-12-06  03:41 AM        14,128,480 00bfc00a6bdab5311cbc0de24d7f516e369d81a1.mp4
+2013-12-04  06:44 AM        10,710,769 00f4cb9e52707bd1d298f95e73e1e4293f9eddf6.mp4
+2013-12-11  10:05 PM         5,069,751 010c0e416b69ef2062ce547e495299a06a557328.mp4
+2013-12-04  07:20 PM        13,761,073 01a9b9c4484c6d4c04743c312a04e56c9b3d39ac.mp4
+2013-12-05  04:26 PM        13,224,612 01bbc2e7efb45d9b4556f7a238175a4b8094059c.mp4
+2013-11-29  04:06 PM        15,617,545 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+2016-02-14  06:09 PM    <DIR>          100LGDSC
+2014-09-16  04:24 PM           402,917 1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+2016-01-18  11:51 PM    <DIR>          BorgSoundRecorder
+2016-02-11  03:59 AM    <DIR>          gd
+2016-02-13  12:20 PM    <DIR>          git
+2016-02-10  11:11 PM    <DIR>          GoogleDrive
+2016-01-08  04:33 AM            34,761 MdFive.txt
+2016-01-13  09:30 PM    <DIR>          SdBlue
+2016-01-14  01:27 AM    <DIR>          SdRed
+2016-01-08  05:02 AM            35,130 ShaOne.txt
+2016-01-18  11:36 PM    <DIR>          SoundRecorder
+2016-02-10  10:34 PM    <DIR>          SpaceDrive
+2016-01-13  09:02 PM    <DIR>          TinesDeskTop54d
+2016-02-14  06:12 PM    <DIR>          TinesDeskTop54e
+2016-01-13  09:04 PM    <DIR>          TinesDeskTop54f
+2016-01-13  09:18 PM    <DIR>          TinesDeskTop550
+2016-02-14  06:15 PM    <DIR>          TinesDeskTop565
+              15 Datei(en),    110,691,105 Bytes
+              14 Verzeichnis(se), 386,703,441,920 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>dir h:
+ Datenträger in Laufwerk H: ist SpaceDrive3
+ Volumeseriennummer: 707D-B6FF
+
+ Verzeichnis von H:\
+
+2014-09-02  12:51 AM                 4 00000000009d31dae92797ddf460409f34959317.bfh
+2014-09-02  12:57 AM                 4 000000002c2b89c0e368c5065d634fb6ac048963.bfh
+2014-09-02  12:07 AM                 4 00000070cfeaaa1c703064a70bc44c21831278ab.bfh
+2014-09-02  03:21 PM        12,612,145 000ed200002459ad4949ae9939e2ddad3f4fb948.mp4
+2013-12-13  02:44 AM        11,614,018 006e3d680abb1890fd4efeecbe5dd7e4d62f65d8.mp4
+2013-12-15  12:23 AM        13,479,892 0088892fa3e4a0f1e3bbdafa4350350ffe8025b2.mp4
+2013-12-06  03:41 AM        14,128,480 00bfc00a6bdab5311cbc0de24d7f516e369d81a1.mp4
+2013-12-04  06:44 AM        10,710,769 00f4cb9e52707bd1d298f95e73e1e4293f9eddf6.mp4
+2013-12-11  10:05 PM         5,069,751 010c0e416b69ef2062ce547e495299a06a557328.mp4
+2013-12-04  07:20 PM        13,761,073 01a9b9c4484c6d4c04743c312a04e56c9b3d39ac.mp4
+2013-12-05  04:26 PM        13,224,612 01bbc2e7efb45d9b4556f7a238175a4b8094059c.mp4
+2013-11-29  04:06 PM        15,617,545 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+2016-02-14  06:09 PM    <DIR>          100LGDSC
+2014-09-16  04:24 PM           402,917 1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+2016-01-18  11:51 PM    <DIR>          BorgSoundRecorder
+2016-02-11  03:59 AM    <DIR>          gd
+2016-02-13  12:20 PM    <DIR>          git
+2016-02-10  11:11 PM    <DIR>          GoogleDrive
+2016-01-08  04:33 AM            34,761 MdFive.txt
+2016-01-13  09:30 PM    <DIR>          SdBlue
+2016-01-14  01:27 AM    <DIR>          SdRed
+2016-01-08  05:02 AM            35,130 ShaOne.txt
+2016-01-18  11:36 PM    <DIR>          SoundRecorder
+2016-02-10  10:34 PM    <DIR>          SpaceDrive
+2016-01-13  09:02 PM    <DIR>          TinesDeskTop54d
+2016-02-14  06:12 PM    <DIR>          TinesDeskTop54e
+2016-01-13  09:04 PM    <DIR>          TinesDeskTop54f
+2016-01-13  09:18 PM    <DIR>          TinesDeskTop550
+2016-02-14  06:15 PM    <DIR>          TinesDeskTop565
+              15 Datei(en),    110,691,105 Bytes
+              14 Verzeichnis(se), 386,703,441,920 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>copy f:\1220* g:
+f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+f:\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+f:\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+        3 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>dir g:
+ Datenträger in Laufwerk G: ist Volume
+ Volumeseriennummer: A06E-8652
+
+ Verzeichnis von G:\
+
+2014-12-20  04:26 PM    <DIR>          TerraDrive
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+2016-04-11  12:23 AM               590 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+2016-03-04  11:28 PM           346,190 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+               3 Datei(en),        348,355 Bytes
+               1 Verzeichnis(se), 135,994,277,888 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>copy f:\1220* h:
+f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+Zugriff verweigert
+f:\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+Zugriff verweigert
+f:\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+Zugriff verweigert
+        0 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>dir h:
+ Datenträger in Laufwerk H: ist SpaceDrive3
+ Volumeseriennummer: 707D-B6FF
+
+ Verzeichnis von H:\
+
+2014-09-02  12:51 AM                 4 00000000009d31dae92797ddf460409f34959317.bfh
+2014-09-02  12:57 AM                 4 000000002c2b89c0e368c5065d634fb6ac048963.bfh
+2014-09-02  12:07 AM                 4 00000070cfeaaa1c703064a70bc44c21831278ab.bfh
+2014-09-02  03:21 PM        12,612,145 000ed200002459ad4949ae9939e2ddad3f4fb948.mp4
+2013-12-13  02:44 AM        11,614,018 006e3d680abb1890fd4efeecbe5dd7e4d62f65d8.mp4
+2013-12-15  12:23 AM        13,479,892 0088892fa3e4a0f1e3bbdafa4350350ffe8025b2.mp4
+2013-12-06  03:41 AM        14,128,480 00bfc00a6bdab5311cbc0de24d7f516e369d81a1.mp4
+2013-12-04  06:44 AM        10,710,769 00f4cb9e52707bd1d298f95e73e1e4293f9eddf6.mp4
+2013-12-11  10:05 PM         5,069,751 010c0e416b69ef2062ce547e495299a06a557328.mp4
+2013-12-04  07:20 PM        13,761,073 01a9b9c4484c6d4c04743c312a04e56c9b3d39ac.mp4
+2013-12-05  04:26 PM        13,224,612 01bbc2e7efb45d9b4556f7a238175a4b8094059c.mp4
+2013-11-29  04:06 PM        15,617,545 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+2016-02-14  06:09 PM    <DIR>          100LGDSC
+2014-09-16  04:24 PM           402,917 1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+2016-01-18  11:51 PM    <DIR>          BorgSoundRecorder
+2016-02-11  03:59 AM    <DIR>          gd
+2016-02-13  12:20 PM    <DIR>          git
+2016-02-10  11:11 PM    <DIR>          GoogleDrive
+2016-01-08  04:33 AM            34,761 MdFive.txt
+2016-01-13  09:30 PM    <DIR>          SdBlue
+2016-01-14  01:27 AM    <DIR>          SdRed
+2016-01-08  05:02 AM            35,130 ShaOne.txt
+2016-01-18  11:36 PM    <DIR>          SoundRecorder
+2016-02-10  10:34 PM    <DIR>          SpaceDrive
+2016-01-13  09:02 PM    <DIR>          TinesDeskTop54d
+2016-02-14  06:12 PM    <DIR>          TinesDeskTop54e
+2016-01-13  09:04 PM    <DIR>          TinesDeskTop54f
+2016-01-13  09:18 PM    <DIR>          TinesDeskTop550
+2016-02-14  06:15 PM    <DIR>          TinesDeskTop565
+              15 Datei(en),    110,691,105 Bytes
+              14 Verzeichnis(se), 386,703,441,920 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>copy f:\1220* h:
+f:\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+Zugriff verweigert
+f:\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+Zugriff verweigert
+f:\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+Zugriff verweigert
+        0 Datei(en) kopiert.
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe g:\1220*
+\05ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a *g:\\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+\2f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0 *g:\\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *g:\\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe h:\1220*
+\05ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a *h:\\122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+\2f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0 *h:\\12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+\6c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76 *h:\\12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+
+C:\Users\RainerWasserfuhr\AllHashes>dir h:
+ Datenträger in Laufwerk H: ist SpaceDrive3
+ Volumeseriennummer: 707D-B6FF
+
+ Verzeichnis von H:\
+
+2014-09-02  12:51 AM                 4 00000000009d31dae92797ddf460409f34959317.bfh
+2014-09-02  12:57 AM                 4 000000002c2b89c0e368c5065d634fb6ac048963.bfh
+2014-09-02  12:07 AM                 4 00000070cfeaaa1c703064a70bc44c21831278ab.bfh
+2014-09-02  03:21 PM        12,612,145 000ed200002459ad4949ae9939e2ddad3f4fb948.mp4
+2013-12-13  02:44 AM        11,614,018 006e3d680abb1890fd4efeecbe5dd7e4d62f65d8.mp4
+2013-12-15  12:23 AM        13,479,892 0088892fa3e4a0f1e3bbdafa4350350ffe8025b2.mp4
+2013-12-06  03:41 AM        14,128,480 00bfc00a6bdab5311cbc0de24d7f516e369d81a1.mp4
+2013-12-04  06:44 AM        10,710,769 00f4cb9e52707bd1d298f95e73e1e4293f9eddf6.mp4
+2013-12-11  10:05 PM         5,069,751 010c0e416b69ef2062ce547e495299a06a557328.mp4
+2013-12-04  07:20 PM        13,761,073 01a9b9c4484c6d4c04743c312a04e56c9b3d39ac.mp4
+2013-12-05  04:26 PM        13,224,612 01bbc2e7efb45d9b4556f7a238175a4b8094059c.mp4
+2013-11-29  04:06 PM        15,617,545 01be92559d0b445be5237acd6362485bbb51cf37.mp4
+2016-02-14  06:09 PM    <DIR>          100LGDSC
+2016-03-04  11:28 PM           346,190 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+2016-04-11  12:23 AM               590 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+2014-09-16  04:24 PM           402,917 1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+2016-01-18  11:51 PM    <DIR>          BorgSoundRecorder
+2016-02-11  03:59 AM    <DIR>          gd
+2016-02-13  12:20 PM    <DIR>          git
+2016-02-10  11:11 PM    <DIR>          GoogleDrive
+2016-01-08  04:33 AM            34,761 MdFive.txt
+2016-01-13  09:30 PM    <DIR>          SdBlue
+2016-01-14  01:27 AM    <DIR>          SdRed
+2016-01-08  05:02 AM            35,130 ShaOne.txt
+2016-01-18  11:36 PM    <DIR>          SoundRecorder
+2016-02-10  10:34 PM    <DIR>          SpaceDrive
+2016-01-13  09:02 PM    <DIR>          TinesDeskTop54d
+2016-02-14  06:12 PM    <DIR>          TinesDeskTop54e
+2016-01-13  09:04 PM    <DIR>          TinesDeskTop54f
+2016-01-13  09:18 PM    <DIR>          TinesDeskTop550
+2016-02-14  06:15 PM    <DIR>          TinesDeskTop565
+              18 Datei(en),    111,039,460 Bytes
+              14 Verzeichnis(se), 386,742,104,064 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>dir g:
+ Datenträger in Laufwerk G: ist Volume
+ Volumeseriennummer: A06E-8652
+
+ Verzeichnis von G:\
+
+2014-12-20  04:26 PM    <DIR>          TerraDrive
+2016-04-09  12:37 AM             1,575 12206c8f4cea3daeef712e81d6bbf8edcda6c2a16298ddcbddfde58b72ae362b8d76.txt
+2016-04-11  12:23 AM               590 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+2016-03-04  11:28 PM           346,190 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+2016-04-11  10:35 PM    <DIR>          RqLog
+2016-04-11  10:35 PM    <DIR>          SdRed8
+               3 Datei(en),        348,355 Bytes
+               3 Verzeichnis(se), 135,208,763,392 Bytes frei
+
+C:\Users\RainerWasserfuhr\AllHashes>..\Desktop\sha256sum.exe h:\1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+\1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2 *h:\\1dc93dff3c70e82c3f3110bbfcdb1b2f1e582d9737ed26b7a5480fe198eee3f2.jpg
+
+C:\Users\RainerWasserfuhr\AllHashes>
