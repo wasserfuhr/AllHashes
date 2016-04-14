@@ -1,0 +1,20 @@
+commit 9a51a3f9bab52b7c7e846a7b5df5229a602ba175
+tree c33b328e05d08e223dc9b1f345ae62ba105b1c72
+parent ccc3fd14466af8688cea99fbd110af11a08aec94
+author RainerWasserfuhr <wasserfuhr@yahoo.com> 1460283658 +0200
+committer RainerWasserfuhr <wasserfuhr@yahoo.com> 1460283658 +0200
+
+    Update IdUrl.txt
+    
+    ra!
+
+diff --git a/IdUrl.txt b/IdUrl.txt
+index 8bea889..4e8fd2f 100644
+--- a/IdUrl.txt
++++ b/IdUrl.txt
+@@ -1,4 +1,4 @@
+-1 ...
++1 https://new-egypt.appspot.com/ra
+ 2 https://dresdenlabs.appspot.com/ls
+ 3 https://floatingboat2013.appspot.com/ls
+ 4 https://knot-net.appspot.com/ls
