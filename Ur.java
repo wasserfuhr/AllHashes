@@ -4,7 +4,7 @@ public class Ur extends Thread{
   while(true){
    long c=System.currentTimeMillis();
    long t=(lastSec+1)*1000-c;
-   if(t==0){
+   if(t<=0){
     System.out.println(c);
     Runtime.getRuntime().exec("/home/rawa/git/AllHashes/job.sh");
     lastSec=c/1000;
