@@ -4,7 +4,7 @@ public class Ur extends Thread{
    long lastSec=0;
    while(true){
     long c=System.currentTimeMillis();
-    long t=((lastSec+1)*1000-c)/2-10;
+    long t=((lastSec+1)*1000-c)/2-1;
     if(t>0){
      sleep(t);
     }else{
