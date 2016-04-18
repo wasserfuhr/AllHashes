@@ -9,8 +9,8 @@ public class HtTp extends AbstractHandler{
  public void handle(String t, Request br, HttpServletRequest rq, HttpServletResponse rs) throws IOException,ServletException{
   try{
    RT.loadResourceScript("hiccup/core.clj");
-   RT.loadResourceScript("clojure/data/json.clj");
-   String c="(fn[rq rs]((eval(read-string(slurp \"https://dresdenlabs.appspot.com/boot\")))rq rs))";
+   //RT.loadResourceScript("clojure/data/json.clj");
+   String c="(fn[rq rs]((eval(read-string(slurp\"https://knot-net.appspot.com/jboot\")))rq rs))";
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object rootHandlerExpr=LispReader.read(pr,true,null,false);
    IFn rootHandlerFn=(IFn)clojure.lang.Compiler.eval(rootHandlerExpr);
