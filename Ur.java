@@ -11,6 +11,6 @@ public class Ur extends Thread{
      System.out.println(c);
      Runtime.getRuntime().exec("/home/rawa/git/AllHashes/job.sh");
      lastSec=c/1000;}}
-  }finally{}}
+  }catch(Exception e){}}
  public static void main(String[] a)throws Exception{
   new Ur().start();}}
