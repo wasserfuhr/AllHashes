@@ -1,4 +1,4 @@
-Bpublic class Ur extends Thread{
+public class Ur extends Thread{
  public void run(){try{
   long lastSec=0;
   while(true){
