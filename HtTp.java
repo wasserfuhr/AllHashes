@@ -5,16 +5,16 @@ import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
 //http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html :
 public class HtTp extends AbstractHandler{
- public void handle(String target, Request baseRequest, HttpServletRequest rq, HttpServletResponse rs) throws IOException,ServletException{
+ public void handle(String t, Request br, HttpServletRequest rq, HttpServletResponse rs) throws Exception{
   rs.setContentType("text/html; charset=utf-8");
   rs.setStatus(HttpServletResponse.SC_OK);
   rs.getWriter().println("<h1>Hello World</h1>");
-  baseRequest.setHandled(true);}
+  br.setHandled(true);}
  public static void main(String[] a)throws Exception{
-  Server server = new Server(8028);
-  server.setHandler(new HtTp());
-  server.start();
-  server.join();
+  Server s = new Server(8028);
+  s.setHandler(new HtTp());
+  s.start();
+  s.join();
   long lastSec=0;
   while(true){
    long c=System.currentTimeMillis();
