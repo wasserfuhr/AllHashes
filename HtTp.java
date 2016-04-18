@@ -13,7 +13,7 @@ public class HtTp extends AbstractHandler{
    String c="(fn[rq rs]((eval(read-string(slurp \"https://dresdenlabs.appspot.com/boot\")))rq rs))";
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object rootHandlerExpr=LispReader.read(pr,true,null,false);
-   IFn rootHandlerFn=(IFn) Compiler.eval(rootHandlerExpr);
+   IFn rootHandlerFn=(IFn)clojure.lang.Compiler.eval(rootHandlerExpr);
    rootHandlerFn.invoke(rq,rs);
   } finally { }
   br.setHandled(true);}
