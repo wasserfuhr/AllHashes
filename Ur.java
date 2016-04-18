@@ -3,7 +3,7 @@ public class Ur extends Thread{
   long lastSec=0;
   while(true){
    long c=System.currentTimeMillis();
-   long ttn=(lastSec+1)*1000-c;
+   long t=(lastSec+1)*1000-c;
    if(t>0){
     sleep(t/2-10);
    }else{
