@@ -3,9 +3,9 @@ public class Ur extends Thread{
   long lastSec=0;
   while(true){
    long c=System.currentTimeMillis();
-   long t=((lastSec+1)*1000-c)/2;
-   if(t>0){
-    sleep(t);
+   long t=(lastSec+1)*1000-c;
+   if(t>1){
+    sleep(t/2);
    }else{
     System.out.println(c);
     Runtime.getRuntime().exec("/home/rawa/git/AllHashes/job.sh");
