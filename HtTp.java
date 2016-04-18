@@ -10,7 +10,7 @@ public class HtTp extends AbstractHandler{
   try{
    RT.loadResourceScript("hiccup/core.clj");
    //RT.loadResourceScript("clojure/data/json.clj");
-   String c="(eval(read-string(slurp\"https://knot-net.appspot.com/jboot\"))rq rs)";
+   String c="(fn[rq rs]((eval(read-string(slurp\"https://knot-net.appspot.com/jboot\")))rq rs)";
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object rootHandlerExpr=LispReader.read(pr,true,null,false);
    IFn rootHandlerFn=(IFn)clojure.lang.Compiler.eval(rootHandlerExpr);
