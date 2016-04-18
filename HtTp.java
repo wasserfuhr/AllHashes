@@ -14,7 +14,7 @@ public class HtTp extends AbstractHandler{
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object rootHandlerExpr=LispReader.read(pr,true,null,false);
    IFn rootHandlerFn=(IFn)clojure.lang.Compiler.eval(rootHandlerExpr);
-   rootHandlerFn.invoke(rq,rs);
+   rs.getWriter().print(rootHandlerFn.invoke(rq,rs));
   } finally { }
   br.setHandled(true);}
  public static void main(String[] a)throws Exception{
