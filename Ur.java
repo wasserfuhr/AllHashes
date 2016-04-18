@@ -1,5 +1,5 @@
 public class Ur extends Thread{
- public void run()throws Exception{
+ public void run(){//throws Exception{
   long lastSec=0;
   while(true){
    long c=System.currentTimeMillis();
