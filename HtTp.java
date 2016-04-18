@@ -5,7 +5,7 @@ import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
 //http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html :
 public class HtTp extends AbstractHandler{
- public void handle(String t, Request br, HttpServletRequest rq, HttpServletResponse rs) throws Exception{
+ public void handle(String t, Request br, HttpServletRequest rq, HttpServletResponse rs) throws IOException,ServletException{
   rs.setContentType("text/html; charset=utf-8");
   rs.setStatus(HttpServletResponse.SC_OK);
   rs.getWriter().println("<h1>Hello World</h1>");
