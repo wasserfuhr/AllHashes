@@ -7,3 +7,5 @@
 7 https://floatingboat2013.appspot.com/dsStat
 8 https://knot-net.appspot.com/dsStat
 9 https://new-egypt.appspot.com/dsStat
+10 https://beacon.nist.gov/rest/record/last
+11 https://blockchain.info/latestblock
