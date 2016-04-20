@@ -9,3 +9,5 @@
 9 https://new-egypt.appspot.com/dsStat
 10 https://beacon.nist.gov/rest/record/last
 11 https://blockchain.info/latestblock
+12 http://cosinekitty.com/star_catalog.js
+13 http://cosinekitty.com/astronomy.js
