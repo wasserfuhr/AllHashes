@@ -4,3 +4,6 @@
 4 https://knot-net.appspot.com/ls
 5 https://new-egypt.appspot.com/ls
 6 https://dresdenlabs.appspot.com/dsStat
+7 https://floatingboat2013.appspot.com/dsStat
+8 https://knot-net.appspot.com/dsStat
+9 https://new-egypt.appspot.com/dsStat
