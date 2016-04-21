@@ -1,0 +1,500 @@
+   14  git cat-file -s 9a51
+   15  git cat-file -s 9a5
+   16  git cat-file -s 9a51
+   17  git cat-file -t 9a51
+   18  history
+   19  echo -en "commit 533\x0">gctext
+   20  git cat-file -s 9a51
+   21  echo -en "commit 247\x0">gctext
+   22  cat gctext 9a51.gc|sha1sum 
+   23  cat gctext 9a51.gc|more
+   24  cat -?
+   25  cat --help
+   26  cat gctext gctext|xxd
+   27  history
+   28  git cat-file -s 9a5
+   29  git cat-file -s 9a51
+   30  git cat-file -p 9a51
+   31  git cat-file
+   32  git
+   33  git help
+   34  zpipe
+   35  find .git/objects -type f
+   36  git log
+   37  deflate .git/objects/62/643ac339bb5f85f4269ee44748f0c902e35390 
+   38  git show --pretty=raw 6264
+   39  git help object
+   40  git help info
+   41  git help show
+   42  git log 1 --pretty=raw
+   43  git help show
+   44  git log -1 --pretty=raw
+   45  cat .git/objects/pack/pack-
+   46  git help
+   47  git help unpack
+   48  git help pack
+   49  git help unpack-file 
+   50  git help unpack-objects 
+   51  git help show
+   52  git show --format=raw 9a51
+   53  emacs 9a51.gc
+   54  wc 9a51.gc
+   55  history 
+   56  git cat-file -s 9a51
+   57  wc 9a51.gc
+   58  git help show
+   59  git show --format:%H 9a51
+   60  git help show
+   61  git show --pretty:format:%H 9a51
+   62  git help show
+   63  git show --pretty=format:%H 9a51
+   64  git help show
+   65  git show --pretty=tformat:%H 9a51
+   66  git show --format=format:%H 9a51
+   67  git help show
+   68  git show --pretty=raw 9a51
+   69  git log
+   70  git show --pretty=raw 95d
+   71  git show --pretty=raw 95d7
+   72  deflate .git/objects/95/d7ab85bab4663a7d901b7f17aa7e3441f1ac58 
+   73  deflate .git/objects/62/643ac339bb5f85f4269ee44748f0c902e35390 
+   74  deflate .git/objects/62/643ac339bb5f85f4269ee44748f0c902e35390|xxd
+   75  emacs 9a51.gc
+   76  deflate .git/objects/62/643ac339bb5f85f4269ee44748f0c902e35390|xxd
+   77  git log
+   78  emacs 9a51.gc
+   79  history 
+   80  cat gctext 9a51.gc|sha1sum 
+   81  cd
+   82  dir
+   83  cd g
+   84  cd git/
+   85  ls
+   86  ls -l
+   87  rm AllHashes.zip
+   88  cd AllHashes/
+   89  git status
+   90  git add ur.txt
+   91  git commit ur.txt
+   92  git push
+   93  git show 31a
+   94  git show 31a2
+   95  deflate .git/objects/31/a23b18b86f4c43caf57e19a1f811f92c17b457 
+   96  deflate .git/objects/31/a23b18b86f4c43caf57e19a1f811f92c17b457 |sha1sum 
+   97  emacs 9a51.gc
+   98  history 
+   99  cat gctext 9a51.gc|sha1sum 
+  100  deflate .git/objects/31/a23b18b86f4c43caf57e19a1f811f92c17b457 |xxd
+  101  xxd 9a51.gc
+  102  cat gctext 9a51.gc|xxd
+  103  ls -l 9*
+  104  history 
+  105  git cat-file -s 9a51
+  106  ls -l 9*
+  107  cat gctext 9a51.gc|sha1sum 
+  108  git cat-file -t 9a51
+  109  git help cat-file
+  110  git cat-file commit 9a51
+  111  git cat-file commit 9a51 > cat9a51.txt
+  112  ls -l *9a*
+  113  diff 9a51.gc cat9a51.txt 
+  114  more 9a51.gc cat9a51.txt 
+  115  xxd 9a51.gc cat9a51.txt 
+  116  xxd 9a51.gc 
+  117  xxd cat9a51.txt 
+  118  xxd 
+  119  xxd -?
+  120  git cat-file commit 9a51 > cat9a51.txt
+  121  xxd cat9a51.txt 
+  122  xxd 9a51.
+  123  xxd 9a51.gc
+  124  emacs 9a51.gc
+  125  git status
+  126  git add 9a51.gc 9a51_.gc cat9a51.txt gctext
+  127  git commit -m "+9a51.gc +9a51_.gc +cat9a51.txt +gctext"
+  128  emacs 9a51.gc
+  129  diff 9a51.gc cat9a51.txt 
+  130  emacs 9a51.gc
+  131  diff 9a51.gc cat9a51.txt 
+  132  history
+  133  cat gctext 9a51.gc|sha1sum 
+  134  cat gctext 9a51.gc|sha256sum 
+  135  cat gctext 9a51.gc > /home/rawa/SpaceDrive/1220e2e08a11a27e875cde6b71b462df5088295ffb5ade8b4512023f4307c080575f.gc
+  136  sha1sum /home/rawa/SpaceDrive/1220e2e08a11a27e875cde6b71b462df5088295ffb5ade8b4512023f4307c080575f.gc
+  137  ls -l /home/rawa/SpaceDrive/1220e2e08a11a27e875cde6b71b462df5088295ffb5ade8b4512023f4307c080575f.gc
+  138  ls -l /home/rawa/SpaceDrive/*bc
+  139  #git mv OneToTwo.txt
+  140  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.bin|sha1sum 
+  141  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.bin|sha256sum 
+  142  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.hex|more
+  143  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.hex|wc
+  144  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.bin|wc
+  145  python
+  146  grep unhex AeDump/*
+  147  grep hex AeDump/*
+  148  ls AeDump/
+  149  grep unhex /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  150  grep unhex /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/*
+  151  cat 
+  152  history
+  153  history|grep Sb
+  154  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+  155  git status
+  156  cat ur.txt 
+  157  #cp ur3.log 
+  158  #a=`curl https://knot-net.appspot.com/at`;echo at$a;cp ur3.log >at$a.ur.log
+  159  history|grep ur
+  160  ls -l *ur*
+  161  cat /home/rawa/SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  162  ls -l /home/rawa/SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  163  cp /home/rawa/SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/05ea.txt
+  164  history 
+  165  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  166  ls -l
+  167  git help verify
+  168  pwd
+  169  cd git/
+  170  ls
+  171  df
+  172  cd
+  173  du -k -d 2 |sort -n
+  174  du -k --depth 2 |sort -n
+  175  du --help
+  176  du -k |sort -n
+  177  du -k |man
+  178  du -k 
+  179  du -k --max-depth 2
+  180  du -k --max-depth 2|sort -n
+  181  man du
+  182  du -b --max-depth 2|sort -n
+  183  history 
+  184  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  185  ls -l
+  186  ls DriveIn/
+  187  #ls DriveIn/u
+  188  ls -l
+  189  #mv atef73* in
+  190  mv DriveIn/ in
+  191  mv -i 94.txt atef73* in
+  192  history|grep Bf
+  193  more BfNew.log|grep 000000
+  194  echo "000000: 199c 7d5f d701"|xxd -r>122000000000003c55bb67f8de0dc205f91ece63a6a7968704dfb950c952e2d12ebc.bfh
+  195  sha256sum 122000000000003c55bb67f8de0dc205f91ece63a6a7968704dfb950c952e2d12ebc.bfh 
+  196  mv 122000000000003c55bb67f8de0dc205f91ece63a6a7968704dfb950c952e2d12ebc.bfh SpaceDrive/
+  197  ls SpaceDrive/122000000*
+  198  ls git/AllHashes/ur*
+  199  ls -l git/AllHashes/ur*
+  200  #cp git/AllHashes/ur3.log at$
+  201  history|grep at
+  202  #cp git/AllHashes/ur3.log at$
+  203  a=`curl https://knot-net.appspot.com/at`;echo at$a;cp git/AllHashes/ur3.log at$.ur3.log
+  204  mv at\$.ur3.log at10c3b05.85.ur3.log
+  205  sha256sum at10c3b05.85.ur3.log
+  206  wc at10c3b05.85.ur3.log
+  207  cd git/AllHashes/
+  208  ls *a
+  209  ls -l *a
+  210  java LineLen 
+  211  more /home/rawa/at10c3b05.85.ur3.log|java LineLen|more
+  212  more /home/rawa/at10c3b05.85.ur3.log|java LineLen|more|sort 
+  213  tail -f ur3.log 
+  214  man tail
+  215  tail -f -n 99 ur3.log 
+  216  df
+  217  cat Ur.java
+  218  tail -f /home/rawa/BfNew.log
+  219  tail -f /home/rawa/BfLog.log 
+  220  ls -l /home/rawa/Bf*
+  221  tail -f /home/rawa/BfNew.log
+  222  cp Ur.java HtTp.java
+  223  git add HtTp.java
+  224  git commit -m "+HtTp.java"
+  225  git pull
+  226  emacs HtTp.java
+  227  git commit -am "~HtTp.java"
+  228  emacs HtTp.java
+  229  git commit -am "~HtTp.java"
+  230  javac HtTp.java
+  231  emacs HtTp.java
+  232  git commit -am "~HtTp.java"
+  233  javac HtTp.java
+  234  wget http://central.maven.org/maven2/org/eclipse/jetty/aggregate/jetty-all/9.3.8.v20160314/jetty-all-9.3.8.v20160314-uber.jar 
+  235  sha1sum jetty-all-9.3.8.v20160314-uber.jar 
+  236  javac -cp jetty-all-9.3.8.v20160314-uber.jar HtTp.java
+  237  javac -v
+  238  javac -version
+  239  wget http://central.maven.org/maven2/org/eclipse/jetty/aggregate/jetty-all/8.1.9.v20130131/jetty-all-8.1.9.v20130131.jar
+  240  javac -cp jetty-all-8.1.9.v20130131.jar HtTp.java
+  241  ls /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  242  javac -cp /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  243  java HtTp
+  244  java -cp /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  245  java -cp .:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  246  #java -cp .:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  247  java -cp .:jetty-all-8.1.9.v20130131.jar HtTp
+  248  unzip -l jetty-all-8.1.9.v20130131.jar
+  249  unzip -l /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+  250  unzip -l /home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar 
+  251  history
+  252  java -cp .:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  253  emacs HtTp.java
+  254  history
+  255  git commit -am "~HtTp.java"
+  256  javac -cp /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  257  emacs HtTp.java
+  258  git commit -am "~HtTp.java"
+  259  emacs HtTp.java
+  260  git commit -am "~HtTp.java"
+  261  javac -cp /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  262  emacs HtTp.java
+  263  javac -cp /home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  264  ls -l /home/rawa/.m2/repository/org/clojure/clojure/
+  265  ls -l /home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+  266  javac -cp /home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  267  git commit -am "~HtTp.java"
+  268  emacs HtTp.java
+  269  git commit -am "~HtTp.java"
+  270  javac -cp /home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  271  history
+  272  java -cp .:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  273  java -cp .:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  274  history 
+  275  #java -cp .:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20 HtTp
+  276  java -cp .:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  277  ls -l /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/WEB-INF/
+  278  ls -l /home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/
+  279  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  280  emacs HtTp.java
+  281  history
+  282  git commit -am "~HtTp.java"
+  283  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  284  javac -cp /home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  285  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  286  emacs HtTp.java
+  287  history
+  288  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  289  git commit -am "~HtTp.java"
+  290  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  291  emacs HtTp.java
+  292  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  293  git commit -am "~HtTp.java"
+  294  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  295  emacs HtTp.java
+  296  git commit -am "~HtTp.java"
+  297  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  298  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  299  emacs HtTp.java
+  300  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  301  git commit -am "~HtTp.java"
+  302  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  303  ps aux
+  304  #kill -9 31735
+  305  top
+  306  kill -9 31735
+  307  emacs HtTp.java
+  308  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  309  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  310  history
+  311  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  312  a=`curl https://knot-net.appspot.com/at`;echo at$a;nohup java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp > /home/rawa/in/at$a.HtTp.log &
+  313  tail -f /home/rawa/in/at10c69ee.46.HtTp.log
+  314  top
+  315  tail -f /home/rawa/in/at10c69ee.46.HtTp.log
+  316  history
+  317  history|grep hist
+  318  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  319  tail /home/rawa/git/AllHashes/at10c824d.a1.SbOneHist.txt
+  320  git status
+  321  cd git/AllHashes/
+  322  git status
+  323  rm jetty-all-9.3.8.v20160314-uber.jar
+  324  git add at1070bf4.54.SbOneHist.txt at1082f8d.7c.SbOneHist.txt at10850b9.e7.SbOneHist.txt at10c824d.a1.SbOneHist.txt
+  325  git commit -m "+at1070bf4.54.SbOneHist.txt +at1082f8d.7c.SbOneHist.txt +at10850b9.e7.SbOneHist.txt +at10c824d.a1.SbOneHist.txt"
+  326  history|grep git
+  327  git commit -am "~HtTp.java"
+  328  git status
+  329  ls -l jetty-all-8.1.9.v20130131.jar
+  330  wget http://central.maven.org/maven2/org/eclipse/jetty/aggregate/jetty-all/8.1.9.v20130131/jetty-all-8.1.9.v20130131.jar.sha1
+  331  sha1sum jetty-all-8.1.9.v20130131.jar
+  332  cat jetty-all-8.1.9.v20130131.jar.sha1 
+  333  ls -l  jetty-all-8.1.9.v20130131.jar*
+  334  cat a.sha256 
+  335  mv a.sha256 jetty-all-8.1.9.v20130131.jar.sha2
+  336  emacs jetty-all-8.1.9.v20130131.jar.sha2
+  337  ls -l je*
+  338  git add jetty-all-8.1.9.v20130131.jar jetty-all-8.1.9.v20130131.jar.sha1 jetty-all-8.1.9.v20130131.jar.sha2
+  339  git commit -m "+jetty-all-8.1.9.v20130131.jar +jetty-all-8.1.9.v20130131.jar.sha1 +jetty-all-8.1.9.v20130131.jar.sha2"
+  340  git status
+  341  git pull
+  342  git push
+  343  cat Ur.java
+  344  emacs Ur.java
+  345  #javac Ur.java 
+  346  git add Ur.java
+  347  #git commit -am "~Ur.java"
+  348  git status
+  349  git commit -am "~Ur.java"
+  350  javac Ur.java 
+  351  emacs Ur.java
+  352  javac Ur.java
+  353  git commit -am "~Ur.java"
+  354  emacs Ur.java
+  355  git commit -am "~Ur.java"
+  356  javac Ur.java
+  357  emacs Ur.java
+  358  git commit -am "~Ur.java"
+  359  javac Ur.java
+  360  grep catch *a
+  361  emacs Ur.java
+  362  git commit -am "~Ur.java"
+  363  javac Ur.java
+  364  java Ur
+  365  emacs Ur.java
+  366  git commit -am "~Ur.java"
+  367  javac Ur.java
+  368  emacs Ur.java
+  369  git commit -am "~Ur.java"
+  370  javac Ur.java
+  371  emacs Ur.java
+  372  git commit -am "~Ur.java"
+  373  javac Ur.java
+  374  java Ur
+  375  emacs Ur.java
+  376  git commit -am "~Ur.java"
+  377  javac Ur.java
+  378  java Ur
+  379  emacs Ur.java
+  380  cat job.sh
+  381  cat ~/git/un/job.sh
+  382  git commit -am "~Ur.java"
+  383  javac Ur.java
+  384  java Ur
+  385  emacs Ur.java
+  386  git commit -am "~Ur.java"
+  387  javac Ur.java
+  388  emacs Ur.java
+  389  git commit -am "~Ur.java"
+  390  javac Ur.java
+  391  java Ur
+  392  emacs Ur.java
+  393  git commit -am "~Ur.java"
+  394  javac Ur.java
+  395  java Ur
+  396  emacs Ur.java
+  397  git commit -am "~Ur.java"
+  398  javac Ur.java
+  399  java Ur
+  400  emacs Ur.java
+  401  git commit -am "~Ur.java"
+  402  javac Ur.java
+  403  java Ur
+  404  git status
+  405  ls -l
+  406  cat HtTp.java
+  407  cat Ur.java
+  408  emacs HtTp.java
+  409  git status
+  410  history 
+  411  history|grep his
+  412  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  413  ls
+  414  git status
+  415  git commit -am "~Ur.java"
+  416  git add at10c95a5.7a.SbOneHist.txt
+  417  git commit -m "+at10c95a5.7a.SbOneHist.txt"
+  418  git status
+  419  git push
+  420  git status
+  421  cd
+  422  cd in/RqLog/
+  423  ls
+  424  grep RqL df.new-egypt.rlog|wc
+  425  more d.new-egypt.rlog 
+  426  grep encount *
+  427  grep ReqL d9.dresdenlabs.rlog|wc
+  428  more d9.dresdenlabs.rlog
+  429  grep RequestL d9.dresdenlabs.rlog|wc
+  430  wc d9.dresdenlabs.rlog 
+  431  ls -l|sort -n -k 5
+  432  ls
+  433  cd
+  434  history
+  435  history|noh
+  436  history|grep noh
+  437  tail /home/rawa/in/at*.HtTp.log
+  438  cd git/AllHashes/
+  439  java ur
+  440  java Ur
+  441  cat Ur.java 
+  442  ls
+  443  java Ur
+  444  top
+  445  kill -9 17088
+  446  history|grep noh
+  447  a=`curl https://knot-net.appspot.com/at`;echo at$a;nohup java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp > /home/rawa/in/at$a.HtTp.log &
+  448  tail -f /home/rawa/in/at10cc66d.01.HtTp.log
+  449  tail /home/rawa/in/at10cc66d.01.HtTp.log
+  450  tail -n 99 /home/rawa/in/at10cc66d.01.HtTp.log
+  451  ls -l Ht*
+  452  history|grep Ht
+  453  javac -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp.java
+  454  top
+  455  kill -9 26458
+  456  a=`curl https://knot-net.appspot.com/at`;echo at$a;nohup java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/home/rawa/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/home/rawa/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp > /home/rawa/in/at$a.HtTp.log &
+  457  tail -n 99 /home/rawa/in/at10cc745.65.HtTp.log
+  458  tail -f /home/rawa/in/at10cc745.65.HtTp.log
+  459  history
+  460  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  461  cat /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/ug.clj 
+  462  #cat /home/rawa/GitHoster/GoogleProjectHosting/ungit.wiki/
+  463  cat /home/rawa/GitHoster/GoogleProjectHosting/ungit.wiki/HashSplit.wiki 
+  464  ls /home/rawa/
+  465  ls -l /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/*t
+  466  wc /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/05ea.txt 
+  467  sha256sum /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/05ea.txt 
+  468  history 
+  469  history|grep noh
+  470  history|grep defl
+  471  pwd
+  472  cd git/AllHashes/
+  473  emacs I.java
+  474  git add I.java
+  475  git status
+  476  git add at10d548c.c7.SbOneHist.txt
+  477  git commit -m "+at10d548c.c7.SbOneHist.txt I.java"
+  478  history 
+  479  ls
+  480  ls I*
+  481  emacs I.java 
+  482  git status
+  483  emacs I.java
+  484  git status
+  485  git commit -am "~I.java"
+  486  javac I.java
+  487  emacs I.java
+  488  javac I.java
+  489  git commit -am "~I.java"
+  490  ls -l I.*
+  491  javap I
+  492  javap -?
+  493  javap -c I
+  494  ls -l u*
+  495  ls -l /home/rawa/in/at*lg
+  496  ls -l /home/rawa/in/at*log
+  497  ls -l /home/rawa/in/at10cc745.65.HtTp.log
+  498  tail -f /home/rawa/in/at10cc745.65.HtTp.log
+  499  history 
+  500  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
+  501  history 
+  502  tail -f /home/rawa/in/at10cc745.65.HtTp.log
+  503  pwd
+  504  history
+  505  history|grep noh
+  506  history|grep Bf
+  507  more BfNew.log|grep 000000
+  508  top
+  509  pwd
+  510  #https://dresdenlabs.appspot.com/ls
+  511  pwd
+  512  history
+  513  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneHist.txt
