@@ -1,0 +1,500 @@
+  486  cd ..
+  487  cd AeDump
+  488  ls
+  489  more dump.sh 
+  490  more DumpHash.txt 
+  491       curl https://dresdenlabs.appspot.com/eval/24756001 > aa.txt
+  492  more aa.tx
+  493       curl https://dresdenlabs.appspot.com/eval/24756001 > aa.txt
+  494  more aa.txt 
+  495  rm aa.txt
+  496  curl https://dresdenlabs.appspot.com/eval/24756001 >PleaseLogIn.txt
+  497  ls
+  498  more dump.sh
+  499  tail -l 2 dump.sh
+  500  tail -n 2 dump.sh
+  501  more ~/Desktop/at1029b7f.a2.purge.html
+  502  history 
+  503  history|grep knot
+  504  cd ..
+  505  a=`curl https://knot-net.appspot.com/at`;echo $a;history>at$a.BmHist.txt
+  506  a=`curl https://knot-net.appspot.com/at`;echo $a;curl http://s.sl4.eu/JspTest.jsp|cat
+  507  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/eval/26706002 >at$a.purge.txt
+  508  ls *urg*
+  509  more at1029e15.12.purge.txt 
+  510  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/eval/30496002\?l=1001 >at$a.purge.txt
+  511  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/eval/30496002\?l=1001 >at$a.purge.txt
+  512  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/eval/30496002\?l=1001 >at$a.purge.txt
+  513  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt
+  514  beep
+  515  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt
+  516  tput bel
+  517  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  518  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  519  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  520  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  521  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  522  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  523  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  524  more at102a118.60.purge.txt 
+  525  more at102a118.60.purge.txt 
+  526  cat at102a118.60.purge.txt 
+  527  cat at102a0f4.63.purge.txt
+  528  cat at102a0bd.de.purge.txt
+  529  curl https://www.wikidata.org/wiki/Special:EntityData/Q107006.nt|more
+  530  curl https://www.wikidata.org/wiki/Special:EntityData/Q107006.nt|grep P18
+  531  curl https://floatingboat2013.appspot.com/raw/7685002|cat
+  532  curl https://floatingboat2013.appspot.com/raw/7685002|xxd
+  533  curl --help
+  534  shasum -a 256 ~/Desktop/HiPoDeskTopLd42d3/CAM22659.jpg 
+  535  #shasum -a 256 ~/Desktop/HiPoDeskTopLd42d3/*
+  536  history 
+  537  a=`curl https://knot-net.appspot.com/at`;echo $a;shasum -a 256 ~/Desktop/HiPoDeskTopLd42d3/* >at$a.BeHa.txt
+  538  cat ~/Desktop/HiPoDeskTopLd42d3/*BeHa*
+  539  cat *BeHa*
+  540  shasum -a 256 *BeHa*
+  541  a=`curl https://knot-net.appspot.com/at`;echo $a;shasum -a 256 ~/Desktop/HiPoDeskTopLd42d3/* >at$a.BeHa.txt
+  542  shasum -a 256 *BeHa*
+  543  ls -l *BeHa*
+  544  #lynx http://clojure.org/reference/compilation
+  545  lynx -?
+  546  lynx --help
+  547  man lynx
+  548  lynx
+  549  ls -l /Volumes/SDRED8/
+  550  shasum -a 256 /Volumes/SDRED8/1220*
+  551  mkdir /Volumes/SDRED8/DriveIn
+  552  #mkdir /Volumes/SDRED8/
+  553  history 
+  554  a=`curl https://knot-net.appspot.com/at`;echo $a;shasum -a 256 /Volumes/SDRED8/* >at$a.AuHash.txt
+  555  a=`curl https://knot-net.appspot.com/at`;echo $a;shasum -a 256 /Volumes/SDRED8/CAM* >at$a.CaHash.txt
+  556  ls at103*
+  557  ls -l at103*
+  558  git status
+  559  ls -l *purge*
+  560  git add at10*
+  561  git commit -m "+at10*"
+  562  git status
+  563  git add AeDump/PleaseLogIn.txt
+  564  git commit -m "+AeDump/PleaseLogIn.txt"
+  565  git status
+  566  git pull
+  567  git pull
+  568  git push
+  569  git status
+  570  du
+  571  du -b
+  572  du -k
+  573  history|grep Bm
+  574  a=`curl https://knot-net.appspot.com/at`;echo $a;history>at$a.BmHist.txt
+  575  a=`curl https://knot-net.appspot.com/at`;echo $a;history>at$a.BmHist.txt
+  576  history|grep purge
+  577  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  578  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  579  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 >at$a.purge.txt;tput bel
+  580  pwd
+  581  git status
+  582  ls at103*Bm*
+  583  mv at103*Bm* ~/Desktop/
+  584  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  585  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  586  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  587  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  588  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  589  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  590  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  591  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  592  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  593  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  594  history|grep In
+  595  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  596  lynx
+  597  lynx
+  598  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  599  git pull
+  600  sort MdFive.txt 
+  601  sort -c MdFive.txt 
+  602  git pull
+  603  sort -c MdFive.txt 
+  604  md5 *
+  605  history |grep pur
+  606  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  607  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  608  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  609  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  610  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  611  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  612  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  613  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  614  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  615  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  616  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  617  ls ~/Desktop/
+  618  ls ~/Desktop/*oo*
+  619  ls ~/Desktop/*Goo*
+  620  ls ~/Desktop/?10*
+  621  #more \\ 10614209_10152428315144037_7908787209690787824_n.jpg 
+  622  ls *htm
+  623  ls ~/Desktop/*tm
+  624  ls ~/Desktop/?1*tm
+  625  mv ~/Desktop/?1*tm ~/Desktop/at1054a6b.06.Google\ -\ YouTube\ Watch\ History.full.htm
+  626  history |grep Bm
+  627  a=`curl https://knot-net.appspot.com/at`;echo $a;history>at$a.BmHist.txt
+  628  more at10564bb.66.BmHist.txt 
+  629  history |grep purge
+  630  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  631  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  632  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  633  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  634  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  635  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  636  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  637  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  638  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  639  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  640  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  641  #a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  642  irb
+  643  zpipe
+  644  git log
+  645  git verify
+  646  git validate
+  647  git help
+  648  git help -a
+  649  git help -g
+  650  zpipe
+  651  cd
+  652  du -b
+  653  du --help
+  654  man du
+  655  du -k
+  656  pwd
+  657  du -k --depth 2
+  658  du -k -d 1
+  659  history |grep at
+  660  #a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/Desktop/at$a.purge.txt;tput bel
+  661  #a=`curl https://knot-net.appspot.com/at`;echo $a;
+  662  history 
+  663  a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 1 > ~/Desktop/at$a.BmDu.txt
+  664  a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 1 ~/Desktop > ~/Desktop/at$a.BmDu.txt;more ~/Desktop/at$a.BmDu.txt
+  665  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566|sort -k -n 5
+  666  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566|sort -nk 5
+  667  #ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566|sort -nk 5
+  668  shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop566/*
+  669  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566|sort -nk 5
+  670  shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop566/*mp3
+  671  #shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop566/*mp3
+  672  cp /Users/rawa/Desktop/HiPoBorgDeskTop566/*mp3 /Volumes/SPACEDRIVE1/ad107/
+  673  cd /Users/rawa/Desktop/HiPoBorgDeskTop566/
+  674  #shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop566/*mp3
+  675  a=`curl https://knot-net.appspot.com/at`;echo $a; shasum -a 256 > at$a.mp3.txt
+  676  a=`curl https://knot-net.appspot.com/at`;echo $a; shasum -a 256 *mp3 > at$a.mp3.txt
+  677  cd /Volumes/SPACEDRIVE1/ad107/
+  678  a=`curl https://knot-net.appspot.com/at`;echo $a; shasum -a 256 *mp3 > at$a.mp3.txt
+  679  ls -l
+  680  shasum -a 256 at107ff29.de.mp3.txt 
+  681  shasum -a 256 /Users/rawa/Desktop/HiPoBorgDeskTop566/at107fef7.af.mp3.txt 
+  682  pwd
+  683  rm /Users/rawa/Desktop/HiPoBorgDeskTop566/*mp3
+  684  history 
+  685  du -k -d 1 ~/Desktop
+  686  du -k -d 1 ~/Desktop/HiPoBorgDeskTop566/
+  687  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566|sort -nk 5
+  688  du -k -d 1 ~/
+  689  du -k -d 1 ~/Library/
+  690  du -k -d 1 ~/Library/Application\ Support/
+  691  du -k -d 1 ~/Library/Application\ Support/Google/
+  692  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/
+  693  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/
+  694  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/Application\ Cache/
+  695  du -k -d 1 ~/Library/
+  696  du -k -d 1 ~/Library/Caches/
+  697  du -k -d 1 ~/
+  698  du -k -d 1 ~/Desktop/
+  699  ls -l *|sort -n -k 5
+  700  ls -l /Users/rawa/Desktop/|sort -n -k 5
+  701  ls -l /Users/rawa/Desktop/*webm|sort -n -k 5
+  702  history 
+  703  a=`curl https://knot-net.appspot.com/at`;echo $a; shasum -a 256 /Users/rawa/Desktop/*webm > at$a.webm.txt; cat *webm.txt
+  704  mv -i /Users/rawa/Desktop/*webm /Volumes/SPACEDRIVE1/
+  705  du -k -d 1 ~/Desktop
+  706  ls -l /Users/rawa/Desktop/|sort -n -k 5
+  707  du -k -d 1 ~/Desktop
+  708  du -k -d 1 ~/Desktop/HiPoBorgDeskTop566/
+  709  ls -l /Users/rawa/Desktop/HiPoBorgDeskTop566/|sort -n -k 5
+  710  du -k -d 1 ~/Desktop/HiPoBorgDeskTop566/
+  711  du -k -d 1 ~/Desktop/HiPoDeskTopLd42d3/
+  712  ls -l /Users/rawa/Desktop/HiPoDeskTopLd42d3/|sort -n -k 5
+  713  pwd
+  714  cd /Users/rawa/Desktop/
+  715  mv HiPoBorgDeskTop566/DcIm/ .
+  716  mv HiPoBorgDeskTop566/AeBackup/ .
+  717  du -k -d 1 ~/Desktop/
+  718  du -k -d 1 ~/Desktop/git
+  719  cd git/DigitalEarth/
+  720  git status
+  721  du -k -d 1 ~/
+  722  du -k -d 1 ~/Music/
+  723  du -k -d 1 ~/Music/iTunes/
+  724  du -k -d 1 ~/Music/iTunes/iTunes\ Media/
+  725  du -k -d 1 ~/Music/iTunes/iTunes\ Media/Music/
+  726  du -k -d 1 ~/Music/iTunes/iTunes\ Media/Music/Unknown\ Artist/
+  727  du -k -d 1 ~/Music/iTunes/iTunes\ Media/Music/Unknown\ Artist/Unknown\ Album/
+  728  mv ~/Music/iTunes/iTunes\ Media/Music/Unknown\ Artist/Unknown\ Album /Users/rawa/Desktop/UnknownAlbum
+  729  du -k -d 1 ~/Music/iTunes/
+  730  du -k -d 1 ~/
+  731  du -k -d 1 ~/Pictures/
+  732  du -k -d 1 ~/Pictures/iPhoto\ Library.photolibrary/
+  733  du -k -d 1 ~/Pictures/iPhoto\ Library.photolibrary/Database/
+  734  #du -k -d 1 ~/Pictures/iPhoto\ Library.photolibrary/Database/
+  735  du -k -d 1 ~/
+  736  du -k -d 1 ~/Library/
+  737  du -k -d 1 ~/Library/Caches/
+  738  du -k -d 1 ~/Library/Caches/com.google.SoftwareUpdate/
+  739  ls -l ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome
+  740  ls -l ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome*
+  741  ls -l ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_*
+  742  history 
+  743  #a=`curl https://knot-net.appspot.com/at`;echo $a; 
+  744  a=`curl https://knot-net.appspot.com/at`;echo $a; ls -l ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_* > ~/Desktop/at$a.rmChrome.txt
+  745  cat ~/Desktop/at$a.rmChrome.txt
+  746  rm ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_45.0.2454.*
+  747  rm ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_46.0.2490.*
+  748  rm ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_47.0.2526.*
+  749  rm ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome_48.0.2564.103
+  750  history 
+  751  du -k -d 1 ~/Library/Caches/com.google.SoftwareUpdate/
+  752  #du -k -d 1 ~/Library/Caches/com.google.SoftwareUpdate/Downloads/com.google.Chrome
+  753  a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 1 > ~/Desktop/at$a.BmDu.txt
+  754  cat ~/Desktop/at*.BmDu.txt
+  755  du -k -d 1 ~
+  756  du -k -d 1 ~/Library/
+  757  du -k -d 1 ~/Library/Caches/
+  758  du -k -d 1 ~/Library/Caches/
+  759  du -k -d 1 ~/Library/
+  760  du -k -d 1 ~/Library/Caches/
+  761  du -k -d 1 ~/Library/Caches/com.apple.Safari/
+  762  du -k -d 1 ~/
+  763  du -k -d 1 ~/Desktop/
+  764  du -k -d 1 ~/Desktop/DcIm/
+  765  ls -l ~/Desktop/DcIm/
+  766  ls -l ~/Desktop/DcIm/|more
+  767  #ls -l ~/Desktop/DcIm/|
+  768  cd
+  769  cd Desktop/
+  770  mkdir DiebesCam
+  771  mv -i DcIm/CAM* DiebesCam/
+  772  du -k -d 1 ~/Desktop/
+  773  pwd
+  774  cd DiebesCam/
+  775  ls -l|more
+  776   history |grep his
+  777  #a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/gi at$a.BmHist.txt
+  778  ~/Desktop/git/AllHashes/
+  779  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/Desktop/git/AllHashes/at$a.BmHist.txt
+  780  a=`curl https://knot-net.appspot.com/at`;echo $a;shasum -a 256 ~/Desktop/DiebesCam/* > ~/Desktop/git/AllHashes/at$a.DiebesCamHashes.txt
+  781  #cp ~/Desktop/DiebesCam/* 
+  782  man cp
+  783  #cp ~/Desktop/DiebesCam/* /Volumes/SPACEDRIVE1/
+  784  mkdir /Volumes/SPACEDRIVE1/DiebesCam
+  785  cp ~/Desktop/DiebesCam/* /Volumes/SPACEDRIVE1/
+  786  more ~/Desktop/git/AllHashes/at*.DiebesCamHashes.txt
+  787  ls -l ~/Desktop/git/AllHashes/at*.DiebesCamHashes.txt
+  788  git add ~/Desktop/git/AllHashes/at*.DiebesCamHashes.txt
+  789  cd ~/Desktop/git/AllHashes/
+  790  git add ~/Desktop/git/AllHashes/at*.DiebesCamHashes.txt
+  791  git commit -m "+at10822ed.85.DiebesCamHashes.txt"
+  792  git status
+  793  git add at103e83a.b8.purge.txt at103e892.28.purge.txt at103e8c7.30.purge.txt at10564bb.66.BmHist.txt at1082243.d4.BmHist.txt
+  794  git commit -m "+at103e83a.b8.purge.txt +at103e892.28.purge.txt +at103e8c7.30.purge.txt +at10564bb.66.BmHist.txt +at1082243.d4.BmHist.txt"
+  795  git status
+  796  git pull
+  797  ls -l|sort -nk 5
+  798  pwd
+  799  cd
+  800  cd ~/Desktop/git/AllHashes/
+  801* git emacs ~/Desktop/git/AllHashes/at*.DiebesCamHashes.txt
+  802  git commit -am "~at10822ed.85.DiebesCamHashes.txt"
+  803  git status
+  804  git pull
+  805  ls -l at10822ed.85.DiebesCamHashes.txt
+  806  git push
+  807  git pull
+  808  cd
+  809  pwd
+  810  ls /Volumes/SPACEDRIVE1/SpaceDrive/
+  811  ls /Volumes/SPACEDRIVE1/
+  812  cd /Volumes/SPACEDRIVE1/
+  813  ls DiebesCam/
+  814  ls -l CAM*|more
+  815  mv -i CAM*|DiebesCam/
+  816  mv -i CAM* DiebesCam/
+  817  ls -l
+  818  shasum -a 256 *txt|sort
+  819  #ls -l SpaceDrive/1220697
+  820  mv 1220697013f292d274a60275a69110b7128eb3f5faecae77df651a4e61c9af1516d8.txt SpaceDrive
+  821  shasum -a 256 ~/Desktop/*txt
+  822  shasum -a 256 ~/Desktop/*txt|sort
+  823  shasum -a 256 ~/Desktop/HiPoBorgDeskTop566/*txt|sort
+  824  shasum -a 256 ~/Desktop/HiPoDeskTopLd42d3/*txt|sort
+  825  curl http://s.sl4.eu/05ea.txt|shasum -a 256
+  826  curl http://s.sl4.eu/05ea.txt > SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  827  shasum -a 256 SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  828  ls
+  829  mkdir in
+  830  mv -i ???* in
+  831  ls
+  832  mv in/SpaceDrive/* .
+  833  mv in/SpaceDrive/12200* .
+  834  mv in/SpaceDrive/12201* .
+  835  mv in/SpaceDrive/12202* .
+  836  mv in/SpaceDrive/12203* .
+  837  mv -i in/SpaceDrive/12203* .
+  838  mv -i in/SpaceDrive/12204* .
+  839  ls
+  840  mv -i in/SpaceDrive/12205* .
+  841  mv -i in/SpaceDrive/1220* .
+  842  mv -i in/SpaceDrive/12206* .
+  843  mv -i in/SpaceDrive/12207* .
+  844  mv -i in/SpaceDrive/12208* .
+  845  mv -i in/SpaceDrive/12209* .
+  846  mv -i in/SpaceDrive/1220a* .
+  847  mv -i in/SpaceDrive/1220* .
+  848  ls /Applications/VLC.app/Contents/MacOS/bin/
+  849  ls /Applications/VLC.app/Contents/
+  850  ls /Applications/VLC.app/Contents/MacOS/VLC 
+  851  ls -l /Applications/VLC.app/Contents/MacOS/VLC 
+  852  ls -l /Applications/VLC.app/Contents/MacOS/VLC ~/Desktop/AUD0690.3gp
+  853  /Applications/VLC.app/Contents/MacOS/VLC ~/Desktop/AUD0690.3gp
+  854  ls
+  855  man cp
+  856  shasum -a 256 in/DiebesCam/CAM23020.jpg
+  857  a=`shasum -a 256 in/DiebesCam/CAM23020.jpg`;echo $a
+  858  ls -l in/DiebesCam/CAM23020.jpg
+  859  cp -i in/DiebesCam/CAM23020.jpg 122032ee5d91c98bf2ae2b36552f63f03e4126ef55e7004c98d7b2880aec70238fc9.jpg
+  860  ls -l 122032ee5d91c98bf2ae2b36552f63f03e4126ef55e7004c98d7b2880aec70238fc9.jpg
+  861  man cp
+  862  man cp|grep time
+  863  man cp
+  864  man cp
+  865  cp -ip in/DiebesCam/CAM23020.jpg 122032ee5d91c98bf2ae2b36552f63f03e4126ef55e7004c98d7b2880aec70238fc9.jpg
+  866  ls -l 122032ee5d91c98bf2ae2b36552f63f03e4126ef55e7004c98d7b2880aec70238fc9.jpg
+  867  ls -l /Applications/Google\ Chrome.app/
+  868  ls -l /Applications/Google\ Chrome.app/Contents/
+  869  ls -l /Applications/Google\ Chrome.app/Contents/MacOS/
+  870  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Volumes/SPACEDRIVE1/122032ee5d91c98bf2ae2b36552f63f03e4126ef55e7004c98d7b2880aec70238fc9.jpg 
+  871  ls -l|wc
+  872  ls -l |wc
+  873  wc 122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt 
+  874  du -k
+  875  du -k -d 1
+  876  ls /Volumes/
+  877  ls /Volumes/Elements/
+  878  ls /Volumes/Elements/
+  879  history
+  880  cd in/git/
+  881  ls
+  882  cd AllHashes/
+  883  git pull
+  884  cd ..
+  885  cd DigitalEarth/
+  886  git pull
+  887  cd ../AllHashes/
+  888  git pull
+  889  cd ..
+  890  pwd
+  891  git clone github.com/wasserfuhr/un
+  892  git clone https://github.com/wasserfuhr/un
+  893  cd un/
+  894  ls
+  895  git pull
+  896  cd ..
+  897  git clone https://github.com/wasserfuhr/FloatingBoats
+  898  git clone https://code.google.com/p/ungit
+  899  git clone https://code.google.com/p/ungit.wiki
+  900  du -k -d 1 /Volumes/SPACEDRIVE1/
+  901  pwd
+  902  git fsck
+  903  cd AllHashes/
+  904  git fsck
+  905  git fsck
+  906  git pull
+  907  cd ..
+  908  mv AllHashes/ AllHashesBROKEN
+  909  cd AllHashesBROKEN/
+  910  git status
+  911  cd ..
+  912  git clone https://github.com/wasserfuhr/AllHashes
+  913  git fsck
+  914  cd AllHashes
+  915  git fsck
+  916  git status
+  917  git log -1
+  918  cd
+  919  cd Desktop/
+  920  ls
+  921  ls in
+  922  mkdir in
+  923  mv ???* in
+  924  ls
+  925  ls -l
+  926  cd in/git/
+  927  ls
+  928  cd AllHashes/
+  929  git statis
+  930  git status
+  931  cd ..
+  932  cd DigitalEarth/
+  933  git status
+  934  #rm -R Di
+  935  du -k -d 1 ~
+  936  du -k -d 2 ~
+  937  #du -k -d 2 ~
+  938  history |grep du
+  939  #a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 1 > ~/Desktop/at$a.BmDu.txt
+  940  a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 1 ~ > ~/Desktop/in/git/AllHashes/at$a.BmDu.txt
+  941  cat ~/Desktop/in/git/AllHashes/at10841ab.0a.BmDu.txt
+  942  a=`curl https://knot-net.appspot.com/at`;echo $a; du -k -d 2 ~ > ~/Desktop/in/git/AllHashes/at$a.BmDu.txt;more ~/Desktop/in/git/AllHashes/at$a.BmDu.txt
+  943  rm -Rf ~/.npm/
+  944  du -k -d 2 ~
+  945  rm -Rf ~/.mars-sim/
+  946  rm -Rf ~/.m2/repository/
+  947  du -k -d 2 ~/Library/
+  948  du -k -d 2 ~/Library/|sort
+  949  du -k -d 2 ~/Library/|sort -n
+  950  du -k -d 2 ~/|sort -n
+  951  du -k -d 2 ~/Desktop|sort -n
+  952  du -b -d 2 ~/Desktop|sort -n
+  953  man du
+  954  du -b -d 2 ~/Desktop/in|sort -n
+  955  du -k -d 2 ~/Desktop/in|sort -n
+  956  du -k -d 1 ~/Desktop/in/git/|sort -n
+  957  pwd
+  958  git status
+  959  cd ..
+  960  pwd
+  961  cd ..
+  962  du -k -d 2 ~/Desktop/in/git/|sort -n
+  963  du -k -d 2 ~|sort -n
+  964  #du -k -d 2 ~|sort -n
+  965  history
+  966  :1442 L KeuTa
+  967  a=`curl https://knot-net.appspot.com/at`;echo $a;du -k -d 2 ~|sort -n >~/Desktop/in/git/AllHashes/at$a.BmDu.txt;more ~/Desktop/in/git/AllHashes/at$a.BmDu.txt
+  968  df
+  969  pwd
+  970  rm -Rf /Users/rawa/Desktop/in/git/DigitalEarth/
+  971  #mv /Users/rawa/Desktop/in/git/
+  972  pwd
+  973  mv /Users/rawa/Desktop/in/git/ .
+  974  mv /Users/rawa/Desktop/in/git/ ..
+  975  a=`curl https://knot-net.appspot.com/at`;echo $a;du -k -d 2 ~|sort -n >~/Desktop/in/git/AllHashes/at$a.BmDu.txt;cat ~/Desktop/in/git/AllHashes/at$a.BmDu.txt
+  976  a=`curl https://knot-net.appspot.com/at`;echo $a;du -k -d 2 ~|sort -n >~/Desktop/git/AllHashes/at$a.BmDu.txt;cat ~/Desktop/git/AllHashes/at$a.BmDu.txt
+  977  ls
+  978  pwd
+  979  cd ..
+  980  ls
+  981  cp -pR in /Volumes/SPACEDRIVE1/in/BorgMacInAd108
+  982  cp
+  983  cp -R -p in /Volumes/SPACEDRIVE1/in/BorgMacInAd108
+  984  history|grep hist
+  985  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/Desktop/git/AllHashes/at$a.BmHist.txt

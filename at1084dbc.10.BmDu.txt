@@ -1,0 +1,72 @@
+0	/Users/rawa/.Trash
+0	/Users/rawa/.ipfs/logs
+0	/Users/rawa/.m2
+0	/Users/rawa/Library/Assistants
+0	/Users/rawa/Library/Audio
+0	/Users/rawa/Library/ColorPickers
+0	/Users/rawa/Library/Colors
+0	/Users/rawa/Library/Compositions
+0	/Users/rawa/Library/Favorites
+0	/Users/rawa/Library/Fonts
+0	/Users/rawa/Library/Group Containers
+0	/Users/rawa/Library/Input Methods
+0	/Users/rawa/Library/Internet Plug-Ins
+0	/Users/rawa/Library/Keyboard Layouts
+0	/Users/rawa/Library/PreferencePanes
+0	/Users/rawa/Library/Screen Savers
+0	/Users/rawa/Library/Services
+0	/Users/rawa/Library/Sounds
+0	/Users/rawa/Library/Voices
+0	/Users/rawa/Library/WebKit
+0	/Users/rawa/Library/iMovie
+0	/Users/rawa/Library/iTunes
+0	/Users/rawa/Movies
+0	/Users/rawa/Music/GarageBand
+4	/Users/rawa/.cups
+4	/Users/rawa/.emacs.d
+4	/Users/rawa/.emacs.d/auto-save-list
+4	/Users/rawa/.oracle_jre_usage
+4	/Users/rawa/Library/FontCollections
+4	/Users/rawa/Library/SyncedPreferences
+8	/Users/rawa/.gdrive
+8	/Users/rawa/.ssh
+8	/Users/rawa/Documents
+8	/Users/rawa/Library/Spelling
+20	/Users/rawa/Library/Google
+24	/Users/rawa/Public
+40	/Users/rawa/Library/Dictionaries
+48	/Users/rawa/Downloads
+52	/Users/rawa/Library/Cookies
+56	/Users/rawa/.ipfs/datastore
+68	/Users/rawa/Library/IdentityServices
+124	/Users/rawa/Music/iTunes
+144	/Users/rawa/Library/PubSub
+156	/Users/rawa/Library/Printers
+168	/Users/rawa/Library/Accounts
+272	/Users/rawa/Library/Widgets
+300	/Users/rawa/Library/Messages
+312	/Users/rawa/Library/Mail
+488	/Users/rawa/Library/Address Book Plug-Ins
+536	/Users/rawa/Music/Audio Music Apps
+668	/Users/rawa/Music
+812	/Users/rawa/Library/GameKit
+984	/Users/rawa/Applications/Chrome Apps.localized
+992	/Users/rawa/Applications
+1160	/Users/rawa/Library/Keychains
+1260	/Users/rawa/Library/Logs
+1756	/Users/rawa/Library/Screenr
+3204	/Users/rawa/Library/Preferences
+4216	/Users/rawa/Library/Saved Application State
+4748	/Users/rawa/Library/Safari
+9248	/Users/rawa/Pictures/iPhoto Library.photolibrary
+9256	/Users/rawa/Pictures
+13476	/Users/rawa/Library/Calendars
+32120	/Users/rawa/Library/Containers
+57648	/Users/rawa/.ipfs/blocks
+57716	/Users/rawa/.ipfs
+1087372	/Users/rawa/Library/Caches
+1814712	/Users/rawa/Library/Application Support
+2966872	/Users/rawa/Library
+5396016	/Users/rawa/Desktop/in
+5396060	/Users/rawa/Desktop
+8432208	/Users/rawa
