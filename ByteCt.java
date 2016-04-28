@@ -5,4 +5,4 @@ public class ByteCt{
   int b;
   int[] sig=new int[256];
   while((b=r.read())>=0)sig[b]++;
-  for(int i=0;i<256;i++)System.out.println(b+" "+sig[i]);}}
+  for(int i=0;i<256;i++)System.out.println(i+" "+sig[i]);}}
