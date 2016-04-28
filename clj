@@ -1,1 +1,1 @@
-java -jar clojure-1.8.0.jar $1
+java -jar ~/git/AllHashes/clojure-1.8.0.jar $1
