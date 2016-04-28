@@ -8,9 +8,7 @@ public class ByteCt{
    sig[b]++;
   }
   for(int i=0;i<256;i++){
-   System.out.println(
-   b+" "+
-     sig[i]
+   System.out.println(b+" "+sig[i]);
   }
  }
 }
