@@ -1,0 +1,447 @@
+    1  nano /etc/apt/sources.list
+    2  apt-get update
+    3  apt-get install open-vm-tools open-vm-source
+    4  module-assistant auto-install open-vm -i
+    5  apt-get install open-vm-toolbox
+    6  df
+    7  java
+    8  sudo apt-get install libgmp3-dev libsigsegv-dev openssl libssl-dev libncurses5-dev git make exuberant-ctags
+    9  sudo
+   10  apt-get install libgmp3-dev libsigsegv-dev openssl libssl-dev libncurses5-dev git make exuberant-ctags
+   11  curl https://github.com/urbit/urbit/archive/master.zip
+   12  wget https://github.com/urbit/urbit/archive/master.zip
+   13  dir
+   14  unzip master.zip 
+   15  ggunzip master.zip 
+   16  gunzip master.zip 
+   17  apt-get install zip
+   18  unzip master.zip 
+   19  dir
+   20  cd urbit-master/
+   21  ls
+   22  ls urb
+   23  echo "export URBIT_HOME=`pwd`/urb" >>~/.bash_profile
+   24  source ~/.bash_profile
+   25  echo $URBIT_HOME
+   26  make
+   27  bin/vere -c MyPier
+   28  ls
+   29  ls MyPier/
+   30  ls -l MyPier/
+   31  ls -l MyPier/chk/
+   32  bin/vere -c MyPier
+   33  bin/vere
+   34  bin/vere MyPier
+   35  bin/vere MyPier
+   36  cd urbit-master/
+   37  bin/vere MyPierM 
+   38  bin/vere MyPier
+   39  bin/vere MyPier
+   40  more ~/.urbit/~tandec-satbep.txt 
+   41  bin/vere MyPier
+   42  bin/vere MyPier
+   43  cat urb/zod/try/bin/game.hoon 
+   44  more urb/zod/try/bin/game.hoon 
+   45  bin/vere MyPier
+   46  cd urbit-master/
+   47  bin/vere MyPier
+   48  cd urbit-master/
+   49  bin/vere MyPier
+   50  adduser
+   51  adduser RaWa
+   52  adduser rawa
+   53  zip  urbit-master/
+   54  zip  urbit-master z
+   55  zip r urbit-master
+   56  zip -r r urbit-master
+   57  ls
+   58  ls -l
+   59  chown rawa r.zip 
+   60  ls -l
+   61  rm master.zip 
+   62  mv r.zip /home/rawa/
+   63  more .urbit/~tandec-satbep.txt bep.txt 
+   64  more .urbit/~tandec-satbep.txt
+   65  su rawa
+   66  cd
+   67  cdsu rawa
+   68  su rawa
+   69  sudo apt-get install openjdk-7-jdk openjdk-7-jre
+   70  apt-get install openjdk-7-jdk openjdk-7-jre
+   71  apt-get install openjdk-
+   72  apt-get install openjdk-6-jdk openjdk-6-jre
+   73  java
+   74  java -v
+   75  apt-get install maven
+   76  apt-get install maven3
+   77  apt-get install maven-3
+   78  apt-get update
+   79  apt-get install maven3
+   80  apt-get install maven
+   81  apt-get install maven
+   82  wget http://mirror.derwebwolf.net/apache/maven/maven-3/3.1.1/binaries/apache-maven-3.1.1-bin.zip
+   83  cd
+   84  su rawa
+   85  chown rawa /home/rawa/apache-maven-3.1.1-bin.zip 
+   86  su rawa
+   87  apt-get install emacs
+   88  su rawa
+   89  passwd
+   90  passwd
+   91  apt-get install svn
+   92  apt-get install subversion
+   93  svn
+   94  su rawa
+   95  more /root/urbit-master/../.urbit/~tandec-satbep.txt 
+   96  exit
+   97  apt-get install sqlite
+   98  exit
+   99  apt-get install sqlite3
+  100  exit
+  101  /sbin/ipchains
+  102  ipchains
+  103  /sbin/iptables 
+  104  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  105  emacs ../../../pom.xml 
+  106  kill -9 24231
+  107  cd ..
+  108  cd ..
+  109  cd ..
+  110  history |grep jetty
+  111  ls -l
+  112  exit
+  113  cd
+  114  pwd
+  115  ls -al
+  116  more .urbit/~tandec-satbep.txt 
+  117  su rawa
+  118  cp .urbit/~tandec-satbep.txt /home/rawa/.urbit/
+  119  date
+  120  apt-get install ntp
+  121  date
+  122  date
+  123  ntpq -p
+  124  date
+  125  date
+  126  date
+  127  date
+  128  date
+  129  #apt-get install openjdk-7-jdk
+  130  apt-get install openjdk-7-jdk
+  131  apt-get install openjdk-7-jre
+  132  date
+  133  date
+  134  history|grep apt
+  135  exit
+  136  update-alternatives --config javac
+  137  update-alternatives --config java
+  138  apt-get update
+  139  apt-get install openjdk-7-jdk
+  140  apt-get install openjdk-7-jre
+  141  update-alternatives --config javac
+  142  apt-cache --names-only search openjdk
+  143  add-apt-repository ppa:openjdk/ppa
+  144  more /proc/sys/kernel/osrelease 
+  145  more /proc/version 
+  146  apt-get install oracle-java7-installer
+  147  echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu precise main" | tee -a /etc/apt/sources.list
+  148  echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu precise main" | tee -a /etc/apt/sources.list
+  149  apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
+  150  apt-get update
+  151  apt-get update
+  152  apt-get install oracle-java7-installer
+  153   apt-get install oracle-java7-set-default
+  154  java -version
+  155  exit
+  156  cd
+  157  apt-get install curl
+  158  exit
+  159  apt-get install lynx
+  160  exit
+  161  history | grep ntp
+  162  history | grep ntp
+  163  history | grep nt
+  164  ntpq -p 
+  165  ntpq -p 
+  166  history | grep nt
+  167  lynx -dump -nolist http://sl4.eu/now;date +%s
+  168  lynx -dump -nolist http://sl4.eu/now;date +%s
+  169  history |grep screenr
+  170  exit
+  171  apt-get install ffmpeg
+  172  ffmpeg -?
+  173  ffmpeg -h
+  174  exit
+  175  apt-get install  tesseract
+  176  apt-get install  tesseract-ocr
+  177  exit
+  178  adduser
+  179  adduser rawa1
+  180  su rawa1
+  181  exit
+  182  cd
+  183  sudo apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+  184  apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+  185  apt-get update
+  186  apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+  187  apt-get install libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+  188  apt-get install libzmq
+  189  apt-get install libzmq-dev
+  190  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  191  exit
+  192  apt-get install cmake
+  193  exit
+  194  apt-get install libboost
+  195  apt-get install boost
+  196   apt-get install libboost-all-dev
+  197   apt-get install libboost-all-dev
+  198  apt-get update
+  199  apt-get install libboost-all-dev
+  200  exit
+  201  apt-get install -?
+  202  apt-get install --h
+  203  apt-get install --help
+  204  apt-get install libboost-dev
+  205  apt-get install libboost-dev= 1.43.0
+  206  apt-get install libboost-dev= 1.43
+  207  apt-get install libboost-dev=1.43
+  208  apt-get install libboost-dev=1.43.0
+  209  apt-get install libboost-all-dev=1.43.0
+  210  apt-get install libboost=1.43.0
+  211  pwd
+  212  apt-get install libboost-dev=1.44.0
+  213  apt-get install libboost-dev=1.55.0
+  214  ls
+  215  cat CMake
+  216  cat CMakeFiles/
+  217  cat ../CMakeLists.txt 
+  218  cat ../CMakeLists.txt |grep 43
+  219  emacs ../CMakeLists.txt |grep 43
+  220  ls -l ../CMakeLists.txt 
+  221  exit
+  222  apt-get install sqlite=3.7
+  223  apt-get install sqlite=3.7.10
+  224  apt-get install sqlite=3.7.4
+  225  apt-get install sqlite=3.6.23
+  226  apt-get install sqlite3
+  227  exit
+  228  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' 
+  229  apt-get update && apt-get install --only-upgrade bash
+  230  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' bash --norc -c ':' 2>/dev/null;
+  231  more /etc/apt/sources.list 
+  232  apt-get install -y bash
+  233  emacs /etc/apt/sources.list 
+  234  apt-get update && apt-get install --only-upgrade bash
+  235  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' bash --norc -c ':' 2>/dev/null;
+  236  passwd rawa1
+  237  exit
+  238  emacs /etc/network/interfaces
+  239  emacs /etc/network/interfaces
+  240  emacs /etc/network/interfaces
+  241  more /etc/network/interfaces
+  242  service networking restart
+  243  exit
+  244  history |grep 8080
+  245  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  246  ls
+  247  ps aux
+  248  exit
+  249  apt-get install libsigsegv-dev
+  250  apt-get install libgmp3-dev libsigsegv-dev openssl libssl-dev libncurses5-dev git make exuberant-ctags automake autoconf libtool g++
+  251  exit
+  252  apt-get install mercurial
+  253  hg
+  254  exit
+  255  vi /etc/ssh/sshd_config
+  256  emacs /etc/ssh/sshd_config
+  257  /etc/init.d/ssh restart
+  258  history |grep 8080
+  259  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  260  exit
+  261  apt-get update
+  262   apt-get install mercurial
+  263  hg -v
+  264  hg --version
+  265  exit
+  266  emacs /etc/resolv.confnslookup code.google.com[A
+  267  nslookup code.google.com
+  268  exit
+  269  apt-get install golang git mercurial
+  270  apt-get install golang
+  271  df
+  272  apt-get update
+  273  apt-get install golang
+  274  apt-get upgrade
+  275  apt-get install golang
+  276  apt-get upgrade
+  277  apt-get update
+  278  apt-get update
+  279  apt-get update
+  280  apt-get upgrade
+  281  apt-get install golang
+  282  cat /etc/apt/sources.list
+  283   add-apt-repository ppa:niemeyer/ppa
+  284  locale-gen en_US.UTF-8
+  285  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  286  dpkg-reconfigure locales
+  287  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  288  export LANGUAGE=en_US.UTF-8
+  289  export LANG=en_US.UTF-8
+  290  export LC_ALL=en_US.UTF-8
+  291  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  292  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4
+  293  exit
+  294  history |grep 8080
+  295  lynx 127.0.0.1:8082
+  296  lynx 127.0.0.1:8082/ipfs
+  297  lynx 127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  298  lynx http://185.32.124.153:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  299  lynx http://planet.sl4.eu:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  300  lynx http://127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  301  history |grep 8080
+  302  history |grep 8081
+  303  history |grep 8082
+  304  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 2805 -j REDIRECT --to-port 8082
+  305  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  306  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  307  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  308  lynx http://127.0.0.1:2805/
+  309  lynx http://127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  310  lynx http://185.32.124.153:2805/
+  311  lynx http://185.32.124.153:8082
+  312  lynx http://185.32.124.153:8082/
+  313  /sbin/iptables -l
+  314  /sbin/iptables -L
+  315  /sbin/iptables -A INPUT -i eth0 -p tcp --dport 8082 -j ACCEPT
+  316  lynx http://185.32.124.153:8082
+  317  lynx http://127.0.0.1:8082
+  318  service iptables save
+  319  nmap
+  320  netstat
+  321  more /etc/iproute2/
+  322  iptables
+  323  iptables -L
+  324  history 
+  325  /sbin/iptables -A INPUT -p tcp --dport 8082 -j ACCEPT
+  326  lynx http://127.0.0.1:8082
+  327  lynx http://185.32.124.153:8082
+  328  iptables-save 
+  329  /sbin/iptables -A INPUT -p tcp --dport 8084 -j ACCEPT
+  330  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 8084 -j REDIRECT --to-port 8082
+  331  lynx http://185.32.124.153:8084
+  332  lynx http://127.0.0.1:8082
+  333  lynx http://127.0.0.1:8084
+  334  lynx http://127.0.0.1:8082
+  335  ifconfig 
+  336  history 
+  337  ifconfig 
+  338  /sbin/iptables -F
+  339  lynx http://185.32.124.153:8084
+  340  netstat -nap
+  341  netstat -nap|grep 808
+  342  exit
+  343  apt-get update
+  344  apt-get install nodejs
+  345  apt-get upgrade
+  346  apt-get install nodejs
+  347  apt-get install --yes nodejs
+  348  apt-get install curl
+  349  apt-get install curl
+  350  apt-get autoremove
+  351  apt-get install --yes nodejs
+  352  curl -sL https://deb.nodesource.com/setup_5.x | bash -
+  353  apt-get install npm
+  354  exit
+  355  make install
+  356  node
+  357  npm
+  358  exit
+  359  npm install ipscend --global
+  360  ipscend 
+  361  ipscend -v
+  362  ipscend -h
+  363  ipscend -help
+  364  ipscend --help
+  365  exit
+  366  pwd
+  367  make install
+  368  protoc
+  369  make install
+  370  protoc
+  371  package merkledag.pb;
+  372  import "code.google.com/p/gogoprotobuf/gogoproto/gogo.proto";
+  373  option (gogoproto.gostring_all) = true;
+  374  option (gogoproto.equal_all) = true;
+  375  option (gogoproto.verbose_equal_all) = true;
+  376  option (gogoproto.goproto_stringer_all) = false;
+  377  option (gogoproto.stringer_all) =  true;
+  378  option (gogoproto.populate_all) = true;
+  379  option (gogoproto.testgen_all) = true;
+  380  option (gogoproto.benchgen_all) = true;
+  381  option (gogoproto.marshaler_all) = true;
+  382  option (gogoproto.sizer_all) = true;
+  383  option (gogoproto.unmarshaler_all) = true;
+  384  // An IPFS MerkleDAG Link
+  385  message PBLink {
+  386    // multihash of the target object
+  387    optional bytes Hash = 1;
+  388    // utf string name. should be unique per object
+  389    optional string Name = 2;
+  390    // cumulative size of target object
+  391    optional uint64 Tsize = 3;
+  392  }
+  393  // An IPFS MerkleDAG Node
+  394  message PBNode {
+  395    // refs to other objects
+  396    repeated PBLink Links = 2;
+  397    // opaque user data
+  398    optional bytes Data = 1;
+  399  }package merkledag.pb;
+  400  import "code.google.com/p/gogoprotobuf/gogoproto/gogo.proto";
+  401  option (gogoproto.gostring_all) = true;
+  402  option (gogoproto.equal_all) = true;
+  403  option (gogoproto.verbose_equal_all) = true;
+  404  option (gogoproto.goproto_stringer_all) = false;
+  405  option (gogoproto.stringer_all) =  true;
+  406  option (gogoproto.populate_all) = true;
+  407  option (gogoproto.testgen_all) = true;
+  408  option (gogoproto.benchgen_all) = true;
+  409  option (gogoproto.marshaler_all) = true;
+  410  option (gogoproto.sizer_all) = true;
+  411  option (gogoproto.unmarshaler_all) = true;
+  412  // An IPFS MerkleDAG Link
+  413  message PBLink {
+  414    // multihash of the target object
+  415    optional bytes Hash = 1;
+  416    // utf string name. should be unique per object
+  417    optional string Name = 2;
+  418    // cumulative size of target object
+  419    optional uint64 Tsize = 3;
+  420  }
+  421  // An IPFS MerkleDAG Node
+  422  message PBNode {
+  423    // refs to other objects
+  424    repeated PBLink Links = 2;
+  425    // opaque user data
+  426    optional bytes Data = 1;
+  427  ldconfig
+  428  protoc
+  429  exit
+  430  pip
+  431  curl https://bootstrap.pypa.io/get-pip.py
+  432  wget https://bootstrap.pypa.io/get-pip.py 
+  433  curl https://bootstrap.pypa.io/get-pip.py > pip.py
+  434  mv pip.py get-pip.py
+  435  python get-pip.py
+  436  pip
+  437  ls -l
+  438  rm get-pip.py 
+  439  history 
+  440  history > SbOneHistRootLd42bd.txt
+  441  chown 
+  442  chown --help
+  443  ls -l
+  444  chown rawa:rawa SbOneHistRootLd42bd.txt
+  445  ls -l
+  446  pip install PyYAML
+  447  history > SbOneHistRootLd42bd.txt

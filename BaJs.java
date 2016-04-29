@@ -1,6 +1,6 @@
 import java.io.*;
 public class BaJs{
- public static void main(String[]args)throws Exception{
+ public static void main(String[]a)throws Exception{
   LineNumberReader l=new LineNumberReader(new InputStreamReader(System.in));
   String s;while((s=l.readLine())!=null){
    String s0=s.substring(0,64);
