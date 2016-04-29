@@ -1,0 +1,8 @@
+date:12752901589
+resource:ChristineSpielvogel
+bLen:4
+sLen:4
+mHash:3c386a4a98cec35f055b525dcae65d91fb130831
+sHash:46185cc605aa9fbff1ca2da412e4202379ec4ced58dca4bd71c24da53eb9ca3b
+oHash:46185cc605aa9fbff1ca2da412e4202379ec4ced58dca4bd71c24da53eb9ca3b
+content:43695369

@@ -1,0 +1,8 @@
+date:16879040291
+resource:HilDeKa 
+bLen:7
+sLen:7
+mHash:ee1fc3b83881c1833b6e6c93018b56df1df9acd2
+sHash:eb2df8a7d1af1f213b2d1dccca0123a6d94e6793a841b5e29fb1a33b7ac356b1
+oHash:eb2df8a7d1af1f213b2d1dccca0123a6d94e6793a841b5e29fb1a33b7ac356b1
+content:426544654b6120

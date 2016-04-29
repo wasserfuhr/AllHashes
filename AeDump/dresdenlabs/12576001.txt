@@ -1,0 +1,7 @@
+date:9371572430
+resource:ld4287
+bLen:5
+sLen:5
+mHash:e6e7068c4ce845967fc47fc2b2b34eaa0c2d191b
+sHash:1f2b223037340fc6ac359eb6ce259ec64867e3658d78fc3f8d6b394710e48acf
+content:30312d3132

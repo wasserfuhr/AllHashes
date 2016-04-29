@@ -1,0 +1,7 @@
+date:9714129439
+resource:KrKr
+bLen:6
+sLen:6
+mHash:412ba9c8b2b5f3ed4f4007ff0dc8ff0e2d2b9f19
+sHash:7dacf3d5e93006db2115ef4111404df64211c479784fff5d70be969e4731e5e6
+content:4b72694b726f

@@ -1,0 +1,8 @@
+date:13779265164
+resource:TheCodeThatRuinsOurLives
+bLen:19
+sLen:19
+mHash:6e35780db18d00955a62299fa456457ad2f97bae
+sHash:20a69cb8b6f6ffc6dadc686961dedbab7b8cb6657d7c36e896efab754b7d5d15
+oHash:20a69cb8b6f6ffc6dadc686961dedbab7b8cb6657d7c36e896efab754b7d5d15
+content:546354726f6c2054616b654f6666205479506f

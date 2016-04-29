@@ -1,0 +1,8 @@
+date:12839345499
+resource:AlphaFormula
+bLen:9
+sLen:9
+mHash:b0c1a0e0a5b0f88b074174ba9dbd7fcaf16a673f
+sHash:8df0d5aa04a95cea9a39ef0315a34514a0a65e501a8af656ed33bfd73cbb49eb
+oHash:8df0d5aa04a95cea9a39ef0315a34514a0a65e501a8af656ed33bfd73cbb49eb
+content:416c706861466f726d
