@@ -1,7 +1,0 @@
-date:10130140972
-resource:AnTu
-bLen:5
-sLen:5
-mHash:efbde61fee0176d24fb6bef7da0491d9cbfb1aa7
-sHash:5e794f2b6db2413d0d4053964ed7bb48f01c65268548570931030f39fdf19668
-content:416e546875

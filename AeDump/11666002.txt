@@ -1,4 +1,0 @@
-date:8466061598
-resource:MiloCircel
-hash:6a92ecfa7eba12719890b1bbb871a210d4f5491e
-content:4b736d676361410d0a416163674b6d73

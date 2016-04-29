@@ -1,7 +1,0 @@
-date:10586946012
-resource:GaTwo
-bLen:9
-sLen:9
-mHash:e5bc54bf04a057eeb9ec3f9a454ee33a43c6ecc7
-sHash:58087fd7b518bdc2f2b4eaacb9b2296672446e7ffc3c7db7ebef267f97b4b8b2
-content:47617261676554776f

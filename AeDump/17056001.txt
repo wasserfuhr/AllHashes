@@ -1,4 +1,0 @@
-date:5603680688
-resource:JensSpahn
-hash:5e997e0e30c06cdf83bb2271c4c5502af81405ae
-content:2342655363

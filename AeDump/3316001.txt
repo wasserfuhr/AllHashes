@@ -1,4 +1,0 @@
-date:-1443225835
-resource:ld420c
-hash:b253dcfe8ee1bbf40eb19e863e6b7431d6837d11
-content:3a30363037

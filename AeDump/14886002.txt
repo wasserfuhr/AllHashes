@@ -1,4 +1,0 @@
-date:4651947264
-resource:WiDa
-hash:91ddbf9d8bc8d2a9791783c98e9fc3e06abdc94b
-content:57696b6944617461

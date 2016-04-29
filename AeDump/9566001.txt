@@ -1,4 +1,0 @@
-date:687989667
-resource:StaCi
-hash:c7f2eafc053fee2bafe99cde44e15b8a4efe9d51
-content:53746167436976

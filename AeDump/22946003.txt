@@ -1,7 +1,0 @@
-date:11521984443
-resource:TagesKlau
-bLen:10
-sLen:10
-mHash:3d10a9e6c90bbd2be5e4e61dac0dc38ff8755fee
-sHash:d36780fdee95b0b18dc4c26714b7d59c27fa3ccf1906838ac2e6d897ad6bc87e
-content:54616765734b6c617573

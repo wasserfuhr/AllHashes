@@ -1,4 +1,0 @@
-date:211097344
-resource:JuKlo
-hash:d0312c9f38348abae2933220e7b2d628a999fb5c
-content:4a756c69614b6c6f65636b6e6572

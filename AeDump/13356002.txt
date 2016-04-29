@@ -1,4 +1,0 @@
-date:7643081375
-resource:TagesWurst
-hash:1a47cb01a8e6849fb4992fb49e4caf5f3cae149e
-content:a53137353432

@@ -1,4 +1,0 @@
-date:5164738735
-resource:HiTv
-hash:70a7313b21e04a1e5abde00c6c67e6bea18cdba5
-content:48696c64655476

@@ -1,7 +1,0 @@
-date:11392942064
-resource:FahLi
-bLen:10
-sLen:10
-mHash:c3751fb9bf01323e2269c56ffbfd146efe5681cd
-sHash:dbd88f2caafe7860bd6a44272a4733525becd1177f61e758a77e939add2cf56e
-content:46616872656e4c696e65

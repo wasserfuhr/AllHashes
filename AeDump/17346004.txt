@@ -1,4 +1,0 @@
-date:8502213536
-resource:EaFo
-hash:1d8b47dc9c0e0e7c1b265f5e8d05eba83237e45a
-content:45616e466f7572

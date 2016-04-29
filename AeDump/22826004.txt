@@ -1,7 +1,0 @@
-date:11161059321
-resource:ld429e
-bLen:5
-sLen:5
-mHash:ab9d240087857df55bc0b1f15f53e97ff3ecd6c5
-sHash:5a12cf070c6d9da667546dbf1ab34db4e35cc915fa2d7e837d30e789d456e1d5
-content:3a30383033

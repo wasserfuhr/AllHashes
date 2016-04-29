@@ -1,4 +1,0 @@
-date:5405231697
-resource:NeuTalk
-hash:43c371a073339e8b5c9ba547dd0e1dab19918fcc
-content:4e657572616c54616c6b

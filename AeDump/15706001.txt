@@ -1,7 +1,0 @@
-date:11183919695
-resource:HorstWalter
-bLen:13
-sLen:13
-mHash:2b19ec66be001d6b5ae7054b3ca04f00f3d6aa3a
-sHash:2874036c9faf1738e3c3ce572bb9bda40603c6118ac2df903cdbd2d8cbb77010
-content:486f72737457616c7465723333
