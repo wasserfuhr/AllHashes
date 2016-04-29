@@ -11,7 +11,7 @@ public class SD{
    if(s.substring(0,64).equals(hash)){
     return s.substring(65);}}
   DirectoryStream<Path>stream=Files.newDirectoryStream(
-   FileSystems.getDefault().getPath("H:/SpaceDrive"),"1220"+hash+".*");
+   FileSystems.getDefault().getPath(SD()),"1220"+hash+".*");
   for(final Path p:stream){
    return p.toFile().getName().substring(69);}
   return null;}
