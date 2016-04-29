@@ -13,7 +13,10 @@ public class SD{
   DirectoryStream<Path>stream=Files.newDirectoryStream(
    FileSystems.getDefault().getPath(SD()),"1220"+hash+".*");
   for(final Path p:stream){
-   return p.toFile().getName().substring(69);}
+   File f=p.toFile();
+   String s=f.getName().substring(69);
+   f.close();
+   return s;}
   return null;}
  public static void main(String[]a)throws Exception{
   ext("a0fcb8c6406166fcc446b455b4df9558ce441aa26536a469be4c26d784d74bd4x");}}
