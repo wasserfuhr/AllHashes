@@ -1,0 +1,500 @@
+  333  git pull
+  334  ls -l
+  335  git status
+  336  history >BmHistLd42c5.txt
+  337  exit
+  338  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > /Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  339  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  340  date; a=`curl https://dresdenlabs.appspot.com/at`; echo at$a
+  341  mv /Users/rawa/Public/HiPoBorgDeskTop566/at.InfoRadio.mp3 /Users/rawa/Public/HiPoBorgDeskTop566/ate07fbc.eb.InfoRadio.mp3
+  342  history |grep InfoRadio
+  343  history
+  344  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  345  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate07fbc.eb.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/1220d654d403c7aa2b16056268143c72b9aa39d5cd9b90e1f36fe79ee07dccce8d4d.mp3
+  346  date;a=`curl https://dresdenlabs.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  347  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  348  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  349  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate085cc.7e.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/122089cd71ce01f0c183c001e6bb1a096d6725d8d7600f2f9ca5f6ec908035388331.mp3
+  350  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate085cc.7e.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/122089cd71ce01f0c183c001e6bb1a096d6725d8d7600f2f9ca5f6ec908035388331.mp3
+  351  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  352  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  353  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate09bba.dd.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/1220e36db961faa32d8d3e67f6eeab81d4e52ce2b540454d3afe163ece45341b9362.mp3
+  354  ls
+  355  curl mindbroker.de/wiki/RaWa
+  356  wget mindbroker.de/wiki/RaWa
+  357  curl http://mindbroker.de/wiki/RaWa
+  358  curl -?
+  359  curl --h
+  360  curl --he
+  361  curl --hel
+  362  curl --hel|grep ead
+  363  curl -i http://mindbroker.de/wiki/RaWa
+  364  curl -i http://mindbroker.de/wiki/RaWa
+  365  curl -i http://mindbroker.de/wiki/RaWa
+  366  curl -i http://mindbroker.de/wiki/RaWa
+  367  curl -i http://mindbroker.de/wiki/RaWa
+  368  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  369  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  370  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate1cdce.e8.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/122058590f665bac00f6d135845c5d5c9f600e2741f61db4ba6ba9e58166aa842ee8.mp3
+  371  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate1cdce.e8.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/122058590f665bac00f6d135845c5d5c9f600e2741f61db4ba6ba9e58166aa842ee8.mp3
+  372  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate1cdce.e8.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/122058590f665bac00f6d135845c5d5c9f600e2741f61db4ba6ba9e58166aa842ee8.mp3
+  373  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  374  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  375  nasm
+  376  ls
+  377  emacs go.asm
+  378  git add go.asm
+  379  nasm go.asm 
+  380  ls
+  381   ld -o go -e mystart go.o
+  382   ld -o go -e mystart go
+  383  nasm -f macho go.asm 
+  384  ls
+  385   ld -o go -e mystart go
+  386   ld -o go -e mystart go.o
+  387  ls
+  388  ld -o go -e mystart go.o
+  389  ./go
+  390  git commit -m "+go.asm"
+  391  git status
+  392  emacs go.asm
+  393  nasm -f macho go.asm
+  394  ld -o go -e mystart go.o
+  395  ./go
+  396  git commit -am "+go.asm"
+  397  emacs go.asm
+  398  ls -l
+  399  git commit -am "+go.asm"
+  400  ld -o go -e go go.o
+  401  nasm -f macho go.asm
+  402  ld -o go -e go go.o
+  403  ./go
+  404  emacs go.asm
+  405  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  406  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate31db9.b4.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/1220ea987bc0203227523d9113128ca4e56eb253ab75866f507a7a12e3ec71ae2037.mp3
+  407  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate31db9.b4.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/1220ea987bc0203227523d9113128ca4e56eb253ab75866f507a7a12e3ec71ae2037.mp3
+  408  brew
+  409  emacs RiscJay.java
+  410  javac RiscJay.java
+  411  git add RiscJay.java
+  412  git status
+  413  git commit -m "+RiscJay.java"
+  414  git commit -am "~go.asm"
+  415  git status
+  416  git add BmHistLd42c5.txt
+  417  git commit -m "+BmHistLd42c5.txt"
+  418  git add go go.o
+  419  git commit -m "+go +go.o"
+  420  git status
+  421  emacs RiscJay.java
+  422  more Sum.java
+  423  emacs RiscJay.java
+  424  javac RiscJay.java
+  425  emacs RiscJay.java
+  426  javac RiscJay.java
+  427  emacs RiscJay.java
+  428  javac RiscJay.java
+  429  git status
+  430  git commit -am "~RiscJay.java"
+  431  javac RiscJay.java
+  432  emacs RiscJay.java
+  433  javac RiscJay.java
+  434  git commit -am "~RiscJay.java"
+  435  git pull
+  436  git pull
+  437  git status
+  438  git push
+  439  javac RiscJay.java
+  440  emacs RiscJay.java
+  441  javac RiscJay.java
+  442  emacs RiscJay.java
+  443  javac RiscJay.java
+  444  git commit -am "~RiscJay.java"
+  445  emacs RiscJay.java
+  446  wget https://github.com/riscv/riscv-angel/raw/release/lib/riscv_compiled/vmlinux
+  447  curl https://github.com/riscv/riscv-angel/raw/release/lib/riscv_compiled/vmlinux >RiscFiveVmLinux
+  448  more RiscFiveVmLinux 
+  449  curl https://raw.githubusercontent.com/riscv/riscv-angel/release/lib/riscv_compiled/vmlinux >>RiscFiveVmLinux
+  450  curl https://raw.githubusercontent.com/riscv/riscv-angel/release/lib/riscv_compiled/vmlinux >RiscFiveVmLinux
+  451  xxd RiscFiveVmLinux 
+  452  xxd RiscFiveVmLinux|more
+  453  objdump
+  454  git status
+  455  gas
+  456  nasm
+  457  xxd RiscFiveVmLinux|more
+  458  xxd RiscFiveVmLinux|more
+  459  history
+  460  xxd RiscFiveVmLinux|more
+  461  history 
+  462  history > BmHistLd42c8.txt
+  463  history|grep Info
+  464  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  465  history|grep sha
+  466  shasum -a 256 /Users/rawa/Public/HiPoBorgDeskTop566/*3
+  467  history|grep scp
+  468  scp /Users/rawa/Public/HiPoBorgDeskTop566/ate723de.2d.InfoRadio.mp3 rawa@s.sl4.eu:/home/rawa/SpaceDrive/1220eb2f3864f10af7d0468fe8422763dc8edee46006158cec7c959b12229974dfe0.mp3
+  469  history > BmHistLd42cb.txt
+  470  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  471  ls -l
+  472  ls -?
+  473  ls -s
+  474  ls -ls
+  475  man ls
+  476  ls -lS /Volumes/NO\ NAME/DCIM/100LGDSC/
+  477  cd /Volumes/NO\ NAME/DCIM/100LGDSC/
+  478  shasum -a 256 * > /Users/rawa/Desktop/SdWhite8Ld42ce.txt
+  479  cd /Volumes/SPACEDRIVE1/SdWhite8Ld42ce/
+  480  shasum -a 256 * > /Users/rawa/Desktop/SdWhite8Ld42ceDup.txt
+  481  ls
+  482  cd DCIM/100LGDSC/
+  483  shasum -a 256 * > /Users/rawa/Desktop/SdWhite8Ld42ceDup.txt
+  484  shasum -a 256 /Users/ra
+  485  shasum -a 256 /Users/rawa/Desktop/*
+  486  ls /Volumes/NO\ NAME/
+  487  ls -a /Volumes/NO\ NAME
+  488  pwd
+  489  pwd
+  490  cd ..
+  491  cd ..
+  492  cd ..
+  493  pwd
+  494  shasum -a 256 * > /Users/rawa/Desktop/HiPoBorgDeskTop566.txt
+  495  pwd
+  496  ls -lS /Users/rawa/Public/HiPoBorgDeskTop566/
+  497  ls -lS /Users/rawa/Public/HiPoBorgDeskTop566/|more
+  498  history|grep Inf
+  499  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  500  cd
+  501  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  502  emacs bf.txt
+  503  curl http://s.sl4.eu/clj.jsp\?p=HashLotto > bf.txt
+  504  cat bf.txt |grep 00000|more
+  505  more bf.txt 
+  506  echo "000000: 0000 0000 0000"|xxd -r
+  507  echo "000000: 0000 0000 0000"|xxd -r|shasum -a 256
+  508  echo "000000: "|xxd -r|shasum -a 256
+  509  echo "000000: 00"|xxd -r|shasum -a 256
+  510  curl http://s.sl4.eu/clj.jsp\?p=HashLotto |grep 000000
+  511  pwd
+  512  cd Public/git/AllHashes/
+  513  ls
+  514  ls -l *a
+  515  git status
+  516  shasum -a 256 RiscFiveVmLinux 
+  517  mv RiscFiveVmLinux /Users/rawa/Public/AlphaDrive/122067632f0f9418cfa2761455597a0cba2ea1810da48318f61f3e6780ef06740570.elf
+  518  git add BmHistLd42c8.txt BmHistLd42cb.txt
+  519  git commit -m "+BmHistLd42c8.txt +BmHistLd42cb.txt"
+  520  git pull
+  521  javap ShaTfs.java 
+  522  javac ShaTfs.java 
+  523  javap ShaTfs 
+  524  javap -c ShaTfs 
+  525  echo "−7.9905127e−3"|xxd
+  526  echo "-7.9905127e−3"|xxd
+  527  history|grep Lotto
+  528  curl http://s.sl4.eu/clj.jsp\?p=HashLotto |grep 000000
+  529  history|grep In
+  530  curl http://webcam.frauenkirche.de/webcams/img.php\?12&8618155 >fk155.jpg
+  531  curl http://webcam.frauenkirche.de/webcams/img.php\?12\&8618155 >fk155.jpg
+  532  $a=56;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/fk1$a.jpg
+  533  a=56;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/fk1$a.jpg
+  534  shasum -a 256 /Users/rawa/Desktop/*
+  535  a=71;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/FrauenCam86181$a.jpg
+  536  a=49;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/FrauenCam86181$a.jpg
+  537  a=82;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/FrauenCam86181$a.jpg
+  538  a=83;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/FrauenCam86181$a.jpg
+  539* #a=80;curl http://webcam.frauenkirche.de/webcams/img.php\?32 >/Users/rawa/Desktop/FrauenCam86181$a.jpg
+  540  shasum -a 256 /Users/rawa/Desktop/*
+  541  #a=83;curl http://webcam.frauenkirche.de/webcams/img.php\?12\&86181$a >/Users/rawa/Desktop/FrauenCam3286181$a.jpg
+  542  history|grep at
+  543  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?12 > ~/Desktop/FrauenCam12At$a.jpg
+  544  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?32 > ~/Desktop/FrauenCam32At$a.jpg
+  545  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?22 > ~/Desktop/FrauenCam22At$a.jpg
+  546  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?12 > ~/Desktop/FrauenCam12At$a.jpg
+  547  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?12 > ~/Desktop/FrauenCam12At$a.jpg
+  548  curl https://floatingboat2013.appspot.com/at
+  549  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?12 > ~/Desktop/FrauenCam12At$a.jpg
+  550  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?22 > ~/Desktop/FrauenCam22At$a.jpg
+  551  date;a=`curl https://floatingboat2013.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?32 > ~/Desktop/FrauenCam32At$a.jpg
+  552  shasum -a 256 /Users/rawa/Desktop/*
+  553  ls
+  554  ls -l
+  555  history 
+  556  emacs LadyCatch.sh
+  557  git add LadyCatch.sh 
+  558  git commit -m "+LadyCatch.sh" 
+  559  chmod +x LadyCatch.sh
+  560  emacs LadyCatch.sh 
+  561  ./LadyCatch.sh
+  562  emacs LadyCatch.sh
+  563  git commit -am "~LadyCatch.sh" 
+  564  ./LadyCatch.sh
+  565* curl -A " LadyCatch.sh
+  566  emacs LadyCatch.sh
+  567  ./LadyCatch.sh
+  568  emacs LadyCatch.sh
+  569  git commit -am "~LadyCatch.sh"
+  570  ./LadyCatch.sh
+  571  emacs LadyCatch.sh
+  572  git commit -am "~LadyCatch.sh"
+  573  ./LadyCatch.sh
+  574  emacs LadyCatch.sh
+  575  git commit -am "~LadyCatch.sh"
+  576  ./LadyCatch.sh
+  577  emacs LadyCatch.sh
+  578  git commit -am "~LadyCatch.sh"
+  579  ./LadyCatch.sh
+  580  git commit -am "~LadyCatch.sh"
+  581  git pull
+  582  git status
+  583  git push
+  584  ./LadyCatch.sh
+  585  history|grep Lott
+  586  curl http://s.sl4.eu/clj.jsp\?p=HashLotto |grep 000000
+  587  curl http://s.sl4.eu/clj.jsp\?p=HashLotto |grep 000000
+  588  history|grep In
+  589  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  590  curl https://floatingboat2013.appspot.com/raw/195001
+  591  curl https://floatingboat2013.appspot.com/raw/195001|xxd
+  592  echo "cafebabe0000003300130a0004000d0a000e000f0700100700110100063c696e69743e010003282956010004436f646501000f4c696e654e756d6265725461626c650100046d61696e010016285b4c6a6176612f6c616e672f537472696e673b295601000a536f7572636546696c6501000a5468696e6b2e6a6176610c000500060700120c0009000a0100055468696e6b0100106a6176612f6c616e672f4f626a656374010003437562002100030004000000000002000100050006000100070000001d00010001000000052ab70001b10000000100080000000600010000000100090009000a000100070000002100010001000000052ab80002b10000000100080000000a000200000003000400040001000b00000002000c
+  593  echo "cafebabe0000003300130a0004000d0a000e000f0700100700110100063c696e69743e010003282956010004436f646501000f4c696e654e756d6265725461626c650100046d61696e010016285b4c6a6176612f6c616e672f537472696e673b295601000a536f7572636546696c6501000a5468696e6b2e6a6176610c000500060700120c0009000a0100055468696e6b0100106a6176612f6c616e672f4f626a656374010003437562002100030004000000000002000100050006000100070000001d00010001000000052ab70001b10000000100080000000600010000000100090009000a000100070000002100010001000000052ab80002b10000000100080000000a000200000003000400040001000b00000002000c"|wc
+  594  ls
+  595  #date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  596  ./LadyCatch.sh
+  597  ./LadyCatch.sh
+  598  git add DsTable.html
+  599  git commit -m "+DsTable.html"
+  600  more DsTable.html 
+  601  git mv DsTable.html DsTable.txt
+  602  git commit -m "mv DsTable.html DsTable.txt"
+  603  emacs DsTable.txt
+  604  git status
+  605  git commit -am "~DsTable.txt"
+  606  git commit -am "~DsTable.txt"
+  607  git commit -am "~DsTable.txt"
+  608  curl https://floatingboat2013.appspot.com/dst|wc
+  609  curl https://floatingboat2013.appspot.com/dst|more
+  610  curl https://floatingboat2013.appspot.com/dst|more
+  611  curl https://floatingboat2013.appspot.com/dst|xxd
+  612  curl https://floatingboat2013.appspot.com/dst|shasum -a 256
+  613  java YourSuperCoderClass|sha256sum# 10208b60a39e1b099eb6084497ffa7d935aac2246989da2f113518c7dda33eaf
+  614  ls -l YourSuperCoderClass.class
+  615  emacs YourSuperCoderClass.java
+  616  git add YourSuperCoderClass.java
+  617  git commit -am "+YourSuperCoderClass.java"
+  618  emacs YourSuperCoderClass.java
+  619  git commit -am "~YourSuperCoderClass.java"
+  620  javac YourSuperCoderClass.java
+  621  more SubStr.java 
+  622  javac YourSuperCoderClass.java
+  623  emacs YourSuperCoderClass.java
+  624  git commit -am "~YourSuperCoderClass.java"
+  625  more SubStr.java 
+  626  emacs YourSuperCoderClass.java
+  627  git commit -am "~YourSuperCoderClass.java"
+  628  javac YourSuperCoderClass.java
+  629  java YourSuperCoderClass
+  630  git push
+  631  git pull
+  632  git pull
+  633  git push
+  634  emacs YourSuperCoderClass.java
+  635  curl https://floatingboat2013.appspot.com/dst|shasum -a 256
+  636  curl https://floatingboat2013.appspot.com/dst >SuperCoderChallenge.txt
+  637  more SuperCoderChallenge.txt
+  638  shasum -a SuperCoderChallenge.txt
+  639  shasum -a 256 SuperCoderChallenge.txt
+  640  git add SuperCoderChallenge.txt
+  641  git status
+  642  git commit -am "+YourSuperCoderChallenge.txt"
+  643  emacs YourSuperCoderClass.java
+  644  git commit -am "~YourSuperCoderClass.java"
+  645  emacs YourSuperCoderClass.java
+  646  git commit -am "~YourSuperCoderClass.java"
+  647  javac YourSuperCoderClass.java
+  648  java YourSuperCoderClass
+  649  java YourSuperCoderClass|shasum -a
+  650  java YourSuperCoderClass|shasum -a 256
+  651  git status
+  652  git status
+  653  git push
+  654  ls -l YourSuperCoderClass.*
+  655  java -version
+  656  git add YourSuperCoderClass.class
+  657  git add -f YourSuperCoderClass.class
+  658  git commit -am "+YourSuperCoderClass.class"
+  659  git push
+  660  history 
+  661  javac -g:none YourSuperCoderClass.java
+  662  ls -l *s
+  663  git commit -am "~YourSuperCoderClass.class"
+  664  git push
+  665  emacs YourSuperCoderClass.java
+  666  git status
+  667  git commit -am "~YourSuperCoderClass.java"
+  668  emacs YourSuperCoderClass.java
+  669  git commit -am "~YourSuperCoderClass.java"
+  670  emacs YourSuperCoderClass.java
+  671  git commit -am "~YourSuperCoderClass.java"
+  672  javac YourSuperCoderClass.java
+  673  java YourSuperCoderClass
+  674  emacs YourSuperCoderClass.java
+  675  git commit -am "~YourSuperCoderClass.java"
+  676  emacs YourSuperCoderClass.java
+  677  git commit -am "~YourSuperCoderClass.java"
+  678  emacs YourSuperCoderClass.java
+  679  git commit -am "~YourSuperCoderClass.java"
+  680  javac YourSuperCoderClass.java
+  681  java YourSuperCoderClass|shasum -a 256
+  682  ls -l YourSuperCoderClass.*
+  683  git status
+  684  git add YourSuperCoderClass.class 
+  685  git commit -am "~YourSuperCoderClass.class"
+  686  git push
+  687  javac -g:none YourSuperCoderClass.java
+  688  ls -l YourSuperCoderClass.*
+  689  emacs YourSuperCoderClass.java
+  690  git commit -am "~YourSuperCoderClass.java"
+  691  emacs YourSuperCoderClass.java
+  692  git commit -am "~YourSuperCoderClass.java"
+  693  javac -g:none YourSuperCoderClass.java
+  694  ls -l YourSuperCoderClass.*
+  695  emacs YourSuperCoderClass.java
+  696  git commit -am "~YourSuperCoderClass.java"
+  697  javac -g:none YourSuperCoderClass.java
+  698  emacs YourSuperCoderClass.java
+  699  javac -g:none YourSuperCoderClass.java
+  700  git commit -am "~YourSuperCoderClass.java"
+  701  java YourSuperCoderClass
+  702  emacs YourSuperCoderClass.java
+  703  git commit -am "~YourSuperCoderClass.java"
+  704  javac -g:none YourSuperCoderClass.java
+  705  java YourSuperCoderClass
+  706  emacs YourSuperCoderClass.java
+  707  git commit -am "~YourSuperCoderClass.java"
+  708  javac -g:none YourSuperCoderClass.java
+  709  java YourSuperCoderClass
+  710  emacs YourSuperCoderClass.java
+  711  git commit -am "~YourSuperCoderClass.java"
+  712  javac -g:none YourSuperCoderClass.java
+  713  java YourSuperCoderClass
+  714  java YourSuperCoderClass|shasum -a 256
+  715  ls -l YourSuperCoderClass.*
+  716  git commit -am "~YourSuperCoderClass.java"
+  717  git log -2
+  718  git push
+  719  curl https://github.com/wasserfuhr/AllHashes/raw/23272703b49d080e6c0ecda79ae8ce8be38aee65/YourSuperCoderClass.class|wc
+  720  curl https://github.com/wasserfuhr/AllHashes/raw/23272703b49d080e6c0ecda79ae8ce8be38aee65/YourSuperCoderClass.class|more
+  721  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/23272703b49d080e6c0ecda79ae8ce8be38aee65/YourSuperCoderClass.class|wc
+  722  ls -l
+  723  history >BmHistLd42d2.txt
+  724  emacs YourSuperCoderClass.java
+  725  javap -c -v YourSuperCoderClass.class
+  726  javap -c -v YourSuperCoderClass
+  727  javap -c -v YourSuperCoderClass|more
+  728  history|grep Lot
+  729  curl http://s.sl4.eu/clj.jsp\?p=HashLotto |grep 000000
+  730  ls -l Y*
+  731  emacs YourSuperCoderClass.java
+  732  git commit -am "~YourSuperCoderClass.java"
+  733  javac -g:none YourSuperCoderClass.java
+  734  java YourSuperCoderClass
+  735  emacs YourSuperCoderClass.java
+  736  git commit -am "~YourSuperCoderClass.java"
+  737  emacs YourSuperCoderClass.java
+  738  git commit -am "~YourSuperCoderClass.java"
+  739  javac -g:none YourSuperCoderClass.java
+  740  java YourSuperCoderClass
+  741  ls -l Y*
+  742  emacs YourSuperCoderClass.java
+  743  git commit -am "~YourSuperCoderClass.java"
+  744  javac -g:none YourSuperCoderClass.java
+  745  java YourSuperCoderClass
+  746  emacs YourSuperCoderClass.java
+  747  git commit -am "~YourSuperCoderClass.java"
+  748  emacs YourSuperCoderClass.java
+  749  git commit -am "~YourSuperCoderClass.java"
+  750  javac -g:none YourSuperCoderClass.java
+  751  java YourSuperCoderClass
+  752  emacs YourSuperCoderClass.java
+  753  git commit -am "~YourSuperCoderClass.java"
+  754  javac -g:none YourSuperCoderClass.java
+  755  java YourSuperCoderClass
+  756  java YourSuperCoderClass|shasum -a 256
+  757  git push
+  758  ls -l Y*
+  759  java -c -v YourSuperCoderClass|more
+  760  javap -c -v YourSuperCoderClass|more
+  761  ls -l Y*
+  762  javap -c -v YourSuperCoderClass|more
+  763  java YourSuperCoderClass
+  764  javap -c -v YourSuperCoderClass|more
+  765  java YourSuperCoderClass
+  766  java YourSuperCoderClass|shasum -a 256
+  767  java YourSuperCoderClass|wc
+  768  mkdir bley
+  769  cd bley/
+  770  wget https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/YourSuperCoderClass.java
+  771  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/YourSuperCoderClass.java
+  772  curl -?
+  773  curl --help
+  774  curl -O https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/YourSuperCoderClass.java
+  775  ls -l
+  776  javac YourSuperCoderClass.java
+  777  ls -l
+  778  javac YourSuperCoderClass
+  779  javac YourSuperCoderClass.java
+  780  ls -l
+  781  java YourSuperCoderClass
+  782  java YourSuperCoderClass|wc
+  783  git status
+  784  git add ../BmHistLd42d2.txt
+  785  cd ..
+  786  cd bley/
+  787  emacs README.md
+  788  pwd
+  789  cd ..
+  790  git add bley
+  791  git status
+  792  git commit -am "~YourSuperCoderClass.java +bley"
+  793  git status
+  794  git push
+  795  more LadyCatch.sh
+  796  ./LadyCatch.sh
+  797  pwd
+  798  git status
+  799  emacs YourSuperCoderClass.java
+  800  curl https://floatingboat2013.appspot.com/raw/2225001|wc
+  801  curl https://floatingboat2013.appspot.com/raw/2225001|xxd
+  802  curl https://floatingboat2013.appspot.com/raw/3235008|wc
+  803  shasum -a /Users/rawa/Desktop/DsTable.txt 
+  804  shasum -a 256 /Users/rawa/Desktop/DsTable.txt 
+  805  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/SummerTimeTable.txt|wc
+  806  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/SummerTimeTable.txt|wc
+  807  md5 YourSuperCoderClass.class
+  808  md5 YourSuperCoderClass.class
+  809  ./LadyCatch.sh
+  810  ls -l ~/*p
+  811  ./LadyCatch.sh
+  812  ./LadyCatch.sh
+  813  emacs LadyCatch.sh
+  814  git status
+  815  git commit -am "~LadyCatch.sh"
+  816  emacs LadyCatch.sh
+  817  ./LadyCatch.sh
+  818  git commit -am "~LadyCatch.sh"
+  819  ./LadyCatch.sh
+  820  history|grep In
+  821  #date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Public/HiPoBorgDeskTop566/at$a.InfoRadio.mp3
+  822  #date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  823  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  824  ./LadyCatch.sh
+  825  ./LadyCatch.sh
+  826  ./LadyCatch.sh
+  827  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  828  ./LadyCatch.sh
+  829  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m >/Users/rawa/Desktop/at$a.InfoRadio.mp3
+  830  ls
+  831  git status
+  832  history >BmHistLd42d4.txt 

@@ -1,0 +1,13 @@
+1 https://new-egypt.appspot.com/ra
+2 https://dresdenlabs.appspot.com/ls
+3 https://floatingboat2013.appspot.com/ls
+4 https://knot-net.appspot.com/ls
+5 https://new-egypt.appspot.com/ls
+6 https://dresdenlabs.appspot.com/dsStat
+7 https://floatingboat2013.appspot.com/dsStat
+8 https://knot-net.appspot.com/dsStat
+9 https://new-egypt.appspot.com/dsStat
+10 https://beacon.nist.gov/rest/record/last
+11 https://blockchain.info/latestblock
+12 http://cosinekitty.com/star_catalog.js
+13 http://cosinekitty.com/astronomy.js

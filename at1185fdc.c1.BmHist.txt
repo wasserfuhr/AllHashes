@@ -1,0 +1,500 @@
+  142  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  143  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  144  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  145  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  146  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  147  ls -l ~/in/at10d1f09.56.purge.txt #.purge.txt;tput bel
+  148  more ~/in/at10d1f09.56.purge.txt
+  149  history|grep Lady
+  150  history|grep frau
+  151  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  152  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  153  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  154  curl https://floatingboat2013.appspot.com/raw/7845001|shasum -a 256
+  155  pwd
+  156  curl https://floatingboat2013.appspot.com/raw/7845001 > 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  157  cat 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  158  wc 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  159  curl https://floatingboat2013.appspot.com/raw/3575009|shasum -a 256
+  160  curl https://floatingboat2013.appspot.com/raw/3575009 > 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+  161  shasum -a 256 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+  162  wc 12202f3fe6ff484a68c8627537c272081c23cdebd410b03ef07c3830d390853c61b0.txt
+  163  curl http://cosinekitty.com/star_catalog.js |shasum -a 256
+  164  curl https://floatingboat2013.appspot.com/eval/5675001|shasum -a 256
+  165  curl https://floatingboat2013.appspot.com/eval/5675001|wc
+  166  curl http://cosinekitty.com/star_catalog.js |wc
+  167  history 
+  168  a=`curl https://knot-net.appspot.com/at;echo $a;curl http://cosinekitty.com/star_catalog.js > 1220a9261b603f2ad1d528a464058d833b79f711ca33b31cf4744a18e8667556d3c6.js
+  169  a=`curl https://knot-net.appspot.com/at`;echo $a;curl http://cosinekitty.com/star_catalog.js > 1220a9261b603f2ad1d528a464058d833b79f711ca33b31cf4744a18e8667556d3c6.js
+  170  pwd
+  171  mv -i Desktop/Screen\ Shot\ 2016-04-1* in
+  172  curl https://floatingboat2013.appspot.com/dsStat |shasum -a 256
+  173  curl https://knot-net.appspot.com/ls
+  174  curl https://knot-net.appspot.com/ls|wc
+  175  curl https://blockchain.info/latestblock
+  176  curl https://blockchain.info/latestblock|shasum -a 256
+  177  curl https://blockchain.info/latestblock|shasum -a 256
+  178  curl https://beacon.nist.gov/rest/record/last|shasum -a 256
+  179  curl https://beacon.nist.gov/rest/record/last|shasum -a 256
+  180  curl https://beacon.nist.gov/rest/record/last|shasum -a 256
+  181  history 
+  182  curl http://www.siggibecker.de/noj923yeah/feed/
+  183  curl http://www.siggibecker.de/noj923yeah/feed/|shasum -a 256
+  184  curl http://www.siggibecker.de/noj923yeah/feed/|shasum -a 256
+  185  curl http://www.siggibecker.de/noj923yeah/feed/|more
+  186   history|grep pur
+  187  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  188  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  189  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  190  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  191  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  192  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  193  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  194  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  195  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  196  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  197  curl https://api.github.com/repos/wasserfuhr/AllHashes/commits|wc
+  198  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  199  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  200  ls -sl ~/in/
+  201  curl https://api.github.com/repos/wasserfuhr/AllHashes/branches
+  202  curl https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png|wc
+  203  curl http://www.saksfifthavenue.com/emailMedia/12_041816_EDITORIAL_EVENT_EVENING_DRESSES.jpg|wc
+  204  curl http://www.saksfifthavenue.com/emailMedia/12_041816_EDITORIAL_EVENT_EVENING_DRESSES.jpg
+  205  curl -
+  206  curl -?
+  207  curl --help
+  208  split
+  209  split --h
+  210  ls -l /Volumes/SPACEDRIVE1/|sort -k -n 5
+  211  ls -l /Volumes/SPACEDRIVE1/|sort -n 5
+  212  ls -l /Volumes/SPACEDRIVE1/|sort -k
+  213  ls -l /Volumes/SPACEDRIVE1/|sort --help
+  214  ls -l /Volumes/SPACEDRIVE1/|sort -n -k=5
+  215  ls -l /Volumes/SPACEDRIVE1/|sort -n -k 5
+  216  split --h
+  217  split --help
+  218  man split
+  219  split -b 1924530936 /Volumes/SPACEDRIVE1/12205ed9c48362a92c19b6fe83ed1f09b2535672a64c468abcaa370d97b938aab61c.bz2 
+  220  ls
+  221  shasum -a xxa
+  222  shasum -a 256 xxa
+  223  shasum -a 256 xaa
+  224  shasum -a 256 xa?
+  225  ls -l xa?
+  226  df
+  227  rm xa*
+  228  df
+  229  pwd
+  230  pwd
+  231  cd git/AllHashes/
+  232  git pull
+  233  java HtTp
+  234  javac HtTp.java 
+  235  javac -cp ..\.m2\repository\org\clojure\clojure\1.8.0\clojure-1.8.0.jar;jetty-all-8.1.9.v20130131.jar;javax.servlet-api-3.1.0.jar
+  236  javac -cp ..\.m2\repository\org\clojure\clojure\1.8.0\clojure-1.8.0.jar;jetty-all-8.1.9.v20130131.jar;javax.servlet-api-3.1.0.jar HtTp.java
+  237  javac -cp ~/.ository\org\clojure\clojure\1.8.0\clojure-1.8.0.jar;jetty-all-8.1.9.v20130131.jar;javax.servlet-api-3.1.0.jar HtTp.java
+  238  ls ~/.m2/re
+  239  ls ~/.m2/
+  240  ls ~/.m2/
+  241  wget http://central.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+  242  curl http://central.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+  243  curl http://central.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar >clojure-1.8.0.jar
+  244  curl http://central.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar.sha1 >clojure-1.8.0.jar.sha1
+  245  cat clojure-1.8.0.jar.sha1
+  246  shasum -a clojure-1.8.0.jar
+  247  shasum -a 256 clojure-1.8.0.jar
+  248  shasum clojure-1.8.0.jar
+  249  javac -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.1.0.jar HtTp.java
+  250  curl http://central.maven.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar > javax.servlet-api-3.1.0.jar
+  251  javac -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.1.0.jar HtTp.java
+  252  javac Ur.java
+  253  javac -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.1.0.jar HtTp.java
+  254  javac -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.1.0.jar:. HtTp.java
+  255  curl http://central.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar > javax.servlet-api-3.0.1.jar
+  256  javac -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.0.1.jar:. HtTp.java
+  257  java -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.0.1.jar:. HtTp
+  258  ipconfig
+  259  ifconfig 
+  260  java -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.0.1.jar:. HtTp
+  261  curl https://clojars.org/repo/hiccup/hiccup/1.0.5/hiccup-1.0.5.jar > hiccup-1.0.5.jar
+  262  java -cp clojure-1.8.0.jar:jetty-all-8.1.9.v20130131.jar:javax.servlet-api-3.0.1.jar:hiccup-1.0.5.jar:. HtTp
+  263  history|grep sort
+  264  du -k -d 2 ~/|sort -n
+  265  du -k -d 2 ~|sort -n
+  266  du -k -d 2 ~|sort -n
+  267  du -k -d 2 ~|sort -n
+  268  df
+  269  df -b
+  270  df -?
+  271  man df
+  272  df -k
+  273  ls
+  274  history|grep La
+  275  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  276  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  277  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  278  history 
+  279  history|grep bel
+  280  a=`curl https://knot-net.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  281  curl https://knot-net.appspot.com/at
+  282  curl https://floatingboat2013.appspot.com/at
+  283  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  284  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  285  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  286  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  287  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  288  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  289  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  290  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  291  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  292  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  293  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  294  ls -l ~/in*purge*
+  295  ls -l ~/in/*purge*
+  296  mv /Users/rawa/in/at.purge.txt /Users/rawa/in/at11270ed.purge.txt
+  297  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  298  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  299  ls /Volumes/SDRED8/
+  300  man du
+  301  du -d 2 /Volumes/SDRED8/
+  302  man du
+  303  du -k -d 2 /Volumes/SDRED8/
+  304  cd /Volumes/SDRED8/
+  305  ls -l
+  306  ls -al
+  307  rm .TemporaryItems/folders.502/TemporaryItems/*
+  308  rm .TemporaryItems/folders.502/TemporaryItems
+  309  rmdir .TemporaryItems/folders.502/TemporaryItems
+  310  pwd
+  311  cd
+  312  cd /Volumes/SDRED8/
+  313  rmdir .TemporaryItems/folders.502/
+  314  du -k -d 2 /Volumes/SDRED8/
+  315  du -k -d 3 /Volumes/SDRED8/
+  316  history
+  317  a=`curl https://floatingboat2013.appspot.com/at`;echo $a; du -k -d 3 /Volumes/SDRED8/ > ~/in/at$a.DuSdRed8.txt
+  318  du -k -d 3 /Volumes/SDRED8/
+  319  pwd
+  320  ls
+  321  mv DriveIn/ in
+  322  mv LOST.DIR/ in
+  323  mv CAM* in
+  324  mv CAM04372.mp4 in
+  325  mv CAM15746.mp4 in
+  326  mv CAM05685.mp4 in
+  327  mv CAM05718.mp4 in
+  328  ls -l
+  329  ls -l
+  330  mv Android/ in
+  331  mv DCIM in
+  332  mv QuickMemo in
+  333  mv QuickMemoInternal/ in
+  334  ls -al
+  335  mv -i AUD0272.3gp in
+  336  mv -i AUD0273.3gp in
+  337  mv -i SoundRecorder in
+  338  mv -i SoundRecorderInternal/ in
+  339  mv -i download/ in
+  340  mv -i runtasticInternal/ in
+  341  mv -i .showme/ in
+  342  ls -al
+  343  ls -al
+  344  mv -i .TemporaryItems/ in
+  345  mv -i .Trashes/ in
+  346  mv -i .android_secure/ in
+  347  mv -i .apdisk in
+  348  ls -al
+  349  mv -i .fseventsd/ in
+  350  mv -i ._6b27.mp4 in
+  351  mv -i ._6b27\ -\ Kopie.mp4 in
+  352  ls -al
+  353  history
+  354  du -k -d 3 /Volumes/SDRED8/
+  355  history
+  356  a=`curl https://floatingboat2013.appspot.com/at`;echo $a; du -k -d 3 /Volumes/SDRED8/ > ~/in/at$a.DuSdRed8.txt
+  357  cat  ~/in/at1128dae.e7.DuSdRed8.txt 
+  358  pwd
+  359  cd
+  360  du -k -d 3 /Volumes/SdBlue8/
+  361  pwd
+  362  cd /Volumes/SdBlue8/
+  363  mkdir in
+  364  ls LOST.DIR/
+  365  rmdir LOST.DIR/
+  366  ls download/
+  367  rmdir download/
+  368  ls .android_secure/
+  369  rmdir .android_secure/
+  370  rmdir DCIM/.android_secure/
+  371  ls -l
+  372  mv -i SoundRecorder in
+  373  mv -i SoundRecorderLocal/ in
+  374  ls -al
+  375  ls .TemporaryItems/
+  376  ls .TemporaryItems/folders.503/TemporaryItems/
+  377  rmdir .TemporaryItems/folders.503/TemporaryItems/
+  378  rmdir .TemporaryItems/folders.503/
+  379  rmdir .TemporaryItems/
+  380  ls -al
+  381  ls sd00/
+  382  mv -i sd00/CAM07879.jpg in
+  383  mv -i DCIM/100LGDSC/ in
+  384  ls DCIM/
+  385  rmdir DCIM/
+  386  ls .Trashes/
+  387  rmdir .Trashes/
+  388  ls ._.apdisk
+  389  ls .fseventsd/fseventsd-uuid 
+  390  ls -l .fseventsd/fseventsd-uuid 
+  391  cat .fseventsd/fseventsd-uuid 
+  392  ls -al
+  393  ls sd00/
+  394  rmdir sd00/
+  395  ls -al
+  396  ls
+  397  cd
+  398  pwd
+  399  emacs Desktop/AlphaCol.htm
+  400  history
+  401  ls -l ~/in/*purge*
+  402  history|grep pur
+  403  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  404  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  405  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  406  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  407  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  408  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  409  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  410  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  411  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  412  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  413  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  414  ls
+  415  history|grep sort
+  416  du -k -d 2 ~|sort -n
+  417  du -k -d 1 ~|sort -n
+  418  du -k -d 1 ~/Library/|sort -n
+  419  du -k -d 1 ~/Library/Application\ Support/|sort -n
+  420  du -k -d 1 ~/Library/Application\ Support/Google/|sort -n
+  421  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/|sort -n
+  422  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/|sort -n
+  423  ls -l ~/Library/Application\ Support/Google/Chrome/Default/
+  424  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  425  man cp
+  426  cp -R /Users/rawa/in/ /Volumes/SPACEDRIVE1/in/at1144106.in_BorgMac
+  427  man cp
+  428  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  429  cp -pR /Users/rawa/in/ /Volumes/SPACEDRIVE1/in/at11442b2.77.in_BorgMac
+  430  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  431  cp -p -R /Users/rawa/in/ /Volumes/SPACEDRIVE1/in/at11442de.11.in_BorgMac
+  432  du -k -d 1 ~/in|sort -n
+  433  rm in/DiebesCam/CAM22???.jpg
+  434  history |grep du
+  435  history |grep du|grep Bm
+  436  a=`curl https://knot-net.appspot.com/at`;echo $a;du -k -d 2 ~|sort -n >~/Desktop/git/AllHashes/at$a.BmDu.txt;cat ~/Desktop/git/AllHashes/at$a.BmDu.txt
+  437  a=`curl https://knot-net.appspot.com/at`;echo $a;du -k -d 2 ~|sort -n >~/git/AllHashes/at$a.BmDu.txt;cat ~/git/AllHashes/at$a.BmDu.txt
+  438  du -k -d 1 ~/in|sort -n
+  439  du -k -d 1 ~/in/DiebesCam/|sort -n
+  440  du -k -d 1 ~/in/HiPoBorgDeskTop566/|sort -n
+  441  ls -l ~/in/HiPoBorgDeskTop566/ |sort -n
+  442  ls -l ~/in/HiPoBorgDeskTop566/ |sort -n -k 5
+  443  du -k -d 1 ~/in/DiebesCam/|sort -n
+  444  du -k -d 1 ~/in/|sort -n
+  445  du -k -d 1 ~/|sort -n
+  446  du -k -d 1 ~/Library/|sort -n
+  447  du -k -d 1 ~/Library/Application\ Support/|sort -n
+  448  du -k -d 1 ~/Library/Application\ Support/Google/|sort -n
+  449  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/|sort -n
+  450  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/|sort -n
+  451  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/File\ System/|sort -n
+  452  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/File\ System/000/|sort -n
+  453  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/File\ System/000/p/|sort -n
+  454  du -k -d 1 ~/Library/Application\ Support/Google/Chrome/Default/File\ System/000/p/05|sort -n
+  455  ls -l ~/Library/Application\ Support/Google/Chrome/Default/File\ System/000/p/05
+  456  xxd ~/Library/Application\ Support/Google/Chrome/Default/File\ System/000/p/05/00000500|more
+  457  du -k -d 1 ~|sort -n
+  458  du -k -d 1 ~in|sort -n
+  459  du -k -d 1 ~/in|sort -n
+  460  du -k -d 1 ~/in/HiPoDeskTopLd42d3/|sort -n
+  461  ls -l ~/in/HiPoDeskTopLd42d3/|sort
+  462  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  463  du -k -d 1 ~/in/HiPoDeskTopLd42d3/|sort -n
+  464  rm ~/in/HiPoDeskTopLd42d3/AUD08??.*
+  465  du -k -d 1 ~/in/HiPoDeskTopLd42d3/|sort -n
+  466  du -k -d 1 ~/in/HiPoDeskTopLd42d3/|sort -n
+  467  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  468  rm ~/in/HiPoDeskTopLd42d3/AUD07??.*
+  469  rm ~/in/HiPoDeskTopLd42d3/AUD06??.*
+  470  rm ~/in/HiPoDeskTopLd42d3/AUD05??.*
+  471  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  472  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  473  rm ~/in/HiPoDeskTopLd42d3/AUD04??.*
+  474  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  475  rm ~/in/HiPoDeskTopLd42d3/AUD03??.*
+  476  ls -l ~/in/HiPoDeskTopLd42d3/|sort -n -k 5
+  477  du -k -d 1 ~/in |sort -n
+  478  history |grep hist
+  479  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt
+  480  cd git/AllHashes/
+  481  git status
+  482  rm javax.servlet-api-3.1.0.jar
+  483  git commit -am "at..."
+  484  git add at10841ab.0a.BmDu.txt at10841e7.f6.BmDu.txt at1084dbc.10.BmDu.txt at1084ea4.58.BmDu.txt at10850c5.48.BmHist.txt at10c290e.ed.BmHist.txt at10c376f.c7.BmDu.txt at1144530.b0.BmDu.txt at11447d2.4c.BmHist.txt clojure-1.8.0.jar clojure-1.8.0.jar.sha1 hiccup-1.0.5.jar javax.servlet-api-3.0.1.jar
+  485  git commit -m "+at10841ab.0a.BmDu.txt +at10841e7.f6.BmDu.txt +at1084dbc.10.BmDu.txt +at1084ea4.58.BmDu.txt +at10850c5.48.BmHist.txt +at10c290e.ed.BmHist.txt +at10c376f.c7.BmDu.txt +at1144530.b0.BmDu.txt +at11447d2.4c.BmHist.txt +clojure-1.8.0.jar +clojure-1.8.0.jar.sha1 +hiccup-1.0.5.jar +javax.servlet-api-3.0.1.jar"
+  486  git status
+  487  git push
+  488  git pull
+  489  history
+  490  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  491  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  492  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  493  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  494  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  495  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  496  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  497  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  498  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  499  history|grep Bm
+  500  a=*;ls -l ~/git/AllHashes/at$a.BmHist.txt
+  501  git status
+  502  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  503  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  504  pwd
+  505  cd
+  506  ls
+  507  cat 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  508  cd git/AllHashes/
+  509  .clj
+  510  ./clj
+  511  emacs ./clj
+  512  ./clj
+  513  git status
+  514  git commit -am "~clj"
+  515  git pull
+  516  ls -l *j
+  517  cat In9405001.clj
+  518  ls -l *j
+  519  cat feed.clj
+  520  #(.split (slurp"OneToTwo.txt")"\n")
+  521  ./clj (.split(slurp"OneToTwo.txt")"\n")
+  522  emacs OneToTwo.clj(doall
+  523   (map;   (fn [l];    (println (first (.split (slurp (str "/home/rawa/SpaceDrive/1220" l ".news")) "\n")) l))
+  524    (line-seq (java.io.Bu#fferedReader. *in*))))borg-2:AllHashes rawa$ (.split (slurp"OneToTwo.txt")"\n")
+  525  borg-2:AllHashes rawa$ ./clj (.split(slurp"OneToTwo.txt")"\n")
+  526  -bash: syntax error near unexpected token `.split'
+  527  emacs OneToTwo.clj
+  528  ./clj OneToTwo.clj
+  529  git add OneToTwo.clj
+  530  git commit -ma "+OneToTwo.clj"
+  531  git commit -am "+OneToTwo.clj"
+  532  emacs OneToTwo.clj
+  533  ./clj OneToTwo.clj
+  534  git commit -am "~OneToTwo.clj"
+  535  emacs OneToTwo.clj
+  536  git commit -am "~OneToTwo.clj"
+  537  git commit -am "~OneToTwo.clj"
+  538  ./clj OneToTwo.clj
+  539  ls *Typ*
+  540  ls *Mi*
+  541  ls -l
+  542  ls -l|more
+  543  grep mp4 *
+  544  grep mp4 *|more
+  545  ls *Ext*
+  546  cat FileExt.java
+  547  more FileExtLd4294.txt
+  548  emacs OneToTwo.clj
+  549  git commit -am "~OneToTwo.clj"
+  550  ./clj OneToTwo.clj
+  551  ./clj OneToTwo.clj > tmpExt
+  552  cat tmpExt FileExt|sort|more
+  553  cat tmpExt FileExt|sort|wc
+  554  cat tmpExt FileExt|sort -u
+  555  cat tmpExt FileExt|sort -u|wc
+  556  cat tmpExt FileExt|sort|wc
+  557  cat tmpExt FileExt|sort >>ttmp
+  558  cat tmpExt FileExtLd4294.txt|sort -u
+  559  cat tmpExt FileExtLd4294.txt|sort |wc
+  560  cat tmpExt FileExtLd4294.txt|sort -u|wc
+  561  wc FileExtLd4294.txt
+  562  cat tmpExt FileExtLd4294.txt|sort > ttmp
+  563  diff FileExtLd4294.txt ttmp
+  564  ls -l  FileExtLd4294.txt ttmp 
+  565  cat tmpExt FileExtLd4294.txt|sort -u > ttmp
+  566  ls -l  FileExtLd4294.txt ttmp 
+  567  diff FileExtLd4294.txt ttmp
+  568  emacs FileExtLd4294.txt 5e4c5d804163ba8f8478889f69619f3b2d4548634f890765ab35d595058efd6f.bfh
+  569  emacs FileExtLd4294.txt
+  570  git commit -am "~FileExtLd4294.txt"
+  571  rm ttmp tmpExt
+  572  history
+  573  cat 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  574  cat ~/122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt
+  575  history|grep defl
+  576  ls
+  577  cd AeDump
+  578  ls
+  579  cat dump.sh 
+  580  pwd
+  581  ls
+  582  ls -l
+  583  pwd
+  584  cd fbo
+  585  mkdir fbo
+  586  cd fbo/
+  587  pwd
+  588  more ../../BootStrap.floatingboat2013.txt |../../clj ../../dump.clj
+  589  emacs ../../clj 
+  590  more ../../BootStrap.floatingboat2013.txt |../../clj ../../dump.clj
+  591  emacs ../../clj 
+  592  more ../../BootStrap.floatingboat2013.txt |../../clj ../../dump.clj
+  593  cat 1.txt 
+  594  wc *t|sort -nk 3|more
+  595   cat 15001.txt 
+  596    history|grep pur
+  597  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  598  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  599  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  600  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  601  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  602  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  603  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  604  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  605  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  606  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  607  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  608  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  609  shasum -a 256 ~/in/DcIm/CAM24125.jpg
+  610  pwd
+  611  ls -l ~
+  612  cat ~/122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt 
+  613  pwd
+  614  ls
+  615  ls ~
+  616  ls ~/Desktop/
+  617  ls -l ~/Desktop/
+  618  shasum -a 256 ~/Desktop/lake2015.pdf 
+  619  pwd
+  620  ls -l
+  621  ls -l|wc
+  622  ls -ls
+  623  ls -l |sort -nk 5
+  624  more 8015001.txt 
+  625  more 0.txt 
+  626  more 85001.txt 
+  627  history 
+  628  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;
+  629  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;ls -l |sort -nk 5 > ~/in/at$a.BootStrap.floatingboat2013_ls.txt;tput bel
+  630  #a=`curl https://floatingboat2013.appspot.com/at`;echo $a;ls -l |sort -nk 5 > ~/in/at$a.BootStrap.floatingboat2013_ls.txt
+  631  cat ~/in/at*.BootStrap.floatingboat2013_ls.txt
+  632  ls
+  633  pwd
+  634  cd ..
+  635  mv fbo/ floatingboat2013_failed
+  636  ls
+  637  pwd
+  638  mkdir dresdenlabs
+  639  #git mv *.txt dresdenlabs/
+  640  history |grep hist
+  641  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt

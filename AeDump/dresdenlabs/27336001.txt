@@ -1,0 +1,8 @@
+date:14172096810
+resource:CurrLog
+bLen:3
+sLen:3
+mHash:dcecf69e4fbf00a0f87b683575fca7c1dc87efc6
+sHash:fb7ca3a97ad3db17ad77cda171b0a6395eb9d461d6908c32f41d806a5b7e111a
+oHash:fb7ca3a97ad3db17ad77cda171b0a6395eb9d461d6908c32f41d806a5b7e111a
+content:2f636c

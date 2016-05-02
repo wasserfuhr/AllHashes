@@ -1,13 +1,11 @@
 import java.io.*;
-
-public class SubStr {
- public static void main(String[] args) throws Exception {
-  LineNumberReader lr = new LineNumberReader(new InputStreamReader(System.in));
-  String l;
-  int begin=new Integer(args[0]);
-  int end=new Integer(args[1]);
-  while(null!=(l=lr.readLine())) {
-   System.out.println(l.substring(begin,end));
-  }
- }
-}
+public class SubStr{
+ public static void main(String[]a)throws Exception{
+  LineNumberReader l=new LineNumberReader(new InputStreamReader(System.in));
+  int begin=new Integer(a[0]);
+  String s;while(null!=(s=l.readLine())){
+   if(a.length>1){
+    int end=new Integer(a[1]);
+    System.out.print(s.substring(begin,end)+"\n");}
+   else{
+    System.out.print(s.substring(begin)+"\n");}}}}

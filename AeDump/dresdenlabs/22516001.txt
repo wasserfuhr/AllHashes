@@ -1,0 +1,8 @@
+date:14563074145
+resource:HaLif
+bLen:9
+sLen:9
+mHash:9523193151ad03a125ab47da2bea8cfdfde2e6fa
+sHash:513df2c0ac4a31ed26f0833baa77fa1538e8cfb48247e2c1b8f3c2bbcdb28bfc
+oHash:513df2c0ac4a31ed26f0833baa77fa1538e8cfb48247e2c1b8f3c2bbcdb28bfc
+content:4861734c6966746564

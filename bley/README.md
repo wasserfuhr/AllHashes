@@ -1,0 +1,1 @@
+auch fuer die SuperCoder am FoesterPlatzKloster: wir suchen hier bei der WeltWeit ausgeschriebenen #SuperCoderChallenge den effizientesten ByteCode zum berechnen der SommerZeit - also ein feature, dass laut RayKurzweil auf ueber rund 6000000000 SmartPhone's benoetigt wird. Willst Du PreisGeld? kuckst Du PieschenBank!! -VerSteh-bar? ;) - RaWa

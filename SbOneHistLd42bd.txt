@@ -1,0 +1,500 @@
+   82  cp *bdbb95d3eb3f75b2d1b91dfab3ef05061303ccf46a3d10ada7ca3026d7cca61f* tt
+   83  cp *c44531ebae4bd6e852331d4f109d2c669cb70cfa238e018fdf4e7e5b1923f5ce* tt
+   84  cp *e82cae46d540ad3b4d069da0f4c293d14b08c5d119e9ad09a2b2b60980eaf45c* tt
+   85  cp *f5673d43451a61084407a57b193674e99cfed1bdeca83d27d088ba5f5d89eefe* tt
+   86  cp *f9ea4be59aec55759e7aadcc58dc4e9634e59fdb35acb471db2bf36fddfe5fb4* tt
+   87  man cp
+   88  cp -p=all *24b138fc1d5e458af8d0b2676677069e09f5f06d633702ed99dd4f03bc60a23c* tt
+   89  cp -p all *24b138fc1d5e458af8d0b2676677069e09f5f06d633702ed99dd4f03bc60a23c* tt
+   90  man cp
+   91  cp -p *24b138fc1d5e458af8d0b2676677069e09f5f06d633702ed99dd4f03bc60a23c* tt
+   92  cp -p *36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068* tt
+   93  cp -p *5e4c5d804163ba8f8478889f69619f3b2d4548634f890765ab35d595058efd6f* tt
+   94  cp -p *652585798b3904a637a8b9a1f6c32568d31527390bde0fbc15c225c071234769* tt
+   95  cp -p *6ef19b41225c5369f1c104d45d8d85efa9b057b53b14b4b9b939dd74decc5321* tt
+   96  cp -p *9e21cf655aaf13469255e0f716f060c56ca93e3eaf2f6724f770c037ac3b8698* tt
+   97  cp -p *b50fe57a0620e8f98a037e4ad8d7db8b7c056e3ee154e3334c251639d4592f18* tt
+   98  cp -p *bdbb95d3eb3f75b2d1b91dfab3ef05061303ccf46a3d10ada7ca3026d7cca61f* tt
+   99  cp -p *c44531ebae4bd6e852331d4f109d2c669cb70cfa238e018fdf4e7e5b1923f5ce* tt
+  100  cp -p *e82cae46d540ad3b4d069da0f4c293d14b08c5d119e9ad09a2b2b60980eaf45c* tt
+  101  cp -p *f5673d43451a61084407a57b193674e99cfed1bdeca83d27d088ba5f5d89eefe* tt
+  102  cp -p *f9ea4be59aec55759e7aadcc58dc4e9634e59fdb35acb471db2bf36fddfe5fb4* tt
+  103  rm tt/*
+  104  rmdir tt
+  105  cd ..
+  106  cd 00000000005b4649864db0bcd0a494cb78f46779 DriveIn/*
+  107  grep 00000000005b4649864db0bcd0a494cb78f46779 DriveIn/*
+  108  cat GitHoster/GoogleProjectHosting/ungit.wiki/BfHash*
+  109  echo 037d32273300|xxd -r
+  110  echo 037d32273300|xxd -r|shasum 
+  111  xxd HiQuest.txt |more
+  112  echo "0000000: 037d 3227 33002|xxd -r|shasum 
+  113  echo "0000000: 037d 3227 3300"|xxd -r|shasum 
+  114  echo "0000000: 037d 3227 3300"|xxd -r > SpaceDrive/12205e4c5d804163ba8f8478889f69619f3b2d4548634f890765ab35d595058efd6f.bfh
+  115  sha256sum SpaceDrive/12205e4c5d804163ba8f8478889f69619f3b2d4548634f890765ab35d595058efd6f.bfh
+  116  wc SpaceDrive/1220059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f.txt 
+  117  pwd
+  118  tail /var/log/messages
+  119  sort chk.txt
+  120  sort chk.txt -k 2
+  121  sort chk.txt -k 2|more
+  122  ls
+  123  ls -l
+  124  rm log.out 
+  125  rm google_appengine_1.9.32.zip 
+  126  history > SbOneHistLd42af.txt
+  127  mv SwissBox1St565/ DriveIn/
+  128  mv HashCheckLd42aa.txt DriveIn/
+  129  mv HiQuest.txt DriveIn/HiQuestLd42af.txt
+  130  mv hq1.txt DriveIn/HiQuestRestLd42af.txt
+  131  more ImageSet571.txt 
+  132  mv -i ImageSet571.txt DriveIn/
+  133  ls -l
+  134  mv SbOneHistLd42af.txt DriveIn/
+  135  ls -l
+  136  mv hq.txt DriveIn/HiScoreQuestLd42af.txt
+  137  pwd
+  138  cd SpaceDrive/
+  139  ls -l|more
+  140  xxd ../sd1ls.txt |more
+  141  od ../sd1ls.txt |more
+  142  man od
+  143  od -c ../sd1ls.txt |more
+  144  emacs /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/JspTest.jsp
+  145  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  146  ls
+  147  git pull
+  148  git status
+  149  cd git/AllHashes/
+  150  git status
+  151  ls
+  152  history|grep cd
+  153  cd /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  154  emacs BlogChains.clj 
+  155  emacs WEB-INF/web.xml
+  156  emacs BlogChains.clj 
+  157  ls
+  158  emacs /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  159  rm /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  160  emacs /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  161  rm /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  162  vi /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  163  emacs /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  164  emacs +9999 /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  165  wc /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  166  sha256sum /home/rawa/SpaceDrive/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  167  cd
+  168  pwd
+  169  md5sum tmp/btn/trunk/assets/
+  170  ls -l /home/rawa/SpaceDrive/*zip
+  171  unzip -l /home/rawa/SpaceDrive/1220f0a5504fd3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip 
+  172  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  173  emacs think.clj 
+  174  git status
+  175  #git commit -am "
+  176  git add h.clj
+  177  git commit -am "~BlogChains.clj ~JspTest.jsp ~init.clj ~news.clj ~think.clj +h.clj"
+  178  git push
+  179  emacs think.clj
+  180  emacs init.clj
+  181  emacs think.clj
+  182  df
+  183  ls -l /home/rawa/SpaceDrive/|sort -k 5
+  184  ls -l /home/rawa/SpaceDrive/|sort -k -n 5
+  185  ls -l /home/rawa/SpaceDrive/|sort -nk 5
+  186  du /home/rawa
+  187  du /home/rawa -d 2
+  188  du /home/rawa --d 2
+  189  du /home/rawa --de 2
+  190  du /home/rawa --dep 2
+  191  du /home/rawa --depth 2
+  192  du --help
+  193  du /home/rawa -s
+  194  du /home/rawa/* -s
+  195  du /home/rawa/* -ms
+  196  du /home/rawa/GitHoster/* -ms
+  197  du /home/rawa/GitHoster/GitHub/* -ms
+  198  rm -R /home/rawa/GitHoster/GitHub/torvalds/
+  199  rm -fR /home/rawa/GitHoster/GitHub/torvalds/
+  200  du /home/rawa/GitHoster/GitHub/wasserfuhr/* -ms
+  201  du /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/* -ms
+  202  du /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/* -ms
+  203  du /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/* -ms
+  204  df
+  205  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  206  emacs WEB-INF/web.xml
+  207  cp RootHandler.jsp clj.jsp
+  208  git status
+  209  git add clj.jsp WEB-INF/web.xml think.clj
+  210  git commit -m "~clj.jsp ~WEB-INF/web.xml +clj.jsp ~think.clj"
+  211  emacs clj.jsp
+  212  git commit -am "~cljclj"
+  213  ls *j
+  214  ls -l *j
+  215  cat sh.clj
+  216  emacs clj.jsp
+  217  cd
+  218  ls
+  219  cd tmp/
+  220  ls
+  221  ls -l
+  222  more btn/trunk/src/main/webapp/index.jsp 
+  223  ls
+  224  ls -l
+  225  mv -i * ../DriveIn/
+  226  cd
+  227  rmdir tmp
+  228  ls
+  229  more sd1ls.txt 
+  230  ls -l
+  231  ls -l TmpGaeBackup/manage-gae-backup/
+  232  ls -l TmpGaeBackup/manage-gae-backup/src/main/resources/com/map2app/manage/.gitignore 
+  233  du TmpGaeBackup/
+  234  du -s TmpGaeBackup/
+  235  du -?
+  236  du --h
+  237  du --he
+  238  du -sb TmpGaeBackup/
+  239  #mv TmpGaeBackup/manage-g
+  240  ls TmpGaeBackup/
+  241  mv -i TmpGaeBackup/manage-gae-backup/ DriveIn/
+  242  rmdir TmpGaeBackup/
+  243  ls -l
+  244  mv -i sd1ls.txt DriveIn/
+  245  mv google_appengine/ java_appengine
+  246  ls -l bin/
+  247  ls -l JettyLog/14*
+  248  mv -i JettyLog/1430825986 DriveIn/JettyLog/
+  249  mv -i JettyLog/14517* DriveIn/JettyLog/
+  250  ls -l
+  251  ls -l proto/
+  252  du -bs proto/
+  253  du -bs proto/*
+  254  rm -Rf proto/protobuf-2.6.1/
+  255  du -bs proto/*
+  256  mv -i proto/ DriveIn/
+  257  ls -l
+  258  du -bs *
+  259  ls -l DriveIn/sl*
+  260  cp sl4.keystore Drive
+  261  ls -l DriveIn/UrB*
+  262  ls -l
+  263  cd urbit/
+  264  ls
+  265  cd
+  266  history 
+  267  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  268  ls
+  269  cp LifeMatrix.clj mesh.clj
+  270  git add mesh.clj
+  271  git commit -m "+mesh.clj"
+  272  emacs mesh.clj
+  273  git commit -am "~mesh.clj"
+  274  emacs mesh.clj
+  275  git commit -am "~mesh.clj"
+  276  emacs mesh.clj
+  277  ls
+  278  df
+  279  history
+  280  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  281  ls
+  282  ls -l
+  283  ls -l *j
+  284  cp mesh.clj bool.clj
+  285  git add bool.clj
+  286  git commit -m "+bool.clj"
+  287  emacs bool.clj
+  288  history
+  289  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  290  ls
+  291  cd git/AllHashes/
+  292  xxd BfHash.exe|more
+  293  ls -l BfHash.exe|more
+  294  wc sd1ls.txt 
+  295  ls -l SpaceDrive/|wc
+  296  xxd sd1ls.txt |more
+  297  sort sd1ls.txt > SpaceDrive1LsLd42af.txt
+  298  wc SpaceDrive1LsLd42af.txt
+  299  more SpaceDrive1LsLd42af.txt
+  300  diff SpaceDrive1LsLd42af.txt SpaceDrive/1220059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f.txt 
+  301  diff SpaceDrive1LsLd42af.txt SpaceDrive/1220059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f.txt |sort
+  302  diff SpaceDrive1LsLd42af.txt SpaceDrive/1220059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f.txt |sort|more
+  303  wc SpaceDrive1LsLd42af.txt SpaceDrive/1220059af36cfe1132802ed9475f0a42d93033867ed843512e76a211491a17b1803f.txt a
+  304  cd git/AllHashes/
+  305  java SubStr
+  306  wc /home/rawa/FileSizeLd42af.txt 
+  307  git status
+  308  git add FeedFetch.txt news.txt
+  309  git commit -m "~FeedFetch.txt ~news.txt"
+  310  git status
+  311  git pull
+  312  git status
+  313  git push
+  314  git status
+  315  mv ../../fsbb.txt .
+  316  sort fsbb.txt 
+  317  sort fsbb.txt |wx
+  318  sort fsbb.txt |wc
+  319  more ct.java 
+  320  more LineCount.java 
+  321  more Sum.java
+  322  emacs SubStr.java
+  323  javac SubStr.java 
+  324  sort fsbb.txt |java SubStr 65|more
+  325  sort fsbb.txt |java SubStr 64|more
+  326  sort fsbb.txt |java SubStr 65|java Sum
+  327  sort fsbb.txt |java SubStr 0 64 |more
+  328  sort fsbb.txt |java SubStr 0 64 |diff /home/rawa/sd1ls.txt 
+  329  sort fsbb.txt |java SubStr 0 64 |diff /home/rawa/sd1ls.txt -
+  330  more diff /home/rawa/sd1ls.txt 
+  331  ls
+  332  ls -l /home/rawa
+  333  sort fsbb.txt |java SubStr 0 64 |diff /home/rawa/SpaceDrive1LsLd42af.txt-
+  334  sort fsbb.txt |java SubStr 0 64 |diff /home/rawa/SpaceDrive1LsLd42af.txt -
+  335  sha256sum /home/rawa/SpaceDrive1LsLd42af.txt
+  336  sort fsbb.txt |java SubStr 0 64 |sha256sum 
+  337  sha256sum *
+  338  sha256sum *|sort
+  339  cp /home/rawa/SpaceDrive1LsLd42af.txt /home/rawa/122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt
+  340  sha256sum ShortHash.txt 
+  341  cp ShortHash.txt /home/rawa/SpaceDrive/1220d5e6521cc399006612c4800a09a3a3e36baf43accbd31498bce8e1969508f8bf.txt
+  342  git pull
+  343  sha256sum ShortHash.txt
+  344  wc ShortHash.txt
+  345  cp ShortHash.txt /home/rawa/SpaceDrive/12206f76655a020f2db174d02fa25d77a3005fda9f582b8c1b1f757730f3d817034d.txt
+  346  c
+  347  cd
+  348  ls
+  349  sha256sum 122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt 
+  350  mv -i 122020b94a814e855f9c529daf8c8621e7231aff0d982657ea896a826b9b152c0f1b.txt SpaceDrive
+  351  mv SpaceDrive1LsLd42af.txt DriveIn/
+  352  mv FileSizeLd42af.txt DriveIn/
+  353  ls
+  354  ls -l
+  355  ls urbit/
+  356  ls urbit/urb/
+  357  du -bs urbit/
+  358  ls -l urbit/urb
+  359  ls -l urbit/urb/pinryl-ritlev-hocsut-lardep--fabseg-dasdun-walhex-tonbyn/
+  360  mv -i urbit/ DriveIn/
+  361  ls -l DriveIn/UrB
+  362  ls -l DriveIn/UrB*
+  363  ls
+  364  cp UrBase.sqlite DriveIn/UrbaseLd42bb.sqlite
+  365  ls -l java_appengine/
+  366  mv -i java_appengine/AeDdLabsLd42ab.log DriveIn/
+  367  mv -i java_appengine/log.out DriveIn/AeDdLabsLd42ae.log
+  368  pwd
+  369  cd git/AllHashes/
+  370  ./clj 
+  371  ls -l /home/rawa/SpaceDrive/1220e3*
+  372  cd
+  373  ls -l
+  374  wc SpaceDrive1LsLd4bb.txt 
+  375  emacs +9999 SpaceDrive1LsLd4bb.txt 
+  376  wc SpaceDrive1LsLd4bb.txt 
+  377  emacs +9999 SpaceDrive1LsLd4bb.txt
+  378  wc SpaceDrive1LsLd4bb.txt 
+  379  xxd SpaceDrive1LsLd4bb.txt |more
+  380  pwd
+  381  cd git/AllHashes/
+  382  more /home/rawa/SpaceDrive1LsLd4bb.txt|java SubStr 0 64
+  383  more /home/rawa/SpaceDrive1LsLd4bb.txt|java SubStr 0 64>sssd.txt
+  384  wc sssd.txt 
+  385  more /home/rawa/SpaceDrive1LsLd4bb.txt|java SubStr 0 64 >sssd.txt
+  386  wc sssd.txt 
+  387  xxd sssd.txt |more
+  388  wc sssd.txt 
+  389  history 
+  390  mv sssd.txt GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt
+  391  mv sssd.txt /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt
+  392  sha256sum /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt
+  393  git status
+  394  git add SubStr.java
+  395  git commit -m "~SubStr.java"
+  396  git push
+  397  git pull
+  398  git status
+  399  git push
+  400  sha256sum /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt
+  401  wc /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt
+  402  mv /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/s.txt /home/rawa/SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  403  sha256sum /home/rawa/SpaceDrive/122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  404  git mv SwissBox1HistLd42a4.txt SbOneHistLd42a4.txt
+  405  git status
+  406  more fsbb.txt
+  407  rm fsbb.txt
+  408  #git mv SwissBox1HistLd42a4.txt SbOneHistLd42a4.txt
+  409  git commit -m "mv SwissBox1HistLd42a4.txt SbOneHistLd42a4.txt"
+  410  git status
+  411  git push
+  412  git status
+  413  tail -f /home/rawa/JettyLog/1453171327 
+  414  more /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/NoSh.jsp 
+  415  emacs /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/No
+  416  tail -f /home/rawa/JettyLog/1453171327
+  417  date;
+  418  history > SbOneHistLd42bb.txt
+  419  more SbOneHistLd42bb.txt
+  420  tail -f /home/rawa/JettyLog/1453171327
+  421  xxd /home/rawa/JettyLog/1453171327 |tail
+  422  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/
+  423  cd src/main/webapp/
+  424  git add NoSh.jsp
+  425  git commit -m "+NoSh.jsp"
+  426  git push
+  427  git pull
+  428  git push
+  429  cd
+  430  ls -l
+  431  rm SpaceDrive1LsLd4bb.txt?
+  432  sha256sum SpaceDrive1LsLd4bb.txt?
+  433  sha256sum SpaceDrive1LsLd4bb.txt
+  434  more SpaceDrive1LsLd4bb.txt
+  435  xxd SpaceDrive1LsLd4bb.txt|more
+  436  rm SpaceDrive1LsLd4bb.txt
+  437  #ls GitHoster/GoogleProjectHosting/ungit.wiki/
+  438  history 
+  439  emacs /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/No
+  440  emacs /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/ug.clj
+  441  cd /home/rawa/GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  442  git add ug.clj
+  443  mv sl4.html GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  444  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/src/main/webapp/
+  445  git add sl4.html
+  446  git commit -m "+sl4.html"
+  447  emacs sl4.html
+  448  git commit -am "~sl4.html"
+  449  emacs sl4.html
+  450  git commit -am"
+  451  emacs sl4.html
+  452  tail -f /home/rawa/JettyLog/1453171327 
+  453  emacs NoSh.jsp 
+  454  tail -f /home/rawa/JettyLog/1453171327
+  455  emacs NoSh.jsp 
+  456  tail -f /home/rawa/JettyLog/1453171327
+  457  git status
+  458  git commit -am "~NoSh.jsp"
+  459  sha256sum ae.log
+  460  #mv ae.log /home/rawa/DriveIn/
+  461  ls -l ae.log 
+  462  mv ae.log /home/rawa/DriveIn/AeLogLd42ad.log
+  463  sha256sum /home/rawa/DriveIn/AeLogLd42ad.log
+  464  cp /home/rawa/DriveIn/AeLogLd42ad.log /home/rawa/SpaceDrive/122088296d1d0c96cdf210f591b7f8219a2f965a222d8bee90f19f5a86cdc32eb9ba.log
+  465  git status
+  466  git push
+  467  more sl4.html 
+  468  ls
+  469  cat sh.clj
+  470  emacs sh.clj
+  471  cd /home/rawa/git/AllHashes/
+  472  git pull
+  473  git status
+  474  git add SbOneHistLd42bb.txt
+  475  git commit -m "+SbOneHistLd42bb.txt"
+  476  tail -f /home/rawa/JettyLog/1453171327
+  477  history > SbOneHistLd42bc.txt
+  478  git add SbOneHistLd42bc.txt
+  479  git commit -m "+SbOneHistLd42bc.txt"
+  480  git push
+  481  history
+  482  more DriveIn/AeDdLabsLd42ae.log 
+  483  sudo
+  484  su
+  485  pip
+  486  su
+  487  pip
+  488  wget https://raw.githubusercontent.com/manasg/gae-log-fetcher/master/fetcher.py
+  489  wget --no-check-certificate https://raw.githubusercontent.com/manasg/gae-log-fetcher/master/fetcher.py 
+  490  python fetcher.py
+  491  export PYTHONPATH=/home/rawa/pyt
+  492  ls
+  493  #java_vm 
+  494  pwd
+  495  ./java_appengine/dev_appserver.py 
+  496  python -version
+  497  python -v
+  498  ./java_appengine/dev_appserver.py 
+  499  more ./java_appengine/dev_appserver.py 
+  500  more ./java_appengine/VERSION 
+  501  cd git/AllHashes/
+  502  ./clj 
+  503  wget https://knot-net.appspot.com/eval/1113001?s=0\&e=770000 > RlKnotNet77.log
+  504  more RlKnotNet77.log 
+  505  more 1113001\?s\=0\&e\=770000 
+  506  ls -l 1*
+  507  curl https://dresdenlabs.appspot.com/log?s=5e0000\&e=5f0000 > 5e.log
+  508  ls -l 5e.log 
+  509  cp 5e.log 5
+  510  gzip -9 5
+  511  ls -l 5*
+  512  sha256sum 5e.log
+  513  rm 5.gz
+  514* 
+  515  sha256sum 5e.log
+  516  curl https://dresdenlabs.appspot.com/log?s=5f0000\&e=600000 > 5f.rlog
+  517  more 5f.rlog
+  518  mkdir AeAi
+  519  ls -l
+  520  mkdir AeAi/dresdenlabs
+  521  # AeAi/dresdenlabs
+  522  ls 5
+  523  ls 5*
+  524  mv 5e.log 5e.rlog 
+  525  ae=knot-net
+  526  echo https://$ae.appspot.com/log?s=5e0000\&e=600000
+  527  curl https://knot-net.appspot.com/log?s=5e0000\&e=5f0000 > kn5e.rlog
+  528  more kn5e.rlog 
+  529  curl https://knot-net.appspot.com/log?s=5f0000\&e=600000 > kn5f.rlog
+  530  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/WEB-INF/web.xml 
+  531  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/index.jsp
+  532  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/WEB-INF/web.xml
+  533  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/eval.jsp
+  534  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/index.jsp
+  535  more /home/rawa/DriveIn/btn/trunk/src/main/webapp/WEB-INF/classes/mind/loader.clj
+  536  curl https://new-egypt.appspot.com/log?s=5e0000\&e=5f0000 > ne5e.rlog
+  537  curl https://new-egypt.appspot.com/log?s=5d0000\&e=5e0000 > ne5d.rlog
+  538  d=5f;curl https://new-egypt.appspot.com/log?s=$d0000\&e=600000 > ne$d.rlog
+  539  more ne5f.rlog 
+  540  d=5f;curl https://new-egypt.appspot.com/log?s=5f0000\&e=600000 > ne$d.rlog
+  541  more ne5f.rlog 
+  542  wc ne5f.rlog 
+  543  wc ne5f.rlog;more ne5f.rlog |grep RequestLogs|wc
+  544  d=5f;curl https://new-egypt.appspot.com/log?s=600000\&e=610000 > ne60.rlog
+  545  d=5f;more ne$d.rlog |grep RequestLogs|wc
+  546  d=5f;wc ne$d.rlog;more ne$d.rlog|grep RequestLogs|wc
+  547  d=60;wc ne$d.rlog;more ne$d.rlog|grep RequestLogs|wc
+  548  d=5d;wc ne$d.rlog;more ne$d.rlog|grep RequestLogs|wc
+  549  d=5e;wc ne$d.rlog;more ne$d.rlog|grep RequestLogs|wc
+  550  curl https://floatingboat2013.appspot.com/log?s=0\&e=5f0000
+  551  curl https://floatingboat2013.appspot.com/log?s=0\&e=5f0000 > fb5e.rlog
+  552  ls -l *log
+  553  rm RlKnotNet77.log
+  554  curl https://floatingboat2013.appspot.com/log?s=5f0000\&e=600000 > fb5f.rlog
+  555  curl https://floatingboat2013.appspot.com/log?s=600000\&e=610000 > fb60.rlog
+  556  ls -l *log
+  557  more 5e.rlog 
+  558  mv 5e.rlog dl5e.rlog
+  559  mv 5f.rlog dl5f.rlog
+  560  ls -l *log
+  561  curl https://dresdenlabs.appspot.com/log?s=600000\&e=610000 > 60.dresdenlabs.rlog
+  562  more 60.dresdenlabs.rlog 
+  563  ls -l *log
+  564  mv dl5e.rlog 5e.dresdenlabs.rlog
+  565  mv dl5f.rlog 5f.dresdenlabs.rlog
+  566  mv fb5e.rlog 5e.floatingboat2013.rlog
+  567  mv fb5f.rlog 5f.floatingboat2013.rlog
+  568  mv fb60.rlog 60.floatingboat2013.rlog
+  569  ls -l *log
+  570  curl https://knot-net.appspot.com/log?s=600000\&e=610000 > 60.knot-net.rlog
+  571  wc 60.knot-net.rlog;more 60.knot-net.rlog|grep RequestLogs|wc
+  572  ls l *g
+  573  ls -l *g
+  574  mv kn5e.rlog 5e.knot-net.rlog
+  575  mv kn5f.rlog 5f.knot-net.rlog
+  576  mv ne5e.rlog 5e.new-egypt.rlog
+  577  mv ne5f.rlog 5f.new-egypt.rlog
+  578  mv ne60.rlog 60.new-egypt.rlog
+  579  ls -l *g
+  580  df
+  581  history > SbOneHistLd42bd.txt
