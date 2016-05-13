@@ -4,6 +4,6 @@
 (doall
  (map
   (fn [l]
-   (spit (str l ".txt") (slurp (str "https://dresdenlabs.appspot.com/dump?id=" l)))
+   (spit (str l ".txt") (slurp (str "https://floatingboat2013.appspot.com/dump?id=" l)))
    (println "slurped" l))
   (line-seq (java.io.BufferedReader. *in*))))
