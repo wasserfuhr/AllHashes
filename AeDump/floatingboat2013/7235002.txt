@@ -1,0 +1,8 @@
+date:15608312244
+resource:MaChin
+bLen:5
+sLen:5
+mHash:b701e5a32e84406c591a8c8879f3cff32d0c5e78
+sHash:d2fff7fa8ac6dd0f6bf8d308a4c384803a33644dcbcc4964a2f7aba3861644e5
+oHash:d2fff7fa8ac6dd0f6bf8d308a4c384803a33644dcbcc4964a2f7aba3861644e5
+content:2f61666172
