@@ -1,0 +1,50 @@
+mkdir in
+dir
+move TinesDeskTop* in
+move TinesDeskTop54d in
+move TinesDeskTop54e in
+move TinesDeskTop54f in
+move TinesDeskTop550 in
+move BorgSoundRecorder in
+move gd in
+dir
+move TinesDeskTop565 in
+move GoogleDrive in
+move MdFive.txt in
+move SdBlue in
+move SdRed in
+move ShaOne.txt in
+dir
+move SoundRecorder in
+dir gd
+move gd in
+dir
+move 100LGDSC in
+move 00* in
+dir
+cd SpaceDrive
+move 122* ..
+cd ..
+dir *bin
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe in\1220*
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe h:\in\1220*
+cd in
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe 1220*
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe 122
+dir 01*
+pwd
+cd ..
+dir 01*
+move 01* in
+dir 01*
+move 01* in
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe 
+c:\Users\RainerWasserfuhr\Desktop\sha256sum.exe *
+/history
+doskey
+doskey /history
+doskey /history > h.txt
+doskey /history > in/118h.txt
+dir
+mkdir in
+h:
