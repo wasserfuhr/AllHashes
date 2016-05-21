@@ -1,0 +1,500 @@
+   84  mv AeDump/29826001.tx? tmp
+   85  mv AeDump/29836001.tx? tmp
+   86  mv AeDump/29846001.tx? tmp
+   87  mv AeDump/29856001.tx? tmp
+   88  mv AeDump/29856002.tx? tmp
+   89  mv AeDump/29866001.tx? tmp
+   90  mv AeDump/29866002.tx? tmp
+   91  mv AeDump/29876001.tx? tmp
+   92  mv AeDump/29886001.tx? tmp
+   93  mv AeDump/29896001.tx? tmp
+   94  mv AeDump/29896002.tx? tmp
+   95  mv AeDump/29896003.tx? tmp
+   96  mv AeDump/29896004.tx? tmp
+   97  mv AeDump/29906001.tx? tmp
+   98  mv AeDump/29916001.tx? tmp
+   99  mv AeDump/29916002.tx? tmp
+  100  mv AeDump/29916003.tx? tmp
+  101  mv AeDump/29926001.tx? tmp
+  102  mv AeDump/29926002.tx? tmp
+  103  mv AeDump/29936001.tx? tmp
+  104  mv AeDump/29946001.tx? tmp
+  105  mv AeDump/29956001.tx? tmp
+  106  mv AeDump/29966001.tx? tmp
+  107  mv AeDump/29976001.tx? tmp
+  108  mv AeDump/29976002.tx? tmp
+  109  mv AeDump/29986001.tx? tmp
+  110  mv AeDump/29986002.tx? tmp
+  111  mv AeDump/29986003.tx? tmp
+  112  mv AeDump/29986004.tx? tmp
+  113  mv AeDump/29986005.tx? tmp
+  114  mv AeDump/29986006.tx? tmp
+  115  mv AeDump/29986007.tx? tmp
+  116  mv AeDump/29996001.tx? tmp
+  117  mv AeDump/30006001.tx? tmp
+  118  mv AeDump/30006002.tx? tmp
+  119  mv AeDump/30016001.tx? tmp
+  120  mv AeDump/30026001.tx? tmp
+  121  mv AeDump/30036001.tx? tmp
+  122  mv AeDump/30046001.tx? tmp
+  123  mv AeDump/30056001.tx? tmp
+  124  mv AeDump/30066001.tx? tmp
+  125  mv AeDump/30076001.tx? tmp
+  126  mv AeDump/30086001.tx? tmp
+  127  mv AeDump/30096001.tx? tmp
+  128  mv AeDump/30096002.tx? tmp
+  129  mv AeDump/30106001.tx? tmp
+  130  mv AeDump/30106002.tx? tmp
+  131  mv AeDump/30116001.tx? tmp
+  132  mv AeDump/30126001.tx? tmp
+  133  mv AeDump/30126002.tx? tmp
+  134  mv AeDump/30126003.tx? tmp
+  135  mv AeDump/30126004.tx? tmp
+  136  mv AeDump/30126005.tx? tmp
+  137  mv AeDump/30126006.tx? tmp
+  138  mv AeDump/30136001.tx? tmp
+  139  mv AeDump/30136002.tx? tmp
+  140  mv AeDump/30136003.tx? tmp
+  141  mv AeDump/30136004.tx? tmp
+  142  mv AeDump/30136005
+  143  mv AeDump/30136006.tx? tmp
+  144  mv AeDump/30136007.tx? tmp
+  145  mv AeDump/30136008.tx? tmp
+  146  mv AeDump/30146001.tx? tmp
+  147  mv AeDump/30156001.tx? tmp
+  148  mv AeDump/30156002.tx? tmp
+  149  mv AeDump/30156003.tx? tmp
+  150  mv AeDump/30166001.tx? tmp
+  151  mv AeDump/30166002.tx? tmp
+  152  mv AeDump/30166003.tx? tmp
+  153  mv AeDump/30176001.tx? tmp
+  154  mv AeDump/30176002.tx? tmp
+  155  mv AeDump/30186001.tx? tmp
+  156  mv AeDump/30186002.tx? tmp
+  157  mv AeDump/30196001.tx? tmp
+  158  mv AeDump/30206001.tx? tmp
+  159  mv AeDump/30216001.tx? tmp
+  160  mv AeDump/30226001.tx? tmp
+  161  mv AeDump/30226002.tx? tmp
+  162  mv AeDump/30226003.tx? tmp
+  163  mv AeDump/30226004.tx? tmp
+  164  mv AeDump/30226005.tx? tmp
+  165  mv AeDump/30236001.tx? tmp
+  166  mv AeDump/30246001.tx? tmp
+  167  mv AeDump/30246002.tx? tmp
+  168  mv AeDump/30256001.tx? tmp
+  169  mv AeDump/30256002.tx? tmp
+  170  mv AeDump/30266001.tx? tmp
+  171  mv AeDump/30266002.tx? tmp
+  172  mv AeDump/30266003.tx? tmp
+  173  mv AeDump/30276001.tx? tmp
+  174  mv AeDump/30286001.tx? tmp
+  175  mv AeDump/30286002.tx? tmp
+  176  mv AeDump/30286003.tx? tmp
+  177  mv AeDump/30286004.tx? tmp
+  178  mv AeDump/30286005.tx? tmp
+  179  mv AeDump/30286006.tx? tmp
+  180  mv AeDump/30286007.tx? tmp
+  181  mv AeDump/30296001.tx? tmp
+  182  mv AeDump/30296002.tx? tmp
+  183  mv AeDump/30296003.tx? tmp
+  184  mv AeDump/30296004.tx? tmp
+  185  mv AeDump/30296005.tx? tmp
+  186  mv AeDump/30296006.tx? tmp
+  187  mv AeDump/30306001.tx? tmp
+  188  mv AeDump/30306002.tx? tmp
+  189  mv AeDump/30306003.tx? tmp
+  190  mv AeDump/30306004.tx? tmp
+  191  mv AeDump/30306005.tx? tmp
+  192  mv AeDump/30306006.tx? tmp
+  193  mv AeDump/30316001.tx? tmp
+  194  mv AeDump/30326001.tx? tmp
+  195  mv AeDump/30326002.tx? tmp
+  196  mv AeDump/30326003.tx? tmp
+  197  mv AeDump/30336001.tx? tmp
+  198  mv AeDump/30336002.tx? tmp
+  199  mv AeDump/30346001.tx? tmp
+  200  mv AeDump/30366001.tx? tmp
+  201  mv AeDump/30376001.tx? tmp
+  202  mv AeDump/30376002.tx? tmp
+  203  mv AeDump/30386001.tx? tmp
+  204  mv AeDump/30386002.tx? tmp
+  205  mv AeDump/30396001.tx? tmp
+  206  mv AeDump/30396002.tx? tmp
+  207  mv AeDump/30396003.tx? tmp
+  208  mv AeDump/30406001.tx? tmp
+  209  mv AeDump/30416001.tx? tmp
+  210  mv AeDump/30426001.tx? tmp
+  211  mv AeDump/30436001.tx? tmp
+  212  mv AeDump/30446001.tx? tmp
+  213  mv AeDump/30446002.tx? tmp
+  214  mv AeDump/30456001.tx? tmp
+  215  mv AeDump/30456002.tx? tmp
+  216  mv AeDump/30466001.tx? tmp
+  217  mv AeDump/30476001.tx? tmp
+  218  mv AeDump/30486001.tx? tmp
+  219  mv AeDump/30486002.tx? tmp
+  220  mv AeDump/30496001.tx? tmp
+  221  mv AeDump/30496002.tx? tmp
+  222  mv AeDump/30506001.tx? tmp
+  223  mv AeDump/30516001.tx? tmp
+  224  mv AeDump/30526001.tx? tmp
+  225  mv AeDump/30536001.tx? tmp
+  226  mv AeDump/30546001.tx? tmp
+  227  mv AeDump/30546002.tx? tmp
+  228  mv AeDump/30556001.tx? tmp
+  229  mv AeDump/30566001.tx? tmp
+  230  mv AeDump/30826001.tx? tmp
+  231  mv AeDump/30826002.tx? tmp
+  232  mv AeDump/30836001.tx? tmp
+  233  mv AeDump/30846001.tx? tmp
+  234  mv AeDump/30846002.tx? tmp
+  235  mv AeDump/30856001.tx? tmp
+  236  mv AeDump/30866001.tx? tmp
+  237  mv AeDump/30876001.tx? tmp
+  238  mv AeDump/30876002.tx? tmp
+  239  mv AeDump/30886001.tx? tmp
+  240  mv AeDump/30886002.tx? tmp
+  241  mv AeDump/30886003.tx? tmp
+  242  mv AeDump/30886004.tx? tmp
+  243  mv AeDump/30886005.tx? tmp
+  244  mv AeDump/30886006.tx? tmp
+  245  mv AeDump/30886007.tx? tmp
+  246  mv AeDump/30886008.tx? tmp
+  247  mv AeDump/30886009.tx? tmp
+  248  mv AeDump/30886010.tx? tmp
+  249  mv AeDump/30896001.tx? tmp
+  250  mv AeDump/30896002.tx? tmp
+  251  mv AeDump/30896003.tx? tmp
+  252  mv AeDump/30896004.tx? tmp
+  253  mv AeDump/30896005.tx? tmp
+  254  mv AeDump/30896006.tx? tmp
+  255  mv AeDump/30896007.tx? tmp
+  256  mv AeDump/30896008.tx? tmp
+  257  mv AeDump/30896009.tx? tmp
+  258  mv AeDump/30896010.tx? tmp
+  259  mv AeDump/30906001.tx? tmp
+  260  mv AeDump/30906002.tx? tmp
+  261  mv AeDump/30906003.tx? tmp
+  262  mv AeDump/30906004.tx? tmp
+  263  mv AeDump/30916001.tx? tmp
+  264  mv AeDump/30926001.tx? tmp
+  265  mv AeDump/30936001.tx? tmp
+  266  mv AeDump/30936002.tx? tmp
+  267  mv AeDump/30946001.tx? tmp
+  268  mv AeDump/30946002.tx? tmp
+  269  mv AeDump/30946003.tx? tmp
+  270  mv AeDump/30946004.tx? tmp
+  271  mv AeDump/30956001.tx? tmp
+  272  mv AeDump/30956002.tx? tmp
+  273  mv AeDump/30956003.tx? tmp
+  274  mv AeDump/30956004.tx? tmp
+  275  mv AeDump/30956005.tx? tmp
+  276  mv AeDump/30956006.tx? tmp
+  277  mv AeDump/30966001.tx? tmp
+  278  mv AeDump/30966002.tx? tmp
+  279  mv AeDump/30966003.tx? tmp
+  280  mv AeDump/30976001.tx? tmp
+  281  mv AeDump/30976002.tx? tmp
+  282  mv AeDump/30986001.tx? tmp
+  283  mv AeDump/30996001.tx? tmp
+  284  mv AeDump/31006001.tx? tmp
+  285  mv AeDump/31016001.tx? tmp
+  286  mv AeDump/31026001.tx? tmp
+  287  mv AeDump/31036001.tx? tmp
+  288  mv AeDump/31046001.tx? tmp
+  289  mv AeDump/31046002.tx? tmp
+  290  mv AeDump/31056001.tx? tmp
+  291  mv AeDump/31056002.tx? tmp
+  292  mv AeDump/31056003.tx? tmp
+  293  mv AeDump/31056004.tx? tmp
+  294  mv AeDump/31066001
+  295  mv AeDump/31066002.tx? tmp
+  296  mv AeDump/31076001.tx? tmp
+  297  mv AeDump/31086001.tx? tmp
+  298  mv AeDump/31096001.tx? tmp
+  299  mv AeDump/31106001.tx? tmp
+  300  mv AeDump/31116001.tx? tmp
+  301  mv AeDump/31126001.tx? tmp
+  302  mv AeDump/31136001.tx? tmp
+  303  mv AeDump/31146001.tx? tmp
+  304  mv AeDump/31156001.tx? tmp
+  305  mv AeDump/31156002.tx? tmp
+  306  mv AeDump/31156003.tx? tmp
+  307  mv AeDump/31156004.tx? tmp
+  308  mv AeDump/31176001.tx? tmp
+  309  mv AeDump/31186001.tx? tmp
+  310  mv AeDump/31196001.tx? tmp
+  311  mv AeDump/31206001.tx? tmp
+  312  mv AeDump/31216001.tx? tmp
+  313  mv AeDump/31226001.tx? tmp
+  314  mv AeDump/31236001.tx? tmp
+  315  mv AeDump/31236002.tx? tmp
+  316  mv AeDump/31246001.tx? tmp
+  317  mv AeDump/31256001.tx? tmp
+  318  mv AeDump/31256002.tx? tmp
+  319  mv AeDump/31266001.tx? tmp
+  320  mv AeDump/31276001.tx? tmp
+  321  mv AeDump/31286001.tx? tmp
+  322  mv AeDump/31296001.tx? tmp
+  323  mv AeDump/31826001.tx? tmp
+  324  mv AeDump/31836001.tx? tmp
+  325  git status
+  326  history|grep SbOn
+  327  grep SbOn *
+  328  grep SbOn *|grep curl
+  329  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+  330  git status
+  331  mv      AeDump/21796005.txt tmp
+  332  mv      AeDump/22646002.txt tmp
+  333  mv      AeDump/23686002.txt tmp
+  334  mv      AeDump/24606002.txt tmp
+  335  mv      AeDump/25476001.txt tmp
+  336  mv      AeDump/26356002.txt tmp
+  337  mv      AeDump/27216003.txt tmp
+  338  mv      AeDump/28106001.txt tmp
+  339  mv      AeDump/29016001.txt tmp
+  340  mv       AeDump/30136005.txt tmp
+  341  mv       AeDump/31066001.txt tmp
+  342  git status
+  343  git add SbOneHistRootLd42bd.txt at1107aa7.49.SbOneHist.txt at117d4da.6f.SbOneHist.txt at117ea45.8f.SbOneHist.txt at1182b8b.64.SbOneHist.txt
+  344  git commit -m "+SbOneHistRootLd42bd.txt +at1107aa7.49.SbOneHist.txt +at117d4da.6f.SbOneHist.txt +at117ea45.8f.SbOneHist.txt +at1182b8b.64.SbOneHist.txt"
+  345  du -k AeDump
+  346  ls tmp/
+  347  pwd
+  348  du -k tmp
+  349  ls AeDump/tmp/
+  350  rmdir AeDump/tmp/
+  351  ls -l
+  352  ls -l /home/rawa/in/at*ur*
+  353  ps aux
+  354  ls -l /home/rawa/in/at*ur*
+  355  #ls -l /home/rawa/in/at*ur*
+  356  grep ur3 *BmH*
+  357  grep Ur *BmH*
+  358  grep HtTp *BmH*
+  359  history |grep HtTp
+  360  grep HtTp *hist*
+  361  ls -lt /home/rawa/in
+  362  ls -l -t /home/rawa/in
+  363  ls -l -t /home/rawa/in|more
+  364  git status
+  365  cat 22656001.txt 
+  366  mv -i 22656001.txt tmp/
+  367  sha256sum 22656001.txt tmp/22656001.txt 
+  368  rm 22656001.txt 
+  369  git status
+  370  ls AeDump/?d*
+  371  rm AeDump/?d*
+  372  git add at117ead7.bd.RqLogHash.txt
+  373  git commit -am "+at117ead7.bd.RqLogHash.txt ~job.sh"
+  374  git status
+  375  git pull
+  376  git puhs
+  377  git push
+  378  du -b ..
+  379  du -b -d 1..
+  380  du -b -d 1 ..
+  381  du -b --max-depth 1 ..
+  382  du -b --max-depth 2 ..
+  383  git help archive
+  384  git archive -o latest.zip HEAD
+  385  unzip -l latest.zip|more
+  386  git pack-objects -all > all
+  387  git log 1
+  388  git log -1
+  389  git pack-objects -all 0a00a17155e68a40eed6ee60bc8278d70c5300e7
+  390  ls .git/objects/
+  391  ls .git/objects/info/
+  392  ls .git/objects/pack/
+  393  git show 2dce30f25285ed6fd0c283c9a342ed7bfee1413b
+  394  git log -1
+  395  git show 0a00a17155e68a40eed6ee60bc8278d70c5300e7
+  396  git bundle create file.bundle master
+  397  ls -l file.bundle 
+  398  git log -9999|wv
+  399  git log -9999|wc
+  400  cd ..
+  401  mkdir AllHashesDump
+  402  cd AllHashesDump/
+  403  git clone ../AllHashes/file.bundle
+  404  ls
+  405  ls file/
+  406  git clone -b master ../AllHashes/file.bundle
+  407  rmdir file/
+  408  rm -Rf file/
+  409  git clone -b master ../AllHashes/file.bundle
+  410  cd file/
+  411  #git log -9999
+  412  history 
+  413  git log -9999|wc
+  414  git log -9999|more
+  415  git log -9999|grep commit |wc
+  416  git log -9999|grep commit
+  417  ls
+  418  cd ..
+  419  rm -Rf AllHashesDump/
+  420  #mv AllHashes/file.bundle /home/rawa/in/AllHashes.0a00a171.bundle
+  421  history
+  422  a=`curl https://knot-net.appspot.com/at`;echo at$a;
+  423  a=`curl https://knot-net.appspot.com/at`;echo at$a;mv AllHashes/file.bundle /home/rawa/in/at$a.AllHashes.0a00a171.bundle
+  424  ls
+  425  sha256sum /home/rawa/in/at*.AllHashes.0a00a171.bundle
+  426  history
+  427  sha256sum /home/rawa/in/at*.AllHashes.0a00a171.bundle
+  428  history 
+  429  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+  430  history|grep lynx
+  431  man lynx
+  432  lynx -dump sl4.eu
+  433  lynx -dump sl4.eu/edit
+  434  lynx -dump https://knot-net.appspot.com/edit
+  435  man lynx
+  436  history 
+  437  history|grep 000
+  438  pwd
+  439  cd git/AllHashes/
+  440  grep 000000 *Bm*
+  441  grep 0000 *Bm*
+  442  cat /home/rawa/BfNew.log |grep 00000|more
+  443  ls
+  444  history 
+  445  pwd
+  446  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+  447  xxd SpaceDrive/12205e4c5d804163ba8f8478889f69619f3b2d4548634f890765ab35d595058efd6f.bfh 
+  448  pwd
+  449  cd git/AllHashes/
+  450  git status
+  451  unzip -l latest.zip |more
+  452  rm latest.zip
+  453  git status
+  454  git pull
+  455  git status
+  456  ls -al all
+  457  rm all
+  458  ls tmp/
+  459  du -k .
+  460  ls
+  461  pwd
+  462  mv tmp/ AeDump/dresdenlabs
+  463  cd AeDump/
+  464  ls
+  465  mv -i ????.txt dresdenlabs/
+  466  mv -i ?????.txt dresdenlabs/
+  467  mv -i ??????.txt dresdenlabs/
+  468  mv -i ???????.txt dresdenlabs/
+  469  git status
+  470  ls
+  471  git mv -i
+  472  git mv ???????.txt dresdenlabs/
+  473  mv -i ???????.txt dresdenlabs/
+  474  mv -i ???????.txt dresdenlabs
+  475  ls
+  476  mv -i ????????.txt dresdenlabs
+  477  ls
+  478  cat PleaseLogIn.txt 
+  479  mv ?.txt dresdenlabs/
+  480  ls
+  481  git status
+  482  git add dresdenlabs
+  483  cd ..
+  484  git add at11979d5.47.SbOneHist.txt
+  485  git commit -m "+at11979d5.47.SbOneHist.txt +AeDump/dresdenlabs/*"
+  486  git status
+  487  git commit -m "+at11979d5.47.SbOneHist.txt +AeDump/dresdenlabs/*"
+  488  git commit -am "+at11979d5.47.SbOneHist.txt +AeDump/dresdenlabs/*"
+  489  git status
+  490  git push
+  491  ls -l
+  492  ls *Size*
+  493  cat FileSize.java
+  494  cat Ls.java
+  495  java Ls /home/rawa/SpaceDrive/
+  496  ls
+  497  history
+  498  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+  499  exit
+  500  history
+  501  ls
+  502  cat df
+  503  cd git/AllHashes/
+  504  java Ls /home/rawa/SpaceDrive/
+  505  java Ls /home/rawa/SpaceDrive/|sort
+  506  java Ls /home/rawa/SpaceDrive/|sort|java FileSize 
+  507  cat FileSize
+  508  cat FileSize.
+  509  cat FileSize.java 
+  510  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  511  export sd=/home/rawa/SpaceDrive/
+  512  ls -l  $sd/T*
+  513  export sd=/home/rawa/SpaceDrive
+  514  ls -l  $sd/T*
+  515  ls -l  $sd
+  516  ls -l  $sd|sort|more
+  517  ls -l  $sd|sort -k 6|more
+  518  ls -l  $sd|sort -k 8|more
+  519  ls -l  $sd|sort -k 9|more
+  520  ls /home/rawa/SpaceDrive/122022*
+  521  echo "221d30d951792e687eefe41ebf9833e8b7f59ccdf54e27ef8730d9cb3d0fa8bb"|java FileSize /home/rawa/SpaceDrive/
+  522  cat FileSize.java 
+  523  cat SD.java
+  524  ls FileExtLd4294.txt 
+  525  more FileExtLd4294.txt 
+  526  ls
+  527  javac SD.java
+  528  echo "221d30d951792e687eefe41ebf9833e8b7f59ccdf54e27ef8730d9cb3d0fa8bb"|java FileSize /home/rawa/SpaceDrive/
+  529  emacs FileSize.java
+  530  ls -l  FileS*
+  531  javac FileSize.java
+  532  echo "221d30d951792e687eefe41ebf9833e8b7f59ccdf54e27ef8730d9cb3d0fa8bb"|java FileSize /home/rawa/SpaceDrive/
+  533  history
+  534  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  535  emacs SD.java 
+  536  git status
+  537  git add at11aa72d.b9.SbOneHist.txt
+  538  git commit -am "+at11aa72d.b9.SbOneHist.txt ~SD.java"
+  539  javac SD.java
+  540  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  541  emacs SD.java
+  542  javac SD.java
+  543  git commit -am "~SD.java"
+  544  emacs SD.java
+  545  javac SD.java
+  546  emacs SD.java
+  547  javac SD.java
+  548  emacs SD.java
+  549  javac SD.java
+  550  history
+  551  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  552  emacs SD.java
+  553  javac SD.java
+  554  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  555  emacs SD.java
+  556  javac SD.java
+  557  emacs SD.java
+  558  javac SD.java
+  559  emacs SD.java
+  560  javac SD.java
+  561  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  562  emacs SD.java
+  563  javac SD.java
+  564  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/
+  565  java Ls /home/rawa/SpaceDrive/|sort|java FileSize /home/rawa/SpaceDrive/ > fs.txt
+  566  history|grep at
+  567  ls -l fs.txt 
+  568  wc fs.txt
+  569  ls -l $sd|wc
+  570  cat fs |java SubStr 65
+  571  cat fs.txt |java SubStr 65
+  572  cat fs.txt |java SubStr 65|java Sum 
+  573  du -b $sd
+  574  ls
+  575  ls -l
+  576  cat fs.txt |java SubStr 65|sort -n
+  577  cat fs.txt |sort -nk 2
+  578  du -b /home/rawa
+  579  du -b -d 1 /home/rawa
+  580  du -b --max-depth 1 /home/rawa
+  581  history|grep Bm
+  582  history|grep Sb
+  583  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
