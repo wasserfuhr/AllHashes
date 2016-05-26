@@ -8,4 +8,4 @@
       (.charAt s(+(* 2 (- 31 i))1))
      ))(range 32)))))
    (println(subs(slurp(str"http://webbtc.com/block/0000000000000000"bx".hex"))0 160))
-   (swap! a dec)))
+   (swap! a dec))))
