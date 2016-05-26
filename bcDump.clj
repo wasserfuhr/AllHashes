@@ -2,5 +2,5 @@
  a(atom h)]
  (while(> @a 0x64f33)
   (do(println @a)
-   (println(subs(slurp(str"http://webbtc.com/block/0000000000000000"bx".hex"))160))
+   (println(subs(slurp(str"http://webbtc.com/block/0000000000000000"bx".hex"))0 160))
    (swap! a dec))))
