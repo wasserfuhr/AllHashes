@@ -11,5 +11,6 @@
       (.charAt s(* 2 (- 31 i)))
       (.charAt s(+(* 2 (- 31 i))1))))
      (range 32))))
+    (spit(str @a".hex")s0) 
     (println @a" "@n)
     (swap! a dec)))))
