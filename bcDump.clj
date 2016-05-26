@@ -12,5 +12,5 @@
       (.charAt s(+(* 2 (- 31 i))1))))
      (range 32))))
     (spit(str @a".hex")s0) 
-    (println @a" "@n)
+    (println (format"%x"@a)@n)
     (swap! a dec)))))
