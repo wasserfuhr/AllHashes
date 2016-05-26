@@ -3,7 +3,7 @@
  (while(> @a 0x64f33)
   (let[s(subs(slurp(str"http://webbtc.com/block/"@n".hex"))0 160)]
    (do(println @a" "s)
-    (set! n(apply str
+    (set! @n(apply str
      (map(fn[i](str
       (.charAt s(* 2 (- 31 i)))
       (.charAt s(+(* 2 (- 31 i))1))))
