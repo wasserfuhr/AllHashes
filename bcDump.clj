@@ -1,6 +1,6 @@
 (let[h 0x64f37 bx"054b355269379e17f460069efee72f2b739fad76a0ee29ad"
  a(atom h)n(atom (str"0000000000000000"bx))]
- (while(> @a 0x64f33)
+ (while(> @a 0x64f30)
   (let[
     s0(slurp(str"http://webbtc.com/block/"@n".hex"))
     sl(subs s0 0 160)
