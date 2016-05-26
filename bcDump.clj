@@ -2,7 +2,7 @@
  a(atom h)n(atom (str"0000000000000000"bx))]
  (while(> @a 0x64f33)
   (let[sl(subs(slurp(str"http://webbtc.com/block/"@n".hex"))0 160)
-    s(subs sl 8 168)]
+    s(subs sl 8 72)]
    (do(println @a" "s)
     (reset! n(apply str
      (map(fn[i](str
