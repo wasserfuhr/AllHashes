@@ -1,7 +1,8 @@
 (let[h ;0x64f37 bx"054b355269379e17f460069efee72f2b739fad76a0ee29ad"
 ;0x64fb5 bx"02c0ec6629d9ce89e77bbd5ff530e04e690b5a8697e47d0e"
 ;0x62902 bx"01ddcf03e442ad707218ddb3fe45611700980514399e5a7f"
-0x5e469 bx"0936c69fb727394141787c32ce6a16e2a9e6a328b2401fed" ;502 Bad Gateway
+;0x5e469 bx"0936c69fb727394141787c32ce6a16e2a9e6a328b2401fed" ;502 Bad Gateway
+0x65049 bx"045d9003d09f64af5a263fd21ea691d5d6dc19907e594e31"
  a(atom h)n(atom (str"0000000000000000"bx))]
  (while(> @a 0x4f35)
   (let[ah(format"%x"@a)
@@ -16,4 +17,5 @@
      (range 32))))
     (spit(str "F:/btc/b"ah".hex")s0) 
     (println ah @n)
-    (swap! a dec)))))
+    (swap! a dec)
+    (Thread/sleep 10000)))))
