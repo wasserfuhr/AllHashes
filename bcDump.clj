@@ -4,7 +4,7 @@
 ;0x5e469 bx"0936c69fb727394141787c32ce6a16e2a9e6a328b2401fed" ;502 Bad Gateway
 0x65049 bx"045d9003d09f64af5a263fd21ea691d5d6dc19907e594e31"
  a(atom h)n(atom (str"0000000000000000"bx))]
- (while(> @a 0x4f35)
+ (while(> @a 0x61e25)
   (let[ah(format"%x"@a)
     s0(slurp(str"http://webbtc.com/block/"@n".hex"))
     sl(subs s0 0 160)
