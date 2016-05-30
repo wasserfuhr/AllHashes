@@ -20,4 +20,4 @@
  (.println *err* ah) 
     (println ah @n)
     (swap! a dec)
-    (Thread/sleep 10000)))))
+    (Thread/sleep 4000)))))
