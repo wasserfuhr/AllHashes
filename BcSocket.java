@@ -6,4 +6,5 @@ public class BcSocket{
    @Override public void onMessage(String message ){}
    @Override public void onOpen(ServerHandshake handshake){}
    @Override public void onClose(int code,String reason,boolean remote){}
-   @Override public void onError(Exception ex){}};}}
+   @Override public void onError(Exception ex){}};
+  c.connect();}}
