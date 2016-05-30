@@ -17,7 +17,7 @@
       (.charAt s(+(* 2 (- 31 i))1))))
      (range 32))))
     (spit(str "btc/b"ah".hex")s0)
- (.println *err* "Hello, STDERR!" ah) 
+ (.println *err* ah) 
     (println ah @n)
     (swap! a dec)
     (Thread/sleep 10000)))))
