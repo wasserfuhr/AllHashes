@@ -9,6 +9,7 @@ public class BcSocket{
    @Override public void onClose(int code,String reason,boolean remote){}
    @Override public void onError(Exception e){e.printStackTrace();}};
   c.connect();
+  c.send("{\"op\":\"blocks_sub\"}");
   BcSocket s=new BcSocket();
   synchronized(s){
    s.wait();}}}
