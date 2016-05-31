@@ -1,0 +1,500 @@
+  107  a=*;ls -l ~/git/AllHashes/at$a.BmHist.txt
+  108  history|grep 
+  109  exit
+  110  history|grep 
+  111  history
+  112  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  113  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  114  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  115  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  116  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  117  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  118  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  119  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  120  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  121  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  122  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  123  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  124  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  125  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  126  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  127  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  128  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  129  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  130  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  131  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  132  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  133  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  134  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  135  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  136  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  137  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  138  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  139  history 
+  140  history|grep pur
+  141  a=*;ls -l ~/in/at$a.purge.txt
+  142  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  143  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  144  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  145  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  146  a=*;ls -l ~/in/at$a.purge.txt
+  147  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  148  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  149  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  150  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  151  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  152  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  153  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  154  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  155  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  156  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  157  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  158  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  159  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  160  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  161  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  162  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  163  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  164  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  165  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  166  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  167  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  168  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  169  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  170  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  171  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  172  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  173  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  174  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  175  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  176  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  177  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  178  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  179  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  180  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  181  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  182  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  183  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  184  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  185  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  186  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  187  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  188  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  189  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  190  emacs xaa
+  191  ls
+  192  cat xaa
+  193  history 
+  194  history |grep xaa
+  195  shasum -a 256 xaa
+  196  ls -l xaa
+  197  shasum -a 256 xaa
+  198  git pull
+  199  git status
+  200  shasum -a 256 OriginStamp90e9.txt
+  201  ls -l OriginStamp90e9.txt
+  202  ls -l xa
+  203  ls -l xaa
+  204  git add OriginStamp90e9.txt
+  205  git commit -m "+OriginStamp90e9.txt"
+  206  mv xaa OriginStamp90e9.txt
+  207  git add OriginStamp90e9.txt
+  208  git commit -m "~OriginStamp90e9.txt"
+  209  xxd xab 
+  210  rm xab 
+  211  git add at11fea52.96.BcTime.json at11feaf2.76.BcTime.json at1219d34.4f.BmHist.txt
+  212  git commit -m "+at11fea52.96.BcTime.json +at11feaf2.76.BcTime.json +at1219d34.4f.BmHist.txt"
+  213  git status
+  214  more dump.clj
+  215  git add dump.clj
+  216  git commit -m "~dump.clj"
+  217  git status
+  218  history|grep hist
+  219  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt
+  220  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  221  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  222  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  223  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  224  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  225  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  226  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  227  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  228  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  229  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  230  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  231  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  232  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  233  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  234  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  235  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  236  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  237  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  238  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  239  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  240  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  241  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  242  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  243  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  244  ls *csv*
+  245  a=`curl https://floatingboat2013.appspot.com/at`;echo $a
+  246  mv ~/Desktop/history.csv at12f7a9d.c3.history.dresdenlabs.csv
+  247  mv ~/Desktop/history.csv at12f7a9d.c3.history.floatingboat2013.csv
+  248  mv ~/Desktop/history.csv at12f7a9d.c3.history.knot-net.csv
+  249  mv ~/Desktop/history.csv at12f7a9d.c3.history.new-egypt.csv
+  250  ls -l *csv
+  251  git add at12f*csv
+  252  git status
+  253  git add at12d5c38.c4.BmHist.txt
+  254  git commit -m "+at12f7a9d.c3.history.*.csv +at12d5c38.c4.BmHist.txt"
+  255  git pull
+  256  git push
+  257  ls *purge*
+  258  ls *Purge*
+  259  history 
+  260  a=*;ls -l ~/in/at$a.purge.txt
+  261  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  262  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  263  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  264  grep SingularChess ~/in/
+  265  ls -l /Users/rawa/in/AeBackup/AeSiAc/13786002.txt
+  266  grep uisje AeDump/dresdenlabs/*
+  267  grep uisje AeDump/*
+  268  grep uisje AeDump/floatingboat2013/*
+  269  grep Bos AeDump/floatingboat2013/*
+  270  grep Bos AeDump/dresdenlabs/*
+  271  grep SsId AeDump/dresdenlabs/*
+  272  grep 7569736a AeDump/dresdenlabs/*
+  273  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  274  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  275  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  276  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  277  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  278  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  279  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  280  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  281  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  282  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  283  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  284  cal 2018
+  285  git status
+  286  cal
+  287  git pull
+  288  cd AeDump/floatingboat2013
+  289  history |grep dump
+  290  ls
+  291  more 1.txt 
+  292  grep date: *|sort
+  293  man sort 
+  294  grep date: *|sort -t ":"
+  295  grep date: *|sort -t ":" -k 2
+  296  grep date: *|sort -t : -k 2
+  297  cp ../../BootStrap.floatingboat2013.txt .
+  298  history |grep dump
+  299  more BootStrap.floatingboat2013.txt |../../clj ../../dump.clj
+  300  git status
+  301  pwd
+  302  cd ..
+  303  git add floatingboat2013
+  304  git commit -m "+AeDump/floatingboat2013"
+  305  git push
+  306  ls
+  307  pwd
+  308  cd 
+  309  ls
+  310  man cp
+  311  cp -p 1220* /Volumes/SDBLUE8/
+  312  cd /Volumes/SDBLUE8/
+  313  ls assist/apk/
+  314  rmdir assist/apk/
+  315  rmdir assist
+  316  ls
+  317  ls system_update/
+  318  rmdir system_update/
+  319  ls backup/
+  320  rmdir backup/
+  321  ls LOST.DIR/
+  322  rmdir LOST.DIR/
+  323  ls
+  324  ls in
+  325  ls DCIM/
+  326  rmdir DCIM/
+  327  ls Android/
+  328  ls Android/data/
+  329  ls in
+  330  mv -i Android/ in
+  331  ls
+  332  ls -al
+  333  du
+  334  man du
+  335  du -k
+  336  ls -l
+  337  curl https://floatingboat2013.appspot.com/raw/12475005|shasum -a 256
+  338  curl https://floatingboat2013.appspot.com/raw/12475005>1220ce858747a020637c89d84dd283cde5232ac729213a335f16befe8baf6a8851b5.txt
+  339  more 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt 
+  340  grep 5c14 /Users/rawa/git/AllHashes/AeDump/floatingboat2013
+  341  grep 5c14 /Users/rawa/git/AllHashes/AeDump/floatingboat2013/*
+  342  ls
+  343  ls -l
+  344  history
+  345  curl https://floatingboat2013.appspot.com/raw/1725003>12205c14796b3a2b1093c74a43d13b133d91f8e5c8e6e2322df9df1f2b1f90ce713b.txt
+  346  shasum -a 256 12205c14796b3a2b1093c74a43d13b133d91f8e5c8e6e2322df9df1f2b1f90ce713b.txt 
+  347  ls /Users/rawa/
+  348  ls /Users/rawa/Desktop/
+  349  cat 122090e9ae0d927f361efa59b89de9fc9aa7051bf8054e95ca519fa5a8ab4803aa1c.txt 
+  350  curl http://s.sl4.eu/txt/05ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a|shasum -a 256
+  351  curl http://s.sl4.eu/txt/05ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a>122005ea2daf34cdb420c05b85f51626bf8bac05afb6650df0464f745288b9ba825a.txt
+  352  shasum -a 1*
+  353  shasum -a *
+  354  pwd
+  355  ls
+  356  shasum -a 122*
+  357  shasum -a 256 1*
+  358  curl http://s.sl4.eu/img/3b75f774687b49b6f830ecb1d08842e264d4731694791599d088bb23670ba560|shasum -a 256
+  359  curl http://s.sl4.eu/img/3b75f774687b49b6f830ecb1d08842e264d4731694791599d088bb23670ba560|wc
+  360  emacs 1.html
+  361  emacs 1.html
+  362  emacs 1.html
+  363  xxd 1.html
+  364  shasum -a 256 1.html
+  365  mv 1.html in
+  366  curl https://floatingboat2013.appspot.com/raw/17055006|shasum a 256
+  367  curl https://floatingboat2013.appspot.com/raw/17055006|shasum -a 256
+  368  curl https://floatingboat2013.appspot.com/raw/17055006>1.html
+  369  curl https://floatingboat2013.appspot.com/raw/11455005>1.html
+  370  curl https://floatingboat2013.appspot.com/raw/17055008>1.html
+  371  curl https://floatingboat2013.appspot.com/raw/9495002|shasum -a 256
+  372  curl https://floatingboat2013.appspot.com/raw/9495002>1220311bac115ffc0113020d73bc9622cf377fc50bc869e26ef3c22c73aa37c7ae34.css
+  373  curl https://floatingboat2013.appspot.com/raw/13275005>1.html
+  374  curl https://floatingboat2013.appspot.com/css|shasum -a 256
+  375  curl https://floatingboat2013.appspot.com/css>12202ef1802eb12ecd77583d133e09a3534b355a3f78d64fda8c39714577c6edafd8.css
+  376  curl https://floatingboat2013.appspot.com/raw/12475006>1.html
+  377  ls
+  378  ls -l
+  379  shasum -a 256 *
+  380  ls -l 1220*
+  381  emacs 1.html
+  382  curl https://floatingboat2013.appspot.com/raw/17075007|shasum -a 256>1.html
+  383  curl https://floatingboat2013.appspot.com/raw/17075007|shasum -a 256
+  384  curl https://floatingboat2013.appspot.com/raw/17075007>12206152e921576172336d57b085a46df4f8bbda8ad0db4b9b03dd501531735470ac.js
+  385  curl https://floatingboat2013.appspot.com/raw/17075007>1.html
+  386  curl https://floatingboat2013.appspot.com/raw/13275006>1.html
+  387  cd
+  388  pwd
+  389  cd /Volumes/SDRED8/
+  390  curl https://floatingboat2013.appspot.com/raw/13275006>1.html
+  391  history 
+  392  curl https://floatingboat2013.appspot.com/raw/17075007>12206152e921576172336d57b085a46df4f8bbda8ad0db4b9b03dd501531735470ac.js
+  393  curl https://floatingboat2013.appspot.com/css>12202ef1802eb12ecd77583d133e09a3534b355a3f78d64fda8c39714577c6edafd8.css
+  394  pwd
+  395  ls
+  396  ls LOST.DIR/
+  397  ls -l LOST.DIR/
+  398  mv -i LOST.DIR/31319 in/LOST.DIR31319 
+  399  rmdir LOST.DIR/
+  400  ls DCIM/
+  401  ls download/
+  402  rmdir download/
+  403  history|grep his
+  404  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt
+  405  history|grep BmH
+  406  a=*;ls -l ~/git/AllHashes/at$a.BmHist.txt
+  407  history 
+  408  curl https://floatingboat2013.appspot.com/raw/13285003|shasum -a 256
+  409  curl https://floatingboat2013.appspot.com/raw/13285003>122073bc884dac482927ec81c0c19ba29f7996cb3c2a8862149889e0d4402e97b7b8.txt
+  410  pwd
+  411  ls
+  412  ls -l
+  413  shasum -a 256 12*
+  414  ls
+  415  cpwd
+  416  pwd
+  417  history 
+  418  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  419  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  420  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  421  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  422  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  423  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  424  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  425  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  426  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  427  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  428  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  429  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  430  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  431  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  432  ls -l /Volumes/SDRED8/SoundRecorder/AUD115*
+  433  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Volumes/SDRED8/SoundRecorder/AUD1158.3gp 
+  434  pwd
+  435  cd
+  436  cd git/AllHashes/AeDump
+  437  grep Fog floatingboat2013/*
+  438  grep Fog dresdenlabs/*
+  439  pwd
+  440  ls
+  441  grep Hint */*
+  442  grep Hint dresdenlabs/*
+  443  grep Hint floatingboat2013/*
+  444  ls
+  445  mkdir knot-net
+  446  grep 48696e74 floatingboat2013/*
+  447  grep 48696e74 dresdenlabs/*
+  448  grep 48696e746f dresdenlabs/*
+  449  git pull
+  450  h=e0;i=e1;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  451  h=e1;i=e2;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  452  h=e2;i=e3;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  453  h=e3;i=e4;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  454  h=e4;i=e5;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  455  h=e5;i=e6;a=new-egypt;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  456  ls
+  457  ls -l
+  458  cat e0.new-egypt.rlog 
+  459  shasum -a 256 *.rlog 
+  460  history |grep curl
+  461  curl https://floatingboat2013.appspot.com/raw/12495002|shasum -a 256
+  462  curl https://floatingboat2013.appspot.com/raw/12495002>/Volumes/SDRED8/1220e815bb2ea26acb2c22b2218ff2b5d596ae6051332d66ecdfa34d644e0fc7d8f8.txt
+  463  more /Volumes/SDRED8/1220e815bb2ea26acb2c22b2218ff2b5d596ae6051332d66ecdfa34d644e0fc7d8f8.txt 
+  464  history 
+  465  cd ..
+  466  history|grep his
+  467  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt
+  468  git pull
+  469  git status
+  470  git add at1370c0e.b3.BmHist.txt at139b023.9a.BmHist.txt
+  471  git commit -m "+at1370c0e.b3.BmHist.txt +at139b023.9a.BmHist.txt"
+  472  ls -l AeDump/*rlog
+  473  mv -i AeDump/*rlog .
+  474  git status
+  475  git add e?.new-egypt.rlog
+  476  git commit -m "+e?.new-egypt.rlog"
+  477  git push
+  478  git status
+  479  git pull
+  480  history 
+  481  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  482  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  483  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  484  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  485  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  486  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  487  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  488  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  489  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  490  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  491  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  492  a=`curl https://floatingboat2013.appspot.com/at`;echo $a;curl https://dresdenlabs.appspot.com/purge\?l=1001 > ~/in/at$a.purge.txt;tput bel
+  493  ls
+  494  git status
+  495  ls
+  496  more r
+  497  ls r
+  498  ls l
+  499  git status
+  500  more e0.new-egypt.rlog 
+  501  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  502  i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg;
+  503  i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  504  pwd
+  505  mv ~/Documents/AFGHANISTAN.odp ~/Desktop/
+  506  df
+  507  #curl 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+  508  man split
+  509  man head
+  510  #curl 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+  511  ls
+  512  ls *clj
+  513  cp cn.clj bcDump.clj
+  514  git add bcDump.clj 
+  515  git commit -m "+bcDump.clj" 
+  516  emacs bcDump.clj
+  517  ./clj bcDump.clj
+  518  git commit -am "+bcDump.clj" 
+  519  emacs bcDump.clj
+  520  curl https://webbtc.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f.hex
+  521  ./clj bcDump.clj
+  522  curl http://webbtc.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f.hex
+  523  emacs bcDump.clj
+  524  git commit -am "+bcDump.clj"
+  525  ./clj bcDump.clj
+  526  emacs bcDump.clj
+  527  ./clj bcDump.clj
+  528  ./clj bcDump.clj
+  529  emacs bcDump.clj
+  530  git commit -am "~bcDump.clj"
+  531  ./clj bcDump.clj
+  532  emacs bcDump.clj
+  533  git commit -am "~bcDump.clj"
+  534  ./clj bcDump.clj
+  535  emacs bcDump.clj
+  536  git commit -am "~bcDump.clj"
+  537  ./clj bcDump.clj
+  538  emacs bcDump.clj
+  539  git commit -am "~bcDump.clj"
+  540  ./clj bcDump.clj
+  541  emacs bcDump.clj
+  542  git commit -am "~bcDump.clj"
+  543  ./clj bcDump.clj
+  544  emacs bcDump.clj
+  545  ./clj bcDump.clj
+  546  emacs bcDump.clj
+  547  git commit -am "~bcDump.clj"
+  548  ./clj bcDump.clj
+  549  emacs bcDump.clj
+  550  git commit -am "~bcDump.clj"
+  551  emacs bcDump.clj
+  552  git commit -am "~bcDump.clj"
+  553  ./clj bcDump.clj
+  554  emacs bcDump.clj
+  555  git commit -am "~bcDump.clj"
+  556  ./clj bcDump.clj
+  557  emacs bcDump.clj
+  558  ./clj bcDump.clj
+  559  git commit -am "~bcDump.clj"
+  560  emacs bcDump.clj
+  561  git commit -am "~bcDump.clj"
+  562  ./clj bcDump.clj
+  563  emacs bcDump.clj
+  564  git commit -am "~bcDump.clj"
+  565  ./clj bcDump.clj
+  566  emacs bcDump.clj
+  567  git commit -am "~bcDump.clj"
+  568  ./clj bcDump.clj
+  569  emacs bcDump.clj
+  570  git commit -am "~bcDump.clj"
+  571  ./clj bcDump.clj
+  572  emacs bcDump.clj
+  573  git commit -am "~bcDump.clj"
+  574  ./clj bcDump.clj
+  575  emacs bcDump.clj
+  576  git commit -am "~bcDump.clj"
+  577  ./clj bcDump.clj
+  578  emacs bcDump.clj
+  579  git commit -am "~bcDump.clj"
+  580  emacs bcDump.clj
+  581  grep spit *clj
+  582  git commit -am "~bcDump.clj"
+  583  ./clj bcDump.clj
+  584  ls *x
+  585  #./clj bcDump.clj >> BcHeight.txt
+  586  emacs bcDump.clj
+  587  git commit -am "~bcDump.clj"
+  588  ./clj bcDump.clj >> BcHeight.txt
+  589  ls *x
+  590  ls -l *x
+  591  cat 413492.hex 
+  592  ls -l *x
+  593  emacs bcDump.clj
+  594  git commit -am "~bcDump.clj"
+  595  ./clj bcDump.clj > BcHeight.txt
+  596  ls -l *x
+  597  cat BcHeight.txt 
+  598  emacs bcDump.clj
+  599  ./clj bcDump.clj
+  600  git commit -am "~bcDump.clj"
+  601  git pull
+  602  git pull
+  603  git push
+  604  history 
+  605  history |grep hist
+  606  a=`curl https://knot-net.appspot.com/at`;echo $a;history > ~/git/AllHashes/at$a.BmHist.txt
