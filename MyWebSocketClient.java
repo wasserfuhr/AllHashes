@@ -1,4 +1,7 @@
 //http://stackoverflow.com/questions/8352980/application-to-application-communication-through-web-sockets
+import java.io.IOException;
+import java.net.URI;
+import java.util.concurrent.TimeUnit;
 import org.eclipse.jetty.websocket.*;
 public class MyWebSocketClient{
  MyWebSocketClient()throws IOException{       
