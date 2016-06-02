@@ -10,9 +10,14 @@ public class MyWebSocketClient{
    factory.start();
   }catch(Exception e){e.printStackTrace();}
   WebSocketClient client = factory.newWebSocketClient();
-  WebSocket.Connection connection = client.open(new URI("ws://myserver:8080/testws"),new WebSocket.OnTextMessage(){
+  WebSocket.Connection connection = client.open(new URI("ws://ws.blockchain.info/inv"),new WebSocket.OnTextMessage(){
    public void onOpen(Connection connection){}
    public void onClose(int closeCode, String message){}
    public void onMessage(String data){}
   }).get(50, TimeUnit.SECONDS);
- }}
+ }
+
+ public static void main(String[] a) throws Exception{
+  new MyWebSocketClient();
+ }
+}
