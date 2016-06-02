@@ -4,7 +4,7 @@ import java.net.URI;
 import java.util.concurrent.TimeUnit;
 import org.eclipse.jetty.websocket.*;
 public class MyWebSocketClient{
- MyWebSocketClient()throws IOException{       
+ MyWebSocketClient()throws Exception{
   WebSocketClientFactory factory=new WebSocketClientFactory();
   try{
    factory.start();
