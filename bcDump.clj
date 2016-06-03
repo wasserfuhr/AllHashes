@@ -5,10 +5,12 @@
 ;0x65049 bx"045d9003d09f64af5a263fd21ea691d5d6dc19907e594e31"
 ;0x65157 bx"0378aa86c50d9b4270b7cad11e13ded6b21aa0171708961c"
 ;0x65107 bx"04e1f222edf916d37fd6f322cf3e96db87b1e832005c834a"
-0x6525a bx"02b486b6ab1364c21a7b15681fcdc927a6934a0b322d4961"
+;0x6525a bx"02b486b6ab1364c21a7b15681fcdc927a6934a0b322d4961"
+;0x64847 bx"043b58e1e6a801ef7951d2e92727fdfc5caede6c36e7ffc3"
+0x63f1a bx"00ef26364ac2cd96d688bca642c2639d480955f855d45743"
  a(atom h)n(atom (str"0000000000000000"bx))]
- (while(> @a 0x65157)
-; (while(> @a 0x61e25)
+ (while(> @a 0x61e25)
+; (while(> @a 0x65157)
   (let[ah(format"%x"@a)
     s0(slurp(str"http://webbtc.com/block/"@n".hex"))
     sl(subs s0 0 160)
