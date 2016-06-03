@@ -1,4 +1,4 @@
-(let[a(atom 0x6539f)n(atom (str"0000000000000000"bx))]
+(let[a(atom 0x6539f)n(atom(str"0000000000000000"))]
  (while(> @a 0x6038d)
   (let[ah(format"%x"@a)
     s0(slurp(str"/Volumes/SPACEDRIVE1/btc/b"ah".hex"))
