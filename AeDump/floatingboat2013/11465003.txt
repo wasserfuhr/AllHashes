@@ -1,0 +1,8 @@
+date:20379804135
+resource:OneHtMl
+bLen:21
+sLen:21
+mHash:a9fbf462034805a4efbc81bc19a2d5750f12fa5a
+sHash:bf6dccace5e35bb9d41caf57ef615994ae1195a692d8acf22eda5d4520b9c53c
+oHash:bf6dccace5e35bb9d41caf57ef615994ae1195a692d8acf22eda5d4520b9c53c
+content:0d0a0d0a3c68746d6c3e68693c2f68746d6c3e0d0a
