@@ -1,0 +1,9 @@
+date:20844972042
+published:20844978609
+resource:/newBlocks
+bLen:15
+sLen:15
+mHash:09d8bad7bc20aafcd0b5aa71529a8fa417aa380c
+sHash:ac765bcf9368d0cc7c3e290be79edb810c28d89b6eddd6c58b59feada2512863
+oHash:ac765bcf9368d0cc7c3e290be79edb810c28d89b6eddd6c58b59feada2512863
+content:28666e5b72712072735d226f6b2229

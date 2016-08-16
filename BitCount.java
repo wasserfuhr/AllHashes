@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BitCount {
+public class BitCount{
  public static void main(String[] a) throws Exception {
   LineNumberReader l = new LineNumberReader(new InputStreamReader(System.in));
   String s;
