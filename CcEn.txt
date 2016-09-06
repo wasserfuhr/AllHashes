@@ -1,0 +1,193 @@
+adAndorra
+aeUnited Arab Emirates
+afAfghanistan
+agAntigua and Barbuda
+alAlbania
+amArmenia
+aoAngola
+arArgentina
+atAustria
+auAustralia
+azAzerbaijan
+baBosnia and Herzegovina
+bbBarbados
+bdBangladesh
+beBelgium
+bfBurkina Faso
+bgBulgaria
+bhBahrain
+biBurundi
+bjBenin
+bnBrunei
+boBolivia
+brBrazil
+bsThe Bahamas
+btBhutan
+bwBotswana
+byBelarus
+bzBelize
+caCanada
+cdDemocratic Republic of the Congo
+cfCentral African Republic
+cgRepublic of the Congo
+chSwitzerland
+ciCôte d'Ivoire
+clChile
+cmCameroon
+cnPeople's Republic of China
+coColombia
+crCosta Rica
+cuCuba
+cvCape Verde
+cyCyprus
+czCzech Republic
+deGermany
+djDjibouti
+dkDenmark
+dmDominica
+doDominican Republic
+dzAlgeria
+ecEcuador
+eeEstonia
+egEgypt
+erEritrea
+esSpain
+etEthiopia
+fiFinland
+fjFiji
+fmFederated States of Micronesia
+frFrance
+gaGabon
+gbUnited Kingdom
+gdGrenada
+geGeorgia
+ghGhana
+gmGambia
+gnGuinea
+gqEquatorial Guinea
+grGreece
+gtGuatemala
+gwGuinea-Bissau
+gyGuyana
+hnHonduras
+hrCroatia
+htHaiti
+huHungary
+idIndonesia
+ieIreland
+ilIsrael
+inIndia
+iqIraq
+irIran
+isIceland
+itItaly
+jmJamaica
+joJordan
+jpJapan
+keKenya
+kgKyrgyzstan
+khCambodia
+kiKiribati
+kmComoros
+knSaint Kitts and Nevis
+kpNorth Korea
+krSouth Korea
+kwKuwait
+kzKazakhstan
+laLaos
+lbLebanon
+lcSaint Lucia
+liLiechtenstein
+lkSri Lanka
+lrLiberia
+lsLesotho
+ltLithuania
+luLuxembourg
+lvLatvia
+lyLibya
+maMorocco
+mcMonaco
+mdRepublic of Moldova
+meMontenegro
+mgMadagascar
+mhMarshall Islands
+mkRepublic of Macedonia
+mlMali
+mmMyanmar
+mnMongolia
+mrMauritania
+mtMalta
+muMauritius
+mvMaldives
+mwMalawi
+mxMexico
+myMalaysia
+mzMozambique
+naNamibia
+neNiger
+ngNigeria
+niNicaragua
+nlNetherlands
+noNorway
+npNepal
+nrNauru
+nzNew Zealand
+omOman
+paPanama
+pePeru
+pgPapua New Guinea
+phPhilippines
+pkPakistan
+plPoland
+ptPortugal
+pwPalau
+pyParaguay
+qaQatar
+roRomania
+rsSerbia
+ruRussia
+rwRwanda
+saSaudi Arabia
+sbSolomon Islands
+scSeychelles
+sdSudan
+seSweden
+sgSingapore
+siSlovenia
+skSlovakia
+slSierra Leone
+smSan Marino
+snSenegal
+soSomalia
+srSuriname
+ssSouth Sudan
+stSao Tomé and Príncipe
+svEl Salvador
+sySyria
+szSwaziland
+tdChad
+tgTogo
+thThailand
+tjTajikistan
+tlEast Timor
+tmTurkmenistan
+tnTunisia
+toTonga
+trTurkey
+ttTrinidad and Tobago
+tvTuvalu
+tzTanzania
+uaUkraine
+ugUganda
+usUnited States of America
+uyUruguay
+uzUzbekistan
+vcSaint Vincent and the Grenadines
+veVenezuela
+vnVietnam
+vuVanuatu
+wsSamoa
+yeYemen
+zaSouth Africa
+zmZambia
+zwZimbabwe
