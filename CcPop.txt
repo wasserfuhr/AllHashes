@@ -1,0 +1,369 @@
+ad 2013 79218
+
+ae 2013 9346129
+
+af 2013 31822848
+
+ag 2013 89985
+
+al 2014 3020209
+
+am 2013 2976566
+
+ao 2013 21471618
+
+ar 2015 43417000
+
+at 2014 8572895
+
+au 2013 23130931
+
+az 2013 9416801
+
+ba 2013 3531159
+
+bb 2013 284644
+
+bd 2013 156594962
+
+be 2014 11150516
+
+bf 2013 16934839
+
+bg 2013 7265115
+
+bh 2013 1332171
+
+bi 2013 10162532
+
+bj 2013 10323474
+
+bn 2013 417784
+
+bo 2013 10671200
+
+br 2015 202656788
+
+bs 2013 377374
+
+bt 2013 753947
+
+bw 2013 2021144
+
+by 2015 9494200
+
+bz 2013 331900
+
+ca 2015 35702707
+
+cd 2013 67513677
+
+cf 2013 4616417
+
+cg 2013 4447632
+
+ch 2014 8211700
+
+ci 2013 20316086
+
+cl 2013 17619708
+
+cm 2013 22253959
+
+cn 2015 1376049000
+
+co 2012 47704427
+
+cr 2013 4872166
+
+cu 2013 11265629
+
+cv 2013 498897
+
+cy 2013 1141166
+
+cz 2015 10538275
+
+de 2015 81292400
+
+dj 2013 872932
+
+dk 2016 5707251
+
+dm 2013 72003
+
+do 2013 10403761
+
+dz 2014 38813722
+
+ec 2013 15737878
+
+ee 2016 1315944
+
+eg 2013 82056378
+
+er 2013 6333135
+
+es 2015 46449565
+
+et 2014 96958732
+
+fi 2014 5470437
+
+fj 2013 881065
+
+fm 2013 103549
+
+fr 2016 66627602
+
+ga 2013 1671711
+
+gb 2016 65102385
+
+gd 2013 105897
+
+ge 2014 3729500
+
+gh 2013 25904598
+
+gm 2013 1849285
+
+gn 2014 10628972
+
+gq 2013 757014
+
+gr 2014 10775557
+
+gt 2013 15468203
+
+gw 2013 1704255
+
+gy 2013 799613
+
+hn 2013 8097688
+
+hr 2011 4284889
+
+ht 2013 10317461
+
+hu 2013 9893899
+
+id 2013 249865631
+
+ie 2013 4593100
+
+il 2014 8296900
+
+in 2014 1263200000
+
+iq 2013 33417476
+
+ir 2013 77447168
+
+is 2016 332529
+
+it 2013 60233948
+
+jm 2015 2950210
+
+jo<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+jp 2015 127110047
+
+ke 2013 44353691
+
+kg<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+kh 2013 15135169
+
+ki 2013 102351
+
+km 2013 734917
+
+kn 2013 54191
+
+kp 2013 24895480
+
+kr 2013 50219669
+
+kw<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+kz 2014 17948816
+
+la 2013 6769727
+
+lb 2013 4467390
+
+lc 2013 182273
+
+li 2013 36925
+
+lk<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+lr 2013 4294077
+
+ls 2013 2074465
+
+lt 2011 3043429
+
+lu 2013 543360
+
+lv 2014 1989500
+
+ly 2013 6201521
+
+ma 2013 33008150
+
+mc 2013 37831
+
+md<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+me<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+mg 2013 22924851
+
+mh 2013 52634
+
+mk 2013 2107158
+
+ml 2013 15301650
+
+mm 2013 53259018
+
+mn 2014 2953190
+
+mr 2013 3889880
+
+mt 2013 423374
+
+mu 2013 1258653
+
+mv 2014 401000
+
+mw 2013 16362567
+
+mx 2014 120286655
+
+my 2015 30331007
+
+mz 2013 25833752
+
+na 2013 2303315
+
+ne 2014 18534802
+
+ng 2013 173615345
+
+ni 2013 6080478
+
+nl 2016 17000000
+
+no 2016 5213985
+
+np 2014 30986975
+
+nr<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+nz<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+om 2013 3632444
+
+pa 2013 3864170
+
+pe 2013 30375603
+
+pg 2013 7321262
+
+ph 2015 100981437
+
+pk 2013 182142594
+
+pl 2014 38483957
+
+pt 2013 10457295
+
+pw 2013 20918
+
+py 2013 6802295
+
+qa 2013 2168673
+
+ro 2014 19910995
+
+rs<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+ru 2016 146519759
+
+rw 2013 11776522
+
+sa 2013 28828870
+
+sb 2013 561231
+
+sc<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+sd<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+se 2015 9804082
+
+sg 2013 3844800
+
+si 2015 2062874
+
+sk<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+sl 2013 6092075
+
+sm 2014 31595
+
+sn 2013 14133280
+
+so 2013 10495583
+
+sr 2013 539276
+
+ss<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+st 2013 192993
+
+sv 2013 6340454
+
+sy 2014 17064854
+
+sz 2013 1249514
+
+td 2013 12825314
+
+tg 2013 6816982
+
+th 2013 67010502
+
+tj<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+tl 2014 1201542
+
+tm<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+tn<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+to 2013 105323
+
+tr 2015 78665830
+
+tt 2013 1341151
+
+tv 2013 9876
+
+tz 2013 49253126
+
+ua 2015 42800501
+
+ug 2013 37578876
+
+us 2016 323952889
+
+uy 2013 3407062
+
+uz 2016 31576400
+
+vc 2013 109373
+
+ve 2014 28868486
+
+vn<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+vu 2013 252763
+
+ws 2013 190372
+
+ye 2014 26183676
+
+za 2014 54002000
+
+zm 2013 14538640
+
+zw 2013 14149648
+
