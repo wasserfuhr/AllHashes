@@ -1,0 +1,369 @@
+cn 2015 1376049000
+in 2014 1263200000
+us 2016 323952889
+id 2013 249865631
+br 2015 202656788
+pk 2013 182142594
+ng 2013 173615345
+bd 2013 156594962
+ru 2016 146519759
+jp 2015 127110047
+mx 2014 120286655
+ph 2015 100981437
+et 2014 96958732
+eg 2013 82056378
+de 2015 81292400
+tr 2015 78665830
+ir 2013 77447168
+cd 2013 67513677
+th 2013 67010502
+fr 2016 66627602
+gb 2016 65102385
+it 2013 60233948
+za 2014 54002000
+mm 2013 53259018
+kr 2013 50219669
+tz 2013 49253126
+co 2012 47704427
+es 2015 46449565
+ke 2013 44353691
+ar 2015 43417000
+ua 2015 42800501
+dz 2014 38813722
+pl 2014 38483957
+ug 2013 37578876
+ca 2015 35702707
+iq 2013 33417476
+ma 2013 33008150
+af 2013 31822848
+uz 2016 31576400
+np 2014 30986975
+pe 2013 30375603
+my 2015 30331007
+ve 2014 28868486
+sa 2013 28828870
+ye 2014 26183676
+gh 2013 25904598
+mz 2013 25833752
+kp 2013 24895480
+au 2013 23130931
+mg 2013 22924851
+cm 2013 22253959
+ao 2013 21471618
+ci 2013 20316086
+ro 2014 19910995
+ne 2014 18534802
+kz 2014 17948816
+cl 2013 17619708
+sy 2014 17064854
+nl 2016 17000000
+bf 2013 16934839
+mw 2013 16362567
+ec 2013 15737878
+gt 2013 15468203
+ml 2013 15301650
+kh 2013 15135169
+zm 2013 14538640
+zw 2013 14149648
+sn 2013 14133280
+td 2013 12825314
+rw 2013 11776522
+cu 2013 11265629
+be 2014 11150516
+gr 2014 10775557
+bo 2013 10671200
+gn 2014 10628972
+cz 2015 10538275
+so 2013 10495583
+pt 2013 10457295
+do 2013 10403761
+bj 2013 10323474
+ht 2013 10317461
+bi 2013 10162532
+hu 2013 9893899
+se 2015 9804082
+by 2015 9494200
+az 2013 9416801
+ae 2013 9346129
+at 2014 8572895
+il 2014 8296900
+ch 2014 8211700
+hn 2013 8097688
+pg 2013 7321262
+bg 2013 7265115
+tg 2013 6816982
+py 2013 6802295
+la 2013 6769727
+sv 2013 6340454
+er 2013 6333135
+ly 2013 6201521
+sl 2013 6092075
+ni 2013 6080478
+dk 2016 5707251
+fi 2014 5470437
+no 2016 5213985
+cr 2013 4872166
+cf 2013 4616417
+ie 2013 4593100
+lb 2013 4467390
+cg 2013 4447632
+lr 2013 4294077
+hr 2011 4284889
+mr 2013 3889880
+pa 2013 3864170
+sg 2013 3844800
+ge 2014 3729500
+om 2013 3632444
+ba 2013 3531159
+uy 2013 3407062
+lt 2011 3043429
+al 2014 3020209
+am 2013 2976566
+mn 2014 2953190
+jm 2015 2950210
+na 2013 2303315
+qa 2013 2168673
+mk 2013 2107158
+ls 2013 2074465
+si 2015 2062874
+bw 2013 2021144
+lv 2014 1989500
+gm 2013 1849285
+gw 2013 1704255
+ga 2013 1671711
+tt 2013 1341151
+bh 2013 1332171
+ee 2016 1315944
+mu 2013 1258653
+sz 2013 1249514
+tl 2014 1201542
+cy 2013 1141166
+fj 2013 881065
+dj 2013 872932
+gy 2013 799613
+gq 2013 757014
+bt 2013 753947
+km 2013 734917
+sb 2013 561231
+lu 2013 543360
+sr 2013 539276
+cv 2013 498897
+mt 2013 423374
+bn 2013 417784
+mv 2014 401000
+bs 2013 377374
+is 2016 332529
+bz 2013 331900
+bb 2013 284644
+vu 2013 252763
+st 2013 192993
+ws 2013 190372
+lc 2013 182273
+vc 2013 109373
+gd 2013 105897
+to 2013 105323
+fm 2013 103549
+ki 2013 102351
+ag 2013 89985
+ad 2013 79218
+dm 2013 72003
+kn 2013 54191
+mh 2013 52634
+mc 2013 37831
+li 2013 36925
+sm 2014 31595
+pw 2013 20918
+tv 2013 9876
+vn<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+tn<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+tm<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+tj<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+ss<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+sk<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+sd<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+sc<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+rs<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+nz<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+nr<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+me<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+md<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+lk<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+kw<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+kg<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+jo<!DOCTYPE html><html><head><title>Exception</title><link href="/css" rel="stylesheet" type="text/css" /></head><body><h1>Exception</h1><p>Pieschen we have a ProBlem:<br />java.lang.NullPointerException</p></body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
