@@ -1,7 +1,7 @@
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;
 public class BcSocket{
- public static void main(String[] a) throws Exception{
+ public static void main(String[]a) throws Exception{
   org.java_websocket.WebSocketImpl.DEBUG = true;
   WebSocketClient c=new WebSocketClient(new java.net.URI("ws://ws.blockchain.info/inv")){
    @Override public void onMessage(String message ){System.out.println(message);}
