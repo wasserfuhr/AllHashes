@@ -1,0 +1,500 @@
+  113  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  114  emacs src/main/webapp/index.jsp
+  115  git commit -am "~src/main/webapp/index.jsp"
+  116  emacs pom.xml
+  117  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  118  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  119  ls
+  120  ls target/
+  121  ls target/classes/de/numetris/soap/MainServlet.class 
+  122  emacs src/main/java/de/numetris/soap/MainServlet.java
+  123  emacs src/main/webapp/WEB-INF/web.xml
+  124  java 
+  125  java -v
+  126  java -version
+  127  emacs src/main/webapp/WEB-INF/web.xml
+  128  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  129  mkdir src/main/resources
+  130  emacs src/main/resources/log4j.properties
+  131  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  132  cd src/main/resources/
+  133  mv log4j.properties log4j2.properties 
+  134  cd ..
+  135  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  136  emacs src/main/resources/log4j2.properties
+  137  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  138  wget https://www.vpn.net/installers/logmein-hamachi-2.1.0.165-x64.tgz
+  139  wget --no-check-certificate https://www.vpn.net/installers/logmein-hamachi-2.1.0.165-x64.tgz
+  140  gunzip logmein-hamachi-2.1.0.165-x64.tgz 
+  141  mkdir hamachi
+  142  cd hamachi/
+  143  tar xf ../logmein-hamachi-2.1.0.165-x64.tar 
+  144  ls
+  145  ls logmein-hamachi-2.1.0.165-x64/install.sh 
+  146  su
+  147  hamachi list
+  148  su
+  149  hamachi list
+  150  hamachi join numetrisAG
+  151  hamachi login
+  152  hamachi attach wasserfuhr@yahoo.com
+  153  hamachi login
+  154  hamachi list
+  155  ping 25.32.220.135 
+  156  ping 25.32.197.11
+  157  ping 25.35.106.58
+  158  ls
+  159  rm logmein-hamachi-2.1.0.165-x64/*
+  160  rmdir logmein-hamachi-2.1.0.165-x64/
+  161  ls
+  162  rm logmein-hamachi_2.1.0.165-1_i386.deb 
+  163  ls
+  164  cd ..
+  165  rmdir hamachi/
+  166  hamachi list
+  167  ls
+  168  rm logmein-hamachi-2.1.0.165-x64.tar 
+  169  emacs pom.xml
+  170  history 
+  171  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  172  emacs src/main/java/de/numetris/soap/MainServlet.java
+  173  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  174  java -cp=target de.numetris.soap.MainServlet
+  175  java -cp target de.numetris.soap.MainServlet
+  176  ls -l target/classes/de/numetris/soap/MainServlet.class 
+  177  emacs pom.xml
+  178  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  179  emacs src/main/java/de/numetris/soap/MainServlet.java
+  180  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  181  java -cp target de.numetris.soap.MainServlet
+  182  java -cp target/classes/ de.numetris.soap.MainServlet
+  183  java -cp target/classes/:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar de.numetris.soap.MainServlet
+  184  java -cp target/classes/:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/rawa/.m2/repository/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7.jar de.numetris.soap.MainServlet
+  185  java -cp target/classes/:/home/rawa/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/rawa/.m2/repository/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar de.numetris.soap.MainServlet
+  186  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  187  #http://www.java2s.com/Tutorials/Java/Maven_Tutorial/2030__Maven_Run_Java_Main.htm
+  188  emacs src/main/java/de/numetris/soap/MainServlet.java
+  189  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  190  emacs src/main/java/de/numetris/soap/MainServlet.java
+  191  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  192  emacs src/main/java/de/numetris/soap/MainServlet.java
+  193  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  194  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  195  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  196  emacs src/main/java/de/numetris/soap/MainServlet.java
+  197  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  198  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  199  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  200  git status
+  201  git add src/main/resources/
+  202  git status
+  203  emacs .gitignore
+  204  git status
+  205  emacs .gitignore
+  206  git status
+  207  emacs .gitignore
+  208  rm src/main/resources/log4j2.properties?
+  209  git commit -am "~*"
+  210  git status
+  211  emacs pom.xml
+  212  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  213  emacs pom.xml
+  214  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  215  emacs src/main/java/de/numetris/soap/MainServlet.java
+  216  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  217  emacs src/main/java/de/numetris/soap/MainServlet.java
+  218  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  219  emacs src/main/java/de/numetris/soap/MainServlet.java
+  220  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  221  unzip -l /home/rawa/.m2/repository/com/oracle/ojdbc6/11.1.0.7.0/ojdbc6-11.1.0.7.0.jar 
+  222  emacs src/main/java/de/numetris/soap/MainServlet.java
+  223  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  224  emacs src/main/java/de/numetris/soap/MainServlet.java
+  225  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  226  emacs src/main/java/de/numetris/soap/MainServlet.java
+  227  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  228  emacs src/main/java/de/numetris/soap/MainServlet.java
+  229  /home/rawa/apache-maven-3.2.3/bin/mvn install
+  230  history 
+  231  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  232  emacs src/main/java/de/numetris/soap/MainServlet.java
+  233  /home/rawa/apache-maven-3.2.3/bin/mvn installexec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  234  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  235  ls
+  236  emacs src/main/java/de/numetris/soap/MainServlet.java
+  237  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  238  emacs src/main/java/de/numetris/soap/MainServlet.java
+  239  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  240  git status
+  241  history
+  242  git commit -am "~*"
+  243  emacs src/main/java/de/numetris/soap/MainServlet.java
+  244  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  245  ls ../AllHashes/*va
+  246  more ../AllHashes/HtTp.java
+  247  more ../AllHashes/Ur.java
+  248  git status
+  249  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  250  git status
+  251  history 
+  252  git commit -am "~*"
+  253  git status
+  254  ls
+  255  history
+  256  more ../AllHashes/Ur.java
+  257  cp ../AllHashes/Ur.java src/main/java/de/numetris/soap/
+  258  git add src/main/java/de/numetris/soap/Ur.java 
+  259  git commit -am "~*"
+  260  emacs src/main/java/de/numetris/soap/Ur.java 
+  261  git commit -am "~*"
+  262  #emacs src/main/java/de/numetris/soap/Ur.
+  263  cd src/main/java/de/numetris/soap/
+  264  git mv Ur.java Loop.java
+  265  cd ..
+  266  ls
+  267  emacs src/main/java/de/numetris/soap/
+  268  more src/main/java/de/numetris/soap/Loop.java 
+  269  git status
+  270  git commit -am "~*"
+  271  emacs src/main/java/de/numetris/soap/Loop.java 
+  272  emacs src/main/java/de/numetris/soap/MainServlet.java
+  273  history 
+  274  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  275  emacs src/main/java/de/numetris/soap/Loop.java
+  276  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  277  emacs src/main/java/de/numetris/soap/Loop.java
+  278  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  279  emacs src/main/java/de/numetris/soap/Loop.java
+  280  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  281  emacs src/main/java/de/numetris/soap/Loop.java
+  282  history 
+  283  git commit -am "~*"
+  284  history |grep his
+  285  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  286  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  287  emacs src/main/java/de/numetris/soap/Loop.java
+  288  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  289  emacs src/main/java/de/numetris/soap/Loop.java
+  290  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  291  emacs src/main/java/de/numetris/soap/Loop.java
+  292  emacs conf.properties
+  293  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.MainServlet"
+  294  history 
+  295  git status
+  296  git add conf.properties
+  297  git commit -am "~*"
+  298  history |grep zip
+  299  zip -r ../soap . ; mv ../soap.zip src/main/webapp/
+  300  history 
+  301  /home/rawa/apache-maven-3.2.3/bin/mvn clean
+  302  zip -r ../soap . ; mv ../soap.zip src/main/webapp/
+  303  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  304  pwd
+  305  cd git/TeslaGas/
+  306  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  307  emacs BackLog.txt
+  308  git add BackLog.txt
+  309  history
+  310  git commit -am "~*"
+  311  more src/main/java/de/numetris/soap/MainServlet.java
+  312  emacs src/main/java/de/numetris/soap/MainServlet.java
+  313  git commit -am "~*"
+  314  emacs src/main/java/de/numetris/soap/Loop.java
+  315  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  316  git commit -am "~*"
+  317  emacs src/main/java/de/numetris/soap/Loop.java
+  318  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  319  emacs conf.properties 
+  320  emacs src/main/webapp/index.jsp
+  321  git commit -am "~*"
+  322  history
+  323  emacs src/main/java/de/numetris/soap/Loop.java
+  324  git status
+  325  git commit -am "~*"
+  326  git status
+  327  mor
+  328  git commit -am "~*"
+  329  more conf.properties
+  330  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  331  emacs src/main/webapp/index.jsp
+  332  more src/main/java/de/numetris/soap/Loop.java 
+  333  emacs src/main/java/de/numetris/soap/Loop.java 
+  334  emacs src/main/webapp/index.jsp
+  335  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  336  emacs src/main/java/de/numetris/soap/Loop.java
+  337  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  338  git commit -am "~*"
+  339  emacs src/main/java/de/numetris/soap/Loop.java
+  340  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  341  emacs src/main/java/de/numetris/soap/Loop.java
+  342  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  343  emacs src/main/java/de/numetris/soap/Loop.java
+  344  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  345  git commit -am "~*"
+  346  emacs src/main/webapp/index.jsp
+  347  git commit -am "~*"
+  348  emacs src/main/java/de/numetris/soap/Loop.java
+  349  git commit -am "~*"
+  350  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  351  emacs BackLog.txt
+  352  emacs src/main/webapp/index.jsp
+  353  emacs conf.properties 
+  354  git commit -am "~*"
+  355  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  356  emacs src/main/java/de/numetris/soap/Loop.java
+  357  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  358  emacs src/main/webapp/index.jsp
+  359  git commit -am "~*"
+  360  history |grep zip
+  361  more pom.xml
+  362  emacs pom.xml
+  363  git commit -am "~*"
+  364  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  365  git commit -am "~*"
+  366  history
+  367  history|grep zip
+  368  zip -r ../soap . ; mv ../soap.zip src/main/webapp/
+  369  /home/rawa/apache-maven-3.2.3/bin/mvn clean
+  370  zip -r ../soap . ; mv ../soap.zip src/main/web
+  371  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  372  /home/rawa/apache-maven-3.2.3/bin/mvn clean
+  373  zip -r ../soap . ; mv ../soap.zip src/main/web
+  374  ls -l src/main/
+  375  rm src/main/web
+  376  zip -r ../soap . ; mv ../soap.zip src/main/webapp/ ; ls -l src/main/webapp/soap.zip
+  377  ls 
+  378  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  379  ls
+  380  /home/rawa/apache-maven-3.2.3/bin/mvn clean
+  381  git log 2
+  382  git log -2
+  383  git status
+  384  df .git
+  385  du .git
+  386  man du
+  387  du -b .git
+  388  git stat
+  389  git status 
+  390  ls -l src/main/webapp/soap.zip
+  391  rm src/main/webapp/soap.zip
+  392  ls
+  393  history
+  394  zip -r ../soap . ; mv ../soap.zip src/main/webapp/ ; ls -l src/main/webapp/soap.zip
+  395  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  396  ls target/
+  397  more pom.xml 
+  398  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  399  more BackLog.txt 
+  400  emacs BackLog.txt
+  401  emacs src/main/webapp/index.jsp
+  402  git status emacs pom.xml
+  403  emacs pom.xml
+  404  git commit -am "~*"
+  405  git status
+  406  emacs src/main/java/de/numetris/soap/Loop.java
+  407  git commit -am "~*"
+  408  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  409  emacs conf.properties
+  410  emacs pom.xml
+  411  /home/rawa/apache-maven-3.2.3/bin/mvn
+  412  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  413  git commit -am "~*"
+  414  /home/rawa/apache-maven-3.2.3/bin/mvn
+  415  emacs src/main/java/de/numetris/soap/Loop.java
+  416  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  417  emacs conf.properties
+  418  emacs src/main/java/de/numetris/soap/Loop.java
+  419  git commit -am "~*"
+  420  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  421  emacs BackLog.txt
+  422  git commit -am "~*"
+  423  emacs BackLog.txt
+  424  git status
+  425  emacs .gitignore
+  426  git commit -am "~*"
+  427  git status
+  428  emacs pom.xml
+  429  git commit -am "~*"
+  430  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  431  emacs pom.xml
+  432  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  433  git commit -am "~*"
+  434  emacs pom.xml
+  435  java -version
+  436  emacs pom.xml
+  437  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  438  emacs pom.xml
+  439  git commit -am "~*"
+  440  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  441  more pom.xml
+  442  git commit -am "~*"
+  443  more pom.xml
+  444  emacs pom.xml
+  445  git commit -am "~*"
+  446  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  447  emacs pom.xml
+  448  emacs BackLog.txt
+  449  git commit -am "~*"
+  450  git status
+  451  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  452  emacs src/main/java/de/numetris/soap/Loop.java
+  453  git commit -am "~*"
+  454  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  455  git mv conf.properties conf.props
+  456  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  457  emacs src/main/java/de/numetris/soap/Loop.java
+  458  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  459  git status
+  460  git commit -am "~*"
+  461  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  462  git status
+  463  ls
+  464  #d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  465  curl -d '{"event": "unconfirmed-tx", "address": "15qx9ug952GWGTNn7Uiv6vode4RcGrRemh", "url": "https://my.domain.com/callbacks/new-tx"}' https://api.blockcypher.com/v1/btc/main/hooks?token=YOURTOKEN
+  466  curl -d '{"event": "unconfirmed-tx", "address": "15qx9ug952GWGTNn7Uiv6vode4RcGrRemh", "url": "https://my.domain.com/callbacks/new-tx"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  467  curl -d '{"event": "unew-block", "url": "https:///dresdenlabs.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  468  #curl -d '{"event": "unew-block", "url": "https:///dresdenlabs.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  469  curl -d '{"event":"new-block","url":"https:///dresdenlabs.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  470  curl -d '{"event":"new-block","url":"https:///resdenlabs.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  471  curl -d '{"event":"new-block","url":"https://dresdenlabs.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  472  #curl -d '{"event":"new-block","url":"https://dfloatingboat2013.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  473  curl -d '{"event":"new-block","url":"https://floatingboat2013.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  474  #
+  475  curl
+  476  curl --help
+  477  curl -X DELETE https://api.blockcypher.com/v1/btc/main/hooks/9be7ee61-d101-47ab-8b04-18e3e1e9086f?token=d15f83dd9f4e46e19ee0bb49c1a2f3c
+  478  curl -X DELETE https://api.blockcypher.com/v1/btc/main/hooks/9be7ee61-d101-47ab-8b04-18e3e1e9086f?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  479  curl -X DELETE https://api.blockcypher.com/v1/btc/main/hooks/65f3e16e-ac67-497e-829c-455dd7604c1e?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  480  curl -X DELETE https://api.blockcypher.com/v1/btc/main/hooks/24604a12-ac2f-481a-a821-7bd3378c5d08?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  481  history
+  482  #curl -d '{"event":"new-block","url":"https://knot-net.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  483  curl -d '{"event":"new-block","url":"https://knot-net.appspot.com/newBlockCallBack"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+  484  history
+  485  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  486  /home/rawa/apache-maven-3.2.3/bin/mvn javadoc
+  487  /home/rawa/apache-maven-3.2.3/bin/mvn site
+  488  ls
+  489  mv target/site/ src/main/webapp/
+  490  history
+  491  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  492  emacs BackLog.txt
+  493  history 
+  494  git commit -am "~*"
+  495  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  496  /home/rawa/apache-maven-3.2.3/bin/mvn javadoc:javadoc
+  497  mv target/site/apidocs/ src/main/webapp/site/
+  498  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  499  more BackLog.txt
+  500  cd git/TeslaGas/
+  501  git remote add origin https://rawass@bitbucket.org/rawass/nusoap.git
+  502  git push
+  503  git status
+  504  git push
+  505  echo "RainerWasserfuhr" >> contributors.txt
+  506  git add contributors.txt
+  507  git commit -m "Initial commit with contributors"
+  508  git push -u origin maste
+  509  git push -u origin master
+  510  git pull
+  511  git log
+  512  ls ~/in/
+  513  ping s.sl4.eu
+  514  history 
+  515  ls
+  516  sha256sum ../AllHashes/OriginStamp90e9.txt 
+  517  npm
+  518  npm i -g ipld-cli
+  519  su
+  520  emacs src/main/java/de/numetris/soap/Loop.java
+  521  git status
+  522  rm src/main/webapp/site/*
+  523  rm src/main/webapp/site/apidocs/*
+  524  rm src/main/webapp/site/apidocs/de/numetris/soap/*
+  525  rm src/main/webapp/site/apidocs/de/numetris/soap/class-use/*
+  526  rmdir src/main/webapp/site/apidocs/de/numetris/soap/class-use
+  527  rmdir src/main/webapp/site/apidocs/de/numetris/soap
+  528  rmdir src/main/webapp/site/apidocs/de/numetris/
+  529  rmdir src/main/webapp/site/apidocs/de/
+  530  rmdir src/main/webapp/site/apidocs
+  531  rm src/main/webapp/site/apidocs/resources/*
+  532  rmdir src/main/webapp/site/apidocs/resources/
+  533  rmdir src/main/webapp/site/apidocs
+  534  rmdir src/main/webapp/site/
+  535  rm src/main/webapp/site/css/*
+  536  rmdir src/main/webapp/site/css/
+  537  rmdir src/main/webapp/site/
+  538  rm src/main/webapp/site/images/*
+  539  rm src/main/webapp/site/images/logos/*
+  540  rmdir src/main/webapp/site/images/logos/*
+  541  rmdir src/main/webapp/site/images/logos/
+  542  rmdir src/main/webapp/site/images/
+  543  rmdir src/main/webapp/site/
+  544  history 
+  545  git status
+  546  git commit -am "~*"
+  547  history 
+  548  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  549  emacs src/main/java/de/numetris/soap/Loop.java
+  550  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  551  emacs src/main/java/de/numetris/soap/Loop.java
+  552  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  553  git commit -am "~*"
+  554  emacs src/main/java/de/numetris/soap/Loop.java
+  555  git commit -am "~*"
+  556  emacs src/main/java/de/numetris/soap/Loop.java
+  557  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  558  emacs src/main/java/de/numetris/soap/Loop.java
+  559  git commit -am "~*"
+  560  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  561  emacs src/main/java/de/numetris/soap/Loop.java
+  562  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  563  emacs src/main/java/de/numetris/soap/Loop.java
+  564  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  565  git commit -am "~*"
+  566  emacs src/main/java/de/numetris/soap/Loop.java
+  567  git commit -am "~*"
+  568  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  569  emacs src/main/java/de/numetris/soap/Loop.java
+  570  git commit -am "~*"
+  571  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  572  emacs src/main/java/de/numetris/soap/Loop.java
+  573  git commit -am "~*"
+  574  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  575  emacs src/main/java/de/numetris/soap/Loop.java
+  576  git commit -am "~*"
+  577  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  578  emacs src/main/java/de/numetris/soap/Loop.java
+  579  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  580  emacs src/main/java/de/numetris/soap/Loop.java
+  581  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  582  emacs src/main/java/de/numetris/soap/Loop.java
+  583  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  584  emacs src/main/java/de/numetris/soap/Loop.java
+  585  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  586  emacs src/main/java/de/numetris/soap/Loop.java
+  587  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  588  emacs src/main/java/de/numetris/soap/Loop.java
+  589  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  590  emacs src/main/java/de/numetris/soap/Loop.java
+  591  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  592  emacs src/main/java/de/numetris/soap/Loop.java
+  593  git commit -am "~*"
+  594  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  595  emacs src/main/java/de/numetris/soap/Loop.java
+  596  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  597  emacs src/main/java/de/numetris/soap/Loop.java
+  598  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  599  emacs src/main/java/de/numetris/soap/Loop.java
+  600  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  601  emacs src/main/java/de/numetris/soap/Loop.java
+  602  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  603  emacs src/main/java/de/numetris/soap/Loop.java
+  604  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  605  emacs src/main/java/de/numetris/soap/Loop.java
+  606  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  607  emacs src/main/java/de/numetris/soap/Loop.java
+  608  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  609  emacs src/main/java/de/numetris/soap/Loop.java
+  610  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  611  history |grep hist
+  612  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt

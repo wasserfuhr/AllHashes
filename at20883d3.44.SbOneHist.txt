@@ -1,0 +1,501 @@
+  475  nslookup -?
+  476  nslookup --help
+  477  man nslookup --help
+  478  nslookup githubusercontent.com 8.8.8.8
+  479  nslookup githubusercontent.com 8.8.4.4.
+  480  nslookup githubusercontent.com 8.8.4.4
+  481  man nslookup
+  482  more /etc/nsswitch.conf 
+  483  more /etc/hosts
+  484  history 
+  485  ping githubusercontent.com
+  486  ping github.map.fastly.net
+  487  ping map.fastly.net
+  488  ping fastly.net
+  489  ping schlittermann.de
+  490  ping pu.schlittermann.de
+  491  ping http://info.cern.ch
+  492  ping info.cern.ch
+  493  ping astora.de
+  494  ping seedmatch.de
+  495  ping openstreetmap.org
+  496  ping agrartechnik-sachsen.de
+  497  ping ecb.europa.eu
+  498  ping www.ecb.europa.eu
+  499  ping europa.eu
+  500  ping sl4.eu
+  501  cd git/TeslaGas/
+  502  history 
+  503  history|grep his
+  504  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  505  ping zalando.com
+  506  history 
+  507  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  508  git push
+  509  emacs src/main/webapp/soap.jsp
+  510  history 
+  511  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  512  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  513  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  514  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  515  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  516  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  517  emacs +55 src/main/java/de/numetris/soap/SOAP.java 
+  518  history 
+  519  git commit -am "~*"
+  520  emacs +55 src/main/java/de/numetris/soap/SOAP.java 
+  521  git commit -am "~*"
+  522  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  523  emacs +55 src/main/java/de/numetris/soap/SOAP.java 
+  524  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  525  emacs +55 src/main/java/de/numetris/soap/SOAP.java 
+  526  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  527  history 
+  528  emacs src/main/webapp/soap.jsp
+  529  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  530  emacs src/main/webapp/soap.jsp
+  531  #git emacs src/main/webapp/soap.jsp
+  532  git statis
+  533  git status
+  534* git add src/main/webapp/
+  535  git add src/main/resources/log4j.properties
+  536  git status
+  537  git commit -am "~*"
+  538  git status
+  539  emacs src/main/webapp/soap.jsp
+  540  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  541  emacs src/main/webapp/soap.jsp
+  542  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  543* emacs src
+  544  git commit -am "~*"
+  545  emacs pom.xml
+  546  git commit -am "~*"
+  547  emacs bitbucket-pipelines.yml 
+  548  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  549  /home/rawa/apache-maven-3.2.3/bin/mvn
+  550  git status
+  551  git commit -am "~*"
+  552  emacs README.md 
+  553  git commit -am "~*"
+  554  emacs README.md
+  555  git commit -am "~*"
+  556  emacs src/main/java/de/numetris/soap/SOAP.java 
+  557  emacs src/main/java/de/numetris/soap/Loop.java
+  558  grep getProp src/main/java/de/numetris/soap/Loop.java
+  559  #cd src/main/java/de/numetris/soap/
+  560  cp src/main/java/de/numetris/soap/Loop.java src/main/java/de/numetris/soap/Conf.java
+  561  git add src/main/java/de/numetris/soap/Conf.java
+  562  git commit -am "~*"
+  563  emacs src/main/java/de/numetris/soap/Conf.java
+  564  git commit -am "~*"
+  565  emacs src/main/java/de/numetris/soap/Loop.java
+  566  git commit -am "~*"
+  567  emacs src/main/java/de/numetris/soap/Loop.java
+  568  ls
+  569  mkdir src/test
+  570* emacs 
+  571  git mv station.xml src/test/
+  572  emacs BackLog.txt 
+  573  emacs src/main/java/de/numetris/soap/Loop.java
+  574  cp src/main/java/de/numetris/soap/Loop.java src/main/java/de/numetris/soap/Resetter.java
+  575  git commit -am "~*"
+  576  git add src/main/java/de/numetris/soap/Resetter.java
+  577  git commit -am "~*"
+  578  emacs src/main/java/de/numetris/soap/Resetter.java 
+  579  git commit -am "~*"
+  580  history
+  581  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  582  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  583  emacs src/main/java/de/numetris/soap/Resetter.java 
+  584  emacs src/main/java/de/numetris/soap/Loop.java
+  585  /home/rawa/apache-maven-3.2.3/bin/mvn
+  586  git commit -am "~*"
+  587  emacs src/main/java/de/numetris/soap/Loop.java
+  588  git commit -am "~*"
+  589  /home/rawa/apache-maven-3.2.3/bin/mvn
+  590  emacs pom.xml
+  591  git commit -am "~*"
+  592  git push
+  593  emacs README.md
+  594  git commit -am "~*"
+  595  git push
+  596  emacs README.md
+  597  git commit -am "~*"
+  598* 
+  599  /home/rawa/apache-maven-3.2.3/bin/mvn
+  600  emacs src/main/java/de/numetris/soap/Loop.java
+  601  ls
+  602  git mv wsdl src/test/soap
+  603  ls src/test/soap
+  604  #ls src/test/soap/testSetStammdaten.xml?
+  605  more .gitignore 
+  606* rm src/test/soap/testSetStammdaten.xml
+  607  git status
+  608  ls
+  609  git status
+  610  git commit -am "~*"
+  611  git status
+  612  emacs src/main/java/de/numetris/soap/Loop.java
+  613  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  614  emacs src/main/java/de/numetris/soap/Loop.java
+  615  ls
+  616  more src/main/java/de/numetris/soap/#Loop.java# 
+  617  cp src/main/java/de/numetris/soap/#Loop.java# src/main/java/de/numetris/soap/Loop.java
+  618  emacs src/main/java/de/numetris/soap/Loop.java
+  619  rm src/main/java/de/numetris/soap/#Loop.java# 
+  620  rm src/main/java/de/numetris/soap/.#Loop.java 
+  621  emacs src/main/java/de/numetris/soap/Loop.java
+  622  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  623  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  624  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  625  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  626  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  627  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  628  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  629  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  630  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  631  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  632  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  633  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  634  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  635  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  636  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  637  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  638  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  639  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  640  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  641  git commit -am "~*"
+  642  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  643  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  644  history 
+  645  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  646  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  647  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  648  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  649  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  650  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  651  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  652  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  653  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  654  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  655  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  656  git commit -am "~*"
+  657  git status
+  658  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  659  git commit -am "~*"
+  660  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  661  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  662* more src/main/java/de/numetris/soap/SOAP.java
+  663  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  664  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  665  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  666  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  667  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  668  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  669  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  670  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  671  git commit -am "~*"
+  672* emacs +66 src/main/java/de/numetris/soap/SOAP.java 
+  673  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  674  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  675  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  676  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  677  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  678  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  679  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  680  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  681  git commit -am "~*"
+  682  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  683  git commit -am "~*"
+  684  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  685  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  686  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  687  history 
+  688  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  689  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  690  emacs pom.xml
+  691  git commit -am "~*"
+  692  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  693* emmore pom.xml
+  694  git commit -am "~*"
+  695  emacs pom.xml
+  696  /home/rawa/apache-maven-3.2.3/bin/mvn
+  697  emacs BackLog.txt
+  698  emacs pom.xml
+  699  /home/rawa/apache-maven-3.2.3/bin/mvn
+  700  git commit -am "~*"
+  701  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  702  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  703  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  704  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  705  git commit -am "~*"
+  706  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  707  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  708  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  709  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  710  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  711  #  <[INFO] ------------------------------------------------------------------------
+  712  emacs +66 src/main/java/de/numetris/soap/Loop.java
+  713  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  714  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  715  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  716  history
+  717  git commit -am "~*"
+  718  emacs +66 src/main/webapp/soap.jsp
+  719  git commit -am "~*"
+  720  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  721  cp src/main/java/de/numetris/soap/SOAP.java src/main/java/de/numetris/soap/Version.java
+  722  git add src/main/java/de/numetris/soap/Version.java
+  723  git commit -am "~*"
+  724  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  725  git commit -am "~*"
+  726  emacs +66 src/main/java/de/numetris/soap/Version.java
+  727  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Version"
+  728  /home/rawa/apache-maven-3.2.3/bin/mvn
+  729  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Version"
+  730  git commit -am "~*"
+  731  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  732  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  733  history
+  734  emacs +66 src/main/webapp/soap.jsp
+  735  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  736  git commit -am "~*"
+  737  emacs +66 src/main/webapp/soap.jsp
+  738  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  739  emacs +66 src/main/webapp/soap.jsp
+  740  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  741  emacs +66 src/main/webapp/soap.jsp
+  742  git commit -am "~*"
+  743  emacs +66 src/main/webapp/soap.jsp
+  744  more src/test/response.xml 
+  745  emacs +66 src/main/webapp/soap.jsp
+  746  git commit -am "~*"
+  747  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  748  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  749  more src/test/response.xml 
+  750  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  751  git commit -am "~*"
+  752  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  753  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  754  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  755  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  756  git commit -am "~*"
+  757  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  758  git commit -am "~*"
+  759  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  760  git commit -am "~*"
+  761  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  762  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  763  emacs +66 src/main/webapp/soap.jsp
+  764  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  765  emacs +66 src/main/webapp/soap.jsp
+  766  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  767  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  768  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  769  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  770  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  771  git commit -am "~*"
+  772  emacs +66 src/main/webapp/soap.jsp
+  773  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  774  emacs +66 src/main/webapp/soap.jsp
+  775  git commit -am "~*"
+  776  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  777  emacs +66 src/main/webapp/soap.jsp
+  778  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  779  git commit -am "~*"
+  780  emacs +66 src/main/webapp/soap.jsp
+  781  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  782  git commit -am "~*"
+  783  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  784  git status
+  785  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  786  cp src/main/java/de/numetris/soap/SOAP.java src/main/java/de/numetris/soap/SOAPTest.java
+  787* git add src/main/java/de/numetris/soap/SOAPTest.jav
+  788  history 
+  789  git commit -am "~*"
+  790  emacs +66 src/main/java/de/numetris/soap/SOAPTest.java
+  791  history 
+  792  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Version"
+  793  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  794  /home/rawa/apache-maven-3.2.3/bin/mvn
+  795  emacs +66 src/main/java/de/numetris/soap/SOAPTest.java
+  796  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  797  /home/rawa/apache-maven-3.2.3/bin/mvn
+  798  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  799  git commit -am "~*"
+  800  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  801  git commit -am "~*"
+  802  git status
+  803  /home/rawa/apache-maven-3.2.3/bin/mvn
+  804  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  805  git status
+  806  emacs src/main/java/de/numetris/soap/Loop.java
+  807  cp src/main/java/de/numetris/soap/Loop.java src/main/java/de/numetris/soap/DbTest.java
+  808  git add src/main/java/de/numetris/soap/DbTest.java 
+  809  git commit -am "~*"
+  810  java src/main/java/de/numetris/soap/DbTest.java
+  811  emacs src/main/java/de/numetris/soap/DbTest.java
+  812  git commit -am "~*"
+  813  history 
+  814  git commit -am "~*"
+  815  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  816  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  817  /home/rawa/apache-maven-3.2.3/bin/mvn
+  818  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  819  /home/rawa/apache-maven-3.2.3/bin/mvn
+  820  history 
+  821  emacs src/main/java/de/numetris/soap/DbTest.java
+  822  /home/rawa/apache-maven-3.2.3/bin/mvn
+  823  emacs src/main/java/de/numetris/soap/Loop.java
+  824  /home/rawa/apache-maven-3.2.3/bin/mvn
+  825  git commit -am "~*"
+  826  emacs src/main/java/de/numetris/soap/Loop.java
+  827  emacs src/main/java/de/numetris/soap/DbTest.java
+  828  git commit -am "~*"
+  829  /home/rawa/apache-maven-3.2.3/bin/mvn
+  830  emacs src/main/java/de/numetris/soap/DbTest.java
+  831  /home/rawa/apache-maven-3.2.3/bin/mvn
+  832  git commit -am "~*"
+  833  emacs src/main/java/de/numetris/soap/DbTest.java
+  834  git commit -am "~*"
+  835  /home/rawa/apache-maven-3.2.3/bin/mvn
+  836  history
+  837  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  838  /home/rawa/apache-maven-3.2.3/bin/mvn
+  839  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  840  emacs conf.props
+  841  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  842  history 
+  843  emacs src/main/webapp/soap.jsp
+  844  history 
+  845  git commit -am "~*"
+  846  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  847  history
+  848  emacs src/main/java/de/numetris/soap/Loop.java
+  849  emacs conf.props
+  850  git commit -am "~*"
+  851  emacs src/main/java/de/numetris/soap/Loop.java
+  852  emacs src/main/java/de/numetris/soap/SOAP.java
+  853  cp src/main/java/de/numetris/soap/SOAP.java src/main/java/de/numetris/soap/SoapMaster.java
+  854  git add src/main/java/de/numetris/soap/SoapMaster.java
+  855  git commit -am "~*"
+  856  emacs src/main/java/de/numetris/soap/SoapMaster.java
+  857  git commit -am "~*"
+  858  /home/rawa/apache-maven-3.2.3/bin/mvn
+  859  emacs src/main/java/de/numetris/soap/SoapMaster.java
+  860  emacs src/main/java/de/numetris/soap/Loop.java
+  861  git commit -am "~*"
+  862  /home/rawa/apache-maven-3.2.3/bin/mvn
+  863  git push
+  864  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  865  git commit -am "~*"
+  866  emacs src/main/java/de/numetris/soap/Loop.java
+  867  emacs src/main/java/de/numetris/soap/SOAP.java
+  868  emacs src/main/java/de/numetris/soap/Loop.java
+  869  git commit -am "~*"
+  870  emacs src/main/java/de/numetris/soap/SOAP.java
+  871  git commit -am "~*"
+  872  history
+  873  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  874  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAP
+"
+  875  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  876  git status
+  877  emacs src/main/java/de/numetris/soap/Loop.java
+  878  git commit -am "~*"
+  879  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  880  emacs +83 src/main/java/de/numetris/soap/Loop.java
+  881  git commit -am "~*"
+  882  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  883  git commit -am "~*"
+  884  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  885  git commit -am "~*"
+  886  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  887  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  888  git commit -am "~*"
+  889  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  890  emacs +70 src/main/java/de/numetris/soap/SOAP.java
+  891  git commit -am "~*"
+  892  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  893  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  894  git commit -am "~*"
+  895  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  896  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  897  git commit -am "~*"
+  898  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  899  git commit -am "~*"
+  900  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  901  git commit -am "~*"
+  902  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  903  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  904  git commit -am "~*"
+  905  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  906  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  907  git commit -am "~*"
+  908  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  909  git commit -am "~*"
+  910  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  911  git commit -am "~*"
+  912  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  913  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  914  git commit -am "~*"
+  915  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  916  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  917  git commit -am "~*"
+  918  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  919  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  920  git commit -am "~*"
+  921  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  922  git commit -am "~*"
+  923  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  924  git commit -am "~*"
+  925  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  926  git commit -am "~*"
+  927  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  928  git commit -am "~*"
+  929  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  930  git commit -am "~*"
+  931  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  932  ls -l src/main/java/de/numetris/soap/*
+  933  mv src/main/java/de/numetris/soap/#Loop.java# src/main/java/de/numetris/soap/Loop.java
+  934  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  935  ls -al src/main/java/de/numetris/soap/*
+  936  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  937  git commit -am "~*"
+  938  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  939  emacs +113 src/main/java/de/numetris/soap/Loop.java
+  940  git commit -am "~*"
+  941  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  942  git commit -am "~*"
+  943  emacs +113 src/main/java/de/numetris/soap/Loop.java
+  944  git commit -am "~*"
+  945  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  946  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  947  git commit -am "~*"
+  948  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  949  git commit -am "~*"
+  950  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  951  git commit -am "~*"
+  952  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  953  git commit -am "~*"
+  954  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  955  git commit -am "~*"
+  956  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  957  git commit -am "~*"
+  958  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  959  git commit -am "~*"
+  960  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  961  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  962  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  963  git commit -am "~*"
+  964  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  965  git commit -am "~*"
+  966  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  967  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  968  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  969  git commit -am "~*"
+  970  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  971  git commit -am "~*"
+  972  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  973  history|grep his
+  974  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt

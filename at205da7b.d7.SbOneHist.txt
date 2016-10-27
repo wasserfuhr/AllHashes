@@ -1,0 +1,500 @@
+  208  history 
+  209  git status
+  210  git commit -am "~*"
+  211  history 
+  212  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  213  emacs src/main/java/de/numetris/soap/Loop.java
+  214  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  215  emacs src/main/java/de/numetris/soap/Loop.java
+  216  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  217  git commit -am "~*"
+  218  emacs src/main/java/de/numetris/soap/Loop.java
+  219  git commit -am "~*"
+  220  emacs src/main/java/de/numetris/soap/Loop.java
+  221  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  222  emacs src/main/java/de/numetris/soap/Loop.java
+  223  git commit -am "~*"
+  224  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  225  emacs src/main/java/de/numetris/soap/Loop.java
+  226  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  227  emacs src/main/java/de/numetris/soap/Loop.java
+  228  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  229  git commit -am "~*"
+  230  emacs src/main/java/de/numetris/soap/Loop.java
+  231  git commit -am "~*"
+  232  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  233  emacs src/main/java/de/numetris/soap/Loop.java
+  234  git commit -am "~*"
+  235  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  236  emacs src/main/java/de/numetris/soap/Loop.java
+  237  git commit -am "~*"
+  238  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  239  emacs src/main/java/de/numetris/soap/Loop.java
+  240  git commit -am "~*"
+  241  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  242  emacs src/main/java/de/numetris/soap/Loop.java
+  243  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  244  emacs src/main/java/de/numetris/soap/Loop.java
+  245  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  246  emacs src/main/java/de/numetris/soap/Loop.java
+  247  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  248  emacs src/main/java/de/numetris/soap/Loop.java
+  249  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  250  emacs src/main/java/de/numetris/soap/Loop.java
+  251  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  252  emacs src/main/java/de/numetris/soap/Loop.java
+  253  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  254  emacs src/main/java/de/numetris/soap/Loop.java
+  255  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  256  emacs src/main/java/de/numetris/soap/Loop.java
+  257  git commit -am "~*"
+  258  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  259  emacs src/main/java/de/numetris/soap/Loop.java
+  260  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  261  emacs src/main/java/de/numetris/soap/Loop.java
+  262  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  263  emacs src/main/java/de/numetris/soap/Loop.java
+  264  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  265  emacs src/main/java/de/numetris/soap/Loop.java
+  266  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  267  emacs src/main/java/de/numetris/soap/Loop.java
+  268  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  269  emacs src/main/java/de/numetris/soap/Loop.java
+  270  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  271  emacs src/main/java/de/numetris/soap/Loop.java
+  272  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  273  emacs src/main/java/de/numetris/soap/Loop.java
+  274  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  275  history |grep hist
+  276  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  277  history
+  278  history 
+  279  curl https://www.umweltfondsvergleich.de/assets/components/pdf/Enertrag/ENERTRAG-Buergerwind-Verkaufsunterlagen.pdf |wc
+  280  h=https://www.umweltfondsvergleich.de/assets/components/pdf/Enertrag/ENERTRAG-Buergerwind-Verkaufsunterlagen.pdf
+  281  curl $h|wc 
+  282  curl $h|sha256sum
+  283  history |grep BmH
+  284  history |grep Sb
+  285  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  286  h=https://www.umweltfondsvergleich.de/assets/components/pdf/Enertrag/ENERTRAG-Buergerwind-Verkaufsunterlagen.pdf
+  287  curl $h|sha256sum
+  288  curl $h|wc
+  289  curl $h|sha256sum
+  290  ping bundeswehr.de
+  291  ping www.bundeswehr.de
+  292  ping telesec.de
+  293  ping google.com
+  294  ping www.google.com
+  295  ping tsmc.com
+  296  ping tesla.com
+  297  ping kremlin.ru
+  298  ping gravis.de
+  299  ping jakobs-spargel.de
+  300  ping t-online.de
+  301  ping google.de
+  302  ping polizei.de
+  303  ping energas.cn
+  304  ping blockchain.info
+  305  ping appspot.coom
+  306  ping appspot.com
+  307  ping dresdenlabs.appspot.com
+  308  ping knot-net.appspot.com
+  309  ping   floatingboat2013.appspot.com
+  310  ping new-egypt.appspot.com
+  311  ping facebook.com
+  312  ping github.com
+  313  ping twitter.com
+  314  ping wasserfuhr.com
+  315  ping yahoo.com
+  316  ping brandenburg.de
+  317  ping github.io
+  318  ping gabrielecirulli.github.io
+  319  ping wikipedia.org
+  320  ping en.wikipedia.org
+  321  ping de.wikipedia.org
+  322  ping nato.int
+  323  ping un.org
+  324  ping w3.org
+  325  ping kernel.org
+  326  ping inwx.de
+  327  ping icann.prg
+  328  ping icann.org
+  329  ping ripe.net
+  330  ping naturstrom.de
+  331  ping sl4.eu
+  332  history 
+  333  ping bitcoin.de
+  334  pwd
+  335  cd git/
+  336  mkdir SdOs
+  337  cd SdOs/
+  338  ls
+  339  ping gulp.de
+  340  git init
+  341  git remote add origin https://rawass@bitbucket.org/rawass/sdos.git
+  342  git push
+  343  emacs start.html
+  344  git add start.html
+  345  git commit -am "+start.html"
+  346  git push
+  347  git push -u origin master
+  348  ping bitbucket.org
+  349  ping stackoverflow.com
+  350  ping cern.ch
+  351  ping aws.amazon.com
+  352  ping amazon.com
+  353  ping bzst
+  354  ping bzst.de
+  355  ping inwx.de
+  356  ping mondbroker.de
+  357  ping roell.net
+  358  ping nato.int
+  359  ping kernel.org
+  360  ping iana.org
+  361  #emacs bx01f942e.hex
+  362  mkdir spl
+  363  cd spl/
+  364  curl https://webbtc.com/block/000000000000000001f942eb4bfa0aeccb6a14c268f4c72d5fff17270da771b9.bin > aax
+  365  split
+  366  split -?
+  367  split --help
+  368  split -b 80 aax 
+  369  ls
+  370  sha256sum xaa
+  371  ls
+  372  ls -l
+  373  xxd xaa
+  374  sha256sum xaa
+  375  openssl dgst -sha256 -hex 
+  376  echo 2b1251e80e32fd0901459ab13280e8bc04cc6d276d5cd459765edc9e4ef1c604 |openssl dgst -sha256 -hex 
+  377  echo 2b1251e80e32fd0901459ab13280e8bc04cc6d276d5cd459765edc9e4ef1c604 |xxd
+  378  echo -n 2b1251e80e32fd0901459ab13280e8bc04cc6d276d5cd459765edc9e4ef1c604 |xxd
+  379  echo -n 2b1251e80e32fd0901459ab13280e8bc04cc6d276d5cd459765edc9e4ef1c604 |openssl dgst -sha256 -hex 
+  380  xxd -?
+  381  xxd -pr xaa
+  382  xxd xaa
+  383  ver=1
+  384  prev_block=0000000000000000000000000000000000000000000000000000000000000000
+  385  mrkl_root=4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
+  386  time=1231006505
+  387  bits=486604799
+  388  nonce=2083236893
+  389  printf "%2x%64s%64s%16x%16x%16x" $ver $prev_block $mrkl_root $time $bits $nonce
+  390  printf "%2x%64s%64s%16x%16x%16x" $ver $prev_block $mrkl_root $time $bits $nonce| sed 's/ /0/g'
+  391  history 
+  392  xxd -pr xaa
+  393  xxd -pr xaa|sha256sum 
+  394  xxd -pr xaa|sha256sum |sha256sum 
+  395  xxd -pr xaa|
+  396  xxd -pr xaa
+  397  xxd -pr xaa|openssl dgst -sha256 -hex 
+  398  xxd -pr xaa|openssl dgst -sha256 -hex |openssl dgst -sha256 -bin
+  399  xxd -pr xaa|openssl dgst -sha256 -hex |openssl dgst -sha256 -binary
+  400  #xxd -pr xaa|openssl dgst -sha256 x |openssl dgst -sha256 -binary
+  401  xxd -pr xaa|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  402  bigEndianHex2littleEndianHex() {     local s='';     while read -n 2 char;     do s=$char$s;     done;     echo $s; }
+  403  xxd -pr xaa
+  404  xxd -pr xaa|bigEndianHex2littleEndianHex
+  405  xxd -pr xaa|bigEndianHex2littleEndianHex|sha256sum 
+  406  history 
+  407  echo "01020304"|bigEndianHex2littleEndianHex
+  408  xxd -pr xaa||bigEndianHex2littleEndianHex|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  409  xxd -pr xaa|bigEndianHex2littleEndianHex|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  410  xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p
+  411  xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  412  xxd -pr xaa
+  413  xxd -pr xaa|bigEndianHex2littleEndianHex
+  414  xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex|
+  415  xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  416  xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex|sed 's/^.* //' 
+  417  python
+  418  #xxd -pr xaa|bigEndianHex2littleEndianHex|xxd -r -p|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex|sed 's/^.* //' 
+  419  wc xaa
+  420  more xaa|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex|sed 's/^.* //' 
+  421  more xaa|openssl dgst -sha256 -binary |openssl dgst -sha256 -hex
+  422  more xaa|sha256sum |openssl dgst -sha256 -hex
+  423  more xaa|sha256sum
+  424  more xaa|openssl dgst -sha256 -binary |sha256sum 
+  425  more xaa|openssl dgst -sha256 -binary |sha256sum |bigEndianHex2littleEndianHex
+  426  ls
+  427  rm xb?
+  428  ls
+  429  mv xaa bx01f
+  430  rm x*
+  431  ls
+  432  ls -l
+  433  rm aax
+  434  ls
+  435  history 
+  436  ping lanxess.de
+  437  ping de
+  438  ping msb.de
+  439  ping naturstrom.de
+  440  ping sparkasse.de
+  441  ping stromschnellen.de
+  442  cd git/TeslaGas/
+  443  mkdir wsdl
+  444  cd wsdl/
+  445  emacs testSetArchivdaten.xml
+  446  emacs testSetStammdaten.xml
+  447  more testSetArchivdaten.xml 
+  448  emacs testSetStammdaten.xml
+  449  emacs testGetVersioninfo.xml
+  450  cd ..
+  451  ls
+  452  more station.xml
+  453  emacs station.xml
+  454  git status
+  455  history 
+  456  history |grep his
+  457  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  458  history 
+  459  history |grep commi
+  460  git commit -am "~*"
+  461  git status
+  462  git add wsdl/
+  463  git commit -am "~*"
+  464  emacs station.xml 
+  465  git commit -am "~*"
+  466  emacs station.xml
+  467  git commit -am "~*"
+  468  emacs station.xml
+  469  git commit -am "~*"
+  470  xjc
+  471  emacs WebServiceNumetrisToRMG.wsdl
+  472  more WebServiceNumetrisToRMG.wsdl
+  473  cd target/
+  474  xjc -wsdl ../WebServiceNumetrisToRMG.wsdl 
+  475  git status
+  476  git add ../WebServiceNumetrisToRMG.wsdl 
+  477  emacs +104 ../WebServiceNumetrisToRMG.wsdl 
+  478  git push
+  479  git pull
+  480  git status
+  481  history 
+  482  git commit -am "~*"
+  483  git pull
+  484  git pish
+  485  git push
+  486  git pull
+  487  xjc -wsdl ../WebServiceNumetrisToRMG.wsdl 
+  488  ls
+  489  mkdir ../src/xjc
+  490  mv de ../src/xjc/
+  491  git status
+  492  cd ..
+  493  git add src/xjc/
+  494  git commit -am "~*"
+  495  git push
+  496  git status
+  497  git pull
+  498  ls
+  499  emacs src/main/java/de/numetris/soap/Loop.java
+  500  wsimport -?
+  501  cd git/TeslaGas/
+  502  history 
+  503  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  504  git status
+  505  emacs pom.xml 
+  506  ls
+  507  ls src/xjc/
+  508  emacs pom.xml
+  509  history 
+  510  git commit -am "~*"
+  511  emacs pom.xml
+  512  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  513  emacs src/main/java/de/numetris/soap/Loop.java
+  514  #more ~/in/
+  515  ls ~/in/*pdf
+  516  more ~/in/spielzeitheft_14_15_final.pdf 
+  517  xxd ~/in/spielzeitheft_14_15_final.pdf 
+  518  xxd ~/in/spielzeitheft_14_15_final.pdf|more
+  519  emacs src/main/java/de/numetris/soap/Loop.java
+  520  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  521  git commit -am "~*"
+  522  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  523  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  524  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  525  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  526  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  527  git commit -am "~*"
+  528  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  529  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  530  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  531  git commit -am "~*"
+  532  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  533  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  534  git commit -am "~*"
+  535  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  536  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  537  git commit -am "~*"
+  538  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  539  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  540  git commit -am "~*"
+  541  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  542  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  543  ls
+  544  more WebServiceNumetrisToRMG.wsdl
+  545  ping rmg.de
+  546  ping rmg.com
+  547  ping numetris.de
+  548  ping un.org
+  549  ls
+  550  cd target/
+  551  wsimport ../WebServiceNumetrisToRMG.wsdl 
+  552  ls
+  553  ls ..
+  554  wsimport -d bb ../WebServiceNumetrisToRMG.wsdl 
+  555  mkdir bb
+  556  wsimport -d bb ../WebServiceNumetrisToRMG.wsdl 
+  557  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  558  mkdir wssrc
+  559  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  560  more wssrc/de/numetris/wico22master/Dsfg.java 
+  561  wsimport 
+  562  more wssrc/de/rmg/wico22/GetVersioninfo.java 
+  563  more wssrc/de/rmg/wico22/GetVersioninfoResponse.java
+  564  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  565  ls wssrc/de/rmg/wico22/
+  566  ls -l wssrc/de/rmg/wico22/
+  567  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  568  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  569  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java
+  570  more ../BackLog.txt
+  571  emacs ../BackLog.txt
+  572  git commit -am "~*"
+  573  git status
+  574  emacs ../BackLog.txt
+  575  history 
+  576  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  577  cd ..
+  578  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  579  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  580  git commit -am "~*"
+  581  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  582  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  583  git commit -am "~*"
+  584  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  585  git commit -am "~*"
+  586  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  587  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  588  git commit -am "~*"
+  589  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  590  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  591  git commit -am "~*"
+  592  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  593  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  594  git commit -am "~*"
+  595  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  596  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  597  git commit -am "~*"
+  598  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  599  git status
+  600  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  601  git push
+  602  ls
+  603  emacs response.xml
+  604  git commit -am "~*"
+  605  git add response.xml
+  606  git commit -am "~*"
+  607  ping pegida.de
+  608  ping royalcaribbean.de
+  609  ping wav-hoherflaeming.de
+  610  ping borkheide.de
+  611  ping dresden.de
+  612  ping icann.org
+  613  ping w3.org
+  614  ping wikidata.org
+  615  ping wikipedia.org
+  616  ping de.wikipedia.org
+  617  ping en.wikipedia.org
+  618  ping oracle.com
+  619  pwd
+  620  ls target/wssrc/de/rmg/wico22/
+  621  more target/wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  622  emacs src/main/java/de/numetris/soap/Loop.java 
+  623  cd target/wssrc/
+  624  history |grep ws
+  625  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  626  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  627  cd ..
+  628  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  629  wsgen
+  630  ls
+  631  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  632  ls ../WebServiceNumetrisToRMG.wsdl 
+  633  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  634  wsgen -s wssrc -d bb bla
+  635  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoap
+  636  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoa
+  637  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoap
+  638  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMG
+  639  ls
+  640  ls 
+  641  wsdl2java
+  642  cd ..
+  643  git status
+  644  history 
+  645  git commit -am "~*"
+  646  emacs pom.xml
+  647  history 
+  648  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  649  emacs pom.xml
+  650  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  651  emacs pom.xml
+  652  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  653  /home/rawa/apache-maven-3.2.3/bin/mvn  generate-sources
+  654  git commit -am "~*"
+  655  emacs pom.xml
+  656  ls
+  657  emacs pom.xml
+  658  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  659  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources -client
+  660  emacs pom.xml
+  661  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  662  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java 
+  663* more target/generated/cxf/de/rmg/wico22/
+  664  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  665  history |grep exec
+  666  grep exec ../AllHashes/*Sb*
+  667  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.M
+  668  ls
+  669  #more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  670  /home/rawa/apache-maven-3.2.3/bin/mvn install 
+  671  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client"
+  672  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  673  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  674  history 
+  675  git commit -am "~*"
+  676  emacs pom.xml
+  677  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  678  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server.java 
+  679  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Server"
+  680  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Server.java 
+  681  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  682  emacs +99 pom.xml
+  683  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  684  history 
+  685  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  686  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  687  emacs +99 pom.xml
+  688  history 
+  689  git commit -am "~*"
+  690  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  691  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  692  git mv WebServiceNumetrisToRMG.wsdl src/main/resources/wsdl/
+  693  ls src/main/resources/wsdl/
+  694  ls src/main/resources/wsdl
+  695  git commit -am "~*"
+  696  git mv src/main/resources/wsdl nu.wsdl
+  697  git commit -am "~*"
+  698  mkdir src/main/resources/wsdl 
+  699  git mv nu.wsdl src/main/resources/wsdl/WebServiceNumetrisToRMG.wsdl
+  700  emacs pom.xml 
+  701  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  702  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  703  emacs target/generated/cxf/build.xml 
+  704  emacs target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server.java 
+  705  emacs target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoapImpl.java
+  706  history|grep his
+  707  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt

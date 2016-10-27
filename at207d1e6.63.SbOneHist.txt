@@ -1,0 +1,500 @@
+    5  git pish
+    6  git push
+    7  git pull
+    8  xjc -wsdl ../WebServiceNumetrisToRMG.wsdl 
+    9  ls
+   10  mkdir ../src/xjc
+   11  mv de ../src/xjc/
+   12  git status
+   13  cd ..
+   14  git add src/xjc/
+   15  git commit -am "~*"
+   16  git push
+   17  git status
+   18  git pull
+   19  ls
+   20  emacs src/main/java/de/numetris/soap/Loop.java
+   21  wsimport -?
+   22  cd git/TeslaGas/
+   23  history 
+   24  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   25  git status
+   26  emacs pom.xml 
+   27  ls
+   28  ls src/xjc/
+   29  emacs pom.xml
+   30  history 
+   31  git commit -am "~*"
+   32  emacs pom.xml
+   33  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   34  emacs src/main/java/de/numetris/soap/Loop.java
+   35  #more ~/in/
+   36  ls ~/in/*pdf
+   37  more ~/in/spielzeitheft_14_15_final.pdf 
+   38  xxd ~/in/spielzeitheft_14_15_final.pdf 
+   39  xxd ~/in/spielzeitheft_14_15_final.pdf|more
+   40  emacs src/main/java/de/numetris/soap/Loop.java
+   41  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   42  git commit -am "~*"
+   43  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   44  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   45  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   46  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   47  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   48  git commit -am "~*"
+   49  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   50  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   51  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   52  git commit -am "~*"
+   53  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   54  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   55  git commit -am "~*"
+   56  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   57  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   58  git commit -am "~*"
+   59  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   60  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   61  git commit -am "~*"
+   62  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   63  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+   64  ls
+   65  more WebServiceNumetrisToRMG.wsdl
+   66  ping rmg.de
+   67  ping rmg.com
+   68  ping numetris.de
+   69  ping un.org
+   70  ls
+   71  cd target/
+   72  wsimport ../WebServiceNumetrisToRMG.wsdl 
+   73  ls
+   74  ls ..
+   75  wsimport -d bb ../WebServiceNumetrisToRMG.wsdl 
+   76  mkdir bb
+   77  wsimport -d bb ../WebServiceNumetrisToRMG.wsdl 
+   78  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+   79  mkdir wssrc
+   80  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+   81  more wssrc/de/numetris/wico22master/Dsfg.java 
+   82  wsimport 
+   83  more wssrc/de/rmg/wico22/GetVersioninfo.java 
+   84  more wssrc/de/rmg/wico22/GetVersioninfoResponse.java
+   85  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+   86  ls wssrc/de/rmg/wico22/
+   87  ls -l wssrc/de/rmg/wico22/
+   88  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+   89  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+   90  more wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java
+   91  more ../BackLog.txt
+   92  emacs ../BackLog.txt
+   93  git commit -am "~*"
+   94  git status
+   95  emacs ../BackLog.txt
+   96  history 
+   97  emacs +74 src/main/java/de/numetris/soap/Loop.java
+   98  cd ..
+   99  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  100  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  101  git commit -am "~*"
+  102  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  103  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  104  git commit -am "~*"
+  105  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  106  git commit -am "~*"
+  107  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  108  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  109  git commit -am "~*"
+  110  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  111  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  112  git commit -am "~*"
+  113  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  114  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  115  git commit -am "~*"
+  116  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  117  emacs +74 src/main/java/de/numetris/soap/Loop.java
+  118  git commit -am "~*"
+  119  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  120  git status
+  121  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  122  git push
+  123  ls
+  124  emacs response.xml
+  125  git commit -am "~*"
+  126  git add response.xml
+  127  git commit -am "~*"
+  128  ping pegida.de
+  129  ping royalcaribbean.de
+  130  ping wav-hoherflaeming.de
+  131  ping borkheide.de
+  132  ping dresden.de
+  133  ping icann.org
+  134  ping w3.org
+  135  ping wikidata.org
+  136  ping wikipedia.org
+  137  ping de.wikipedia.org
+  138  ping en.wikipedia.org
+  139  ping oracle.com
+  140  pwd
+  141  ls target/wssrc/de/rmg/wico22/
+  142  more target/wssrc/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  143  emacs src/main/java/de/numetris/soap/Loop.java 
+  144  cd target/wssrc/
+  145  history |grep ws
+  146  wsimport -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  147  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  148  cd ..
+  149  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  150  wsgen
+  151  ls
+  152  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  153  ls ../WebServiceNumetrisToRMG.wsdl 
+  154  wsgen -s wssrc -d bb ../WebServiceNumetrisToRMG.wsdl 
+  155  wsgen -s wssrc -d bb bla
+  156  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoap
+  157  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoa
+  158  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMGSoap
+  159  wsgen -cp . de.rmg.wico22.WebServiceNumetrisToRMG
+  160  ls
+  161  ls 
+  162  wsdl2java
+  163  cd ..
+  164  git status
+  165  history 
+  166  git commit -am "~*"
+  167  emacs pom.xml
+  168  history 
+  169  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  170  emacs pom.xml
+  171  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  172  emacs pom.xml
+  173  /home/rawa/apache-maven-3.2.3/bin/mvn wsdl2java
+  174  /home/rawa/apache-maven-3.2.3/bin/mvn  generate-sources
+  175  git commit -am "~*"
+  176  emacs pom.xml
+  177  ls
+  178  emacs pom.xml
+  179  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  180  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources -client
+  181  emacs pom.xml
+  182  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  183  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java 
+  184  more target/generated/cxf/de/rmg/wico22/
+  185  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  186  history |grep exec
+  187  grep exec ../AllHashes/*Sb*
+  188  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.M
+  189  ls
+  190  #more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  191  /home/rawa/apache-maven-3.2.3/bin/mvn install 
+  192  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client"
+  193  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Client.java
+  194  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  195  history 
+  196  git commit -am "~*"
+  197  emacs pom.xml
+  198  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  199  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server.java 
+  200  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Server"
+  201  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap12_Server.java 
+  202  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  203  emacs +99 pom.xml
+  204  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  205  history 
+  206  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  207  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  208  emacs +99 pom.xml
+  209  history 
+  210  git commit -am "~*"
+  211  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  212  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  213  git mv WebServiceNumetrisToRMG.wsdl src/main/resources/wsdl/
+  214  ls src/main/resources/wsdl/
+  215  ls src/main/resources/wsdl
+  216  git commit -am "~*"
+  217  git mv src/main/resources/wsdl nu.wsdl
+  218  git commit -am "~*"
+  219  mkdir src/main/resources/wsdl 
+  220  git mv nu.wsdl src/main/resources/wsdl/WebServiceNumetrisToRMG.wsdl
+  221  emacs pom.xml 
+  222  /home/rawa/apache-maven-3.2.3/bin/mvn generate-sources
+  223  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  224  emacs target/generated/cxf/build.xml 
+  225  emacs target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server.java 
+  226  emacs target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoapImpl.java
+  227  history|grep his
+  228  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  229  emacs src/main/java/de/numetris/soap/Loop.java
+  230  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  231  emacs src/main/java/de/numetris/soap/Loop.java
+  232  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  233  emacs src/main/java/de/numetris/soap/Loop.java
+  234  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  235  emacs src/main/java/de/numetris/soap/Loop.java
+  236  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  237  emacs src/main/java/de/numetris/soap/Loop.java
+  238  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  239  history 
+  240  git commit -am "~*"
+  241  emacs src/main/java/de/numetris/soap/Loop.java
+  242  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  243  emacs src/main/java/de/numetris/soap/SOAP.java
+  244  cd git/TeslaGas/
+  245  emacs src/main/java/de/numetris/soap/SOAP.java
+  246  git add src/main/java/de/numetris/soap/SOAP.java
+  247  history 
+  248  git commit -am "~*"
+  249  git add src/main/java/de/numetris/soap/SOAP.java
+  250  emacs src/main/java/de/numetris/soap/SOAP.java
+  251  emacs pom.xml
+  252  emacs src/main/java/de/numetris/soap/SOAP.java
+  253  more src/main/java/de/numetris/soap/MainServlet.java 
+  254  emacs src/main/java/de/numetris/soap/SOAP.java
+  255  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  256  emacs src/main/java/de/numetris/soap/SOAP.java
+  257  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  258  emacs src/main/java/de/numetris/soap/SOAP.java
+  259  git commit -am "~*"
+  260  emacs src/main/java/de/numetris/soap/SOAP.java
+  261  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  262  history 
+  263  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.rmg.wico22.WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Server"
+  264  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  265  git commit -am "~*"
+  266  emacs src/main/java/de/numetris/soap/SOAP.java
+  267  more target/generated/cxf/de/rmg/wico22/GetVersioninfo.java 
+  268  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  269  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoapImpl.java 
+  270  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  271  emacs src/main/java/de/numetris/soap/SOAP.java
+  272  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  273  emacs src/main/java/de/numetris/soap/SOAP.java
+  274  git commit -am "~*"
+  275  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  276  emacs pom.xml
+  277  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  278  emacs pom.xml
+  279  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  280  more target/generated/cxf/de/rmg/wico22/GetVersioninfo.java
+  281  emacs src/main/java/de/numetris/soap/SOAP.java
+  282  ls
+  283  more wsdl/testGetVersioninfo.xml 
+  284  more src/main/resources/wsdl/WebServiceNumetrisToRMG.wsdl 
+  285  emacs src/main/java/de/numetris/soap/SOAP.java
+  286  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  287  emacs src/main/java/de/numetris/soap/SOAP.java
+  288  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  289  more target/generated/cxf/de/rmg/wico22/S
+  290  emacs src/main/java/de/numetris/soap/SOAP.java
+  291  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  292  git commit -am "~*"
+  293  emacs src/main/java/de/numetris/soap/SOAP.java
+  294  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  295  git commit -am "~*"
+  296  emacs src/main/java/de/numetris/soap/SOAP.java
+  297  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  298  history 
+  299  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  300  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Client.java 
+  301  emacs src/main/java/de/numetris/soap/SOAP.java
+  302  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap_WebServiceNumetrisToRMGSoap_Client.java 
+  303  emacs src/main/java/de/numetris/soap/SOAP.java
+  304  git commit -am "~*"
+  305  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  306  emacs src/main/java/de/numetris/soap/SOAP.java
+  307  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  308  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoapImpl.java 
+  309  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  310  grep uper target/generated/cxf/de/rmg/wico22/*
+  311  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMG.java 
+  312  emacs src/main/java/de/numetris/soap/SOAP.java
+  313  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  314  emacs src/main/java/de/numetris/soap/SOAP.java
+  315  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  316  ls
+  317  more target/generated/cxf/de/rmg/wico22/ObjectFactory.java 
+  318  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  319  emacs src/main/java/de/numetris/soap/SOAP.java
+  320  more target/generated/cxf/de/rmg/wico22/ObjectFactory.java 
+  321  emacs src/main/java/de/numetris/soap/SOAP.java
+  322  git commit -am "~*"
+  323  emacs src/main/java/de/numetris/soap/SOAP.java
+  324  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  325  emacs src/main/java/de/numetris/soap/SOAP.java
+  326  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  327  git commit -am "~*"
+  328  emacs src/main/java/de/numetris/soap/SOAP.java
+  329  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  330  emacs src/main/java/de/numetris/soap/SOAP.java
+  331  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  332  /home/rawa/apache-maven-3.2.3/bin/mvn -e install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  333  git commit -am "~*"
+  334  emacs src/main/java/de/numetris/soap/SOAP.java
+  335  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  336  emacs src/main/java/de/numetris/soap/SOAP.java
+  337  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  338  emacs src/main/java/de/numetris/soap/SOAP.java
+  339  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  340  emacs src/main/java/de/numetris/soap/SOAP.java
+  341  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  342  emacs src/main/java/de/numetris/soap/SOAP.java
+  343  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  344  emacs src/main/java/de/numetris/soap/SOAP.java
+  345  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  346  git commit -am "~*"
+  347  emacs pom.xml
+  348  emacs src/main/java/de/numetris/soap/SOAP.java
+  349  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  350  emacs src/main/java/de/numetris/soap/SOAP.java
+  351  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  352  emacs src/main/java/de/numetris/soap/SOAP.java
+  353  history
+  354  more target/generated/cxf/de/rmg/wico22/ObjectFactory.java 
+  355  more target/generated/cxf/de/rmg/wico22/SetStammdaten.java 
+  356  emacs src/main/java/de/numetris/soap/SOAP.java
+  357  more target/generated/cxf/de/numetris/wico22master/Dsfg.java
+  358  emacs src/main/java/de/numetris/soap/SOAP.java
+  359  git commit -am "~*"
+  360  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  361  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  362  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  363  git commit -am "~*"
+  364  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  365  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  366  git commit -am "~*"
+  367  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  368  history 
+  369  more target/generated/cxf/de/numetris/wico22master/Dsfg.java
+  370  more target/generated/cxf/de/numetris/wico22master/Station.java 
+  371  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  372  git commit -am "~*"
+  373  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  374  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  375  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  376  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  377  git commit -am "~*"
+  378  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  379  history 
+  380  history more target/generated/cxf/de/numetris/wico22master/Dsfg.java
+  381  more target/generated/cxf/de/numetris/wico22master/Dsfg.javaa
+  382  more target/generated/cxf/de/numetris/wico22/Method.java 
+  383  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  384  more target/generated/cxf/de/numetris/wico22/Method.java 
+  385  more target/generated/cxf/de/rmg/wico22/GetVersioninfo.java
+  386  more target/generated/cxf/de/rmg/wico22/GetVersioninfoResponse.java
+  387  more target/generated/cxf/de/numetris/wico22/GetVersioninfoResult.ja
+  388  more target/generated/cxf/de/numetris/wico22/Method.java 
+  389  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  390  git commit -am "~*"
+  391  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  392  more src/main/resources/wsdl/WebServiceNumetrisToRMG.wsdl 
+  393  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  394  #more5 src/main/java/de/numetris/soap/O
+  395  history 
+  396  more target/generated/cxf/de/numetris/wico22/Method.java 
+  397  more target/generated/cxf/de/numetris/wico22/ObjectFactory.java 
+  398  more target/generated/cxf/de/numetris/wico22/SetStammdatenResult.java 
+  399  more target/generated/cxf/de/numetris/wico22master/ObjectFactory.java 
+  400  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  401  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  402  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  403  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  404  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  405  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  406  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  407  more pom.xml 
+  408  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  409  ls
+  410  ls src/main/resources/log4j2.properties 
+  411  emacs src/main/resources/log4j2.properties 
+  412  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  413  emacs src/main/resources/log4j2.properties 
+  414  cd src/main/resources/
+  415  cp log4j2.properties log4j.properties 
+  416  cd ..
+  417  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  418  emacs +55 src/main/java/de/numetris/soap/Loop.java 
+  419  tcpmon
+  420  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  421  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap12
+  422  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap12Impl.java 
+  423  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoapImpl.java 
+  424  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  425  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  426  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  427  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  428  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap12Impl.java 
+  429  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  430  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap12Impl.java 
+  431  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  432  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap12Impl.java 
+  433  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap
+  434  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  435  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  436  git commit -am "~*"
+  437  git status
+  438  git push
+  439  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  440  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  441  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  442  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  443  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  444  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  445  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  446  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  447  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  448  git commit -am "~*"
+  449  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  450  git commit -am "~*"
+  451  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  452  git commit -am "~*"
+  453  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  454  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  455  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  456  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  457  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  458  git commit -am "~*"
+  459  ls
+  460  more response.xml 
+  461  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  462  git commit -am "~*"
+  463  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  464  git commit -am "~*"
+  465  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  466  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  467  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  468  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  469  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  470  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  471  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  472  emacs +55 src/main/java/de/numetris/soap/SOAP.java
+  473  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  474  ping githubusercontent.com
+  475  nslookup -?
+  476  nslookup --help
+  477  man nslookup --help
+  478  nslookup githubusercontent.com 8.8.8.8
+  479  nslookup githubusercontent.com 8.8.4.4.
+  480  nslookup githubusercontent.com 8.8.4.4
+  481  man nslookup
+  482  more /etc/nsswitch.conf 
+  483  more /etc/hosts
+  484  history 
+  485  ping githubusercontent.com
+  486  ping github.map.fastly.net
+  487  ping map.fastly.net
+  488  ping fastly.net
+  489  ping schlittermann.de
+  490  ping pu.schlittermann.de
+  491  ping http://info.cern.ch
+  492  ping info.cern.ch
+  493  ping astora.de
+  494  ping seedmatch.de
+  495  ping openstreetmap.org
+  496  ping agrartechnik-sachsen.de
+  497  ping ecb.europa.eu
+  498  ping www.ecb.europa.eu
+  499  ping europa.eu
+  500  ping sl4.eu
+  501  cd git/TeslaGas/
+  502  history 
+  503  history|grep his
+  504  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
