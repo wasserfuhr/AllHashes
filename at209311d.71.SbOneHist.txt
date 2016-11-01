@@ -1,0 +1,500 @@
+  155  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  156  git commit -am "~*"
+  157  emacs +66 src/main/webapp/soap.jsp
+  158  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  159  emacs +66 src/main/webapp/soap.jsp
+  160  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  161  emacs +66 src/main/webapp/soap.jsp
+  162  git commit -am "~*"
+  163  emacs +66 src/main/webapp/soap.jsp
+  164  more src/test/response.xml 
+  165  emacs +66 src/main/webapp/soap.jsp
+  166  git commit -am "~*"
+  167  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  168  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  169  more src/test/response.xml 
+  170  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  171  git commit -am "~*"
+  172  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  173  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  174  more target/generated/cxf/de/rmg/wico22/WebServiceNumetrisToRMGSoap.java 
+  175  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  176  git commit -am "~*"
+  177  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  178  git commit -am "~*"
+  179  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  180  git commit -am "~*"
+  181  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  182  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  183  emacs +66 src/main/webapp/soap.jsp
+  184  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  185  emacs +66 src/main/webapp/soap.jsp
+  186  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  187  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  188  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  189  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  190  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  191  git commit -am "~*"
+  192  emacs +66 src/main/webapp/soap.jsp
+  193  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  194  emacs +66 src/main/webapp/soap.jsp
+  195  git commit -am "~*"
+  196  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  197  emacs +66 src/main/webapp/soap.jsp
+  198  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  199  git commit -am "~*"
+  200  emacs +66 src/main/webapp/soap.jsp
+  201  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  202  git commit -am "~*"
+  203  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  204  git status
+  205  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  206  cp src/main/java/de/numetris/soap/SOAP.java src/main/java/de/numetris/soap/SOAPTest.java
+  207  git add src/main/java/de/numetris/soap/SOAPTest.jav
+  208  history 
+  209  git commit -am "~*"
+  210  emacs +66 src/main/java/de/numetris/soap/SOAPTest.java
+  211  history 
+  212  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Version"
+  213  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  214  /home/rawa/apache-maven-3.2.3/bin/mvn
+  215  emacs +66 src/main/java/de/numetris/soap/SOAPTest.java
+  216  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  217  /home/rawa/apache-maven-3.2.3/bin/mvn
+  218  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  219  git commit -am "~*"
+  220  emacs +66 src/main/java/de/numetris/soap/SOAP.java
+  221  git commit -am "~*"
+  222  git status
+  223  /home/rawa/apache-maven-3.2.3/bin/mvn
+  224  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  225  git status
+  226  emacs src/main/java/de/numetris/soap/Loop.java
+  227  cp src/main/java/de/numetris/soap/Loop.java src/main/java/de/numetris/soap/DbTest.java
+  228  git add src/main/java/de/numetris/soap/DbTest.java 
+  229  git commit -am "~*"
+  230  java src/main/java/de/numetris/soap/DbTest.java
+  231  emacs src/main/java/de/numetris/soap/DbTest.java
+  232  git commit -am "~*"
+  233  history 
+  234  git commit -am "~*"
+  235  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAPTest"
+  236  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  237  /home/rawa/apache-maven-3.2.3/bin/mvn
+  238  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  239  /home/rawa/apache-maven-3.2.3/bin/mvn
+  240  history 
+  241  emacs src/main/java/de/numetris/soap/DbTest.java
+  242  /home/rawa/apache-maven-3.2.3/bin/mvn
+  243  emacs src/main/java/de/numetris/soap/Loop.java
+  244  /home/rawa/apache-maven-3.2.3/bin/mvn
+  245  git commit -am "~*"
+  246  emacs src/main/java/de/numetris/soap/Loop.java
+  247  emacs src/main/java/de/numetris/soap/DbTest.java
+  248  git commit -am "~*"
+  249  /home/rawa/apache-maven-3.2.3/bin/mvn
+  250  emacs src/main/java/de/numetris/soap/DbTest.java
+  251  /home/rawa/apache-maven-3.2.3/bin/mvn
+  252  git commit -am "~*"
+  253  emacs src/main/java/de/numetris/soap/DbTest.java
+  254  git commit -am "~*"
+  255  /home/rawa/apache-maven-3.2.3/bin/mvn
+  256  history
+  257  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  258  /home/rawa/apache-maven-3.2.3/bin/mvn
+  259  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  260  emacs conf.props
+  261  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  262  history 
+  263  emacs src/main/webapp/soap.jsp
+  264  history 
+  265  git commit -am "~*"
+  266  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  267  history
+  268  emacs src/main/java/de/numetris/soap/Loop.java
+  269  emacs conf.props
+  270  git commit -am "~*"
+  271  emacs src/main/java/de/numetris/soap/Loop.java
+  272  emacs src/main/java/de/numetris/soap/SOAP.java
+  273  cp src/main/java/de/numetris/soap/SOAP.java src/main/java/de/numetris/soap/SoapMaster.java
+  274  git add src/main/java/de/numetris/soap/SoapMaster.java
+  275  git commit -am "~*"
+  276  emacs src/main/java/de/numetris/soap/SoapMaster.java
+  277  git commit -am "~*"
+  278  /home/rawa/apache-maven-3.2.3/bin/mvn
+  279  emacs src/main/java/de/numetris/soap/SoapMaster.java
+  280  emacs src/main/java/de/numetris/soap/Loop.java
+  281  git commit -am "~*"
+  282  /home/rawa/apache-maven-3.2.3/bin/mvn
+  283  git push
+  284  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  285  git commit -am "~*"
+  286  emacs src/main/java/de/numetris/soap/Loop.java
+  287  emacs src/main/java/de/numetris/soap/SOAP.java
+  288  emacs src/main/java/de/numetris/soap/Loop.java
+  289  git commit -am "~*"
+  290  emacs src/main/java/de/numetris/soap/SOAP.java
+  291  git commit -am "~*"
+  292  history
+  293  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+  294  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAP
+  295  "
+  296  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.SOAP"
+  297  git status
+  298  emacs src/main/java/de/numetris/soap/Loop.java
+  299  git commit -am "~*"
+  300  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  301  emacs +83 src/main/java/de/numetris/soap/Loop.java
+  302  git commit -am "~*"
+  303  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  304  git commit -am "~*"
+  305  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  306  git commit -am "~*"
+  307  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  308  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  309  git commit -am "~*"
+  310  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  311  emacs +70 src/main/java/de/numetris/soap/SOAP.java
+  312  git commit -am "~*"
+  313  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  314  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  315  git commit -am "~*"
+  316  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  317  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  318  git commit -am "~*"
+  319  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  320  git commit -am "~*"
+  321  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  322  git commit -am "~*"
+  323  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  324  emacs +70 src/main/java/de/numetris/soap/Loop.java
+  325  git commit -am "~*"
+  326  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  327  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  328  git commit -am "~*"
+  329  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  330  git commit -am "~*"
+  331  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  332  git commit -am "~*"
+  333  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  334  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  335  git commit -am "~*"
+  336  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  337  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  338  git commit -am "~*"
+  339  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  340  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  341  git commit -am "~*"
+  342  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  343  git commit -am "~*"
+  344  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  345  git commit -am "~*"
+  346  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  347  git commit -am "~*"
+  348  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  349  git commit -am "~*"
+  350  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  351  git commit -am "~*"
+  352  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  353  ls -l src/main/java/de/numetris/soap/*
+  354  mv src/main/java/de/numetris/soap/#Loop.java# src/main/java/de/numetris/soap/Loop.java
+  355  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  356  ls -al src/main/java/de/numetris/soap/*
+  357  emacs +96 src/main/java/de/numetris/soap/Loop.java
+  358  git commit -am "~*"
+  359  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  360  emacs +113 src/main/java/de/numetris/soap/Loop.java
+  361  git commit -am "~*"
+  362  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  363  git commit -am "~*"
+  364  emacs +113 src/main/java/de/numetris/soap/Loop.java
+  365  git commit -am "~*"
+  366  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  367  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  368  git commit -am "~*"
+  369  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  370  git commit -am "~*"
+  371  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  372  git commit -am "~*"
+  373  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  374  git commit -am "~*"
+  375  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  376  git commit -am "~*"
+  377  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  378  git commit -am "~*"
+  379  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  380  git commit -am "~*"
+  381  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  382  emacs +121 src/main/java/de/numetris/soap/Loop.java
+  383  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  384  git commit -am "~*"
+  385  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  386  git commit -am "~*"
+  387  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  388  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  389  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  390  git commit -am "~*"
+  391  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  392  git commit -am "~*"
+  393  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  394  history|grep his
+  395  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  396  history|grep exec
+  397  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  398  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  399  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+  400  git commit -am "~*"
+  401  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  402  emacs conf.props
+  403  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  404  git commit -am "~*"
+  405  /home/rawa/apache-maven-3.2.3/bin/mvn
+  406  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  407  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  408  git commit -am "~*"
+  409  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  410  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  411  git commit -am "~*"
+  412  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  413  git push
+  414  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  415  git commit -am "~*"
+  416  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  417  git commit -am "~*"
+  418  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  419  git commit -am "~*"
+  420  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  421  emacs +86 src/main/java/de/numetris/soap/Loop.java
+  422  #cp src/main/java/de/numetris/soap/Loop.java
+  423  ls -al src/main/java/de/numetris/soap/
+  424  cp src/main/java/de/numetris/soap/Loop.java src/main/java/de/numetris/soap/MasterData.java
+  425  git add src/main/java/de/numetris/soap/MasterData.java
+  426  git commit -am "~*"
+  427  #git add src/main/java/de/numetris/soap/MasterData.java
+  428  git status
+  429  emacs src/main/java/de/numetris/soap/MasterData.java
+  430  git commit -am "~*"
+  431  emacs src/main/java/de/numetris/soap/Loop.java
+  432  git commit -am "~*"
+  433  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  434  emacs src/main/java/de/numetris/soap/Loop.java
+  435  emacs src/main/java/de/numetris/soap/MasterData.java 
+  436  git commit -am "~*"
+  437  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  438  emacs src/main/java/de/numetris/soap/MasterData.java 
+  439  git commit -am "~*"
+  440  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  441  emacs src/main/java/de/numetris/soap/MasterData.java
+  442  git commit -am "~*"
+  443  emacs src/main/java/de/numetris/soap/Loop.java
+  444  cp src/main/java/de/numetris/soap/MasterData.java src/main/java/de/numetris/soap/TxData.java 
+  445  git add src/main/java/de/numetris/soap/TxData.java 
+  446  git commit -am "~*"
+  447  emacs src/main/java/de/numetris/soap/TxData.java
+  448  git commit -am "~*"
+  449  git status
+  450  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  451  git commit -am "~*"
+  452  emacs src/main/java/de/numetris/soap/TxData.java
+  453  git commit -am "~*"
+  454  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  455  git commit -am "~*"
+  456  emacs src/main/java/de/numetris/soap/Loop.java
+  457  git commit -am "~*"
+  458  emacs src/main/java/de/numetris/soap/TxData.java
+  459  emacs src/main/java/de/numetris/soap/Loop.java
+  460  git commit -am "~*"
+  461  emacs src/main/java/de/numetris/soap/TxData.java
+  462  git commit -am "~*"
+  463  emacs src/main/java/de/numetris/soap/MasterData.java
+  464  git commit -am "~*"
+  465  emacs src/main/java/de/numetris/soap/TxData.java
+  466  git commit -am "~*"
+  467  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  468  emacs src/main/java/de/numetris/soap/Loop.java
+  469  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  470  git commit -am "~*"
+  471  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  472  ls
+  473  history|grep his
+  474  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  475  cd ../AllHashes/
+  476  git pull
+  477  git status
+  478  git add at*.SbOneHist.txt
+  479  ls -l ur.txt 
+  480  more ur.txt 
+  481  ls -l java_websocket.jar 
+  482  git add java_websocket.jar 
+  483  git status
+  484  history 
+  485  git commit -am "~*"
+  486  git status
+  487  git push
+  488  cd ../TeslaGas/
+  489  emacs BackLog.txt
+  490  git commit -am "~*"
+  491  emacs README.md
+  492  git status
+  493  git commit -am "~*"
+  494  /home/rawa/apache-maven-3.2.3/bin/mvn
+  495  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  496  git push
+  497  ping endamo.com
+  498  ping endamo.org
+  499  history|grep his
+  500  ls in/RqLog/
+  501  grep 1df.floatingboat2013.rlog git/AllHashes/
+  502  grep 1df.floatingboat2013.rlog git/AllHashes/*SbOn*
+  503  grep floatingboat2013.rlog git/AllHashes/*SbOn*
+  504  grep floatingboat2013 git/AllHashes/*SbOn*
+  505  cd /home/rawa/in/RqLog/
+  506  n=0000
+  507  a=floatingboat2013
+  508  h=1e0;i=1e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  509  h=1e1;i=1e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  510  h=1e2;i=1e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  511  h=1e3;i=1e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  512  h=1e4;i=1e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  513  h=1e5;i=1e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  514  h=1e6;i=1e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  515  h=1e7;i=1e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  516  h=1e8;i=1e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  517  h=1e9;i=1ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  518  h=1ea;i=1eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  519  h=1eb;i=1ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  520  h=1ec;i=1ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  521  h=1ed;i=1ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  522  h=1ee;i=1ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  523  h=1ef;i=1f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  524  a=dresdenlabs
+  525  #h=1e;i=1e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  526  h=1e0;i=1e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  527  h=1e1;i=1e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  528  h=1e2;i=1e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  529  h=1e3;i=1e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  530  h=1e4;i=1e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  531  h=1e5;i=1e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  532  h=1e6;i=1e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  533  h=1e7;i=1e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  534  h=1e8;i=1e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  535  h=1e9;i=1ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  536  h=1ea;i=1eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  537  h=1eb;i=1ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  538  h=1ec;i=1ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  539  h=1ed;i=1ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  540  h=1ee;i=1ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  541  h=1ef;i=1f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  542  a=knot-net
+  543  h=1e0;i=1e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  544  h=1e1;i=1e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  545  h=1e2;i=1e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  546  h=1e3;i=1e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  547  h=1e4;i=1e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  548  h=1e5;i=1e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  549  h=1e6;i=1e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  550  h=1e7;i=1e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  551  h=1e8;i=1e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  552  h=1e9;i=1ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  553  h=1ea;i=1eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  554  h=1eb;i=1ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  555  h=1ec;i=1ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  556  h=1ed;i=1ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  557  h=1ee;i=1ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  558  h=1ef;i=1f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  559  a=new-egypt
+  560  h=1e0;i=1e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  561  h=1e1;i=1e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  562  h=1e2;i=1e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  563  h=1e3;i=1e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  564  h=1e4;i=1e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  565  h=1e5;i=1e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  566  h=1e6;i=1e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  567  h=1e7;i=1e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  568  h=1e8;i=1e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  569  h=1e9;i=1ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  570  h=1ea;i=1eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  571  h=1eb;i=1ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  572  h=1ec;i=1ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  573  h=1ed;i=1ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  574  h=1ee;i=1ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  575  h=1ef;i=1f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  576  ls -l 1e*
+  577  a=dresdenlabs
+  578  #h=1f0;i=1f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  579  h=1f0;i=1f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  580  h=1f1;i=1f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  581  h=1f2;i=1f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  582  h=1f3;i=1f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  583  h=1f4;i=1f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  584  h=1f5;i=1f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  585  h=1f6;i=1f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  586  h=1f7;i=1f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  587  h=1f8;i=1f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  588  h=1f9;i=1fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  589  h=1fa;i=1fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  590  h=1fb;i=1fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  591  h=1fc;i=1fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  592  h=1fd;i=1fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  593  h=1fe;i=1ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  594  h=1ff;i=200;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  595  a=floatingboat2013
+  596  h=1f0;i=1f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  597  h=1f1;i=1f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  598  h=1f2;i=1f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  599  h=1f3;i=1f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  600  h=1f4;i=1f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  601  h=1f5;i=1f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  602  h=1f6;i=1f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  603  h=1f7;i=1f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  604  h=1f8;i=1f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  605  h=1f9;i=1fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  606  h=1fa;i=1fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  607  h=1fb;i=1fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  608  h=1fc;i=1fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  609  h=1fd;i=1fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  610  h=1fe;i=1ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  611  h=1ff;i=200;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  612  history 
+  613  a=knot-net
+  614  h=1f0;i=1f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  615  h=1f1;i=1f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  616  h=1f2;i=1f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  617  h=1f3;i=1f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  618  h=1f4;i=1f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  619  h=1f5;i=1f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  620  h=1f6;i=1f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  621  h=1f7;i=1f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  622  h=1f8;i=1f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  623  h=1f9;i=1fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  624  h=1fa;i=1fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  625  h=1fb;i=1fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  626  h=1fc;i=1fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  627  h=1fd;i=1fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  628  h=1fe;i=1ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  629  h=1ff;i=200;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  630  a=new-egypt
+  631  h=1f0;i=1f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  632  h=1f1;i=1f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  633  h=1f2;i=1f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  634  h=1f3;i=1f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  635  h=1f4;i=1f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  636  h=1f5;i=1f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  637  h=1f6;i=1f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  638  h=1f7;i=1f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  639  h=1f8;i=1f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  640  h=1f9;i=1fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  641  h=1fa;i=1fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  642  h=1fb;i=1fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  643  h=1fc;i=1fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  644  h=1fd;i=1fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  645  h=1fe;i=1ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  646  h=1ff;i=200;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  647  history
+  648  ls -l 1e*
+  649  ls -l 1f*
+  650  ping postbank.de
+  651  cd ~/git/TeslaGas
+  652  history
+  653  history|grep his
+  654  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
