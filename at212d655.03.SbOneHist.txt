@@ -1,0 +1,500 @@
+   77  git commit -am "~*"
+   78  emacs src/main/java/de/numetris/soap/Timestamp.java
+   79  git commit -am "~*"
+   80  /home/rawa/apache-maven-3.2.3/bin/mvn
+   81  emacs src/main/java/de/numetris/soap/Timestamp.java
+   82  git commit -am "~*"
+   83  /home/rawa/apache-maven-3.2.3/bin/mvn
+   84  emacs src/main/java/de/numetris/soap/Timestamp.java
+   85  /home/rawa/apache-maven-3.2.3/bin/mvn
+   86  emacs +238 src/main/java/de/numetris/soap/Timestamp.java
+   87  git commit -am "~*"
+   88  /home/rawa/apache-maven-3.2.3/bin/mvn
+   89  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+   90  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.Resetter"
+   91  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="de.numetris.soap.DbTest"
+   92  history
+   93  nu=de.numetris.soap
+   94  np=de/numetris/soap
+   95  history 
+   96  emacs +238 src/main/java/$np/MasterData.java
+   97  history
+   98  git commit -am "~*"
+   99  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  100  emacs +238 src/main/java/$np/MasterData.java
+  101  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  102  emacs +238 src/main/java/$np/MasterData.java
+  103  git commit -am "~*"
+  104  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  105  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  106  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  107  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  108  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  109  emacs src/main/java/$np/MasterData.java
+  110  emacs src/main/java/$np/Loop.java
+  111  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  112  emacs src/main/java/$np/MasterData.java
+  113  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  114  cat 
+  115  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  116  git commit -am "~*"
+  117  emacs src/main/java/$np/SOAP.java
+  118  emacs conf.props
+  119  emacs src/main/java/$np/SOAP.java
+  120  cat conf.props
+  121  emacs src/main/java/$np/SOAP.java
+  122  emacs src/main/java/$np/Loop.java
+  123  history 
+  124  git commit -am "~*"
+  125  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  126  emacs src/main/java/$np/MasterData.java
+  127  git commit -am "~*"
+  128  emacs src/main/java/$np/MasterData.java
+  129  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  130  emacs src/main/java/$np/Loop.java
+  131  git commit -am "~*"
+  132  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  133  emacs src/main/java/$np/Loop.java
+  134  git commit -am "~*"
+  135  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  136  emacs src/main/java/$np/MasterData.java
+  137  git commit -am "~*"
+  138  emacs src/main/java/$np/MasterData.java
+  139  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  140  emacs src/main/java/$np/MasterData.java
+  141  git commit -am "~*"
+  142  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  143  emacs src/main/java/$np/MasterData.java
+  144  emacs src/main/java/$np/Loop.java
+  145  emacs src/main/java/$np/MasterData.java
+  146  git commit -am "~*"
+  147  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  148  more conf.props 
+  149  emacs conf.props 
+  150  git commit -am "~*"
+  151  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  152  history
+  153  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  154  emacs src/main/java/$np/MasterData.java
+  155  git commit -am "~*"
+  156  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  157  emacs src/main/java/$np/MasterData.java
+  158  git commit -am "~*"
+  159  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  160  emacs src/main/java/$np/Loop.java
+  161  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  162  emacs src/main/java/$np/TxData.java
+  163  emacs src/main/java/$np/Loop.java
+  164  emacs src/main/java/$np/MasterData.java
+  165  emacs src/main/java/$np/TxData.java
+  166  emacs src/main/java/$np/MasterData.java
+  167  emacs src/main/java/$np/TxData.java
+  168  git commit -am "~*"
+  169  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  170  emacs src/main/java/$np/TxData.java
+  171  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  172  emacs src/main/java/$np/TxData.java
+  173  git commit -am "~*"
+  174  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  175  emacs src/main/java/$np/Loop.java
+  176  emacs src/main/java/$np/TxData.java
+  177  git commit -am "~*"
+  178  emacs src/main/java/$np/TxData.java
+  179  git commit -am "~*"
+  180  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  181  emacs src/main/java/$np/TxData.java
+  182  git commit -am "~*"
+  183  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  184  emacs src/main/java/$np/TxData.java
+  185  git commit -am "~*"
+  186  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  187  emacs src/main/java/$np/TxData.java
+  188  git commit -am "~*"
+  189  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  190  history 
+  191  history|grep Res
+  192  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  193  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  194  emacs src/main/java/$np/TxData.java
+  195  history 
+  196  emacs src/main/java/$np/MasterData.java
+  197  emacs src/main/java/$np/TxData.java
+  198  ls
+  199  ls -l
+  200  ls doc/xjc/de/
+  201  wget http://download.jboss.org/wildfly/10.1.0.Final/servlet/wildfly-servlet-10.1.0.Final.zip
+  202  ls
+  203  mkdir wildfly
+  204  cd wildfly/
+  205  unzip ../wildfly-servlet-10.1.0.Final.zip 
+  206  ls
+  207  wildfly-servlet-10.1.0.Final/bin/standalone.sh
+  208  java -version
+  209  history |grep hi
+  210  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  211  cd ..
+  212  emacs BackLog.txt
+  213  history 
+  214  git commit -am "~*"
+  215  git push
+  216  history
+  217  curl https://content.riscv.org/wp-content/uploads/2016/06/riscv-spec-v2.1.pdf|wc
+  218  curl https://content.riscv.org/wp-content/uploads/2016/06/riscv-spec-v2.1.pdf|sha256sum
+  219  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  220  cd git/TeslaGas/
+  221  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  222  history |grep nu
+  223  nu=de.numetris.soap;np=de/numetris/soap
+  224  history 
+  225  emacs src/main/webapp/index.jsp 
+  226  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  227  history 
+  228  emacs src/main/java/$np/TxData.java
+  229  emacs src/main/java/$np/Loop.java
+  230  git status
+  231  history|grep git
+  232  git commit -am "~*"
+  233  git status
+  234  rm src/main/java/$np/#MasterData.java#
+  235  git status
+  236  git pull
+  237  history 
+  238  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  239  history|grep exec
+  240  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  241  history
+  242  ls -l /home/rawa/git/AllHashes/*SbOneH*
+  243  more /home/rawa/git/AllHashes/at209c958.73.SbOneHist.txt
+  244  history
+  245  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  246  history 
+  247  emacs src/main/java/$np/Loop.java
+  248  emacs src/main/java/$np/MasterData.java
+  249  emacs src/main/java/$np/DbTest.java
+  250  history 
+  251  history |grep Db
+  252  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  253  emacs src/main/java/$np/DbTest.java
+  254  /home/rawa/apache-maven-3.2.3/bin/mvn install exec:java -Dexec.mainClass="$nu.Resetter"
+  255  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  256  emacs src/main/java/$np/MasterData.java
+  257  history
+  258  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  259  history
+  260  history|grep git
+  261  git commit -am "~*"
+  262  git push
+  263  git help tag
+  264  git tag v0.4
+  265  git tag -a v0.4
+  266  git commit -am "~*"
+  267  emacs pom.xml
+  268  git commit -am "~*"
+  269  git tag -a v0.5
+  270  git log
+  271  git commit -am "~*"
+  272  git push
+  273  git help tag
+  274  git tag
+  275  ls -l .git/refs/tags/v0.4 
+  276  more .git/refs/tags/v0.4 
+  277  more .git/refs/tags/v0.5
+  278  ls
+  279  emacs BackLog.txt
+  280  history 
+  281  ls
+  282  ls wildfly
+  283  history
+  284  git tag -a v0.5 -m "v0.5"
+  285  git help tag
+  286  git tag -d v0.5
+  287  git tag -a v0.5 -m "v0.5"
+  288  git log -2
+  289  git status
+  290  history 
+  291  git commit -am "~*"
+  292  git push
+  293  #git push origin --tags
+  294  #https://git-scm.com/book/en/v2/Git-Basics-Tagging
+  295  git push origin --tags
+  296  history
+  297  ls wildfly
+  298  whois at20aeff5.74x01053ee
+  299  whois netto-online.de
+  300  curl https://www.gk-software.com/images/sampledata/Kunden/SuccessStorries/Netto/success-story-netto.pdf |xxd |more
+  301  curl -k https://www.gk-software.com/images/sampledata/Kunden/SuccessStorries/Netto/success-story-netto.pdf |xxd |more
+  302  ping youtu.be
+  303  history 
+  304  history|more
+  305  history|grep his
+  306  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  307  n=num
+  308  e=etris
+  309  history 
+  310  df
+  311  ls
+  312  more EcbFx2b84c08a21c998782eda68bf5fe9ae3c.xml 
+  313  ps aux
+  314  ls -al in/*og
+  315  tail -f in/at15f5108.bf.HtTp.log 
+  316  ls GitHoster/GoogleProjectHosting/ungit.wiki/AaDl.wiki
+  317  cd git/TeslaGas/
+  318  history 
+  319  history |grep num
+  320  history 
+  321  history |grep num
+  322  nu=de.$n$e.soap
+  323  np=de/$n$e/soap
+  324  echo $nu $np
+  325  ls ~
+  326  ls ~/bin
+  327  ls -l ~/bin
+  328  ln
+  329  ln --he
+  330  history
+  331  /home/rawa/apache-maven-3.2.3/bin/mvn jetty:run
+  332  ln -s ~/bin/mvn /home/rawa/apache-maven-3.2.3/bin/mvn 
+  333  ln -s /home/rawa/apache-maven-3.2.3/bin/mvn ~/bin/mvn
+  334  mvn
+  335  history
+  336  h
+  337  man history
+  338  python -v
+  339  pyversions 
+  340  rsync -?
+  341  rsync -version
+  342  rsync --version
+  343  lynx zdf.de
+  344  lynx hoerzu.de
+  345  history 
+  346  pktstat -n
+  347  su
+  348  cd git/AllHashes/
+  349  git status
+  350  git pull
+  351  #cp HtTp.java Ip.java
+  352  #KirchHoff
+  353  su
+  354  more /etc/apt/sources.list
+  355  emacs /etc/apt/sources.list
+  356  su
+  357  ls
+  358  pwd
+  359  exit
+  360  su
+  361  tshark 
+  362  tshark eth0
+  363  tshark -l
+  364  tshark -?
+  365  tshark -D
+  366  cd git/TeslaGas/
+  367  history 
+  368  history|grep nu
+  369  history|grep =
+  370  n=num;e=etris;nu=de.$n$e.soap;np=de/$n$e/soap
+  371  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  372  mvn
+  373  git pull
+  374  git status
+  375  ls
+  376  emacs BackLog.txt
+  377  history 
+  378  git commit -am "~*"
+  379  ls
+  380  rm wildfly-servlet-10.1.0.Final.zip 
+  381  #rm -Rf wildfly/wildfly-servlet-10.1.0.Final/
+  382  df
+  383  rm -Rf wildfly/wildfly-servlet-10.1.0.Final/
+  384  rmdir wildfly/
+  385  df
+  386  ls
+  387  ls doc/
+  388  git rm contributors.txt
+  389  more bitbucket-pipelines.yml
+  390  emacs bitbucket-pipelines.yml
+  391  history 
+  392  git commit -am "~*"
+  393  emacs bitbucket-pipelines.yml
+  394  git commit -am "~*"
+  395  ls
+  396  git status
+  397  git push
+  398  emacs bitbucket-pipelines.yml
+  399  git commit -am "~*"
+  400  git push
+  401  cat bitbucket-pipelines.yml 
+  402  emacs bitbucket-pipelines.yml
+  403  git commit -am "~*"
+  404  git push
+  405  history 
+  406  history|grep src
+  407  emacs src/main/java/$np/TxData.java
+  408  ls
+  409  history 
+  410  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  411  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  412  history 
+  413  emacs src/main/java/$np/TxData.java
+  414  emacs src/main/java/$np/DbTest.java
+  415  mvn install exec:java -Dexec.mainClass="$nu.DbTest"
+  416  git commit -am "~*"
+  417  emacs src/main/java/$np/DbTest.java
+  418  git commit -am "~*"
+  419  emacs src/main/java/$np/DbTest.java
+  420  mvn install exec:java -Dexec.mainClass="$nu.DbTest"
+  421  mvn install exec:java -Dexec.mainClass="$nu.DbTest" station
+  422  mvn exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=station
+  423  mvn exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=dsfg
+  424  history 
+  425  ##äat210768a.14xf88ce82
+  426  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml > 2c.sd
+  427  sha256sum 2c.sd 
+  428  git commit -am "~*"
+  429  git push
+  430  ls
+  431  history 
+  432  cd ../AllHashes/
+  433  cp ../TeslaGas/2c.sd .
+  434  git status
+  435  git add 2c.sd at209311d.71.SbOneHist.txt at209c958.73.SbOneHist.txt at20b2f7d.b4.SbOneHist.txt
+  436  git commit -am "+2c.sd +at209311d.71.SbOneHist.txt +at209c958.73.SbOneHist.txt +at20b2f7d.b4.SbOneHist.txt"
+  437  git status
+  438  git push
+  439  git pull
+  440  git push
+  441  git status
+  442  #curl (.split l" ")
+  443  cd git/TeslaGas/
+  444  history 
+  445  history|grep =
+  446  n=num;e=etris;nu=de.$n$e.soap;np=de/$n$e/soap
+  447  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainCla
+  448  mvn jetty:run
+  449  history|grep ema
+  450  history|grep soap
+  451  history|grep jsp
+  452  emacs src/main/webapp/index.jsp 
+  453  git status
+  454  more 2c.sd 
+  455  git add 2c.sd
+  456  history|grep git
+  457  git commit -am "~*"
+  458  git log 2
+  459  git log -2
+  460  git push
+  461  cp 2c.sd ..
+  462  git rm 2c.sd
+  463  git commit -am "~*"
+  464  git push
+  465  ls
+  466  sha256sum ../2c.sd 
+  467  ls
+  468  ls ~
+  469  ps aux
+  470  ls
+  471  le
+  472  ps aux|less -+S
+  473  #http://stackoverflow.com/questions/2159860/viewing-full-output-of-ps-command
+  474  ls target/
+  475  ls
+  476  history 
+  477  pwd
+  478  cd git/TeslaGas/
+  479  scp target/soap-0.5.war 164.132.52.81:/root/
+  480  scp target/soap-0.5.war root@164.132.52.81:/root/
+  481  emacs pom.xml
+  482  ls -l target/soap-0.5.war 
+  483  mvn
+  484  ls -l target/soap-0.5.war 
+  485  mvn jetty:run
+  486  history|grep git
+  487  git commit -am "~*"
+  488  history
+  489  emacs pom.xml
+  490  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  491  git add src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  492  git commit -am "~*"
+  493  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  494  git commit -am "~*"
+  495  mvn
+  496  mvn jetty:run
+  497  history 
+  498  ls -l target/soap-0.5.war 
+  499  scp target/soap-0.5.war root@164.132.52.81:/root/
+  500  wget https://hyper-install.s3.amazonaws.com/hyper-linux-x86_64.tar.gz
+  501  gunzip hyper-linux-x86_64.tar.gz 
+  502  tar xf hyper-linux-x86_64.tar 
+  503  ls
+  504  ls hyper
+  505  ./hyper 
+  506  chmod +x hyper
+  507  ./hyper 
+  508  ls hyper
+  509  ls -l hyper
+  510  xxd hyper|more
+  511  ./hyper 
+  512  ./hyper fip allocate 1
+  513  ssh 209.177.91.170
+  514  ls
+  515  rm hyper-linux-x86_64.tar 
+  516  ./hyper 
+  517  rm hyper 
+  518  ls -al
+  519  ssh 209.177.91.170
+  520  history 
+  521  pwd
+  522  cd git/AllHashes/
+  523  cd ..
+  524  pwd
+  525  ls
+  526  cd TeslaGas/
+  527  ls
+  528  n=num;e=etris;nu=de.$n$e.soap;np=de/$n$e/soap
+  529  history|grep Te
+  530  emacs src/main/java/$np/DbTest.java
+  531  mvn exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=station
+  532  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=station
+  533  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=gruppe
+  534  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=company
+  535  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=datenelement
+  536  t=styp
+  537* mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args
+  538  ping giantswarm.io
+  539  ping tools.ietf.org
+  540  ping ietf.org
+  541  #telnet http://23.201.252.164/
+  542  telnet
+  543  telnet -?
+  544  telnet 23.201.252.164 80
+  545  wget -?
+  546  wget --help
+  547  history 
+  548  emacs src/main/java/$np/Loop.java
+  549  emacs src/main/java/$np/MasterData.java
+  550  cd
+  551  cd git/AllHashes/
+  552  ls
+  553  cp HtTp.java Net.java
+  554  git add Net.java
+  555  emacs Net.java
+  556  history 
+  557  git status
+  558  git commit -am "~*"
+  559  emacs Net.java
+  560  git commit -am "~*"
+  561  emacs Net.java
+  562  git commit -am "~*"
+  563  emacs Net.java
+  564  javac Net.java 
+  565  git commit -am "~*"
+  566  javac Net.java 
+  567  emacs Net.java
+  568  git commit -am "~*"
+  569  javac Net.java
+  570  java Net
+  571  ls -al N*
+  572  cd ..
+  573  cd git/AllHashes/
+  574  git status
+  575  history|grep his
+  576  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
