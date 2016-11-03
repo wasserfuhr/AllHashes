@@ -6,14 +6,15 @@ public class Net{
   byte[] receiveData = new byte[1024];
   byte[] sendData = new byte[1024];
   while(true){
-	     DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
-	     s.receive(receivePacket);
-	     String sentence = new String( receivePacket.getData());
-	     System.out.println("RECEIVED: " + sentence);
-	     InetAddress IPAddress = receivePacket.getAddress();
-	     int port = receivePacket.getPort();
-	     String capitalizedSentence = sentence.toUpperCase();
-	     sendData = capitalizedSentence.getBytes();
-             DatagramPacket sendPacket =
-	       new DatagramPacket(sendData, sendData.length, IPAddress, port);
-             s.send(sendPacket);}}}
+   DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
+   s.receive(receivePacket);
+   String sentence = new String( receivePacket.getData());
+   System.out.println("RECEIVED: " + sentence);
+   System.out.println(" " + sentence.getLength());
+   InetAddress IPAddress = receivePacket.getAddress();
+   int port = receivePacket.getPort();
+   String capitalizedSentence = sentence.toUpperCase();
+   sendData = capitalizedSentence.getBytes();
+   DatagramPacket sendPacket =
+    new DatagramPacket(sendData, sendData.length, IPAddress, port);
+   s.send(sendPacket);}}}
