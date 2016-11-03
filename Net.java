@@ -7,15 +7,13 @@ public class Net{
   byte[] sendData = new byte[1024];
   while(true){
 	     DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
-	     serverSocket.receive(receivePacket);
+	     s.receive(receivePacket);
 	     String sentence = new String( receivePacket.getData());
 	     System.out.println("RECEIVED: " + sentence);
 	     InetAddress IPAddress = receivePacket.getAddress();
 	     int port = receivePacket.getPort();
 	     String capitalizedSentence = sentence.toUpperCase();
 	     sendData = capitalizedSentence.getBytes();
-                  DatagramPacket sendPacket =
-		      new DatagramPacket(sendData, sendData.length, IPAddress, port);
-                  s.send(sendPacket);
-	 }
-	 }	 }
+             DatagramPacket sendPacket =
+	       new DatagramPacket(sendData, sendData.length, IPAddress, port);
+             s.send(sendPacket);}}}
