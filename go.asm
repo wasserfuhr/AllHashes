@@ -27,5 +27,5 @@ go:
 ;;no need to clean up the stack because no code here would executed: already exited
 
 section .data
- mymsg db "HelloDworld",0xa ;string with a carriage-return
+ mymsg db "HelloWorld",0xa ;string with a carriage-return
  mylen equ $-mymsg	    ;string length in bytes
