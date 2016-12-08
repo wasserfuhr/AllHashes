@@ -1,0 +1,500 @@
+  455  git add 2c.sd
+  456  history|grep git
+  457  git commit -am "~*"
+  458  git log 2
+  459  git log -2
+  460  git push
+  461  cp 2c.sd ..
+  462  git rm 2c.sd
+  463  git commit -am "~*"
+  464  git push
+  465  ls
+  466  sha256sum ../2c.sd 
+  467  ls
+  468  ls ~
+  469  ps aux
+  470  ls
+  471  le
+  472  ps aux|less -+S
+  473  #http://stackoverflow.com/questions/2159860/viewing-full-output-of-ps-command
+  474  ls target/
+  475  ls
+  476  history 
+  477  pwd
+  478  cd git/TeslaGas/
+  479  scp target/soap-0.5.war 164.132.52.81:/root/
+  480  scp target/soap-0.5.war root@164.132.52.81:/root/
+  481  emacs pom.xml
+  482  ls -l target/soap-0.5.war 
+  483  mvn
+  484  ls -l target/soap-0.5.war 
+  485  mvn jetty:run
+  486  history|grep git
+  487  git commit -am "~*"
+  488  history
+  489  emacs pom.xml
+  490  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  491  git add src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  492  git commit -am "~*"
+  493  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  494  git commit -am "~*"
+  495  mvn
+  496  mvn jetty:run
+  497  history 
+  498  ls -l target/soap-0.5.war 
+  499  scp target/soap-0.5.war root@164.132.52.81:/root/
+  500  wget https://hyper-install.s3.amazonaws.com/hyper-linux-x86_64.tar.gz
+  501  gunzip hyper-linux-x86_64.tar.gz 
+  502  tar xf hyper-linux-x86_64.tar 
+  503  ls
+  504  ls hyper
+  505  ./hyper 
+  506  chmod +x hyper
+  507  ./hyper 
+  508  ls hyper
+  509  ls -l hyper
+  510  xxd hyper|more
+  511  ./hyper 
+  512  ./hyper fip allocate 1
+  513  ssh 209.177.91.170
+  514  ls
+  515  rm hyper-linux-x86_64.tar 
+  516  ./hyper 
+  517  rm hyper 
+  518  ls -al
+  519  ssh 209.177.91.170
+  520  history 
+  521  pwd
+  522  cd git/AllHashes/
+  523  cd ..
+  524  pwd
+  525  ls
+  526  cd TeslaGas/
+  527  ls
+  528  n=num;e=etris;nu=de.$n$e.soap;np=de/$n$e/soap
+  529  history|grep Te
+  530  emacs src/main/java/$np/DbTest.java
+  531  mvn exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=station
+  532  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=station
+  533  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=gruppe
+  534  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=company
+  535  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=datenelement
+  536  t=styp
+  537* mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args
+  538  ping giantswarm.io
+  539  ping tools.ietf.org
+  540  ping ietf.org
+  541  #telnet http://23.201.252.164/
+  542  telnet
+  543  telnet -?
+  544  telnet 23.201.252.164 80
+  545  wget -?
+  546  wget --help
+  547  history 
+  548  emacs src/main/java/$np/Loop.java
+  549  emacs src/main/java/$np/MasterData.java
+  550  cd
+  551  cd git/AllHashes/
+  552  ls
+  553  cp HtTp.java Net.java
+  554  git add Net.java
+  555  emacs Net.java
+  556  history 
+  557  git status
+  558  git commit -am "~*"
+  559  emacs Net.java
+  560  git commit -am "~*"
+  561  emacs Net.java
+  562  git commit -am "~*"
+  563  emacs Net.java
+  564  javac Net.java 
+  565  git commit -am "~*"
+  566  javac Net.java 
+  567  emacs Net.java
+  568  git commit -am "~*"
+  569  javac Net.java
+  570  java Net
+  571  ls -al N*
+  572  cd ..
+  573  cd git/AllHashes/
+  574  git status
+  575  history|grep his
+  576  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  577  git add at212d655.03.SbOneHist.txt
+  578  history 
+  579  git commit -am "~*"
+  580  git pull
+  581  git push
+  582  cd ..
+  583  cd git/TeslaGas/
+  584  ls
+  585  git status
+  586  history 
+  587  git commit -am "~*"
+  588  emacs pom.xml
+  589  git commit -am "~*"
+  590  mvn
+  591  cd ..
+  592  cd AllHashes/
+  593  history 
+  594  javac Net.java
+  595  emacs Net.java
+  596  javac Net.java
+  597  git commit -am "~*"
+  598  emacs Net.java
+  599  git commit -am "~*"
+  600  javac Net.java
+  601  git commit -am "~*"
+  602  emacs Net.java
+  603  git commit -am "~*"
+  604  javac Net.java
+  605  java Net
+  606  git status
+  607  git push
+  608  git status
+  609  #at212f29a.47x7512ee6
+  610  cd ..
+  611  git clone https://github.com/wasserfuhr/hn4j.git
+  612  cd hn4j/
+  613  cp ../AllHashes/Net.java .
+  614  git add Net.java
+  615  history 
+  616  git commit -am "~*"
+  617  git push
+  618  emacs Net.java 
+  619  #
+  620  #sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  621  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  622  sudo apt-get install sendip
+  623  su
+  624  #sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  625  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  626  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  627  su
+  628  git status
+  629  history 
+  630  git status
+  631  git pull
+  632  sudo git pull
+  633  su
+  634  history 
+  635  git clone https://github.com/wasserfuhr/hn4j.git
+  636  cd ..
+  637  git clone https://github.com/wasserfuhr/hn4j.git
+  638  ls -al
+  639  mv 2c.sd hn4j/
+  640  cd hn4j/
+  641  git add 2c.sd
+  642  history 
+  643  git commit -am "~*"
+  644  more 2c.sd 
+  645  git pull
+  646  #currentTimeMillis
+  647  ping locomore.de
+  648  history 
+  649  history|grep no
+  650  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  651  #at213b890.36
+  652  cd ../TeslaGas/
+  653  more pom.xml
+  654  emacs pom.xml
+  655  history 
+  656  mvn jetty:run
+  657  history 
+  658  git commit -am "~*"
+  659  emacs pom.xml
+  660  git commit -am "~*"
+  661  mvn jetty:run
+  662  emacs pom.xml
+  663  git commit -am "~*"
+  664  mvn jetty:run
+  665  history 
+  666  history|grep es
+  667  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args
+  668  mvn install exec:java -Dexec.mainClass="$nu.DbTest" -Dexec.args=instanz
+  669  history
+  670  history|grep em
+  671  emacs src/main/java/$np/DbTest.java
+  672  mvn checkstyle:checkstyle
+  673  more target/checkstyle-result.xml 
+  674  more target/checkstyle-result.xml  
+  675  whois 209.177.91.170
+  676  ripe 209.177.91.170
+  677  ls
+  678  cd ../hn4j/
+  679  git pull
+  680  ls -al
+  681  javac Net.java
+  682  emacs Net.java
+  683  history 
+  684  javac -version
+  685  git pull
+  686  wet http://central.maven.org/maven2/org/takes/takes/1.1/takes-1.1.jar
+  687  wget http://central.maven.org/maven2/org/takes/takes/1.1/takes-1.1.jar
+  688  javac -cp takes-1.1.jar App.java
+  689  java -Dfile.encoding=UTF-8 -cp takes.jar:. App
+  690  java -cp takes-1.1.jar:. App
+  691  more App.java 
+  692  emacs App.java 
+  693  history 
+  694  javac -cp takes-1.1.jar App.java
+  695  history
+  696  git commit -am "~*"
+  697  emacs App.java
+  698  git commit -am "~*"
+  699  javac -cp takes-1.1.jar App.java
+  700  java -cp takes-1.1.jar:. App
+  701  sendip
+  702  emacs App.java 
+  703  javac -cp takes-1.1.jar App.java
+  704  git commit -am "~*"
+  705  emacs App.java 
+  706  git commit -am "~*"
+  707  emacs App.java 
+  708  git commit -am "~*"
+  709  javac -cp takes-1.1.jar App.java
+  710  emacs App.java
+  711  git commit -am "~*"
+  712  javac -cp takes-1.1.jar App.java
+  713  git commit -am "~*"
+  714  emacs App.java
+  715  git commit -am "~*"
+  716  javac -cp takes-1.1.jar App.java
+  717  emacs App.java
+  718  git commit -am "~*"
+  719  javac -cp takes-1.1.jar App.java
+  720  emacs App.java
+  721  git commit -am "~*"
+  722  javac -cp takes-1.1.jar App.java
+  723  emacs App.java
+  724  git commit -am "~*"
+  725  javac -cp takes-1.1.jar App.java
+  726  emacs App.java
+  727  git commit -am "~*"
+  728  javac -cp takes-1.1.jar App.java
+  729  history 
+  730  java -cp takes-1.1.jar:. App
+  731  git commit -am "~*"
+  732  emacs App.java
+  733  git commit -am "~*"
+  734  javac -cp takes-1.1.jar App.java
+  735  emacs App.java
+  736  git commit -am "~*"
+  737  javac -cp takes-1.1.jar App.java
+  738  emacs App.java
+  739  git commit -am "~*"
+  740  javac -cp takes-1.1.jar App.java
+  741  emacs App.java
+  742  git commit -am "~*"
+  743  javac -cp takes-1.1.jar App.java
+  744  git commit -am "~*"
+  745  emacs App.java
+  746  git commit -am "~*"
+  747  javac -cp takes-1.1.jar App.java
+  748  emacs App.java
+  749  javac -cp takes-1.1.jar App.java
+  750  emacs App.java
+  751  git commit -am "~*"
+  752  javac -cp takes-1.1.jar App.java
+  753  history 
+  754  java -cp takes-1.1.jar:. App
+  755  emacs App.java
+  756  git commit -am "~*"
+  757  javac -cp takes-1.1.jar App.java
+  758  java -cp takes-1.1.jar:. App
+  759  git commit -am "~*"
+  760  emacs App.java
+  761  git commit -am "~*"
+  762  javac -cp takes-1.1.jar App.java
+  763  emacs App.java
+  764  git commit -am "~*"
+  765  javac -cp takes-1.1.jar App.java
+  766  git commit -am "~*"
+  767  emacs App.java
+  768  git commit -am "~*"
+  769  javac -cp takes-1.1.jar App.java
+  770  emacs App.java
+  771  git commit -am "~*"
+  772  javac -cp takes-1.1.jar App.java
+  773  java -cp takes-1.1.jar:. App
+  774  more ../AllHashes/HtTp.java
+  775  history 
+  776  history|grep send
+  777  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  778  sendip
+  779  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  780  su
+  781  grep HtTp ../AllHashes/* 
+  782  history 
+  783  cat ../AllHashes/HtTp.java
+  784  ls ../AllHashes/*jar*
+  785  ls -l ../AllHashes/*jar*
+  786  cat ../AllHashes/jetty-all-8.1.9.v20130131.jar.sha2~
+  787* #rm ../AllHashes/jetty-all-8.1.9.v20130131.jar.sha2
+  788  cat ../AllHashes/jetty-all-8.1.9.v20130131.jar.sha2
+  789  rm ../AllHashes/jetty-all-8.1.9.v20130131.jar.sha2~
+  790  history 
+  791  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  792  su
+  793  cd ../TeslaGas/
+  794  curl https://raw.githubusercontent.com/wasserfuhr/AcmePools/master/nb-configuration.xml
+  795  wget https://raw.githubusercontent.com/wasserfuhr/AcmePools/master/nb-configuration.xml
+  796  curl https://raw.githubusercontent.com/wasserfuhr/AcmePools/master/nb-configuration.xml >nb-configuration.xml
+  797  git add nb-configuration.xml
+  798  git status
+  799  history
+  800  git commit -am "~*"
+  801  emacs nb-configuration.xml
+  802  git commit -am "~*"
+  803  su
+  804  ls
+  805  git statu
+  806  git status
+  807  history 
+  808  history|grep Loo
+  809  emacs src/main/java/$np/Loop.java
+  810  mvn jetty:run
+  811  history|grep Res
+  812  /home/rawa/apache-maven-3.2.3/bin/mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  813  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  814  mvn jetty:run
+  815  ls -l src/main/java/$np/
+  816  #emacs src/main/java/$np/TxData.java
+  817  history
+  818  emacs src/main/java/$np/TxData.java
+  819  history
+  820  git commit -am "~*"
+  821  mvn jetty:run
+  822  emacs src/main/java/$np/TxData.java
+  823  git commit -am "~*"
+  824  mvn jetty:run
+  825  git commit -am "~*"
+  826  emacs src/main/java/$np/TxData.java
+  827  git commit -am "~*"
+  828  mvn jetty:run
+  829  emacs src/main/java/$np/TxData.java
+  830  git commit -am "~*"
+  831  mvn jetty:run
+  832  emacs +89 src/main/java/$np/TxData.java
+  833  mvn jetty:run
+  834  emacs +89 src/main/java/$np/TxData.java
+  835  git commit -am "~*"
+  836  mvn jetty:run
+  837  git commit -am "~*"
+  838  emacs +89 src/main/java/$np/TxData.java
+  839  git commit -am "~*"
+  840  mvn jetty:run
+  841  emacs +89 src/main/java/$np/TxData.java
+  842  git commit -am "~*"
+  843  mvn jetty:run
+  844  emacs +89 src/main/java/$np/TxData.java
+  845  git commit -am "~*"
+  846  mvn jetty:run
+  847  git commit -am "~*"
+  848  emacs +89 src/main/java/$np/TxData.java
+  849  emacs +89 src/main/java/$np/MasterData.java
+  850  emacs +89 src/main/java/$np/TxData.java
+  851  git commit -am "~*"
+  852  mvn jetty:run
+  853  emacs +104 src/main/java/$np/TxData.java
+  854  git commit -am "~*"
+  855  mvn jetty:run
+  856  emacs +104 src/main/java/$np/TxData.java
+  857  git commit -am "~*"
+  858  mvn jetty:run
+  859  emacs +104 src/main/java/$np/TxData.java
+  860  git commit -am "~*"
+  861  mvn jetty:run
+  862  emacs +104 src/main/java/$np/TxData.java
+  863  git commit -am "~*"
+  864  mvn jetty:run
+  865  emacs +104 src/main/java/$np/TxData.java
+  866  git commit -am "~*"
+  867  mvn jetty:run
+  868  emacs +104 src/main/java/$np/TxData.java
+  869  mvn jetty:run
+  870  emacs +104 src/main/java/$np/TxData.java
+  871  git commit -am "~*"
+  872  mvn jetty:run
+  873  emacs +104 src/main/java/$np/TxData.java
+  874  git commit -am "~*"
+  875  mvn jetty:run
+  876  emacs +104 src/main/java/$np/TxData.java
+  877  git commit -am "~*"
+  878  mvn jetty:run
+  879  emacs +104 src/main/java/$np/TxData.java
+  880  git commit -am "~*"
+  881  mvn jetty:run
+  882  git commit -am "~*"
+  883  emacs +104 src/main/java/$np/TxData.java
+  884  git commit -am "~*"
+  885  mvn jetty:run
+  886  emacs +104 src/main/java/$np/TxData.java
+  887  git commit -am "~*"
+  888  mvn jetty:run
+  889  emacs +104 src/main/java/$np/TxData.java
+  890  git commit -am "~*"
+  891  mvn jetty:run
+  892  emacs +104 src/main/java/$np/TxData.java
+  893  git commit -am "~*"
+  894  mvn jetty:run
+  895  emacs +104 src/main/java/$np/TxData.java
+  896  git commit -am "~*"
+  897  mvn jetty:run
+  898  emacs +104 src/main/java/$np/TxData.java
+  899  git commit -am "~*"
+  900  mvn jetty:run
+  901  emacs +104 src/main/java/$np/TxData.java
+  902  git commit -am "~*"
+  903  mvn jetty:run
+  904  cat src/main/java/$np/Loop.java
+  905  mvn jetty:run
+  906  git commit -am "~*"
+  907  emacs +104 src/main/java/$np/TxData.java
+  908  git commit -am "~*"
+  909  mvn jetty:run
+  910  emacs +104 src/main/java/$np/Loop.java
+  911  emacs +104 src/main/java/$np/TxData.java
+  912  git commit -am "~*"
+  913  emacs +104 src/main/java/$np/TxData.java
+  914  git commit -am "~*"
+  915  mvn jetty:run
+  916  emacs +104 src/main/java/$np/TxData.java
+  917  mvn jetty:run
+  918  git commit -am "~*"
+  919  emacs +104 src/main/java/$np/TxData.java
+  920  git commit -am "~*"
+  921  mvn jetty:run
+  922  emacs +104 src/main/java/$np/TxData.java
+  923  mvn jetty:run
+  924  git commit -am "~*"
+  925  emacs +104 src/main/java/$np/TxData.java
+  926  git commit -am "~*"
+  927  mvn jetty:run
+  928  emacs src/main/java/$np/TxData.java
+  929  git commit -am "~*"
+  930  emacs src/main/java/$np/TxData.java
+  931  emacs src/main/java/$np/SOAP.java
+  932  #emacs do/$np/SOAP.java
+  933  ls target/generated/cxf/de/
+  934  echo $np
+  935  ls target/generated/cxf/$np
+  936  ls target/generated/cxf/$np/..
+  937  history 
+  938  history|grep =
+  939  ls target/generated/cxf/$n$e
+  940  ls target/generated/cxf/de/$n$e
+  941  w1=wic;w2=$o22;w=$w1$w2
+  942  w1=wic;w2=o22;w=$w1$w2
+  943  ls target/generated/cxf/de/$n$e/$w
+  944  ls target/generated/cxf/de/$n$e/($w)master
+  945  cat pom.xml 
+  946  r=rmg
+  947  ls target/generated/cxf/de/$r
+  948  ls target/generated/cxf/de/$r/$w
+  949  cat target/generated/cxf/de/$r/$w/We*
+  950  ls target/generated/cxf/de/$r/$w
+  951  cat target/generated/cxf/de/$r/$w/We*p.*
+  952  history|more
+  953  history|grep knot
+  954  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt

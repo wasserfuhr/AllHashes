@@ -1,0 +1,500 @@
+  298  hig
+  299  history
+  300  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  301  #at21bc9b3.58
+  302  hig =
+  303  a=AG;e=etris;m=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  304  hig em
+  305  emacs +20 src/main/java/$np/MasterData.java
+  306  cd git/TeslaGas/
+  307  emacs +20 src/main/java/$np/Timestamp.java
+  308  ls src/main/java/$np/
+  309  echo $np
+  310  a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  311  ls src/main/java/$np/
+  312  emacs +20 src/main/java/$np/Timestamp.java
+  313  emacs +20 src/main/java/$np/MasterData.java
+  314  hig co
+  315  git commit -am "~*"
+  316  gc -?
+  317  emacs +20 src/main/java/$np/MasterData.java
+  318  git commit -am "~*"
+  319  hig wf
+  320  wf=~/wildfly-10.1.0.Final
+  321  cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  322  hig HO
+  323  export JAVA_HOME=/opt/jdk1.8.0_112/
+  324  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  325  emacs src/main/webapp/soap.jsp
+  326  ls
+  327  git commit -am "~*"
+  328  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  329  emacs src/main/webapp/soap.jsp
+  330  history
+  331  emacs +20 src/main/java/$np/MasterData.java
+  332  emacs +20 src/main/java/$np/MainServlet.java
+  333  hig em
+  334  emacs +20 src/main/java/$np/MasterData.java
+  335  git commit -am "~*"
+  336  history
+  337  a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  338  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  339  emacs +20 src/main/java/$np/MasterData.java
+  340  emacs src/main/resources/log4j2.properties
+  341  emacs +220 src/main/java/$np/TxData.java
+  342  emacs BackLog.txt
+  343  emacs +220 src/main/java/$np/MasterData.java
+  344  hig Re
+  345  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  346  emacs +220 src/main/java/$np/Loop.java
+  347  hig Ti
+  348  emacs +20 src/main/java/$np/Timestamp.java
+  349  emacs +20 src/main/java/$np/TxData.java
+  350  emacs +20 src/main/java/$np/Timestamp.java
+  351  history
+  352  ls
+  353  ls -al
+  354  ls
+  355  git help branch
+  356  ls
+  357  history
+  358  emacs +20 src/main/java/$np/MasterData.java
+  359  cd git/TeslaGas/
+  360  hig =
+  361  a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  362  emacs +20 src/main/java/$np/MasterData.java
+  363  hig 
+  364  history
+  365  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  366  hig co
+  367  git commit -am "~*"
+  368  emacs +166 src/main/java/$np/MasterData.java
+  369  git commit -am "~*"
+  370  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  371  hig wf
+  372  wf=~/wildfly-10.1.0.Final
+  373  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  374  hig HO
+  375  export JAVA_HOME=/opt/jdk1.8.0_112/
+  376  hig =
+  377  wf=~/wildfly-10.1.0.Final;export JAVA_HOME=/opt/jdk1.8.0_112/;a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  378  hig at
+  379  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  380  #at21c075a.48
+  381  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  382  git help diff
+  383  hig so
+  384  emacs src/main/webapp/soap.jsp
+  385  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  386  more pom.xml 
+  387  hig jsp
+  388  emacs src/main/webapp/soap.jsp
+  389  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  390  hig co
+  391  git commit -am "~*"
+  392  ls
+  393  emacs src/main/webapp/soap.jsp
+  394  git commit -am "~*"
+  395  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  396  emacs src/main/webapp/soap.jsp
+  397  ls
+  398  git diff 6b0eb12 
+  399  git help rebase
+  400  man git fetch
+  401  git help push
+  402  git status
+  403  history 
+  404  git commit -am "~*"
+  405  git push -u origin 2spaces
+  406  git log -2
+  407  history 
+  408  git log -2
+  409  git diff 0d713a4 6b0eb12
+  410  git pull
+  411  hig Mai
+  412  emacs +20 src/main/java/$np/MainServlet.java
+  413  git status
+  414  emacs +20 src/main/java/$np/Timestamp.java
+  415  emacs +20 src/main/java/$np/Conf.java
+  416  emacs +20 /home/rawa/git/TeslaGas/src/main/java/de/numetris/soap/TxData.jav.java
+  417  git emacs +20 src/main/java/$np/TxData.java
+  418  git status
+  419  emacs +20 src/main/java/$np/MainServlet.java
+  420  git add src/main/java/$np/MainServlet.java
+  421  emacs +20 src/main/java/$np/Timestamp.java
+  422  emacs add src/main/java/$np/Timestamp.java
+  423  git add src/main/java/$np/Timestamp.java
+  424  git status
+  425  emacs src/main/java/$np/MasterData.java
+  426  cd ..
+  427  ls
+  428  hig clone
+  429  git clone https://rawass@bitbucket.org/rawass/nusoap.git
+  430  cp nusoap/src/main/java/$np/MasterData.java TeslaGas/src/main/java/$np
+  431  cp nusoap/src/main/java/$np/TxData.java TeslaGas/src/main/java/$np
+  432  cd TeslaGas/
+  433  git status
+  434  cp git add src/main/java/$np/TxData.java 
+  435  git add src/main/java/$np/TxData.java 
+  436  cp git add src/main/java/$np/MasterData.java 
+  437  git status
+  438  git add src/main/java/$np/MasterData.java 
+  439  git status
+  440  hig co
+  441  git commit -am "~*"
+  442  mvn
+  443  emacs src/main/java/$np/MasterData.java 
+  444  emacs src/main/java/$np/TxData.java 
+  445  hig mv
+  446  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  447  emacs src/main/java/$np/MasterData.java
+  448  emacs src/main/java/$np/TxData.java
+  449  git status
+  450  hig co
+  451  git commit -am "~*"
+  452  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  453  emacs src/main/java/$np/Loop.java
+  454  git commit -am "~*"
+  455  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  456  ls
+  457  more pom.xml 
+  458  emacs pom.xml 
+  459  emacs conf.props 
+  460  rm /home/rawa/wildfly-10.1.0.Final/standalone/deployments/soap-0.7.war
+  461  rm /home/rawa/wildfly-10.1.0.Final/standalone/deployments/soap-0.7.war.deployed 
+  462  mvn;cp target/soap-0.8.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  463  hig Hi
+  464  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt
+  465  #at21c4d65.fb
+  466  ls
+  467  cd git/TeslaGas/
+  468  git pull
+  469  git push
+  470  mvn
+  471  hig =
+  472  wf=~/wildfly-10.1.0.Final;export JAVA_HOME=/opt/jdk1.8.0_112/;a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  473  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  474  #at21ccb24.24
+  475  ls
+  476  hig Tx
+  477  emacs +220 src/main/java/$np/TxData.java
+  478  hig co
+  479  git commit -am "~*"
+  480  mvn
+  481  hig mv
+  482  mvn;cp target/soap-0.8.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  483  git status
+  484  tail \{org.jboss.boot.log.file\}\\server.log 
+  485  ls -l \{org.jboss.boot.log.file\}\\server.log 
+  486  git push
+  487  git status
+  488  rm \{org.jboss.boot.log.file\}\\server.log 
+  489  git status
+  490  ls
+  491  hig at
+  492  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  493  #at21d1af0.00
+  494  hig Bm
+  495  hig Sb
+  496  hig hi
+  497  git status
+  498  git pull
+  499  git log -2
+  500  more BackLog.txt 
+  501  cd git/TeslaGas/
+  502  git pull
+  503  ls
+  504  git status
+  505  hig echo
+  506  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  507  #at21fe153.25
+  508  ls
+  509  hig =
+  510  wf=~/wildfly-10.1.0.Final;export JAVA_HOME=/opt/jdk1.8.0_112/;a=AG;e=etris;n=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  511  ls src/test/
+  512  more BackLog.txt
+  513  ls
+  514  hig ema
+  515  emacs src/main/java/$np/MasterData.java
+  516  hig diff
+  517  git diff 0d713a4 6b0eb12
+  518  hig co
+  519  git commit -am "~*"
+  520  emacs src/main/java/$np/MasterData.java
+  521  git commit -am "~*"
+  522  emacs src/main/java/$np/MasterData.java
+  523  git commit -am "~*"
+  524  more conf.props
+  525  emacs src/main/java/$np/Conf.java
+  526  git status
+  527  emacs src/main/java/$np/Conf.java
+  528  ls
+  529  hig wf
+  530  mvn;cp target/soap-0.8.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  531  emacs src/main/java/$np/Conf.java
+  532  emacs pom.xml
+  533  emacs bitbucket-pipelines.yml
+  534  emacs src/main/java/$np/Conf.java
+  535  cp conf.props conf-mvn.props 
+  536  git add conf-mvn.props
+  537  git commit -am "~*"
+  538  emacs ~/.nusoap
+  539  ls -l ~/.nusoap
+  540  emacs ~/.nusoap
+  541  ls -l ~/.nusoap
+  542  ls -al ~/.nusoap
+  543  emacs ~/.nusoap
+  544  ls -l ~/.nusoap
+  545  emacs pom.xml
+  546  emacs conf.props
+  547  emacs conf-mvn.props
+  548  git commit -am "~*"
+  549  git status
+  550  mvn;cp target/soap-0.8.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  551  emacs +249 src/main/java/$np/TxData.java
+  552  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  553  rm /home/rawa/wildfly-10.1.0.Final/standalone/deployments/soap-0.8.war
+  554  rm /home/rawa/wildfly-10.1.0.Final/standalone/deployments/soap-0.8.war.deployed 
+  555  mvn
+  556  history
+  557  emacs src/main/java/$np/Conf.java
+  558  git commit -am "~*"
+  559  mvn
+  560  emacs src/main/java/$np/Conf.java
+  561  emacs +215 src/main/java/$np/MasterData.java
+  562  emacs +215 src/main/java/$np/SOAP.java
+  563  git commit -am "~*"
+  564  ls
+  565  cat BackLog.txt 
+  566  history 
+  567  emacs +215 src/main/java/$np/SOAP.java
+  568  git commit -am "~*"
+  569  emacs +215 src/main/java/$np/SOAP.java
+  570  git commit -am "~*"
+  571  mvn
+  572  emacs +18 src/main/java/$np/SOAP.java
+  573  mvn
+  574  emacs +14 src/main/java/$np/Conf.java
+  575  git commit -am "~*"
+  576  mvn
+  577  git commit -am "~*"
+  578  emacs +14 src/main/java/$np/Conf.java
+  579  git commit -am "~*"
+  580  mvn
+  581  emacs +214 src/main/java/$np/MasterData.java
+  582  git commit -am "~*"
+  583  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  584  hig Res
+  585  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  586  mvn install
+  587  emacs +14 src/main/java/$np/Conf.java
+  588  git commit -am "~*"
+  589  emacs +14 src/main/java/$np/Conf.java
+  590  git commit -am "~*"
+  591  mvn install
+  592  emacs +14 src/main/java/$np/Conf.java
+  593  git commit -am "~*"
+  594  mvn install
+  595  emacs +32 src/main/java/$np/SOAP.java
+  596  mvn install
+  597  emacs +32 src/main/java/$np/SOAP.java
+  598  mvn install
+  599  emacs +49 src/main/java/$np/SOAP.java
+  600  emacs +217 src/main/java/$np/MasterData.java
+  601  git commit -am "~*"
+  602  mvn install
+  603  emacs +49 src/main/java/$np/SOAP.java
+  604  git commit -am "~*"
+  605  mvn install
+  606  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  607  emacs conf.props
+  608  git commit -am "~*"
+  609  history 
+  610  emacs +217 src/main/java/$np/MasterData.java
+  611* emacs +217 /home/rawa/git/TeslaGas/src/test/java/de/numetris/soap/
+  612  emacs +217 src/main/java/$np/SOAP.java
+  613  history
+  614  cat src/main/java/$np/SOAP.java
+  615  history 
+  616  emacs src/main/java/$np/TraceTest.java
+  617  emacs +217 src/main/java/$np/MasterData.java
+  618  git add src/main/java/$np/TraceTest.java
+  619  emacs src/main/java/$np/TraceTest.java
+  620  git commit -am "~*"
+  621  git status
+  622  emacs src/main/java/$np/TraceTest.java
+  623  hig ex
+  624  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  625  mvn exec:java -Dexec.mainClass="$nu.TraceTest"
+  626  history
+  627  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  628  git commit -am "~*"
+  629  emacs src/main/java/$np/TraceTest.java
+  630  git commit -am "~*"
+  631  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  632  emacs src/main/java/$np/TraceTest.java
+  633  git commit -am "~*"
+  634  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  635  emacs src/main/java/$np/TraceTest.java
+  636  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  637  emacs src/main/java/$np/TraceTest.java
+  638  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  639  emacs src/main/java/$np/TraceTest.java
+  640  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  641  emacs src/main/java/$np/TraceTest.java
+  642  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  643  history 
+  644  emacs +217 src/main/java/$np/SOAP.java
+  645  git commit -am "~*"
+  646  emacs src/main/java/$np/TraceTest.java
+  647  more conf.props
+  648  ls
+  649  emacs src/main/java/$np/MainServlet.java
+  650  emacs src/main/java/$np/Loop.java
+  651  git commit -am "~*"
+  652  emacs src/main/java/$np/MasterData.java
+  653  git commit -am "~*"
+  654  hig mvn
+  655  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  656  hig Tr
+  657  emacs src/main/java/$np/TraceTest.java
+  658  git commit -am "~*"
+  659  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  660  history
+  661  hig ex
+  662  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  663  ls
+  664  more traces_2016-19-14.txt 
+  665  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  666  git commit -am "~*"
+  667  emacs src/main/java/$np/TraceTest.java
+  668  git commit -am "~*"
+  669  mvn install exec:java -Dexec.mainClass="$nu.TraceTest"
+  670  ls
+  671  more traces_2016-11-14.txt 
+  672  emacs src/main/java/$np/TraceTest.java
+  673  mvn exec:java -Dexec.mainClass="$nu.TraceTest"
+  674  rm traces_2016-19-14.txt traces_2016-20-14.txt 
+  675  ls
+  676  cat traces_2016-11-14.txt 
+  677  rm \{org.jboss.boot.log.file\}\\server.log 
+  678  ls
+  679  history 
+  680  mvn exec:java -Dexec.mainClass="$nu.TraceTest"
+  681  history 
+  682  cat traces_2016-11-14.txt 
+  683  xxd traces_2016-11-14.txt 
+  684  cat conf
+  685  cat conf.props
+  686  emacs src/main/java/$np/TraceTest.java
+  687  mvn exec:java -Dexec.mainClass="$nu.TraceTest"
+  688  ls -l
+  689  cat traces_2016-11-14.txt 
+  690  hig co
+  691  git commit -am "~*"
+  692  ls
+  693  ls
+  694  history 
+  695  git status
+  696  git mv src/main/java/$np/TraceTest.java src/main/java/$np/Tracer.java
+  697  git commit -am "~*"
+  698  emacs src/main/java/$np/Tracer.java
+  699  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  700  mvn install exec:java -Dexec.mainClass="$nu.Tracer"
+  701  emacs src/main/java/$np/Tracer.java
+  702  git commit -am "~*"
+  703  git status
+  704  ls -l src/main/java/$np/
+  705  history 
+  706  emacs src/test/java/$np/TraceTest.java
+  707  history 
+  708  git status
+  709  mvn install exec:java -Dexec.mainClass="$nu.Tracer"
+  710  mkdir tracer
+  711  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  712  emacs src/test/java/$np/TraceTest.java
+  713  emacs src/test/java/$np/Tracer.java
+  714  emacs src/main/java/$np/Tracer.java
+  715  emacs +20 src/main/java/$np/Tracer.java
+  716  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  717  emacs +20 src/main/java/$np/Tracer.java
+  718  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  719  ls
+  720  ls trace
+  721  ls tracer/
+  722  rm tracer
+  723  rm traces_2016-11-14.txt 
+  724  ls tracer/
+  725  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  726  emacs +20 src/main/java/$np/Tracer.java
+  727  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  728  emacs +20 src/main/java/$np/Tracer.java
+  729  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  730  emacs +20 src/main/java/$np/Tracer.java
+  731  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  732  git commit -am "~*"
+  733  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  734  emacs +20 src/main/java/$np/Tracer.java
+  735  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  736  mvn install exec:java -Dexec.mainClass="$nu.Tracer"
+  737  ls
+  738  ls tracer/
+  739  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  740  emacs +20 src/main/java/$np/Tracer.java
+  741  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  742  emacs +20 src/main/java/$np/Tracer.java
+  743  ls
+  744  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  745  emacs +20 src/main/java/$np/Tracer.java
+  746  mvn install exec:java -Dexec.mainClass="$nu.Tracer"
+  747  emacs +20 src/main/java/$np/Tracer.java
+  748  mvn install exec:java -Dexec.mainClass="$nu.Tracer"
+  749  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  750  ls -l
+  751  cat traces/traces_2016-11-14.txt 
+  752  ls
+  753  ls tracer/
+  754  rmdir tracer
+  755  ls -al
+  756  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  757  hig mvn
+  758  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  759  emacs +20 src/main/java/$np/Tracer.java
+  760* 
+  761  emacs +20 src/main/java/$np/SOAPTest.java
+  762  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  763  hig em
+  764  emacs +20 src/main/java/$np/Tracer.java
+  765  emacs +20 src/main/java/$np/SOAPTest.java
+  766  git commit -am "~*"
+  767  emacs +20 src/main/java/$np/Tracer.java
+  768  history 
+  769  mvn exec:java -Dexec.mainClass="$nu.Tracer"
+  770  mvn exec:java -Dexec.mainClass="$nu.SOAPTest"
+  771  emacs +20 src/main/java/$np/SOAPTest.java
+  772  mvn install exec:java -Dexec.mainClass="$nu.SOAPTest"
+  773  emacs +20 src/main/java/$np/SOAPTest.java
+  774  emacs +204 src/main/java/$np/MasterData.java
+  775  mvn install exec:java -Dexec.mainClass="$nu.SOAPTest"
+  776  emacs +20 src/main/java/$np/MasterData.java
+  777  emacs +20 src/main/java/$np/SOAPTest.java
+  778  emacs +20 src/main/java/$np/MasterData.java
+  779  mvn install exec:java -Dexec.mainClass="$nu.SOAPTest"
+  780  hig co
+  781  git commit -am "~*"
+  782  history 
+  783  emacs +20 src/main/java/$np/MasterData.java
+  784  git commit -am "~*"
+  785  ls
+  786  mvn install exec:java -Dexec.mainClass="$nu.SOAPTest"
+  787  hig mv
+  788  hig cp
+  789  mvn;cp target/soap-0.9.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  790  ls
+  791  ls -al
+  792  ls -al traces/
+  793  more traces/traces_2016-11-14.txt 
+  794  git status
+  795  git push
+  796  hig echo
+  797  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >~/git/AllHashes/at$a.SbOneHist.txt

@@ -1,0 +1,501 @@
+   11  date
+   12  date
+   13  history|grep apt
+   14  exit
+   15  update-alternatives --config javac
+   16  update-alternatives --config java
+   17  apt-get update
+   18  apt-get install openjdk-7-jdk
+   19  apt-get install openjdk-7-jre
+   20  update-alternatives --config javac
+   21  apt-cache --names-only search openjdk
+   22  add-apt-repository ppa:openjdk/ppa
+   23  more /proc/sys/kernel/osrelease 
+   24  more /proc/version 
+   25  apt-get install oracle-java7-installer
+   26  echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu precise main" | tee -a /etc/apt/sources.list
+   27  echo "deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu precise main" | tee -a /etc/apt/sources.list
+   28  apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
+   29  apt-get update
+   30  apt-get update
+   31  apt-get install oracle-java7-installer
+   32   apt-get install oracle-java7-set-default
+   33  java -version
+   34  exit
+   35  cd
+   36  apt-get install curl
+   37  exit
+   38  apt-get install lynx
+   39  exit
+   40  history | grep ntp
+   41  history | grep ntp
+   42  history | grep nt
+   43  ntpq -p 
+   44  ntpq -p 
+   45  history | grep nt
+   46  lynx -dump -nolist http://sl4.eu/now;date +%s
+   47  lynx -dump -nolist http://sl4.eu/now;date +%s
+   48  history |grep screenr
+   49  exit
+   50  apt-get install ffmpeg
+   51  ffmpeg -?
+   52  ffmpeg -h
+   53  exit
+   54  apt-get install  tesseract
+   55  apt-get install  tesseract-ocr
+   56  exit
+   57  adduser
+   58  adduser rawa1
+   59  su rawa1
+   60  exit
+   61  cd
+   62  sudo apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+   63  apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+   64  apt-get update
+   65  apt-get install libc6-dev-i386 libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+   66  apt-get install libglib2.0-dev pkg-config git libzmq-dev build-essential automake autoconf libtool g++-multilib texinfo
+   67  apt-get install libzmq
+   68  apt-get install libzmq-dev
+   69  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+   70  exit
+   71  apt-get install cmake
+   72  exit
+   73  apt-get install libboost
+   74  apt-get install boost
+   75   apt-get install libboost-all-dev
+   76   apt-get install libboost-all-dev
+   77  apt-get update
+   78  apt-get install libboost-all-dev
+   79  exit
+   80  apt-get install -?
+   81  apt-get install --h
+   82  apt-get install --help
+   83  apt-get install libboost-dev
+   84  apt-get install libboost-dev= 1.43.0
+   85  apt-get install libboost-dev= 1.43
+   86  apt-get install libboost-dev=1.43
+   87  apt-get install libboost-dev=1.43.0
+   88  apt-get install libboost-all-dev=1.43.0
+   89  apt-get install libboost=1.43.0
+   90  pwd
+   91  apt-get install libboost-dev=1.44.0
+   92  apt-get install libboost-dev=1.55.0
+   93  ls
+   94  cat CMake
+   95  cat CMakeFiles/
+   96  cat ../CMakeLists.txt 
+   97  cat ../CMakeLists.txt |grep 43
+   98  emacs ../CMakeLists.txt |grep 43
+   99  ls -l ../CMakeLists.txt 
+  100  exit
+  101  apt-get install sqlite=3.7
+  102  apt-get install sqlite=3.7.10
+  103  apt-get install sqlite=3.7.4
+  104  apt-get install sqlite=3.6.23
+  105  apt-get install sqlite3
+  106  exit
+  107  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' 
+  108  apt-get update && apt-get install --only-upgrade bash
+  109  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' bash --norc -c ':' 2>/dev/null;
+  110  more /etc/apt/sources.list 
+  111  apt-get install -y bash
+  112  emacs /etc/apt/sources.list 
+  113  apt-get update && apt-get install --only-upgrade bash
+  114  env x='() { :;}; echo "WARNING: SHELLSHOCK DETECTED"' bash --norc -c ':' 2>/dev/null;
+  115  passwd rawa1
+  116  exit
+  117  emacs /etc/network/interfaces
+  118  emacs /etc/network/interfaces
+  119  emacs /etc/network/interfaces
+  120  more /etc/network/interfaces
+  121  service networking restart
+  122  exit
+  123  history |grep 8080
+  124  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  125  ls
+  126  ps aux
+  127  exit
+  128  apt-get install libsigsegv-dev
+  129  apt-get install libgmp3-dev libsigsegv-dev openssl libssl-dev libncurses5-dev git make exuberant-ctags automake autoconf libtool g++
+  130  exit
+  131  apt-get install mercurial
+  132  hg
+  133  exit
+  134  vi /etc/ssh/sshd_config
+  135  emacs /etc/ssh/sshd_config
+  136  /etc/init.d/ssh restart
+  137  history |grep 8080
+  138  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  139  exit
+  140  apt-get update
+  141   apt-get install mercurial
+  142  hg -v
+  143  hg --version
+  144  exit
+  145  emacs /etc/resolv.confnslookup code.google.com[A
+  146  nslookup code.google.com
+  147  exit
+  148  apt-get install golang git mercurial
+  149  apt-get install golang
+  150  df
+  151  apt-get update
+  152  apt-get install golang
+  153  apt-get upgrade
+  154  apt-get install golang
+  155  apt-get upgrade
+  156  apt-get update
+  157  apt-get update
+  158  apt-get update
+  159  apt-get upgrade
+  160  apt-get install golang
+  161  cat /etc/apt/sources.list
+  162   add-apt-repository ppa:niemeyer/ppa
+  163  locale-gen en_US.UTF-8
+  164  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  165  dpkg-reconfigure locales
+  166  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  167  export LANGUAGE=en_US.UTF-8
+  168  export LANG=en_US.UTF-8
+  169  export LC_ALL=en_US.UTF-8
+  170  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4 
+  171  shasum 3a19d9ca140c32e05e93c71e46f97151f5d517fc.mp4
+  172  exit
+  173  history |grep 8080
+  174  lynx 127.0.0.1:8082
+  175  lynx 127.0.0.1:8082/ipfs
+  176  lynx 127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  177  lynx http://185.32.124.153:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  178  lynx http://planet.sl4.eu:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  179  lynx http://127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  180  history |grep 8080
+  181  history |grep 8081
+  182  history |grep 8082
+  183  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 2805 -j REDIRECT --to-port 8082
+  184  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  185  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  186  lynx http://127.0.0.1:2805/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  187  lynx http://127.0.0.1:2805/
+  188  lynx http://127.0.0.1:8082/ipfs/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ
+  189  lynx http://185.32.124.153:2805/
+  190  lynx http://185.32.124.153:8082
+  191  lynx http://185.32.124.153:8082/
+  192  /sbin/iptables -l
+  193  /sbin/iptables -L
+  194  /sbin/iptables -A INPUT -i eth0 -p tcp --dport 8082 -j ACCEPT
+  195  lynx http://185.32.124.153:8082
+  196  lynx http://127.0.0.1:8082
+  197  service iptables save
+  198  nmap
+  199  netstat
+  200  more /etc/iproute2/
+  201  iptables
+  202  iptables -L
+  203  history 
+  204  /sbin/iptables -A INPUT -p tcp --dport 8082 -j ACCEPT
+  205  lynx http://127.0.0.1:8082
+  206  lynx http://185.32.124.153:8082
+  207  iptables-save 
+  208  /sbin/iptables -A INPUT -p tcp --dport 8084 -j ACCEPT
+  209  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 8084 -j REDIRECT --to-port 8082
+  210  lynx http://185.32.124.153:8084
+  211  lynx http://127.0.0.1:8082
+  212  lynx http://127.0.0.1:8084
+  213  lynx http://127.0.0.1:8082
+  214  ifconfig 
+  215  history 
+  216  ifconfig 
+  217  /sbin/iptables -F
+  218  lynx http://185.32.124.153:8084
+  219  netstat -nap
+  220  netstat -nap|grep 808
+  221  exit
+  222  apt-get update
+  223  apt-get install nodejs
+  224  apt-get upgrade
+  225  apt-get install nodejs
+  226  apt-get install --yes nodejs
+  227  apt-get install curl
+  228  apt-get install curl
+  229  apt-get autoremove
+  230  apt-get install --yes nodejs
+  231  curl -sL https://deb.nodesource.com/setup_5.x | bash -
+  232  apt-get install npm
+  233  exit
+  234  make install
+  235  node
+  236  npm
+  237  exit
+  238  npm install ipscend --global
+  239  ipscend 
+  240  ipscend -v
+  241  ipscend -h
+  242  ipscend -help
+  243  ipscend --help
+  244  exit
+  245  pwd
+  246  make install
+  247  protoc
+  248  make install
+  249  protoc
+  250  package merkledag.pb;
+  251  import "code.google.com/p/gogoprotobuf/gogoproto/gogo.proto";
+  252  option (gogoproto.gostring_all) = true;
+  253  option (gogoproto.equal_all) = true;
+  254  option (gogoproto.verbose_equal_all) = true;
+  255  option (gogoproto.goproto_stringer_all) = false;
+  256  option (gogoproto.stringer_all) =  true;
+  257  option (gogoproto.populate_all) = true;
+  258  option (gogoproto.testgen_all) = true;
+  259  option (gogoproto.benchgen_all) = true;
+  260  option (gogoproto.marshaler_all) = true;
+  261  option (gogoproto.sizer_all) = true;
+  262  option (gogoproto.unmarshaler_all) = true;
+  263  // An IPFS MerkleDAG Link
+  264  message PBLink {
+  265    // multihash of the target object
+  266    optional bytes Hash = 1;
+  267    // utf string name. should be unique per object
+  268    optional string Name = 2;
+  269    // cumulative size of target object
+  270    optional uint64 Tsize = 3;
+  271  }
+  272  // An IPFS MerkleDAG Node
+  273  message PBNode {
+  274    // refs to other objects
+  275    repeated PBLink Links = 2;
+  276    // opaque user data
+  277    optional bytes Data = 1;
+  278  }package merkledag.pb;
+  279  import "code.google.com/p/gogoprotobuf/gogoproto/gogo.proto";
+  280  option (gogoproto.gostring_all) = true;
+  281  option (gogoproto.equal_all) = true;
+  282  option (gogoproto.verbose_equal_all) = true;
+  283  option (gogoproto.goproto_stringer_all) = false;
+  284  option (gogoproto.stringer_all) =  true;
+  285  option (gogoproto.populate_all) = true;
+  286  option (gogoproto.testgen_all) = true;
+  287  option (gogoproto.benchgen_all) = true;
+  288  option (gogoproto.marshaler_all) = true;
+  289  option (gogoproto.sizer_all) = true;
+  290  option (gogoproto.unmarshaler_all) = true;
+  291  // An IPFS MerkleDAG Link
+  292  message PBLink {
+  293    // multihash of the target object
+  294    optional bytes Hash = 1;
+  295    // utf string name. should be unique per object
+  296    optional string Name = 2;
+  297    // cumulative size of target object
+  298    optional uint64 Tsize = 3;
+  299  }
+  300  // An IPFS MerkleDAG Node
+  301  message PBNode {
+  302    // refs to other objects
+  303    repeated PBLink Links = 2;
+  304    // opaque user data
+  305    optional bytes Data = 1;
+  306  ldconfig
+  307  protoc
+  308  exit
+  309  pip
+  310  curl https://bootstrap.pypa.io/get-pip.py
+  311  wget https://bootstrap.pypa.io/get-pip.py 
+  312  curl https://bootstrap.pypa.io/get-pip.py > pip.py
+  313  mv pip.py get-pip.py
+  314  python get-pip.py
+  315  pip
+  316  ls -l
+  317  rm get-pip.py 
+  318  history 
+  319  history > SbOneHistRootLd42bd.txt
+  320  chown 
+  321  chown --help
+  322  ls -l
+  323  chown rawa:rawa SbOneHistRootLd42bd.txt
+  324  ls -l
+  325  pip install PyYAML
+  326  history > SbOneHistRootLd42bd.txt
+  327  ls -l
+  328  exit
+  329  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  330  exit
+  331  history 
+  332  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  333  exit
+  334  l
+  335  ls
+  336  ./logmein-hamachi-2.1.0.165-x64/install.sh 
+  337  ls
+  338  ls logmein-hamachi-2.1.0.165-x64/
+  339  ls -al logmein-hamachi-2.1.0.165-x64/
+  340   logmein-hamachi-2.1.0.165-x64/hamachid
+  341   logmein-hamachi-2.1.0.165-x64/hamachi-init 
+  342  ls
+  343  dpkg
+  344  wget https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_i386.deb
+  345  wget --no-check-certificate https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_i386.deb
+  346  dpkg logmein-hamachi_2.1.0.165-1_i386.deb 
+  347  dpkg -i logmein-hamachi_2.1.0.165-1_i386.deb 
+  348  hamachi 
+  349  hamachi login
+  350   [email@example.com] using your LogMeIn ID (email address)
+  351  hamachi attach wasserfuhr@yahoo.com
+  352  hamachi attach wasserfuhr@yahoo.com
+  353  hamachi join numetrisAG
+  354  ping 25.32.220.135
+  355  hamachi help
+  356  hamachi list
+  357  exit
+  358  emacs /var/lib/logmein-hamachi/h2-engine-override.cfg
+  359  /etc/init.d/logmein-hamachi restart
+  360  exit
+  361  npm i -g ipld-cli
+  362  ipld
+  363  ipld -h
+  364  ipld --help
+  365  ipld add -help
+  366  ipld add -h
+  367  ipld add -h
+  368  npm i -g ipld-cli
+  369  npm -v
+  370  history |grep uname
+  371  uname
+  372  uname -?
+  373  uname --help
+  374  uname -a
+  375  npm install -g n
+  376  npm -v
+  377  npm cache clean -f
+  378  npm install -g n
+  379  cat /etc/debian_version
+  380  python -v
+  381  exit
+  382  pktstat -n
+  383  tcpd -?
+  384  netstat -?
+  385  netstat -l
+  386  apt-get update
+  387  apt-get update
+  388  apt-get install wireshark
+  389  apt-get install wireshark --fix-missing
+  390  exit
+  391  emacs /etc/apt/sources.list
+  392  apt-get install wireshark --fix-missing
+  393  emacs /etc/apt/sources.list
+  394  apt-get install wireshark --fix-missing
+  395  emacs /etc/apt/sources.list
+  396  apt-get install wireshark --fix-missing
+  397  emacs /etc/apt/sources.list
+  398  apt-get install wireshark --fix-missing
+  399  emacs /etc/apt/sources.list
+  400  apt-get install wireshark --fix-missing
+  401  apt-get install wireshark --fix-missing
+  402  history
+  403  apt-get update
+  404  emacs /etc/apt/sources.list
+  405  apt-get update
+  406  apt-get install wireshark
+  407  wireshark 
+  408  dumpcap 
+  409  more /tmp/wiresharkXXXXVmBOuw 
+  410  #more /tmp/wiresharkXXXXVmBOuw 
+  411  exit
+  412  more /tmp/wiresharkXXXXVmBOuw |xxd|more
+  413  #rawshark 
+  414  cat /tmp/wiresharkXXXXVmBOuw |rawshark|more
+  415  rawshark -r /tmp/wiresharkXXXXVmBOuw |more
+  416  capinfos /tmp/wiresharkXXXXVmBOuw 
+  417  capinfos /tmp/wiresharkXXXXVmBOuw  -T
+  418  capinfos -T /tmp/wiresharkXXXXVmBOuw 
+  419  #capinfos -T /tmp/wiresharkXXXXVmBOuw
+  420  rawshark -?
+  421  rawshark -v
+  422  history 
+  423  apt-get install tshark
+  424  tshark 
+  425  tshark -?
+  426  tshark -x
+  427  tshark -?
+  428  tshark -- not port 22
+  429  tshark -- not port 22 -- not arp
+  430  tshark -- not port 22 not arp
+  431  tshark -- not port 22 and not arp
+  432  tshark -x -- not port 22 and not arp
+  433  tshark
+  434  tshark -?
+  435  ifconfig 
+  436  ifnames 
+  437  ifnames -?
+  438  ifnames --he
+  439  ls
+  440  l
+  441  ls
+  442  ls
+  443  ls
+  444  ls -al
+  445  more .appcfg_cookies 
+  446  more .appcfg_oauth2_tokens
+  447  more .appcfg_oauth2_tokens_java 
+  448  apt-get install sendip
+  449  #apt-get install sendip
+  450  #sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  451  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  452  exit
+  453  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  454  history 
+  455  date
+  456  git status
+  457  emacs Net.java
+  458  history
+  459  javac Net.java 
+  460  git status
+  461  history 
+  462  git pull
+  463  git commit -am "+"
+  464  exit
+  465  git pull
+  466  git push
+  467  #`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
+  468  #curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  469  curl https://knot-net.appspot.com/at`;echo at$a;history > at$a.SbOneSuHist.txt
+  470  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > at$a.SbOneSuHist.txt
+  471  git add at2131841.1e.SbOneSuHist.txt 
+  472  git commmit -am +"at2131841.1e.SbOneSuHist.txt"
+  473  git commit -am +"at2131841.1e.SbOneSuHist.txt"
+  474  git status
+  475  emacs .gitignore
+  476  git add .gitignore
+  477  git commit -am "+.gitignore"
+  478  git status
+  479  git push
+  480  ls
+  481  ls -l
+  482  git status
+  483  rm *
+  484  ls
+  485  ls -al
+  486  rm .gitignore 
+  487  rm .git/*
+  488  rm -Rf .git/*
+  489  cd ..
+  490  rmdir hn4j/
+  491  ls hn4j/
+  492  ls -al hn4j
+  493  rmdir hn4j/.git/
+  494  rmdir hn4j/
+  495  exit
+  496  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  497  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  498  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  499  exit
+  500  history 
+  501  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  502  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  503  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  504  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  505  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  506  history |grep Sb
+  507  #curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  508  curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+
+  509  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  510  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
