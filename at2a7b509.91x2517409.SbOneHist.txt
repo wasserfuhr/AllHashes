@@ -1,0 +1,500 @@
+  106  h=288;i=289;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  107  h=289;i=28a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  108  h=28a;i=28b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  109  h=28b;i=28c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  110  h=28c;i=28d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  111  h=28d;i=28e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  112  h=28e;i=28f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  113  h=28f;i=290;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  114  hig a=
+  115  a=knot-net
+  116  h=280;i=281;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  117  h=281;i=282;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  118  h=282;i=283;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  119  h=283;i=284;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  120  h=284;i=285;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  121  h=285;i=286;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  122  h=286;i=287;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  123  h=287;i=288;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  124  h=288;i=289;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  125  h=289;i=28a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  126  h=28a;i=28b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  127  h=28b;i=28c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  128  h=28c;i=28d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  129  h=28d;i=28e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  130  h=28e;i=28f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  131  h=28f;i=290;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  132  a=dresdenlabs
+  133  h=280;i=281;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  134  h=281;i=282;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  135  h=282;i=283;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  136  h=283;i=284;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  137  h=284;i=285;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  138  h=285;i=286;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  139  h=286;i=287;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  140  h=287;i=288;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  141  h=288;i=289;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  142  h=289;i=28a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  143  h=28a;i=28b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  144  h=28b;i=28c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  145  h=28c;i=28d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  146  h=28d;i=28e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  147  h=28e;i=28f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  148  h=28f;i=290;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  149  hig a=
+  150  ls 28*
+  151  a=floatingboat2013
+  152  h=280;i=281;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  153  h=281;i=282;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  154  h=282;i=283;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  155  h=283;i=284;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  156  h=284;i=285;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  157  h=285;i=286;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  158  h=286;i=287;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  159  h=287;i=288;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  160  h=288;i=289;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  161  h=289;i=28a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  162  h=28a;i=28b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  163  h=28b;i=28c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  164  h=28c;i=28d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  165  h=28d;i=28e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  166  h=28e;i=28f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  167  h=28f;i=290;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  168  ls 28*
+  169  ls -l 28*
+  170  hig sha
+  171  hig bt
+  172  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;sha256sum * > ~/git/AllHashes/$at.RqLogHash.txt
+  173  cd ~/git/AllHashes/
+  174  git status
+  175  git add at286c22d.0dx1180655.SbOneHist.txt at286c629.0ex1ea5939.SbOneHist.txt
+  176  git pull
+  177  git commit -am "+at286c22d.0dx1180655.SbOneHist.txt +at286c629.0ex1ea5939.SbOneHist.txt"
+  178  git push
+  179  hit bt
+  180  hig bt
+  181  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  182  #at2910c37.dbxca97bd2
+  183  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
+  184  df
+  185  exit
+  186  hig bt
+  187  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  188  #at2919f57.03x1790d35
+  189  cd git/AllHashes/
+  190  #ls .RqLogHash.txt 
+  191  git status
+  192  mv .RqLogHash.txt at2919f57.03x1790d35.RqLogHash.txt
+  193  git add at291142d.77xf93b0db.SbOneHist.txt at2919f57.03x1790d35.RqLogHash.txt
+  194  git commit -m "+at291142d.77xf93b0db.SbOneHist.txt +at2919f57.03x1790d35.RqLogHash.txt"
+  195  git push
+  196  ls
+  197  curl -s --user 'key-fc1b979178be00c42abe0e3f7f5eb120'\#sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org
+  198  curl -s --user 'key-fc1b979178be00c42abe0e3f7f5eb120' -F from='mailgun@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org'
+  199  #curl -s --user 'key-fc1b979178be00c42abe0e3f7f5eb120' -F from='mailgun@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org'
+  200  pwd
+  201  cd git/
+  202  ls
+  203  cd hn4j/
+  204  git pull
+  205  ./snd.sh
+  206  cat snd.sh 
+  207  git pull
+  208  ./snd.sh
+  209  man curl
+  210  emacs snd.sh 
+  211  ./snd.sh 
+  212  emacs snd.sh
+  213  ./snd.sh
+  214  cat snd.sh 
+  215  emacs snd.sh
+  216  hig co
+  217  git pull
+  218  git git commit -am "~snd.sh"
+  219  git commit -am "~snd.sh"
+  220  ./snd.sh w
+  221  ./snd.sh wasserfuhr@yahoo.com
+  222  emacs snd.sh
+  223  git commit -am "~snd.sh"
+  224  ./snd.sh wasserfuhr@yahoo.com
+  225  ./snd.sh ekcuop@gmail.com
+  226  hig bt
+  227  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  228  a=`curl https://floatingboat2013.appspot.com/btime`;echo $a
+  229  #at291d864.fdx10a096d
+  230  ls
+  231  git status
+  232  git push
+  233  more flubber.txt 
+  234  git pull
+  235  hig bt
+  236  a=`curl https://floatingboat2013.appspot.com/btime`;echo $a
+  237  #at291fcd5.7fx8be4a13
+  238  exit
+  239  hig bt
+  240  a=`curl https://floatingboat2013.appspot.com/btime`;echo $a
+  241  #at2921339.ecx25f3961
+  242  hig wa
+  243  #./snd
+  244  cd git/hn4j/
+  245  ./snd.sh vanpoucke@mailbox.org
+  246  cd git/hn4j/
+  247  ld
+  248  ls
+  249  git status
+  250  emacs snd.sh
+  251  hig com
+  252  git commit -am "~snd.sh"
+  253  a=`curl https://floatingboat2013.appspot.com/btime`;echo $a
+  254  #at2928a20.1fx27c69f8
+  255  ./snd.sh wasserfuhr@yahoo.com
+  256  ./snd.sh vanpoucke@mailbox.org
+  257  hig bt
+  258  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  259  #at2928c5b.c4x20dc865
+  260  hig his
+  261  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
+  262  cd git/hn4j/
+  263  ls
+  264  git status
+  265  emacs snd.sh
+  266  hig snd
+  267  hig bt
+  268  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  269  #at294f892.f3x1038e3e
+  270  ./snd.sh wasserfuhr@yahoo.com
+  271  #!495
+  272  ./snd.sh vanpoucke@mailbox.org
+  273  ls
+  274  cd git/hn4j/
+  275  hig bt
+  276  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  277  #at2954164.5cx3008f9c
+  278  ls
+  279  emacs snd.sh
+  280  hig snd
+  281  git commit -am "~snd.sh"
+  282  ./snd.sh wasserfuhr@yahoo.com
+  283  cd git/hn4j/
+  284  hig co
+  285  ./snd.sh wasserfuhr@yahoo.com
+  286  emacs snd.sh 
+  287  git commit -am "~snd.sh"
+  288  ./snd.sh wasserfuhr@yahoo.com
+  289  hig snd
+  290  ./snd.sh vanpoucke@mailbox.org
+  291  cd
+  292  ls
+  293  ls in/*zip
+  294  ls -l in/|grep d
+  295  ls in/*zip
+  296  ls -l SpaceDrive/*zip
+  297  unzip -l SpaceDrive/12203fab9c95bd986af82f7d78bac59d355d2b92d3369a69c69cdcd6faf316dc173d.zip
+  298  ls SpaceDrive/*on
+  299  ls in/*on
+  300  more in/MetaHash1.json 
+  301  grep UnWiki in
+  302  grep UnWiki in/*
+  303  ls -l SpaceDrive/*zip
+  304  unzip -l SpaceDrive/*zip|more
+  305  unzip -l SpaceDrive/1220205*zip|more
+  306  ls -l SpaceDrive/*zip
+  307  unzip -l SpaceDrive/122038*zip|more
+  308  ls -l SpaceDrive/*zip
+  309  unzip -l SpaceDrive/12205*zip|more
+  310  unzip -l SpaceDrive/122069*zip|more
+  311  ls in/*zip
+  312  ls -l SpaceDrive/*zip
+  313  unzip -l SpaceDrive/12203*zip|more
+  314  unzip -l SpaceDrive/122038*zip|more
+  315  ls
+  316  hig bt
+  317  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  318  pwd
+  319  zip
+  320  cd in/RqLog/
+  321  zip ../at2956de2.f1x1b73dab_RqLog *
+  322  ls -l ../at2956de2.f1x1b73dab_RqLog 
+  323  mv ../at2956de2.f1x1b73dab_RqLog ../at2956de2.f1x1b73dab_RqLog.zip
+  324  ls -l ../at2956de2.f1x1b73dab_RqLog 
+  325  ls -l ../at2956de2.f1x1b73dab_RqLog.zip
+  326  ls -l /home/rawa/df
+  327  cp ../at2956de2.f1x1b73dab_RqLog.zip /home/rawa/df
+  328  su
+  329  ls
+  330  exit
+  331  history 
+  332  #curl 6ec85.1a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91
+  333  #curl 00000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91>6ec85.hex
+  334  #     0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+  335  hig bt
+  336  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  337  #at2a0f44c.52x58566ef
+  338  #     0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+  339  #curl 00000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91>6ec85.hex
+  340  #h=000000000000000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91;curl>6ec85.hex
+  341  #h=000000000000000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91;curl https://blockchain.info/block-index/$h.hex>bh6ec85.hex
+  342  h=000000000000000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91;curl https://blockchain.info/block-index/$h.hex>bh6ec85.hex
+  343  cat bh6ec85.hex 
+  344  h=000000000000000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91;curl https://blockchain.info/block-index/$h.hex>bh6ec85?format=hex
+  345  more bh6ec85.hex
+  346  h=000000000000000001a6ab9395f68cdcade6887cbb75216403b378be0a3d3b91;curl https://blockchain.info/block-index/$h?format=hex>bh6ec85.hex
+  347  more bh6ec85.hex
+  348  h=104e87f09bbd9e6c823779f4d6cb4e1dd285b3181ecd510;curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec8c.hex
+  349  ls
+  350  ls -l
+  351  hig bt
+  352  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  353  #at2a103f3.93x104e87f
+  354  h=1353d114be38f533e3a26f6408694fb8fe9d1686962721f
+  355  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec91.hex
+  356  ls -l
+  357  ls *=hex
+  358  rm *=hex
+  359  cat LoveIn.txt 
+  360  mv PowerBank\ at21ed2a7.53x2c536e7.webm in
+  361  mv EcbFx2b84c08a21c998782eda68bf5fe9ae3c.xml in
+  362  mv LoveIn.txt in
+  363  ls -l
+  364  df
+  365  #curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec90.hex
+  366  history 
+  367  h=57d6c5b8c7f9ab12dbd951f44ae35b5acf6aa83451f628
+  368  hig h=
+  369  h=057d6c5b8c7f9ab12dbd951f44ae35b5acf6aa83451f628
+  370  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec90.hex
+  371  ls -l
+  372  h=057d6c5b8c7f9ab12dbd951f44ae35b5acf6aa83451f628
+  373  h=06817cd4a0e38a6f2722e9c6822259ad0c18ee0b572094b
+  374  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec8f.hex
+  375  ls
+  376  ls -l
+  377  h=1088e9c712e43ccee3bbc39441048513afdb281eafdd5c8
+  378  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec8e.hex
+  379  h=0d9a633ec86bf7b41ddf105e8e4b45901b63f2d6e589c6a
+  380  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec8d.hex
+  381  ls -l
+  382  more bh6ec91.hex
+  383  grep git/AllHashes/ pyth
+  384  grep git/AllHashes/* pyth
+  385  grep python git/AllHashes/* 
+  386  ls
+  387  his
+  388  history 
+  389  ls -l
+  390  python
+  391  h=114fa7b302f5c6827263c056e900b8b381e7dcc4b837745
+  392  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec95.hex
+  393  more bh6ec95.hex 
+  394  ls -l
+  395  h=2546c52568098b5b04b1bce62f67bf40540833477937465
+  396  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec96.hex
+  397  h=060cf0753ccf0520f8c1508a133318618c4bc064005b536
+  398  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec94.hex
+  399  h=0256b70422a3d03dbe1b85abe28cf0d58c58d8fdce09997
+  400  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec93.hex
+  401  h=226515bff06593f82902fb680f83de7ba3814366f120ec2
+  402  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec97.hex
+  403  ls -l
+  404  h=1441bdbb63df4bbda6157432d2b8fe20ecceb375ae8c632
+  405  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec92.hex
+  406  ls -l
+  407  h=0539681f6989b2d38090859af012d64c1d6710bfba37a2c
+  408  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec99.hex
+  409  ls -l
+  410  h=00d4f2120a74e7dd6bd21079caab653cca863bb3946317d
+  411  hig h=
+  412  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec98.hex
+  413  ls -l
+  414  more bh6ec99.hex
+  415  more bh6ec98.hex
+  416  more bh6ec97.hex
+  417  more bh6ec98.hex
+  418  more bh6ec99.hex
+  419  more bh6ec96.hex
+  420  more bh6ec94.hex
+  421  more bh6ec93.hex
+  422  more bh6ec92.hex
+  423  h=130f793f22d8587f29c155356704400095ab3d9e199c673
+  424  hig h=
+  425  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec9a.hex
+  426  cat bh6ec9a.hex 
+  427  more bh6ec9a.hex
+  428  h=01b39300dd45bac6eec4e23650e1b33886334ed3d920b30
+  429  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec9b.hex
+  430  more bh6ec9b.hex
+  431  h=0a7493324793f1dc2671032724db35499256a56f9a16e66
+  432  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ec9c.hex
+  433  ls -l
+  434  hig bt
+  435  523
+  436  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  437  #at2a175cc.e6x1f984db
+  438  hig his
+  439  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
+  440  h=1a0083fe962a63152038cb376d780dcc2ccced3211df3ff
+  441  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  442  #at2a24c17.50x1a0083f
+  443  curl https://blockchain.info/block-index/00000000000000000$h?format=bin>bh6ed11.bin
+  444  ls -l
+  445  xxd bh6ed11.bin 
+  446  curl https://blockchain.info/block-index/00000000000000000$h?format=hex>bh6ed11.hex
+  447  echo -n 5a | perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'
+  448  echo -n 5a5958 | perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'
+  449  cp bh6ed11.hex hh
+  450  emacs hh
+  451  split
+  452  man split
+  453  split -b 80 hh
+  454  ls
+  455  split -b 160 hh
+  456  ls
+  457  more xaa
+  458  more xaa | perl -pe 's/([0-9a-f]{2})/chr hex $1/gie' |xxd
+  459  more xaa | perl -pe 's/([0-9a-f]{2})/chr hex $1/gie' |sha256sum 
+  460  more xaa | perl -pe 's/([0-9a-f]{2})/chr hex $1/gie' |sha256sum |sha256sum 
+  461  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|wc
+  462  cat xaa
+  463  ls -l
+  464  rm xab xac xad xaf xag hh? hh
+  465  ls -l
+  466  rm bh6ed11.bin 
+  467  ls -l
+  468  rm xae
+  469  more xaa
+  470  ls SpaceDrive/*bh
+  471  ls SpaceDrive/*h
+  472  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|wc
+  473  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|xxd
+  474  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  475  echo -n 30c13ed4d3a1029ecbcaad5847b126934c335717ac44ca167c7cfc57f7ac3e83 |perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  476  echo -n 30c13ed4d3a1029ecbcaad5847b126934c335717ac44ca167c7cfc57f7ac3e83 |perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum|xxd -p
+  477  echo -n 30c13ed4d3a1029ecbcaad5847b126934c335717ac44ca167c7cfc57f7ac3e83 |perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  478  echo fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|hexdump -e '"%x"'
+  479  echo fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|hexdump -e '"%x"'
+  480  echo  -nfff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|hexdump -e '"%x"'
+  481  echo -n fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|hexdump -e '"%x"'
+  482  echo -n fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|xxd -p
+  483  echo -n fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|xxd
+  484  echo -n fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|hexdump -e '"%x"'
+  485  echo -n fff31d21d3ceccc2dc80d776b38c035231a662e93f08a0010000000000000000|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|hexdump -e '/1 "%02x"'
+  486  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|wc
+  487  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  488  echo -n 30c13ed4d3a1029ecbcaad5847b126934c335717ac44ca167c7cfc57f7ac3e83 |perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  489  #more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie' > bh
+  490  more xaa
+  491  more xaa|perl -pe 's/([0-9a-f]{2})/chr hex $1/gie' > bh6ed11.bin
+  492  ls -l
+  493  sha256sum bh6ed11.bin
+  494  echo -n 30c13ed4d3a1029ecbcaad5847b126934c335717ac44ca167c7cfc57f7ac3e83 |perl -pe 's/([0-9a-f]{2})/chr hex $1/gie'|sha256sum
+  495  ls -l
+  496  df
+  497  hig bt
+  498  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  499  #at2a28ab6.12x138cddf
+  500  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
+  501  hig bt
+  502  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  503  #at2a7717d.f1xd3eb7e7
+  504  curl https://floatingboat2013.appspot.com/eval/47965006|sort
+  505  curl https://floatingboat2013.appspot.com/eval/53415005|sort
+  506  curl rawa@149-190-47-212:~$ curl https://floatingboat2013.appspot.com/eval/53415005|sort
+  507  #rawa@149-190-47-212:~$ curl https://floatingboat2013.appspot.com/eval/53415005|sort
+  508  100  1462  100  1462    0     0    168      0  0:00:08  0:00:08 --:--:--  2277
+  509  0 181150 HansJoachimFrey
+  510  0 21030 ZigaTurk
+  511  0 8a8c60 SteveJurvetson
+  512  1 27231 HenryHuebchen
+  513  1 2b8c1 DavidAllen
+  514  1 3b901 GordonMoore
+  515  1 4d851 ElonMusk
+  516  2 115a2 HassoPlattner
+  517  2 12b72 FrankWalterSteinmeier
+  518  3 133 GalileoGalilei
+  519  3 1c53 AlanTuring
+  520  3 1e43 VladimirPutin
+  521  3 ad73 HeinrichHeine
+  522  3 bb03 RobbieWilliams
+  523  4 1155af4 BjoernHoecke
+  524  4 14a4 BillGates
+  525  4 1cf724 MarinaMuenkler
+  526  4 252f4 QueenSilvia
+  527  4 5d24 GeorgeClooney
+  528  4 6a604 ThomasJWatson
+  529  5 48d65 RayKurzweil
+  530  5 88a5 IsaacAsimov
+  531  5 a475 DenzelWashington
+  532  5 ac3f5 PeterThiel
+  533  5 f5b5 SebastianThrun
+  534  6 3706 MarissaMayer
+  535  6 4eb6 PsyGangnam
+  536  7 237 AngelaMerkel
+  537  7 3ab7 XiJinping
+  538  7 8d77 MarkZuckerberg
+  539  7 a07 RichardVonWeizsaecker
+  540  8 12b58 TheodorFontane
+  541  8 14948 LudwigBoltzmann
+  542  8 1c88 GustavMahler
+  543  8 aaf8 HeinzZemanek
+  544  9 29a9 KimJongIl
+  545  9 5bb9 FriedrichDuerrenmatt
+  546  9 69959 MelaniaTrump
+  547  a 12c1a MaxHorkheimer
+  548  a 2a DouglasAdams
+  549  b 40b CharlesDarwin
+  550  b ca32b BertiVogts
+  551  c 1018c AnthonyHopkins
+  552  c 16a5c SergeyBrin
+  553  c 4c BarackObama
+  554  c 4dcac NevilleMarriner
+  555  c 9bc KonradAdenauer
+  556  c f5ac UweTellkamp
+  557  d 334d MichelleObama
+  558  d 4d7d SteveJobs
+  559  d 58d MrTitus
+  560  d 85cd LinusTorvalds
+  561  d a1cd MichaelJordan
+  562  d df8d SigmundJaehn
+  563  d f34d HenryMaske
+  564  e 1a1fe ClaudiaCardinale
+  565  e 1c7e JohannesBrahms
+  566  e 1d6fde MichaelSchefczyk
+  567  e 248e FriedrichNietzsche
+  568  e 27830e WolfgangDonsbach
+  569  e 589e DonaldTrump
+  570  f 12e4f StanislawTillich
+  571  f 1a79f HeikoMaas
+  572  f 24af LudwigWittgenstein
+  573  f 788f KarlAlbrecht
+  574  f 8966f PeterDiamandis
+  575  rawa@149-190-47-212:~$ ls
+  576  curl http://www.agrartechnik-sachsen.de/bilder/812192/userupload/Bild_03-3910.jpg
+  577  curl http://www.agrartechnik-sachsen.de/bilder/812192/userupload/Bild_03-3910.jpg|wc
+  578  curl http://www.agrartechnik-sachsen.de/bilder/812192/userupload/Bild_03-3910.jpg|sha256sum
+  579  #d1a32efc03366021159143613feea504d53e1459b1072228200eacc3a7421d5f
+  580  curl https://shattered.it/static/shattered-1.pdf|sha1sum 
+  581  curl https://shattered.it/static/shattered-1.pdf|sha256sum 
+  582  curl https://shattered.it/static/shattered-2.pdf|sha256sum 
+  583  curl https://shattered.it/static/shattered-2.pdf|sha1sum 
+  584  #38762cf7f55934b34d179ae6a4c80cadccbb7f0a
+  585  ls
+  586  hig bt
+  587  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
+  588  cd git/A
+  589  cd git/AllHashes/
+  590  git pull
+  591  git status
+  592  git add at2928c89.a5x20dc865.SbOneHist.txt at2a17601.aex1b53f07.SbOneHist.txt at2a28ac6.7fx138cddf.SbOneHist.txt at2a782ed.f3x35d14b9.SbOneHist.txt
+  593  git comit -am "+at2928c89.a5x20dc865.SbOneHist.txt +at2a17601.aex1b53f07.SbOneHist.txt +at2a28ac6.7fx138cddf.SbOneHist.txt +at2a782ed.f3x35d14b9.SbOneHist.txt"
+  594  git commit -am "+at2928c89.a5x20dc865.SbOneHist.txt +at2a17601.aex1b53f07.SbOneHist.txt +at2a28ac6.7fx138cddf.SbOneHist.txt +at2a782ed.f3x35d14b9.SbOneHist.txt"
+  595  git status
+  596  git push
+  597  curl https://floatingboat2013.appspot.com/rawHead/md0101
+  598  hig bt
+  599  #!502
+  600  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  601  #at2a7a9fc.0fx23020d1
+  602  hig bt
+  603  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  604  ##at2a7b4f5.89x2517409
+  605  at=`curl https://dresdenlabs.appspot.com/btime`;echo $at;history >~/git/AllHashes/$at.SbOneHist.txt
