@@ -1,0 +1,500 @@
+   64  h=1d8;i=1d9;a=dresdenlabs;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   65  h=1d8;i=1d9;a=dresdenlabs;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   66  h=1d8;i=1d9;a=dresdenlabs;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   67  h=1d80;i=184;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   68  h=1d80;i=184;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   69  h=1d84;i=186;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n |wc
+   70  h=1d84;i=186;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   71  h=1d84;i=186;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n
+   72  h=1d80;i=1d84;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   73  h=1d80;i=1d84;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   74  h=1d84;i=1d86;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   75  h=1d84;i=1d86;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   76  h=1d86;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   77  h=1d86;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   78  h=1d7;i=1d8;a=dresdenlabs;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   79  h=1d6;i=1d7;a=dresdenlabs;n=0000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   80  h=1d86;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   81  h=1d86;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   82  h=1d86;i=1d88;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   83  h=1d86;i=1d88;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   84  h=1d86;i=1d87;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   85  h=1d86;i=1d87;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   86  h=1d87;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   87  h=1d87;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   88  h=1d87;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   89  h=1d80;i=1d90;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   90  h=1d50;i=1d60;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   91  h=1d40;i=1d50;a=dresdenlabs;n=000;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   92  h=1d878;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   93  h=1d878;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   94  h=1d870;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   95  h=1d870;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   96  h=1d878;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   97  h=1d870;i=1d878;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   98  h=1d870;i=1d878;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+   99  h=1d870;i=1d878;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  100  h=1d878;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  101  ls /Volumes/SPACEDRIVE1/
+  102  ls /Volumes/SPACEDRIVE1/in/
+  103  history |grep scp
+  104  scp rawa@s.sl4.eu:/home/rawa/in/rq.zip  /Volumes/SPACEDRIVE1/in/
+  105  shasum -a 256 /Volumes/SPACEDRIVE1/in/rq.zip 
+  106  cd /Volumes/SPACEDRIVE1/in/
+  107  mv rq.zip at1d88113.12.RqLog_pre_ad1d0.zip
+  108  pwd
+  109  cd
+  110  shasum -a 256 /Users/rawa/Desktop/Screen\ Shot\ 2016-09-07*
+  111  rm /Users/rawa/Desktop/Screen\ Shot\ 2016-09-07\ at\ 13.13.34\ copy.png #53776c5bd51361470fdc8d8f00d2cb091430e3b76c82f111332c91e806a5d084
+  112  history 
+  113  h=1d878;i=1d900;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  114  h=1d878;i=1d880;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  115  h=1d878;i=1d880;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  116  h=1d870;i=1d880;a=dresdenlabs;n=00;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n|wc
+  117  pwd
+  118  history |grep his
+  119  ls ~/git/
+  120  history 
+  121  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  122  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  123  du -d 99 -k /Volumes/SDRED8/
+  124  ls
+  125  pwd
+  126  history 
+  127  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  128  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  129  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  130  curl https://www.umweltfondsvergleich.de/assets/components/pdf/Enertrag/ENERTRAG-Buergerwind-Verkaufsunterlagen.pdf |wc
+  131  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  132  history 
+  133  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  134  lynx
+  135  curl sl4.eu
+  136  wget sl4.eu
+  137  curl http://sl4.eu
+  138  curl -? http://sl4.eu
+  139  curl --help http://sl4.eu
+  140  curl --help http://sl4.eu |grep redi
+  141  curl -l http://sl4.eu
+  142  curl -l http://sl4.eu/
+  143  curl -L http://sl4.eu
+  144  curl -L sl4.eu
+  145  curl -L sl4.eu/chat
+  146  curl -L dresdenlabs.appspot.co.cp/chat
+  147  curl -L dresdenlabs.appspot.com/chat
+  148  curl -L dresdenlabs.appspot.com/edit
+  149  history 
+  150  history|grep knot
+  151  history|grep echo
+  152  a=`curl https://knot-net.appspot.com/at`;echo $a
+  153  ls ~/git/
+  154  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  155  history
+  156  date
+  157  ls -l
+  158  more *t
+  159  more *js
+  160  ls -l
+  161  ls Documents/
+  162  ls -al Documents/
+  163  ls -al Desktop/
+  164  df
+  165  df -?
+  166  df -b
+  167  man df
+  168  BLOCKSIZE=2;df
+  169  man df
+  170  df -k
+  171  history
+  172  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  173  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  174  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  175  pwd
+  176  cd git/AllHashes/
+  177  git pull
+  178  git status
+  179  git add at1db241f.0e.BmHist.txt at21d5700.3f.BmHist.txt at2374b7b.9f.BmHist.txt
+  180  git commit -m "+at1db241f.0e.BmHist.txt +at21d5700.3f.BmHist.txt +at2374b7b.9f.BmHist.txt"
+  181  git push
+  182  history|grep inf
+  183  his
+  184  pwd
+  185  grep infora *Bm*
+  186  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > ~/at$a.InfoRadio.mp3
+  187  history 
+  188  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  189  ls -l ~/at*.InfoRadio.mp3
+  190  shasum -a 256 ~/at*.InfoRadio.mp3
+  191  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  192  ls
+  193  ls in
+  194  cd
+  195  ls in
+  196  ls -l
+  197  ls -l in
+  198  his
+  199  history 
+  200  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > ~/in/at$a.InfoRadio.mp3
+  201  ls -l in/at23*
+  202  mv at23765c4.10.InfoRadio.mp3 in/
+  203  shasum -a 256 in/at237aa76.e8.InfoRadio.mp3 
+  204  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  205  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  206  history 
+  207  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  208  shasum -a 256 /Volumes/UNTITLED/DCIM/100LGDSC/*
+  209  shasum -a 256 /Volumes/UNTITLED/DCIM/100LGDSC/* > DiebesBackUpCam.txt
+  210  shasum -a 256 /Volumes/UNTITLED/SoundRecorder/* > DiebesBackUpSound.txt
+  211  shasum -a 256 DiebesBackUp*
+  212  ls
+  213  pwd
+  214  ls -l Desktop/
+  215  ls
+  216  ls -l
+  217  mv DiebesBackUp git/AllHashes/
+  218  mv DiebesBackUp* git/AllHashes/
+  219  cd git/AllHashes/
+  220  git status
+  221  git add DiebesBackUpCam.txt DiebesBackUpSound.txt
+  222  git commit -m "+DiebesBackUpCam.txt +DiebesBackUpSound.txt"
+  223  git pull
+  224  git push
+  225  pwd
+  226  history 
+  227  date;a=`curl https://floatingboat2013.appspot.com/at`;echo at$a;curl http://edge13229.icecast.akadns.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m > ~/in/at$a.InfoRadio.mp3
+  228  history|grep 708
+  229  history|grep at
+  230  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  231  shasum -a 256 ~/in/at239f708.e4.InfoRadio.mp3
+  232  ls -l ~/in/at239f708.e4.InfoRadio.mp3
+  233  history 
+  234  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  235  history 
+  236  history|grep his
+  237  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  238  history|grep at
+  239  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  240  git status
+  241  git add at23a3182.95.BmHist.txt
+  242  git commit -m "+at23a3182.95.BmHist.txt"
+  243  git push
+  244  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  245  history 
+  246  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  247  git status
+  248  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  249  git add at23c970b.e7.BmHist.txt 
+  250  git commit -m"+at23c970b.e7.BmHist.txt"
+  251  git push
+  252  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  253  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  254  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  255  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  256  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  257  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  258  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  259  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  260  hig
+  261  history 
+  262  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  263  history 
+  264  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  265  ls /Volumes/
+  266  ls /Volumes/SPACEDRIVE1/
+  267  cd /Volumes/SPACEDRIVE1/
+  268  mv 1220??* 1220
+  269  mv 12200?* 1220
+  270  mv 12201?* 1220
+  271  mv 12202?* 1220
+  272  mv 1220?* 1220
+  273  mv 12203?* 1220
+  274  mv 12204?* 1220
+  275  mv 12205?* 1220
+  276  mv 12206?* 1220
+  277  mv 12207?* 1220
+  278  mv 12208?* 1220
+  279  mv 1220?* 1220
+  280  ls
+  281  history 
+  282  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  283  cd
+  284  history 
+  285  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  286  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  287  a=`curl https://dresdenlabs.appspot.com/btime`;echo at$a
+  288  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  289  history
+  290  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  291  ls
+  292  pwd
+  293  history 
+  294  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  295  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  296  cd git/
+  297  git status
+  298  ls
+  299  cd AllHashes/
+  300  git status
+  301  git add at263f7a8.1b.BmHist.txt at263f7d5.94x8fd25b5.BmHist.txt 
+  302  git pull
+  303  git status
+  304  git commit -am"+at263f7a8.1b.BmHist.txt +at263f7d5.94x8fd25b5.BmHist.txt" 
+  305  git status
+  306  git push
+  307  ls /Volumes/SPACEDRIVE1/
+  308  ls /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  309  history 
+  310  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  311  history|grep at
+  312  history|grep 256
+  313  shasum -a 256 /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  314  ls -l /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  315  md5 /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  316  crc32 /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm 
+  317  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm
+  318  cd
+  319  ls
+  320  cd Desktop/
+  321  ls
+  322  cd ScreenCastifyBorgMac/
+  323  shasum -a at263f607.72x2b070d7\ ZeroOne.webm 
+  324  shasum -a 256 at263f607.72x2b070d7\ ZeroOne.webm 
+  325  shasum -a *
+  326  shasum -a 256 *
+  327  pwd
+  328  cd ..
+  329  history 
+  330  history|grep at
+  331  history|grep du
+  332  du -k -d 1 /Users/rawa/
+  333  du -k -d 1 /Users/rawa/Desktop/
+  334  mv ScreenCastifyBorgMac/ /Volumes/SPACEDRIVE1/
+  335  du -k -d 1 /Users/rawa/
+  336  du -k -d 1 /Users/rawa/
+  337  df
+  338  df
+  339  du -k -d 1 /Users/rawa/
+  340  du -k -d 1 /Users/rawa/
+  341  du -k -d 1 /Users/rawa/Library/
+  342  du -k -d 1 /Users/rawa/Library/Application\ Support/
+  343  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/
+  344  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/Chrome/
+  345  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/Chrome/Default/
+  346  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/Chrome/Default/
+  347  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/Chrome/Default/File\ System/
+  348  du -k -d 1 /Users/rawa/Library/Application\ Support/Google/Chrome/Default/File\ System/
+  349  history 
+  350  du -k -d 1 /Users/rawa/
+  351  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Volumes/SPACEDRIVE1/at261e504.a1x175f7b9_vid_2_1_2017_at_17-34-15.webm
+  352  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome /Users/rawa/Desktop/at26423b5.65x2c05eda.at264130c.2dx31cd16f_vid_4_1_2017_at_9-14-3.webm 
+  353  df
+  354  du -k -d 1 /Users/rawa/
+  355  ls /Volumes/
+  356  history 
+  357  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  358  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  359  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  360  df
+  361  df
+  362  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  363  history 
+  364  history|grep at
+  365  history|grep his
+  366  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  367  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  368  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  369  df
+  370  rm DELETEat264130c.2dx31cd16f_vid_4_1_2017_at_9-14-3.webm 
+  371  df
+  372  df
+  373  df
+  374  his
+  375  history 
+  376  history|grep at
+  377  history|grep du
+  378  du -k -d 1 /Users/rawa/
+  379  history|grep his
+  380  history|grep at
+  381  history|grep bt
+  382  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  383  ls
+  384  history|grep at
+  385  history|grep Bm
+  386  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  387  du -k -d 1 /Users/rawa/
+  388  df
+  389  history|grep at
+  390  history|grep cu
+  391  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  392  df
+  393  history|grep sha
+  394  shasum -a 256 AUD0480.3gp
+  395  history|grep at
+  396  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  397  pwd
+  398  a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  399  cd
+  400  cd git/AllHashes/
+  401  git pull
+  402  git push
+  403  git status
+  404  git add at26479f4.cfxd919128.BmHist.txt at2655db5.bdx23270ab.BmHist.txt at2684e4a.b2.BmHist.txt
+  405  git co -am"at26479f4.cfxd919128.BmHist.txt +at2655db5.bdx23270ab.BmHist.txt +at2684e4a.b2.BmHist.txt"
+  406  git commit -am"at26479f4.cfxd919128.BmHist.txt +at2655db5.bdx23270ab.BmHist.txt +at2684e4a.b2.BmHist.txt"
+  407  history
+  408  git push
+  409  cd
+  410  cd Desktop/
+  411  shasum Screen\ Shot\ 2017-01-05\ at\ 02.31.08*a
+  412  shasum AUD0464*
+  413  ls /Volumes/
+  414  history 
+  415  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  416  a=`curl https://knot-net.appspot.com/btime`;echo at$a
+  417  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  418  hig
+  419  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;at2ab60d5.b6x1afbfe1
+  420  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  421  pw
+  422  pws
+  423  pwd
+  424  cd ../git/AllHashes/
+  425  git status
+  426  git add at2ab611f.3cx1afbfe1.BmHist.txt 
+  427  git pull
+  428  pwd
+  429  emacs TrumpView.html
+  430  git add TrumpView.html 
+  431  git commit -am "+TrumpView.html" 
+  432  emacs TrumpView.html
+  433  git commit -am "~TrumpView.html" 
+  434  emacs TrumpView.html
+  435  git commit -am "~TrumpView.html" 
+  436  history 
+  437  emacs TrumpView.html;git commit -am "~TrumpView.html" 
+  438  ls
+  439  pwd
+  440  git status
+  441  git pull
+  442  git push
+  443  ls
+  444  ls
+  445  history 
+  446  ls /Volumes/UNTITLED/
+  447  ls -l /Volumes/UNTITLED/
+  448  shasum -a 256 /Volumes/UNTITLED
+  449  shasum -a 256 /Volumes/UNTITLED/*
+  450  shasum -a 256 /Volumes/SpaceLoop1/*
+  451  cd /Volumes/SpaceLoop1/
+  452  shasum -a 256 *
+  453  cd at28e78c6.c0x2695582_SpaceLoop1/
+  454  shasum -a 256 *
+  455  ls -l
+  456  cd ..
+  457  ls -l
+  458  d /Volumes/SPACEDRIVE1/
+  459  cd /Volumes/SPACEDRIVE1/
+  460  ls
+  461  cd at2ab6162.e9x1afbfe1_SpaceLoopOnDOnAchtByBorgMac/
+  462  ls
+  463  ls -l
+  464  shasum -a 256 *
+  465  cd at28e78c6.c0x2695582_SpaceLoop1/
+  466  shasum -a 256 *
+  467  pwd
+  468  ls -l
+  469  cd /Volumes/SdGb64/
+  470  ls
+  471  ls /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/
+  472  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM*
+  473  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM1*
+  474  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM2*
+  475  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM21*
+  476  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM22*
+  477  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM*
+  478  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM2*
+  479  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM29*
+  480  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM28*
+  481  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM27*
+  482  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM26*
+  483  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM25*
+  484  ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM3*
+  485  his
+  486  history 
+  487  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a; ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM25*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM26*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM27*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM28*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM29*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM3* >~/git/AllHashes/$a.SdGb64Ls.txt
+  488  ls ~/git/AllHashes/
+  489  ls ~/git/AllHashes/*Ls*
+  490  more ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM25*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM26*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM27*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM28*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM29*;ls -l /Volumes/SPACEDRIVE1/at2ab62ac.cfx1afbfe1_SdGb64/DCIM/100LGDSC/CAM3*
+  491  ls ~/git/AllHashes/*Ls*
+  492  cd /Users/rawa/git/AllHashes/
+  493  more at2aba1f5.c8x10bae98.SdGb64Ls.txt 
+  494  more at2aba1f5.c8x10bae98.SdGb64Ls.txt 
+  495  ls /Users/rawa/
+  496  ls -l /Users/rawa/
+  497  ls -l /Users/rawa/Desktop/
+  498  rm /Users/rawa/Desktop/at2aad5cf.65x724891a_vid_27_2_2017_at_1-26-25.webm 
+  499  rm /Users/rawa/Desktop/trump.m4v 
+  500  du /Volumes/SDBLUE8/
+  501  rmdir /Volumes/exFat127GB/as
+  502  rmdir /Volumes/exFat127GB/New\ Folder/
+  503  ll /Volumes/exFat127GB/at2a12db6.c0x1b39300_CaptureCast/
+  504  ls -l /Volumes/exFat127GB/at2a12db6.c0x1b39300_CaptureCast/
+  505  l /Volumes/
+  506  ls /Volumes/
+  507  mkdir /Volumes/exFat127GB/as
+  508  shasum -a 256 /Volumes/exFat127GB/*webm
+  509  cd /Volumes/exFat127GB/
+  510  mv at2698267.51x300ed26_vid_8_1_2017_at_12-11-32.webm as/sh365ee5fc_at2698267.51x300ed26_vid_8_1_2017_at_12-11-32.webm
+  511  mv at2740048.63x125b978_vid_16_1_2017_at_11-11-18.webm as/shd9cdf426_at2740048.63x125b978_vid_16_1_2017_at_11-11-18.webm
+  512  mv at27c17a2.4axbf765b4 _vid_22_1_2017_at_14-28-2.webm as/shc9027c9a_at27c17a2.4axbf765b4 _vid_22_1_2017_at_14-28-2.webm
+  513  mv at27c17a2.4axbf765b4 _vid_22_1_2017_at_14-28-2.webm as/shc9027c9a_at27c17a2.4axbf765b4 _vid_22_1_2017_at_14-28-2.webm
+  514  mv at27c17a2.4axbf765b4_vid_22_1_2017_at_14-28-2.webm as/shc9027c9a_at27c17a2.4axbf765b4 _vid_22_1_2017_at_14-28-2.webm
+  515  mv at27c17a2.4axbf765b4\ _vid_22_1_2017_at_14-28-2.webm as/shc9027c9a_at27c17a2.4axbf765b4_vid_22_1_2017_at_14-28-2.webm
+  516  ls -l as
+  517  ls -l
+  518  mkdir 1220
+  519  mv 1220? 1220
+  520  mv 1220?* 1220
+  521  ls -l
+  522  ll *RE*
+  523  ls *RE*
+  524  mkdir in
+  525  mv 1220/ in 
+  526  mv ???* in
+  527  ls -l
+  528  ls in
+  529  mv c in
+  530  ls /Volumes/
+  531  osxfuse
+  532  pwd
+  533  shasum -a 256 as
+  534  shasum -a 256 as/*
+  535  ls in
+  536  ls in/TerraDrive/
+  537  ls in/NoWinVolume/
+  538  du
+  539  du --depth 2
+  540  du --depth=2
+  541  du -?
+  542  du -H
+  543  pwd
+  544  ls
+  545  ls -l
+  546  ls -al
+  547  df
+  548  df
+  549  pwd
+  550  cd
+  551  shasum -a 256 /Volumes/ExFat1/as/
+  552  shasum -a 256 /Volumes/ExFat1/as/*
+  553  shasum -a 256 /Volumes/ExFat1/as/a*
+  554  ls -l /Volumes/ExFat1/as/a*
+  555  ls -l /Volumes/ExFat1/as/a*
+  556  ls -l /Volumes/ExFat1/as/a*
+  557  ls -l /Volumes/ExFat1/as/a*
+  558  history 
+  559  #a=`curl https://knot-net.appspot.com/at`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
+  560  a=`curl https://knot-net.appspot.com/at`;echo $a
+  561  a=`curl https://knot-net.appspot.com/btime`;echo $a
+  562  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  563  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/at$a.BmHist.txt
