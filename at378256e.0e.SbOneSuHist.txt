@@ -1,0 +1,500 @@
+  115  ls -l
+  116  chown rawa:rawa SbOneHistRootLd42bd.txt
+  117  ls -l
+  118  pip install PyYAML
+  119  history > SbOneHistRootLd42bd.txt
+  120  ls -l
+  121  exit
+  122  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  123  exit
+  124  history 
+  125  /sbin/iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  126  exit
+  127  l
+  128  ls
+  129  ./logmein-hamachi-2.1.0.165-x64/install.sh 
+  130  ls
+  131  ls logmein-hamachi-2.1.0.165-x64/
+  132  ls -al logmein-hamachi-2.1.0.165-x64/
+  133   logmein-hamachi-2.1.0.165-x64/hamachid
+  134   logmein-hamachi-2.1.0.165-x64/hamachi-init 
+  135  ls
+  136  dpkg
+  137  wget https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_i386.deb
+  138  wget --no-check-certificate https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_i386.deb
+  139  dpkg logmein-hamachi_2.1.0.165-1_i386.deb 
+  140  dpkg -i logmein-hamachi_2.1.0.165-1_i386.deb 
+  141  hamachi 
+  142  hamachi login
+  143   [email@example.com] using your LogMeIn ID (email address)
+  144  hamachi attach wasserfuhr@yahoo.com
+  145  hamachi attach wasserfuhr@yahoo.com
+  146  hamachi join numetrisAG
+  147  ping 25.32.220.135
+  148  hamachi help
+  149  hamachi list
+  150  exit
+  151  emacs /var/lib/logmein-hamachi/h2-engine-override.cfg
+  152  /etc/init.d/logmein-hamachi restart
+  153  exit
+  154  npm i -g ipld-cli
+  155  ipld
+  156  ipld -h
+  157  ipld --help
+  158  ipld add -help
+  159  ipld add -h
+  160  ipld add -h
+  161  npm i -g ipld-cli
+  162  npm -v
+  163  history |grep uname
+  164  uname
+  165  uname -?
+  166  uname --help
+  167  uname -a
+  168  npm install -g n
+  169  npm -v
+  170  npm cache clean -f
+  171  npm install -g n
+  172  cat /etc/debian_version
+  173  python -v
+  174  exit
+  175  pktstat -n
+  176  tcpd -?
+  177  netstat -?
+  178  netstat -l
+  179  apt-get update
+  180  apt-get update
+  181  apt-get install wireshark
+  182  apt-get install wireshark --fix-missing
+  183  exit
+  184  emacs /etc/apt/sources.list
+  185  apt-get install wireshark --fix-missing
+  186  emacs /etc/apt/sources.list
+  187  apt-get install wireshark --fix-missing
+  188  emacs /etc/apt/sources.list
+  189  apt-get install wireshark --fix-missing
+  190  emacs /etc/apt/sources.list
+  191  apt-get install wireshark --fix-missing
+  192  emacs /etc/apt/sources.list
+  193  apt-get install wireshark --fix-missing
+  194  apt-get install wireshark --fix-missing
+  195  history
+  196  apt-get update
+  197  emacs /etc/apt/sources.list
+  198  apt-get update
+  199  apt-get install wireshark
+  200  wireshark 
+  201  dumpcap 
+  202  more /tmp/wiresharkXXXXVmBOuw 
+  203  #more /tmp/wiresharkXXXXVmBOuw 
+  204  exit
+  205  more /tmp/wiresharkXXXXVmBOuw |xxd|more
+  206  #rawshark 
+  207  cat /tmp/wiresharkXXXXVmBOuw |rawshark|more
+  208  rawshark -r /tmp/wiresharkXXXXVmBOuw |more
+  209  capinfos /tmp/wiresharkXXXXVmBOuw 
+  210  capinfos /tmp/wiresharkXXXXVmBOuw  -T
+  211  capinfos -T /tmp/wiresharkXXXXVmBOuw 
+  212  #capinfos -T /tmp/wiresharkXXXXVmBOuw
+  213  rawshark -?
+  214  rawshark -v
+  215  history 
+  216  apt-get install tshark
+  217  tshark 
+  218  tshark -?
+  219  tshark -x
+  220  tshark -?
+  221  tshark -- not port 22
+  222  tshark -- not port 22 -- not arp
+  223  tshark -- not port 22 not arp
+  224  tshark -- not port 22 and not arp
+  225  tshark -x -- not port 22 and not arp
+  226  tshark
+  227  tshark -?
+  228  ifconfig 
+  229  ifnames 
+  230  ifnames -?
+  231  ifnames --he
+  232  ls
+  233  l
+  234  ls
+  235  ls
+  236  ls
+  237  ls -al
+  238  more .appcfg_cookies 
+  239  more .appcfg_oauth2_tokens
+  240  more .appcfg_oauth2_tokens_java 
+  241  apt-get install sendip
+  242  #apt-get install sendip
+  243  #sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  244  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  245  exit
+  246  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  247  history 
+  248  date
+  249  git status
+  250  emacs Net.java
+  251  history
+  252  javac Net.java 
+  253  git status
+  254  history 
+  255  git pull
+  256  git commit -am "+"
+  257  exit
+  258  git pull
+  259  git push
+  260  #`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
+  261  #curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  262  curl https://knot-net.appspot.com/at`;echo at$a;history > at$a.SbOneSuHist.txt
+  263  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > at$a.SbOneSuHist.txt
+  264  git add at2131841.1e.SbOneSuHist.txt 
+  265  git commmit -am +"at2131841.1e.SbOneSuHist.txt"
+  266  git commit -am +"at2131841.1e.SbOneSuHist.txt"
+  267  git status
+  268  emacs .gitignore
+  269  git add .gitignore
+  270  git commit -am "+.gitignore"
+  271  git status
+  272  git push
+  273  ls
+  274  ls -l
+  275  git status
+  276  rm *
+  277  ls
+  278  ls -al
+  279  rm .gitignore 
+  280  rm .git/*
+  281  rm -Rf .git/*
+  282  cd ..
+  283  rmdir hn4j/
+  284  ls hn4j/
+  285  ls -al hn4j
+  286  rmdir hn4j/.git/
+  287  rmdir hn4j/
+  288  exit
+  289  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  290  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 164.132.52.81
+  291  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  292  exit
+  293  history 
+  294  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  295  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  296  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  297  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  298  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  299  history |grep Sb
+  300  #curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  301  curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  302  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  303  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
+  304  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  305  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  306  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "HelloNet..." -v 164.132.52.81
+  307  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  308  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  309  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  310  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  311  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  312  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  313  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  314  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  315  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  316  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  317  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  318  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  319  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  320  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  321  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  322  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  323  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "ab" -v 164.132.52.81
+  324  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "ab" -v 164.132.52.81
+  325  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "ab" -v 164.132.52.81
+  326  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  327  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  328  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  329  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  330  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  331  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  332  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  333  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  334  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  335  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  336  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  337  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  338  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  339  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "A" -v 164.132.52.81
+  340  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "A" -v 164.132.52.81
+  341  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "" -v 164.132.52.81
+  342  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  343  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  344  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "ab" -v 164.132.52.81
+  345  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "b" -v 164.132.52.81
+  346  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  347  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  348  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  349  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  350  exit
+  351  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  352  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  353  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  354  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  355  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  356  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  357  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  358  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  359  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "c" -v 164.132.52.81
+  360  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "a" -v 164.132.52.81
+  361  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "b" -v 164.132.52.81
+  362  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "ab" -v 164.132.52.81
+  363  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "abc" -v 164.132.52.81
+  364  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "abc" -v 164.132.52.81
+  365  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5070 -ud 1337 -d "abc" -v 164.132.52.81
+  366  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5079 -ud 1337 -d "abc" -v 164.132.52.81
+  367  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5079 -ud 1337 -d "abc" -v 164.132.52.81
+  368  sendip -p ipv4 -is 185.32.124.153 -p udp -us 5047 -ud 1337 -d "" -v 164.132.52.81
+  369  sendip -p ipv4 -is 185.32.124.153 -p udp -us 4983 -ud 1337 -d "" -v 164.132.52.81
+  370  sendip -p ipv4 -is 185.32.124.153 -p udp -us 4983 -ud 1337 -d "" -v o.sl4.eu
+  371  sendip -p ipv4 -is 185.32.124.153 -p udp -us 4919 -ud 1337 -d "" -v o.sl4.eu
+  372  history 
+  373  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "" -v o.sl4.eu
+  374  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "" -v 164.132.52.81
+  375  sendip -p ipv4 -p udp -ud 1337 -d "" -v 164.132.52.81
+  376  sendip -p ipv4 -p udp -ud 1337 -d "a" -v 164.132.52.81
+  377  history 
+  378  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "" -v 164.132.52.81
+  379  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "a" -v 164.132.52.81
+  380  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "ab" -v 164.132.52.81
+  381  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "abc" -v 164.132.52.81
+  382  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "abcd" -v 164.132.52.81
+  383  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "abcd" -v 164.132.52.81
+  384  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "abcd" -v 164.132.52.81
+  385  git status
+  386  cat /home/rawa/in/btn/trunk/src/main/java/mind/ClassLoader.java 
+  387  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "abcd" -v 164.132.52.81
+  388  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](System.out/print 123))" -v 164.132.52.81
+  389  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](System.out/print 123))" -v 164.132.52.81
+  390  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](print 123))" -v 164.132.52.81
+  391  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](print 123))" -v 164.132.52.81
+  392  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](print 123333))" -v 164.132.52.81
+  393  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](prn 123333))" -v 164.132.52.81
+  394  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](prn 123333))" -v 164.132.52.81
+  395  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](prn 123333))" -v 164.132.52.81
+  396  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](prn 123333))" -v 164.132.52.81
+  397  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[](prn 123333))" -v 164.132.52.81
+  398  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[p](prn 123333))" -v 164.132.52.81
+  399  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[p](prn(.getAddress p)))" -v 164.132.52.81
+  400  sendip -p ipv4 -is 185.32.124.153 -p udp -ud 1337 -d "(fn[p](prn(.getAddress p)(.getPort p)))" -v 164.132.52.81
+  401  history
+  402  sendip -p ipv4 -is 185.32.124.153 -p udp -us 4919 -ud 1337 -d "(fn[p](prn(.getAddress p)(.getPort p)))" -v 164.132.52.81
+  403  sendip -p ipv4 -is 185.32.124.153 -p udp -us 4919 -ud 1337 -d "(fn[p](prn(.getAddress p)(format\"%x\"(.getPort p))))" -v 164.132.52.81
+  404  git status
+  405  exit
+  406  hig
+  407  history |grep 8080
+  408  exit
+  409  apt-get install openjdk-8-jdk
+  410  apt-get update
+  411  apt-get update
+  412  apt-get install openjdk-8-jdk
+  413  history |grep emacs
+  414  emacs /etc/apt/sources.list
+  415  apt-get install openjdk-8-jdk
+  416  apt-get update
+  417  apt-get install openjdk-8-jdk
+  418  lynx http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  419  wget http://download.oracle.com/otn-pub/java/jdk/8u112-b15/jdk-8u112-linux-x64.tar.gz
+  420  wget --no-check-certificate http://download.oracle.com/otn-pub/java/jdk/8u112-b15/jdk-8u112-linux-x64.tar.gz
+  421  more jdk-8u112-linux-x64.tar.gz 
+  422  lynx http://download.oracle.com/otn-pub/java/jdk/8u112-b15/jdk-8u112-linux-x64.tar.gz
+  423  lynx http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  424  wget http://mirrors.linuxeye.com/jdk/jdk-8u112-linux-x64.tar.gz
+  425  #gunzip jdk-8u112-linux-x64.tar.gz
+  426  ls -l
+  427  rm jdk-8u112-linux-x64.tar.gz
+  428  gunzip jdk-8u112-linux-x64.tar.gz.1 
+  429  mv jdk-8u112-linux-x64.tar.gz.1 jdk-8u112-linux-x64.tar.gz
+  430  gunzip jdk-8u112-linux-x64.tar.gz
+  431  tar xf jdk-8u112-linux-x64.tar 
+  432  ls
+  433  jdk1.8.0_112/bin/java
+  434  ls jdk1.8.0_112/
+  435  chmod +x jdk1.8.0_112/bin/java
+  436   jdk1.8.0_112/bin/java
+  437  wget http://mirrors.linuxeye.com/jdk/jdk-8u112-linux-i586.tar.gz
+  438  gunzip jdk-8u112-linux-i586.tar.gz 
+  439  tar xf jdk-8u112-linux-i586.tar 
+  440  ls -l
+  441  ./jdk1.8.0_112/bin/j
+  442  ./jdk1.8.0_112/bin/java
+  443  ls -l ./jdk1.8.0_112/bin/java
+  444  ls
+  445  mv jdk1.8.0_112/ /opt/
+  446  ls -al
+  447  em jdk-8u112-linux-*
+  448  rm jdk-8u112-linux-*
+  449  exit
+  450  emacs /etc/ssh/sshd_config
+  451  sshd -?
+  452  sshd
+  453  history |grep ssh
+  454  sshd restrt
+  455  sshd restart
+  456  /etc/init.d/ssh restart
+  457  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  458  #at22f8d73.18
+  459  hig
+  460  history |grep shark
+  461  tshark -x -- not port 22 and not arp
+  462  ls
+  463  apt-get install bitcoin
+  464  apt-get install bitcoind
+  465  apt-get install bitcoin-cli
+  466  ls
+  467  ls in/beat 
+  468  ls -l in/beat 
+  469  cat in/beat 
+  470  cat in/beat 
+  471  clear
+  472  lsexit
+  473  exit
+  474  ls
+  475  ls /home
+  476  ls /home/rainer
+  477  ls /home/rawa
+  478  ls
+  479  pwd
+  480  ls -l
+  481  ls /home/rawa
+  482  cal
+  483  ls
+  484  history 
+  485  history |grep shark
+  486  history |grep du
+  487  du
+  488  man du
+  489  du /home/rawa/in
+  490  du -?
+  491  du --help
+  492  du /home/rawa/in --max-depth=2
+  493  du /home/rawa/in --max-depth=1
+  494  du --help
+  495  du /home/rawa/in --max-depth=1 -b
+  496  ls -lS /home/rawa/in 
+  497  ls /home/rawa/SpaceDrive/
+  498  ls -lS /home/rawa/SpaceDrive/
+  499  history 
+  500  ls
+  501  pwd
+  502  ls /var/log
+  503  ls
+  504  ls urbit-master/
+  505  ls -l urbit-master/
+  506  ls /home/rawa1
+  507  ls -al/home/rawa1
+  508  ls -al /home/rawa1
+  509  ls
+  510  cd /home/rawa
+  511  ls
+  512  ls -l
+  513  xxd xaa
+  514  more df
+  515  du .
+  516  du . --max-depth=1
+  517  du . --max-depth=1 -b
+  518  ls ipfs/
+  519  ls ipfs/ipfs 
+  520  ls -l
+  521  mkdir bh6e
+  522  mv bh*hex bh6e
+  523  ls
+  524  ls -l
+  525  mv bh6ed11.bin bh6e
+  526  mv xaa bh6e/
+  527  ls -l
+  528  ls bin
+  529  df
+  530  ls -l
+  531  ls wildfly-10.1.0.Final/
+  532  ls -l wildfly-10.1.0.Final/
+  533  rm -Rf wildfly-10.1.0.Final/
+  534  df
+  535  ls -l
+  536  ls
+  537  mv bh6e/ in
+  538  man ls
+  539  ls -R in
+  540  find in|more
+  541  find in|wc
+  542  find SpaceDrive|wc
+  543  find .|wc
+  544  ls
+  545  ls GitHoster/
+  546  ls GitHoster/GitHub/
+  547  cd GitHoster/GitHub/wasserfuhr/DigitalEarth/
+  548  git status
+  549  git pull
+  550  git status
+  551  ls -l src/main/webapp/05ea.txt
+  552  more src/main/webapp/05ea.txt
+  553  git add src/main/webapp/05ea.txt
+  554  git commit -am"git add src/main/webapp/05ea.txt"
+  555  git status
+  556  git push
+  557  git push
+  558  git status
+  559  cd ..
+  560  ls
+  561  cd NooSphere/
+  562  git status
+  563  ls app/
+  564  ls app/src/
+  565  ls app/src/main/AndroidManifest.xml
+  566  ls app/MyAndroidAppProject/
+  567  ls -l app/MyAndroidAppProject/
+  568  rm -R app/gradle-2.10/
+  569  ls app
+  570  more pom.xml 
+  571  ls
+  572  git status
+  573  ls -l a.out 
+  574  ls
+  575  ls -l
+  576  ls app
+  577  ls app/MyAndroidAppProject/
+  578  rm a.out 
+  579  ls app
+  580  ls -l app
+  581  more app/pom.xml
+  582  ls app/MyAndroidAppProject/
+  583  ls -l app/MyAndroidAppProject/
+  584  cat app/MyAndroidAppProject/AndroidManifest.xml
+  585  mv app/MyAndroidAppProject/AndroidManifest.xml app
+  586  rm -R app/MyAndroidAppProject/
+  587  ls app
+  588  git status
+  589  ls app/src/main/AndroidManifest.xml
+  590  git add app/AndroidManifest.xml app/src
+  591  git pull
+  592  git status
+  593  "git add app/AndroidManifest.xml app/src"
+  594  git status
+  595  cd ..
+  596  ls
+  597  cd UnPartei/
+  598  ls
+  599  git status
+  600  cd ..
+  601  cd ..
+  602  cd ..
+  603  ls
+  604  cd ..
+  605  cd git/
+  606  ls
+  607  cd AllHashes/
+  608  git status
+  609  git pull
+  610  history |grep his
+  611  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  612  #
+  613  #at378253f:e605d7.676c8cx
+  614  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >/home/rawa/git/AllHashes/at$a.SbOneSuHist.txt
