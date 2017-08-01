@@ -1,0 +1,500 @@
+  332  cp -i CAM33730.jpg /Volumes/SPACEDRIVE1/as/sheb6546b2_CAM33730.jpg
+  333  cp -i CAM33731.jpg /Volumes/SPACEDRIVE1/as/sh2a211a88_CAM33731.jpg
+  334  cp -i CAM33732.jpg /Volumes/SPACEDRIVE1/as/shbd3ad498_CAM33732.jpg
+  335  cp -i CAM33733.jpg /Volumes/SPACEDRIVE1/as/sh5188d550_CAM33733.jpg
+  336  cp -i CAM33734.jpg /Volumes/SPACEDRIVE1/as/sh7d18a529_CAM33734.jpg
+  337  cp -i CAM33735.jpg /Volumes/SPACEDRIVE1/as/sh619105e0_CAM33735.jpg
+  338  cp -i CAM33736.jpg /Volumes/SPACEDRIVE1/as/sh22fe89f8_CAM33736.jpg
+  339  cp -i CAM33737.jpg /Volumes/SPACEDRIVE1/as/shc32a4470_CAM33737.jpg
+  340  cp -i CAM33738.jpg /Volumes/SPACEDRIVE1/as/sh76d77112_CAM33738.jpg
+  341  cp -i CAM33739.jpg /Volumes/SPACEDRIVE1/as/sh817b5a60_CAM33739.jpg
+  342  cp -i CAM33740.jpg /Volumes/SPACEDRIVE1/as/sh768c40c5_CAM33740.jpg
+  343  cp -i CAM33741.jpg /Volumes/SPACEDRIVE1/as/sh3ee2b5c8_CAM33741.jpg
+  344  cp -i CAM33742.jpg /Volumes/SPACEDRIVE1/as/shc8ca3998_CAM33742.jpg
+  345  cp -i CAM33743.jpg /Volumes/SPACEDRIVE1/as/shb446ca1a_CAM33743.jpg
+  346  cp -i CAM33744.jpg /Volumes/SPACEDRIVE1/as/sh8c41f85f_CAM33744.jpg
+  347  cp -i CAM33745.jpg /Volumes/SPACEDRIVE1/as/shaed6980f_CAM33745.jpg
+  348  cp -i CAM33746.jpg /Volumes/SPACEDRIVE1/as/sh8ecf2fed_CAM33746.jpg
+  349  cp -i CAM33747.jpg /Volumes/SPACEDRIVE1/as/sh073ede3a_CAM33747.jpg
+  350  cp -i CAM33748.jpg /Volumes/SPACEDRIVE1/as/shb0ef728e_CAM33748.jpg
+  351  cp -i CAM33749.jpg /Volumes/SPACEDRIVE1/as/sh57a83777_CAM33749.jpg
+  352  cp -i CAM33750.jpg /Volumes/SPACEDRIVE1/as/sh02b6096f_CAM33750.jpg
+  353  cp -i CAM33751.jpg /Volumes/SPACEDRIVE1/as/she7b50079_CAM33751.jpg
+  354  cp -i CAM33752.jpg /Volumes/SPACEDRIVE1/as/sh614a4da9_CAM33752.jpg
+  355  cp -i CAM33753.jpg /Volumes/SPACEDRIVE1/as/sh3d3a6889_CAM33753.jpg
+  356  cp -i CAM33754.jpg /Volumes/SPACEDRIVE1/as/sh6ccd2d05_CAM33754.jpg
+  357  cp -i CAM33755.jpg /Volumes/SPACEDRIVE1/as/sh90f5d977_CAM33755.jpg
+  358  cp -i CAM33756.jpg /Volumes/SPACEDRIVE1/as/sh0eec4c0c_CAM33756.jpg
+  359  cp -i CAM33757.jpg /Volumes/SPACEDRIVE1/as/sh3593fb89_CAM33757.jpg
+  360  cp -i CAM33758.jpg /Volumes/SPACEDRIVE1/as/sh8394d678_CAM33758.jpg
+  361  cp -i CAM33759.jpg /Volumes/SPACEDRIVE1/as/sh1158c89f_CAM33759.jpg
+  362  cp -i CAM33760.jpg /Volumes/SPACEDRIVE1/as/sh9bdc2511_CAM33760.jpg
+  363  cp -i CAM33761.jpg /Volumes/SPACEDRIVE1/as/shbf4cff2f_CAM33761.jpg
+  364  cp -i CAM33762.jpg /Volumes/SPACEDRIVE1/as/sh1fd61f4e_CAM33762.jpg
+  365  cp -i CAM33763.jpg /Volumes/SPACEDRIVE1/as/sh787ff8a8_CAM33763.jpg
+  366  cp -i CAM33764.jpg /Volumes/SPACEDRIVE1/as/sh5b97dd46_CAM33764.jpg
+  367  cp -i CAM33765.jpg /Volumes/SPACEDRIVE1/as/shec70482e_CAM33765.jpg
+  368  cp -i CAM33766.jpg /Volumes/SPACEDRIVE1/as/sh54c5745e_CAM33766.jpg
+  369  cp -i CAM33767.jpg /Volumes/SPACEDRIVE1/as/sh4aedb1c1_CAM33767.jpg
+  370  cp -i CAM33768.jpg /Volumes/SPACEDRIVE1/as/shf5373807_CAM33768.jpg
+  371  cp -i CAM33769.jpg /Volumes/SPACEDRIVE1/as/sh778ed3fb_CAM33769.jpg
+  372  cp -i CAM33770.jpg /Volumes/SPACEDRIVE1/as/sh1d48940a_CAM33770.jpg
+  373  cp -i CAM33771.jpg /Volumes/SPACEDRIVE1/as/sh97ca14d4_CAM33771.jpg
+  374  cp -i CAM33772.jpg /Volumes/SPACEDRIVE1/as/sh7f75eebf_CAM33772.jpg
+  375  cp -i CAM33773.jpg /Volumes/SPACEDRIVE1/as/shb2aba9e4_CAM33773.jpg
+  376  cp -i CAM33774.jpg /Volumes/SPACEDRIVE1/as/sh0b2718a1_CAM33774.jpg
+  377  cp -i CAM33775.jpg /Volumes/SPACEDRIVE1/as/sh1513733a_CAM33775.jpg
+  378  cp -i CAM33776.jpg /Volumes/SPACEDRIVE1/as/sh036dc68f_CAM33776.jpg
+  379  cp -i CAM33777.jpg /Volumes/SPACEDRIVE1/as/shd76a6dce_CAM33777.jpg
+  380  cp -i CAM33778.jpg /Volumes/SPACEDRIVE1/as/shf44c6297_CAM33778.jpg
+  381  cp -i CAM33779.jpg /Volumes/SPACEDRIVE1/as/she3f3806d_CAM33779.jpg
+  382  cp -i CAM33780.jpg /Volumes/SPACEDRIVE1/as/sh60759c54_CAM33780.jpg
+  383  cp -i CAM33781.jpg /Volumes/SPACEDRIVE1/as/sh8c850dc6_CAM33781.jpg
+  384  cp -i CAM33782.jpg /Volumes/SPACEDRIVE1/as/sh56d0fe18_CAM33782.jpg
+  385  cp -i CAM33783.jpg /Volumes/SPACEDRIVE1/as/sh21c754c7_CAM33783.jpg
+  386  cp -i CAM33784.jpg /Volumes/SPACEDRIVE1/as/sh9db714bd_CAM33784.jpg
+  387  cp -i CAM33785.jpg /Volumes/SPACEDRIVE1/as/shdffdf739_CAM33785.jpg
+  388  ls -l /Volumes/SPACEDRIVE1/as
+  389  ls -lS /Volumes/SPACEDRIVE1/as
+  390  history 
+  391  history |grep his
+  392  grep hist /Users/rawa/git/AllHashes/at2e*His*
+  393  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  394  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  395  pwd
+  396  cd
+  397  ls
+  398  grep Lady /Users/rawa/git/AllHashes/at2e*His*
+  399  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  400  pwd
+  401   cd /Volumes/ExFat2/
+  402  mkdir as
+  403  cp ../ExFat1/as/* as
+  404  ls
+  405  pwd
+  406  cd as
+  407  ls
+  408  shasum -a 256 *
+  409  shasum -a 256 *
+  410  pwd
+  411  ls
+  412  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  413  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  414  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  415  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  416  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  417  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  418  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  419  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  420  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  421  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  422  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  423  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  424  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  425  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  426  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  427  ls
+  428  mv at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm
+  429  ls
+  430  ls -l
+  431  ls -lS
+  432  ls -lS
+  433  pwd
+  434  ls -lS /Volumes/ExFat1/as
+  435  ls -lS /Volumes/ExFat2/as
+  436  history 
+  437  cd /Volumes/ExFat1
+  438  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  439  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  440  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  441  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  442  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  443  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  444  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  445  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  446  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  447  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  448  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  449  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  450  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  451  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  452  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  453  pwd
+  454  cd as
+  455  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  456  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  457  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  458  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  459  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  460  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  461  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  462  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  463  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  464  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  465  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  466  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  467  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  468  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  469  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  470  pwd
+  471  ls
+  472  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  473  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  474  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  475  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  476  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  477  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  478  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  479  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  480  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  481  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  482  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  483  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  484  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  485  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  486  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  487  ls
+  488  mv at2eedac7.4ex105130c_Jan_22_2017_7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm
+  489  ls
+  490  ls -lS
+  491  cd /Volumes/
+  492  cp -i SPACEDRIVE1/as* ExFat2/as
+  493  cp -i SPACEDRIVE1/as/* ExFat2/as
+  494  man cp
+  495  man cp
+  496  cp -i -p SPACEDRIVE1/as/* ExFat2/as
+  497  ls -l SPACEDRIVE1/as/*
+  498  cp -p SPACEDRIVE1/as/* ExFat2/as
+  499  date;cp -p SPACEDRIVE1/as/* ExFat2/as;date
+  500  ls /Volumes/SPACEDRIVE1/as
+  501  ls /Volumes/SPACEDRIVE1/
+  502  ls /Volumes/
+  503  ls /Volumes/ExFat1
+  504  ls /Volumes/ExFat1/as
+  505  ls /Volumes/ExFat1/
+  506  ls /Volumes/ExFat2
+  507  ls /Volumes/ExFat2/as
+  508  ls /Volumes/ExFat2/
+  509  ls /Volumes/ExFat2/
+  510  ls /Volumes/ExFat2/
+  511  ls /Volumes/ExFat1
+  512  ls /Volumes/ExFat1/as
+  513  ls /Volumes/SPACEDRIVE1/
+  514  ls /Volumes/SPACEDRIVE1/
+  515  ls /Volumes/SPACEDRIVE1/in
+  516  ls /Volumes/SPACEDRIVE1/in/webm_CAN_BE_DEFECT/
+  517  ls /Volumes/SPACEDRIVE1/
+  518  ls /Volumes/ExFat1
+  519  ls /Volumes/ExFat2
+  520  ls /Volumes/
+  521  ls /Volumes/SPACEDRIVE1/1220/
+  522  ls -lS /Volumes/SPACEDRIVE1/1220/
+  523  ls -lS /Volumes/SPACEDRIVE1/1220/|more
+  524  shasum -a 256 /Volumes/SPACEDRIVE1/1220/*news
+  525  cd /Volumes/SPACEDRIVE1/1220/
+  526  shasum -a 256 /Volumes/SPACEDRIVE1/1220/*news
+  527  shasum -a 256 *news
+  528  shasum -a 256 *sb
+  529  ls -al /Volumes/SPACEDRIVE1/
+  530  ls -al /Volumes/SPACEDRIVE1/in
+  531  pwd
+  532  ls -al /Volumes/SPACEDRIVE1/
+  533  cd
+  534  ls
+  535  cd /Volumes/ExFat1
+  536  ls as/
+  537  cd ../ExFat2/as/
+  538  ls
+  539  ls -lS|more
+  540  md5 *
+  541  pwd
+  542  cd /Volumes/ExFat1/as
+  543  ls
+  544  ls -lS
+  545  pwd
+  546  history 
+  547  cd ..
+  548  ls
+  549  ls -al
+  550  pwd
+  551  ls as
+  552  ls -l as
+  553  cd ../ExFat2
+  554  shasum *
+  555  cd as
+  556  shasum *
+  557  pwd
+  558  ls
+  559  pwd
+  560  cd ..
+  561  ls
+  562  ls /Volumes/SdFat32/
+  563  pwd
+  564  cd
+  565  pwd
+  566  pwd
+  567  cd /Volumes/ExFat1/in
+  568  du -d 1
+  569  du -d 9
+  570  du -d 9|sort -k
+  571  du -d 9|sort -n
+  572  du -k -d 9|sort -n
+  573  du -d 9|sort -n
+  574  du -k -d 9|sort -n
+  575  #du -k -d 9|sort -n
+  576  ls webm/
+  577  #mv -i webm/sha2788e44_PowerBank\ at21ed2a7.53x2c536e7.webm as
+  578  pwd
+  579  mv -i webm/sha2788e44_PowerBank\ at21ed2a7.53x2c536e7.webm ../as/
+  580  ls -lS webm
+  581  pwd
+  582  ls
+  583  cd ..
+  584  ls
+  585  cd /Volumes/SDFAT32/A
+  586  cd /Volumes/SDFAT32/
+  587  LS
+  588  ls
+  589  ls in
+  590  ls in/SemperDrive/
+  591  ls in/SpaceDrive
+  592  ls -al in/SpaceDrive
+  593  mv -i in/SpaceDrive/.picasa.ini in/SpaceDrivePicasa.ini 
+  594  rmdir in/SpaceDrive
+  595  ls
+  596  ls in
+  597  du -d 2 -k in/SpaceDrive
+  598  du -d 2 -k in
+  599  ls in/RaWa2
+  600  ls in/NooScreenr
+  601  ls -lS in/NooScreenr|more
+  602  cat in/NooScreenr/HashIndex.txt 
+  603  ls -lS in/NooScreenr|more
+  604  ls
+  605   man ls
+  606   man ls|grep total
+  607  more in/NooScreenr/HashIndex.txt 
+  608  #shasum -a 256 >
+  609  cd in/NooScreenr/
+  610  #shasum -a 256 > HashIndexAd2f1.txt 
+  611  shasum -a 256 *
+  612  shasum -a 256 *.mp4 > HashIndexAd2f1.txt 
+  613  shasum -a 256 *.txt
+  614  chmod -x mv.sh
+  615  ./mv.sh
+  616  mv *.mp4 ../../as/
+  617  cd ..
+  618  history |grep du
+  619  du -d 2 -k in
+  620  du -d 2 -k |more
+  621  du -d 2 -k |sort -n
+  622  curl https://floatingboat2013.appspot.com/raw/58895006|sort -u|wc
+  623  curl https://floatingboat2013.appspot.com/raw/58895006|sort|wc
+  624  #curl https://floatingboat2013.appspot.com/raw/58895006|sort
+  625  pwd
+  626  curl https://floatingboat2013.appspot.com/raw/58895006|sort -u > SdFat32As.txt
+  627  pwd
+  628  ls
+  629  ls H*
+  630  ls H*t
+  631  sort -u HaSiAll.txt|more
+  632  sort -u HaSiAll.txt|xxd|more
+  633  sort -u HaSiAll.txt|more
+  634  sort -u HaSiAll.txt|more
+  635  sort -u HaSiAll.txt > HaSiAllSorted.txt
+  636  ls /Users/rawa/git/
+  637  wc HaSiAllSorted.txt
+  638  xx HaSiAllSorted.txt|more
+  639  xxd HaSiAllSorted.txt|more
+  640  xxd HaSiAllSorted.txt|tail
+  641  history 
+  642  history|grep bt
+  643  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  644  sort -u HaSiAll.txt > HaSiAllSortedAd2f1.txt
+  645  wc HaSi*
+  646  tail HaSiAllSortedAd2f1.txt 
+  647  tail HaSiAllSortedAd2f1.txt|xxd
+  648  tail HaSiAllSortedAd2f1.txt|xxd
+  649  shasum -a 256 HaSiAllSortedAd2f1.txt
+  650  pwd
+  651  chmod +x mv1220_to_as.sh 
+  652  pwd
+  653  cd ..
+  654  ls
+  655  cd 1220/
+  656  #../in/mv1220_to_as.sh 
+  657  ls
+  658  ../in/mv1220_to_as.sh 
+  659  ls
+  660  ls|more
+  661  mv sh* ../as/
+  662  mv sh0* ../as/
+  663  mv sh1* ../as/
+  664  mv sh2* ../as/
+  665  mv sh3* ../as/
+  666  mv sh* ../as/
+  667  mv sh4* ../as/
+  668  mv sh5* ../as/
+  669  mv sh6* ../as/
+  670  mv sh7* ../as/
+  671  mv sh* ../as/
+  672  ls
+  673  cd ..
+  674  mv -i 1220/ in
+  675  ls
+  676  mv *RECY*N in/DOT_RECYCLE.BIN
+  677  pwd
+  678  ls
+  679   ls -ls
+  680  mv *RECY*N in/DOT_RECYCLE.BIN
+  681  mv *ECY*N in/DOT_RECYCLE.BIN
+  682  mv *ECY*N DOT_RECYCLE.BIN
+  683  pwd
+  684  cd in
+  685  sort -u SdFat32As\ copy.txt|wc
+  686  sort SdFat32As\ copy.txt|wc
+  687  sort SdFat32As\ copy.txt > SdFat32AsAd2f1.txt
+  688  sort -u SdFat32As\ copy.txt > SdFat32AsAd2f1.txt
+  689  pwd
+  690  cd /Volumes/ExFat1/in//TerraDrive/
+  691  shasum -a 256 *
+  692  ll
+  693  ls -l
+  694  pwd
+  695  cd ..
+  696  cd ..
+  697  du -d 1
+  698  du -k -d 1
+  699  du -k -d 1|sort -n
+  700  du -k -d 1 /Volumes/ExFat1|sort -n
+  701  du -k -d 1 /Volumes/ExFat1|sort -n
+  702  du -k -d 1 /Volumes/ExFat2|sort -n
+  703  du -k -d 1 /Volumes/SDFAT32/|sort -n
+  704  du -k -d 1 /Volumes/SDFAT32/|sort -nu 
+  705  du -k -d 1 /Volumes/SDFAT32/|sort -nr
+  706  du -k -d 1 /Volumes/ExFat2|sort -nr
+  707  du -k -d 1 /Volumes/ExFat1|sort -nr
+  708  du -k -d 1 /Volumes/ExFat2|sort -nr
+  709  du -k -d 1 /Volumes/SDFAT32/|sort -nr
+  710  df
+  711  df -?
+  712  df -b
+  713  df -k
+  714  du -k -d 1 /Volumes/SDFAT32/in|sort -nr
+  715  du -k -d 1 /Volumes/SDFAT32/in/at2ab6162.e9x1afbfe1_SpaceLoopOnDOnAchtByBorgMac/
+  716  ls -l /Volumes/SDFAT32/in/at2ab6162.e9x1afbfe1_SpaceLoopOnDOnAchtByBorgMac/
+  717  #shasum -a 256 /Volumes/SDFAT32/in/at2ab6162.e9x1afbfe1_SpaceLoopOnDOnAchtByBorgMac/
+  718  cd /Volumes/SDFAT32/in/at2ab6162.e9x1afbfe1_SpaceLoopOnDOnAchtByBorgMac/
+  719  shasum -a 256 *
+  720  ls *d
+  721  ls -l *d
+  722  rm  *d
+  723  shasum -a 256 *
+  724  emacs mv.sh
+  725  chmod +x mv.sh 
+  726  ls *1
+  727  ll *1
+  728  ls -l *1
+  729  ls -lS *1
+  730  ls -lS
+  731  emacs mv.sh 
+  732  ./mv.sh
+  733  ls -l
+  734  mv -i sh* ../../as/
+  735  ls
+  736  rm mv.sh?
+  737  ls
+  738  mv at28e78c6.c0x2695582_SpaceLoop1/* .
+  739  rmdir *1
+  740  ls
+  741  cd ..
+  742  cd ..
+  743  pwd
+  744  history 
+  745  du -k -d 1 /Volumes/SDFAT32/in|sort -nr
+  746  pwd
+  747  ls in/SemperDrive/
+  748  du -k -d 1 /Volumes/SDFAT32/in/SemperDrive/|sort -nr
+  749  du -k -d 1 /Volumes/SDFAT32/in/GitDrive2016/|sort -nr
+  750  ls in/GitDrive2016/
+  751  ls -l in/GitDrive2016/
+  752  ls -lS in/GitDrive2016/|more
+  753  xxd in/GitDrive2016/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ|more
+  754  cp -p in/GitDrive2016/QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ t.png
+  755  history |grep Lady
+  756  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome t.png
+  757  rm t.png 
+  758  cd in/GitDrive2016/
+  759  mv QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ QmUxY9L46ezLAqkYTNXQYTkRhpm9DMMyHqbh2fJ2RAyUtJ.png
+  760  /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome st55aac257.webm 
+  761  ls -lS
+  762  mv The\ Startup\ Kids.mp4 TheStartupKids.mp4 
+  763  more QmNza2.txt 
+  764  ls -l
+  765  ls -lS
+  766  shasum -a 256 *
+  767  ls
+  768  emacs mv.sh
+  769  chmod +x mv.sh
+  770  mv mv.sh at2f19678.29x1041779.mv.sh
+  771  ./at2f19678.29x1041779.mv.sh
+  772  pwd
+  773  ls -l sh*
+  774  pwd
+  775  mv sh* ../../as/
+  776  ls
+  777  ls -al
+  778  history|grep du
+  779  du -k -d 1 /Volumes/SDFAT32/in|sort -nr
+  780  du -k -d 1 /Volumes/SDFAT32/|sort -nr
+  781  pwd
+  782  cd /Volumes/ExFat1
+  783  ls
+  784  mv as asOLD
+  785  mkdir as
+  786  mv asOLD/* as
+  787  ls as
+  788  pwd
+  789  cd
+  790  cd /Volumes/ExFat1
+  791  ls 
+  792  ls asOLD/
+  793  ls -al asOLD
+  794  rmdir asOLD
+  795  cd ../ExFat2
+  796  ls
+  797  mv as asOLD
+  798  #mv asOLD/* as
+  799  mkdir as
+  800  mv asOLD/* as
+  801  rmdir asOLD/
+  802  cd
+  803  pwd
+  804  diskutil
+  805  diskutil rename
+  806  diskutil rename /Volumes/SDFAT32/ SdFat32
+  807  diskutil rename /Volumes/SDFAT32/ SdFatt32
+  808  diskutil rename /Volumes/SDFAT32/ SDFATT32
+  809  diskutil rename /Volumes/SDFATT32/ SdFat32
+  810  diskutil rename /Volumes/SDFATT32/ SDFAT32
+  811  diskutil eject /Volumes/SDFAT32
+  812  diskutil eject /Volumes/ExFat1
+  813  cd /Volumes/ExFat3
+  814  ls
+  815  mkdir as
+  816  mv shbf812da0_at2f044a6.28x110a8d0_vid_20_4_2017_at_17-24-24.webm as
+  817  pwd
+  818  shasum -a 256 as/*
+  819  cd ..
+  820  pwd
+  821  diskutil eject /Volumes/ExFat1
+  822  shasum -a 256 /Volumes/ExFat3/at2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm 
+  823  mv /Volumes/ExFat3/at2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm /Volumes/ExFat3/as/t2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm 
+  824  cd /Volumes/ExFat3/
+  825  ls
+  826  cd as
+  827  ls
+  828  mv t2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm t2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm 
+  829  mv t2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm sh4bb7fd73_at2eef143.c9x92b0667_vid_19_4_2017_at_17-16-18.webm
+  830  history|grep his
+  831  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt

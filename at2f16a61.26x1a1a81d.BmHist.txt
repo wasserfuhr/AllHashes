@@ -1,0 +1,500 @@
+  144  cp -i CAM33542.jpg /Volumes/SPACEDRIVE1/as/she3014ac1_CAM33542.jpg
+  145  cp -i CAM33543.jpg /Volumes/SPACEDRIVE1/as/shfda82f4f_CAM33543.jpg
+  146  cp -i CAM33544.jpg /Volumes/SPACEDRIVE1/as/sh90dcb12d_CAM33544.jpg
+  147  cp -i CAM33545.jpg /Volumes/SPACEDRIVE1/as/sh1eb5a02f_CAM33545.jpg
+  148  cp -i CAM33546.jpg /Volumes/SPACEDRIVE1/as/sh87b523ad_CAM33546.jpg
+  149  cp -i CAM33547.jpg /Volumes/SPACEDRIVE1/as/sh558f9a4b_CAM33547.jpg
+  150  cp -i CAM33548.jpg /Volumes/SPACEDRIVE1/as/shbc047791_CAM33548.jpg
+  151  cp -i CAM33549.jpg /Volumes/SPACEDRIVE1/as/shd71f4833_CAM33549.jpg
+  152  cp -i CAM33550.jpg /Volumes/SPACEDRIVE1/as/sh057080b4_CAM33550.jpg
+  153  cp -i CAM33551.jpg /Volumes/SPACEDRIVE1/as/shfa295eab_CAM33551.jpg
+  154  cp -i CAM33552.jpg /Volumes/SPACEDRIVE1/as/sh2d542398_CAM33552.jpg
+  155  cp -i CAM33553.jpg /Volumes/SPACEDRIVE1/as/sha49c95e9_CAM33553.jpg
+  156  cp -i CAM33554.jpg /Volumes/SPACEDRIVE1/as/sh2ac429fa_CAM33554.jpg
+  157  cp -i CAM33555.jpg /Volumes/SPACEDRIVE1/as/sh4df2c1ec_CAM33555.jpg
+  158  cp -i CAM33556.jpg /Volumes/SPACEDRIVE1/as/sh456eac85_CAM33556.jpg
+  159  cp -i CAM33557.jpg /Volumes/SPACEDRIVE1/as/sh8e13adf0_CAM33557.jpg
+  160  cp -i CAM33558.jpg /Volumes/SPACEDRIVE1/as/shbf38269c_CAM33558.jpg
+  161  cp -i CAM33559.jpg /Volumes/SPACEDRIVE1/as/sh8b8bb571_CAM33559.jpg
+  162  cp -i CAM33560.jpg /Volumes/SPACEDRIVE1/as/sh80c814bf_CAM33560.jpg
+  163  cp -i CAM33561.jpg /Volumes/SPACEDRIVE1/as/she0812b43_CAM33561.jpg
+  164  cp -i CAM33562.jpg /Volumes/SPACEDRIVE1/as/sh1c20daa6_CAM33562.jpg
+  165  cp -i CAM33563.jpg /Volumes/SPACEDRIVE1/as/sh95cceb59_CAM33563.jpg
+  166  cp -i CAM33564.jpg /Volumes/SPACEDRIVE1/as/sh40135c02_CAM33564.jpg
+  167  cp -i CAM33565.jpg /Volumes/SPACEDRIVE1/as/sh665eec96_CAM33565.jpg
+  168  cp -i CAM33566.jpg /Volumes/SPACEDRIVE1/as/sh295eb9e2_CAM33566.jpg
+  169  cp -i CAM33567.jpg /Volumes/SPACEDRIVE1/as/sh2b79b100_CAM33567.jpg
+  170  cp -i CAM33568.jpg /Volumes/SPACEDRIVE1/as/shb7ea3fa4_CAM33568.jpg
+  171  cp -i CAM33569.jpg /Volumes/SPACEDRIVE1/as/shf9d648e4_CAM33569.jpg
+  172  cp -i CAM33570.jpg /Volumes/SPACEDRIVE1/as/shdaacdba8_CAM33570.jpg
+  173  cp -i CAM33571.jpg /Volumes/SPACEDRIVE1/as/shf4bef7e3_CAM33571.jpg
+  174  cp -i CAM33572.jpg /Volumes/SPACEDRIVE1/as/sh09145519_CAM33572.jpg
+  175  cp -i CAM33573.jpg /Volumes/SPACEDRIVE1/as/she95a6d9a_CAM33573.jpg
+  176  cp -i CAM33574.jpg /Volumes/SPACEDRIVE1/as/sh27581850_CAM33574.jpg
+  177  cp -i CAM33575.jpg /Volumes/SPACEDRIVE1/as/sh3e8c60c4_CAM33575.jpg
+  178  cp -i CAM33576.jpg /Volumes/SPACEDRIVE1/as/sh84cd0e97_CAM33576.jpg
+  179  cp -i CAM33577.jpg /Volumes/SPACEDRIVE1/as/shfc842722_CAM33577.jpg
+  180  cp -i CAM33578.jpg /Volumes/SPACEDRIVE1/as/shf960e195_CAM33578.jpg
+  181  cp -i CAM33579.jpg /Volumes/SPACEDRIVE1/as/sh082451ac_CAM33579.jpg
+  182  cp -i CAM33580.jpg /Volumes/SPACEDRIVE1/as/sh49eee5db_CAM33580.jpg
+  183  cp -i CAM33581.jpg /Volumes/SPACEDRIVE1/as/shb7559a0f_CAM33581.jpg
+  184  cp -i CAM33582.jpg /Volumes/SPACEDRIVE1/as/sh2f500706_CAM33582.jpg
+  185  cp -i CAM33583.jpg /Volumes/SPACEDRIVE1/as/sh6d4759dc_CAM33583.jpg
+  186  cp -i CAM33584.jpg /Volumes/SPACEDRIVE1/as/shfbb20ef1_CAM33584.jpg
+  187  cp -i CAM33585.jpg /Volumes/SPACEDRIVE1/as/sh5a960a9f_CAM33585.jpg
+  188  cp -i CAM33586.jpg /Volumes/SPACEDRIVE1/as/sh2098ead1_CAM33586.jpg
+  189  cp -i CAM33587.jpg /Volumes/SPACEDRIVE1/as/shd697bc2b_CAM33587.jpg
+  190  cp -i CAM33588.jpg /Volumes/SPACEDRIVE1/as/she5b89147_CAM33588.jpg
+  191  cp -i CAM33589.jpg /Volumes/SPACEDRIVE1/as/shc4f4a2c2_CAM33589.jpg
+  192  cp -i CAM33590.jpg /Volumes/SPACEDRIVE1/as/sha457999a_CAM33590.jpg
+  193  cp -i CAM33591.jpg /Volumes/SPACEDRIVE1/as/sh3a7a205a_CAM33591.jpg
+  194  cp -i CAM33592.jpg /Volumes/SPACEDRIVE1/as/shaed6ac37_CAM33592.jpg
+  195  cp -i CAM33593.jpg /Volumes/SPACEDRIVE1/as/shdbaeded0_CAM33593.jpg
+  196  cp -i CAM33594.jpg /Volumes/SPACEDRIVE1/as/sh53323f00_CAM33594.jpg
+  197  cp -i CAM33595.jpg /Volumes/SPACEDRIVE1/as/sh0adafa6c_CAM33595.jpg
+  198  cp -i CAM33596.jpg /Volumes/SPACEDRIVE1/as/shba63bd67_CAM33596.jpg
+  199  cp -i CAM33597.jpg /Volumes/SPACEDRIVE1/as/shb934c8c7_CAM33597.jpg
+  200  cp -i CAM33598.jpg /Volumes/SPACEDRIVE1/as/sh87115305_CAM33598.jpg
+  201  cp -i CAM33599.jpg /Volumes/SPACEDRIVE1/as/sh51e93844_CAM33599.jpg
+  202  cp -i CAM33600.jpg /Volumes/SPACEDRIVE1/as/sh6eb21a5b_CAM33600.jpg
+  203  cp -i CAM33601.jpg /Volumes/SPACEDRIVE1/as/sh710d0430_CAM33601.jpg
+  204  cp -i CAM33602.jpg /Volumes/SPACEDRIVE1/as/sh22cabbf0_CAM33602.jpg
+  205  cp -i CAM33603.jpg /Volumes/SPACEDRIVE1/as/shedb0dd05_CAM33603.jpg
+  206  cp -i CAM33604.jpg /Volumes/SPACEDRIVE1/as/sh676ae7e8_CAM33604.jpg
+  207  cp -i CAM33605.jpg /Volumes/SPACEDRIVE1/as/she793bdad_CAM33605.jpg
+  208  cp -i CAM33606.jpg /Volumes/SPACEDRIVE1/as/sh9e7f1eeb_CAM33606.jpg
+  209  cp -i CAM33607.jpg /Volumes/SPACEDRIVE1/as/sh098e1923_CAM33607.jpg
+  210  cp -i CAM33608.jpg /Volumes/SPACEDRIVE1/as/shb5df7412_CAM33608.jpg
+  211  cp -i CAM33609.jpg /Volumes/SPACEDRIVE1/as/sh0939978f_CAM33609.jpg
+  212  cp -i CAM33610.jpg /Volumes/SPACEDRIVE1/as/shfd976fef_CAM33610.jpg
+  213  cp -i CAM33611.jpg /Volumes/SPACEDRIVE1/as/sh7cd33595_CAM33611.jpg
+  214  cp -i CAM33612.jpg /Volumes/SPACEDRIVE1/as/shf10f5572_CAM33612.jpg
+  215  cp -i CAM33613.jpg /Volumes/SPACEDRIVE1/as/sh7c382ad2_CAM33613.jpg
+  216  cp -i CAM33614.jpg /Volumes/SPACEDRIVE1/as/sh82e08a53_CAM33614.jpg
+  217  cp -i CAM33615.jpg /Volumes/SPACEDRIVE1/as/sh2567dc0a_CAM33615.jpg
+  218  cp -i CAM33616.jpg /Volumes/SPACEDRIVE1/as/sh2df795b3_CAM33616.jpg
+  219  cp -i CAM33617.jpg /Volumes/SPACEDRIVE1/as/sh96d5ad55_CAM33617.jpg
+  220  cp -i CAM33618.jpg /Volumes/SPACEDRIVE1/as/shfb609f24_CAM33618.jpg
+  221  cp -i CAM33619.jpg /Volumes/SPACEDRIVE1/as/sh0090fa6e_CAM33619.jpg
+  222  cp -i CAM33620.jpg /Volumes/SPACEDRIVE1/as/shd829a846_CAM33620.jpg
+  223  cp -i CAM33621.jpg /Volumes/SPACEDRIVE1/as/sh522dd9ea_CAM33621.jpg
+  224  cp -i CAM33622.jpg /Volumes/SPACEDRIVE1/as/sh33f31595_CAM33622.jpg
+  225  cp -i CAM33623.jpg /Volumes/SPACEDRIVE1/as/sh960cbed1_CAM33623.jpg
+  226  cp -i CAM33624.jpg /Volumes/SPACEDRIVE1/as/sh02f2f19f_CAM33624.jpg
+  227  cp -i CAM33625.jpg /Volumes/SPACEDRIVE1/as/sh3b279269_CAM33625.jpg
+  228  cp -i CAM33626.jpg /Volumes/SPACEDRIVE1/as/sh47254cf3_CAM33626.jpg
+  229  cp -i CAM33627.jpg /Volumes/SPACEDRIVE1/as/sh3f2547b9_CAM33627.jpg
+  230  cp -i CAM33628.jpg /Volumes/SPACEDRIVE1/as/shd0e76b85_CAM33628.jpg
+  231  cp -i CAM33629.jpg /Volumes/SPACEDRIVE1/as/shd36d7ca1_CAM33629.jpg
+  232  cp -i CAM33630.jpg /Volumes/SPACEDRIVE1/as/shfaec24fe_CAM33630.jpg
+  233  cp -i CAM33631.jpg /Volumes/SPACEDRIVE1/as/sh3a8b81f6_CAM33631.jpg
+  234  cp -i CAM33632.jpg /Volumes/SPACEDRIVE1/as/sh54185024_CAM33632.jpg
+  235  cp -i CAM33633.jpg /Volumes/SPACEDRIVE1/as/sh6954bb6f_CAM33633.jpg
+  236  cp -i CAM33634.jpg /Volumes/SPACEDRIVE1/as/sh81281536_CAM33634.jpg
+  237  cp -i CAM33635.jpg /Volumes/SPACEDRIVE1/as/sh5a6b3a9b_CAM33635.jpg
+  238  cp -i CAM33636.jpg /Volumes/SPACEDRIVE1/as/shfc52cba1_CAM33636.jpg
+  239  cp -i CAM33637.jpg /Volumes/SPACEDRIVE1/as/shaee43e67_CAM33637.jpg
+  240  cp -i CAM33638.jpg /Volumes/SPACEDRIVE1/as/sh40a8c991_CAM33638.jpg
+  241  cp -i CAM33639.jpg /Volumes/SPACEDRIVE1/as/she70c66c8_CAM33639.jpg
+  242  cp -i CAM33640.jpg /Volumes/SPACEDRIVE1/as/sh4986dd4f_CAM33640.jpg
+  243  cp -i CAM33641.jpg /Volumes/SPACEDRIVE1/as/sha0507807_CAM33641.jpg
+  244  cp -i CAM33642.jpg /Volumes/SPACEDRIVE1/as/sh8f2723c7_CAM33642.jpg
+  245  cp -i CAM33643.jpg /Volumes/SPACEDRIVE1/as/sh54ace45b_CAM33643.jpg
+  246  cp -i CAM33644.jpg /Volumes/SPACEDRIVE1/as/sh02f18905_CAM33644.jpg
+  247  cp -i CAM33645.jpg /Volumes/SPACEDRIVE1/as/sh45178c22_CAM33645.jpg
+  248  cp -i CAM33646.jpg /Volumes/SPACEDRIVE1/as/sh4582b07e_CAM33646.jpg
+  249  cp -i CAM33647.jpg /Volumes/SPACEDRIVE1/as/sh51be9cba_CAM33647.jpg
+  250  cp -i CAM33648.jpg /Volumes/SPACEDRIVE1/as/sh89855b3b_CAM33648.jpg
+  251  cp -i CAM33649.jpg /Volumes/SPACEDRIVE1/as/shbe9b8e05_CAM33649.jpg
+  252  cp -i CAM33650.jpg /Volumes/SPACEDRIVE1/as/shd411f499_CAM33650.jpg
+  253  cp -i CAM33651.jpg /Volumes/SPACEDRIVE1/as/sh0a942741_CAM33651.jpg
+  254  cp -i CAM33652.jpg /Volumes/SPACEDRIVE1/as/sh34b200fd_CAM33652.jpg
+  255  cp -i CAM33653.jpg /Volumes/SPACEDRIVE1/as/sh02cc5851_CAM33653.jpg
+  256  cp -i CAM33654.jpg /Volumes/SPACEDRIVE1/as/sh9dd04aa0_CAM33654.jpg
+  257  cp -i CAM33655.jpg /Volumes/SPACEDRIVE1/as/sh8b482eb4_CAM33655.jpg
+  258  cp -i CAM33656.jpg /Volumes/SPACEDRIVE1/as/sh0aaba3fc_CAM33656.jpg
+  259  cp -i CAM33657.jpg /Volumes/SPACEDRIVE1/as/shcf29f1c3_CAM33657.jpg
+  260  cp -i CAM33658.jpg /Volumes/SPACEDRIVE1/as/shbac3dff0_CAM33658.jpg
+  261  cp -i CAM33659.jpg /Volumes/SPACEDRIVE1/as/sh4dd72e95_CAM33659.jpg
+  262  cp -i CAM33660.jpg /Volumes/SPACEDRIVE1/as/sh622980f1_CAM33660.jpg
+  263  cp -i CAM33661.jpg /Volumes/SPACEDRIVE1/as/sh0fd2af79_CAM33661.jpg
+  264  cp -i CAM33662.jpg /Volumes/SPACEDRIVE1/as/she0bbb3aa_CAM33662.jpg
+  265  cp -i CAM33663.jpg /Volumes/SPACEDRIVE1/as/sh58f8e004_CAM33663.jpg
+  266  cp -i CAM33664.jpg /Volumes/SPACEDRIVE1/as/sh808b90d4_CAM33664.jpg
+  267  cp -i CAM33665.jpg /Volumes/SPACEDRIVE1/as/sh68276c77_CAM33665.jpg
+  268  cp -i CAM33666.jpg /Volumes/SPACEDRIVE1/as/shce77aeda_CAM33666.jpg
+  269  cp -i CAM33667.jpg /Volumes/SPACEDRIVE1/as/sh2a1e1005_CAM33667.jpg
+  270  cp -i CAM33668.jpg /Volumes/SPACEDRIVE1/as/shc60bf94f_CAM33668.jpg
+  271  cp -i CAM33669.jpg /Volumes/SPACEDRIVE1/as/shb6e8d534_CAM33669.jpg
+  272  cp -i CAM33670.jpg /Volumes/SPACEDRIVE1/as/shd1715c9c_CAM33670.jpg
+  273  cp -i CAM33671.jpg /Volumes/SPACEDRIVE1/as/sh9021b592_CAM33671.jpg
+  274  cp -i CAM33672.jpg /Volumes/SPACEDRIVE1/as/sh6b48bcb9_CAM33672.jpg
+  275  cp -i CAM33673.jpg /Volumes/SPACEDRIVE1/as/sh7f16d031_CAM33673.jpg
+  276  cp -i CAM33674.jpg /Volumes/SPACEDRIVE1/as/sha068f4a0_CAM33674.jpg
+  277  cp -i CAM33675.jpg /Volumes/SPACEDRIVE1/as/sha0a4df22_CAM33675.jpg
+  278  cp -i CAM33676.jpg /Volumes/SPACEDRIVE1/as/sh6c64b23d_CAM33676.jpg
+  279  cp -i CAM33677.jpg /Volumes/SPACEDRIVE1/as/sh7062e6e6_CAM33677.jpg
+  280  cp -i CAM33678.jpg /Volumes/SPACEDRIVE1/as/shc55e93c6_CAM33678.jpg
+  281  cp -i CAM33679.jpg /Volumes/SPACEDRIVE1/as/sh910386d6_CAM33679.jpg
+  282  cp -i CAM33680.jpg /Volumes/SPACEDRIVE1/as/sh237fe4b1_CAM33680.jpg
+  283  cp -i CAM33681.jpg /Volumes/SPACEDRIVE1/as/sh90b2bf77_CAM33681.jpg
+  284  cp -i CAM33682.jpg /Volumes/SPACEDRIVE1/as/sh8234dcee_CAM33682.jpg
+  285  cp -i CAM33683.jpg /Volumes/SPACEDRIVE1/as/sh23ca230c_CAM33683.jpg
+  286  cp -i CAM33684.jpg /Volumes/SPACEDRIVE1/as/shfcb11afb_CAM33684.jpg
+  287  cp -i CAM33685.jpg /Volumes/SPACEDRIVE1/as/sh09e60f05_CAM33685.jpg
+  288  cp -i CAM33686.jpg /Volumes/SPACEDRIVE1/as/sh0a860559_CAM33686.jpg
+  289  cp -i CAM33687.jpg /Volumes/SPACEDRIVE1/as/shd18e4710_CAM33687.jpg
+  290  cp -i CAM33688.jpg /Volumes/SPACEDRIVE1/as/sh2517884a_CAM33688.jpg
+  291  cp -i CAM33689.jpg /Volumes/SPACEDRIVE1/as/sh32062747_CAM33689.jpg
+  292  cp -i CAM33690.jpg /Volumes/SPACEDRIVE1/as/sha81b9271_CAM33690.jpg
+  293  cp -i CAM33691.jpg /Volumes/SPACEDRIVE1/as/shdefb7f85_CAM33691.jpg
+  294  cp -i CAM33692.jpg /Volumes/SPACEDRIVE1/as/sh37d85f7b_CAM33692.jpg
+  295  cp -i CAM33693.jpg /Volumes/SPACEDRIVE1/as/sh1a076c44_CAM33693.jpg
+  296  cp -i CAM33694.jpg /Volumes/SPACEDRIVE1/as/sh2ac1325c_CAM33694.jpg
+  297  cp -i CAM33695.jpg /Volumes/SPACEDRIVE1/as/shca8e88b5_CAM33695.jpg
+  298  cp -i CAM33696.jpg /Volumes/SPACEDRIVE1/as/sh84c074be_CAM33696.jpg
+  299  cp -i CAM33697.jpg /Volumes/SPACEDRIVE1/as/sh8e6ff6d9_CAM33697.jpg
+  300  cp -i CAM33698.jpg /Volumes/SPACEDRIVE1/as/sh452a028e_CAM33698.jpg
+  301  cp -i CAM33699.jpg /Volumes/SPACEDRIVE1/as/sh635cfae2_CAM33699.jpg
+  302  cp -i CAM33700.jpg /Volumes/SPACEDRIVE1/as/sh3f70212a_CAM33700.jpg
+  303  cp -i CAM33701.jpg /Volumes/SPACEDRIVE1/as/sh559e9a70_CAM33701.jpg
+  304  cp -i CAM33702.jpg /Volumes/SPACEDRIVE1/as/shceb4e9c9_CAM33702.jpg
+  305  cp -i CAM33703.jpg /Volumes/SPACEDRIVE1/as/sh05c6b4aa_CAM33703.jpg
+  306  cp -i CAM33704.jpg /Volumes/SPACEDRIVE1/as/sh9eccae39_CAM33704.jpg
+  307  cp -i CAM33705.jpg /Volumes/SPACEDRIVE1/as/sh073cef7a_CAM33705.jpg
+  308  cp -i CAM33706.jpg /Volumes/SPACEDRIVE1/as/sh345e2cdf_CAM33706.jpg
+  309  cp -i CAM33707.jpg /Volumes/SPACEDRIVE1/as/sh95a1680d_CAM33707.jpg
+  310  cp -i CAM33708.jpg /Volumes/SPACEDRIVE1/as/sh775034f3_CAM33708.jpg
+  311  cp -i CAM33709.jpg /Volumes/SPACEDRIVE1/as/sh0da0e252_CAM33709.jpg
+  312  cp -i CAM33710.jpg /Volumes/SPACEDRIVE1/as/sha961dc19_CAM33710.jpg
+  313  cp -i CAM33711.jpg /Volumes/SPACEDRIVE1/as/sh86f5daee_CAM33711.jpg
+  314  cp -i CAM33712.jpg /Volumes/SPACEDRIVE1/as/sh6935ae00_CAM33712.jpg
+  315  cp -i CAM33713.jpg /Volumes/SPACEDRIVE1/as/sh7b9b50d0_CAM33713.jpg
+  316  cp -i CAM33714.jpg /Volumes/SPACEDRIVE1/as/sh09be8f65_CAM33714.jpg
+  317  cp -i CAM33715.jpg /Volumes/SPACEDRIVE1/as/shddcef0d1_CAM33715.jpg
+  318  cp -i CAM33716.jpg /Volumes/SPACEDRIVE1/as/shf9daa920_CAM33716.jpg
+  319  cp -i CAM33717.jpg /Volumes/SPACEDRIVE1/as/sh5898d297_CAM33717.jpg
+  320  cp -i CAM33718.jpg /Volumes/SPACEDRIVE1/as/sh02eafb51_CAM33718.jpg
+  321  cp -i CAM33719.jpg /Volumes/SPACEDRIVE1/as/sh9eb8a305_CAM33719.jpg
+  322  cp -i CAM33720.jpg /Volumes/SPACEDRIVE1/as/sh7bd5bd72_CAM33720.jpg
+  323  cp -i CAM33721.jpg /Volumes/SPACEDRIVE1/as/shcd62ed65_CAM33721.jpg
+  324  cp -i CAM33722.jpg /Volumes/SPACEDRIVE1/as/sh8686d1d0_CAM33722.jpg
+  325  cp -i CAM33723.jpg /Volumes/SPACEDRIVE1/as/sh95b93cc4_CAM33723.jpg
+  326  cp -i CAM33724.jpg /Volumes/SPACEDRIVE1/as/shd6686d9a_CAM33724.jpg
+  327  cp -i CAM33725.jpg /Volumes/SPACEDRIVE1/as/sh950282ac_CAM33725.jpg
+  328  cp -i CAM33726.jpg /Volumes/SPACEDRIVE1/as/sh30e6f0de_CAM33726.jpg
+  329  cp -i CAM33727.jpg /Volumes/SPACEDRIVE1/as/sh2a2b0626_CAM33727.jpg
+  330  cp -i CAM33728.jpg /Volumes/SPACEDRIVE1/as/sh784d9df9_CAM33728.jpg
+  331  cp -i CAM33729.jpg /Volumes/SPACEDRIVE1/as/shebc3ae28_CAM33729.jpg
+  332  cp -i CAM33730.jpg /Volumes/SPACEDRIVE1/as/sheb6546b2_CAM33730.jpg
+  333  cp -i CAM33731.jpg /Volumes/SPACEDRIVE1/as/sh2a211a88_CAM33731.jpg
+  334  cp -i CAM33732.jpg /Volumes/SPACEDRIVE1/as/shbd3ad498_CAM33732.jpg
+  335  cp -i CAM33733.jpg /Volumes/SPACEDRIVE1/as/sh5188d550_CAM33733.jpg
+  336  cp -i CAM33734.jpg /Volumes/SPACEDRIVE1/as/sh7d18a529_CAM33734.jpg
+  337  cp -i CAM33735.jpg /Volumes/SPACEDRIVE1/as/sh619105e0_CAM33735.jpg
+  338  cp -i CAM33736.jpg /Volumes/SPACEDRIVE1/as/sh22fe89f8_CAM33736.jpg
+  339  cp -i CAM33737.jpg /Volumes/SPACEDRIVE1/as/shc32a4470_CAM33737.jpg
+  340  cp -i CAM33738.jpg /Volumes/SPACEDRIVE1/as/sh76d77112_CAM33738.jpg
+  341  cp -i CAM33739.jpg /Volumes/SPACEDRIVE1/as/sh817b5a60_CAM33739.jpg
+  342  cp -i CAM33740.jpg /Volumes/SPACEDRIVE1/as/sh768c40c5_CAM33740.jpg
+  343  cp -i CAM33741.jpg /Volumes/SPACEDRIVE1/as/sh3ee2b5c8_CAM33741.jpg
+  344  cp -i CAM33742.jpg /Volumes/SPACEDRIVE1/as/shc8ca3998_CAM33742.jpg
+  345  cp -i CAM33743.jpg /Volumes/SPACEDRIVE1/as/shb446ca1a_CAM33743.jpg
+  346  cp -i CAM33744.jpg /Volumes/SPACEDRIVE1/as/sh8c41f85f_CAM33744.jpg
+  347  cp -i CAM33745.jpg /Volumes/SPACEDRIVE1/as/shaed6980f_CAM33745.jpg
+  348  cp -i CAM33746.jpg /Volumes/SPACEDRIVE1/as/sh8ecf2fed_CAM33746.jpg
+  349  cp -i CAM33747.jpg /Volumes/SPACEDRIVE1/as/sh073ede3a_CAM33747.jpg
+  350  cp -i CAM33748.jpg /Volumes/SPACEDRIVE1/as/shb0ef728e_CAM33748.jpg
+  351  cp -i CAM33749.jpg /Volumes/SPACEDRIVE1/as/sh57a83777_CAM33749.jpg
+  352  cp -i CAM33750.jpg /Volumes/SPACEDRIVE1/as/sh02b6096f_CAM33750.jpg
+  353  cp -i CAM33751.jpg /Volumes/SPACEDRIVE1/as/she7b50079_CAM33751.jpg
+  354  cp -i CAM33752.jpg /Volumes/SPACEDRIVE1/as/sh614a4da9_CAM33752.jpg
+  355  cp -i CAM33753.jpg /Volumes/SPACEDRIVE1/as/sh3d3a6889_CAM33753.jpg
+  356  cp -i CAM33754.jpg /Volumes/SPACEDRIVE1/as/sh6ccd2d05_CAM33754.jpg
+  357  cp -i CAM33755.jpg /Volumes/SPACEDRIVE1/as/sh90f5d977_CAM33755.jpg
+  358  cp -i CAM33756.jpg /Volumes/SPACEDRIVE1/as/sh0eec4c0c_CAM33756.jpg
+  359  cp -i CAM33757.jpg /Volumes/SPACEDRIVE1/as/sh3593fb89_CAM33757.jpg
+  360  cp -i CAM33758.jpg /Volumes/SPACEDRIVE1/as/sh8394d678_CAM33758.jpg
+  361  cp -i CAM33759.jpg /Volumes/SPACEDRIVE1/as/sh1158c89f_CAM33759.jpg
+  362  cp -i CAM33760.jpg /Volumes/SPACEDRIVE1/as/sh9bdc2511_CAM33760.jpg
+  363  cp -i CAM33761.jpg /Volumes/SPACEDRIVE1/as/shbf4cff2f_CAM33761.jpg
+  364  cp -i CAM33762.jpg /Volumes/SPACEDRIVE1/as/sh1fd61f4e_CAM33762.jpg
+  365  cp -i CAM33763.jpg /Volumes/SPACEDRIVE1/as/sh787ff8a8_CAM33763.jpg
+  366  cp -i CAM33764.jpg /Volumes/SPACEDRIVE1/as/sh5b97dd46_CAM33764.jpg
+  367  cp -i CAM33765.jpg /Volumes/SPACEDRIVE1/as/shec70482e_CAM33765.jpg
+  368  cp -i CAM33766.jpg /Volumes/SPACEDRIVE1/as/sh54c5745e_CAM33766.jpg
+  369  cp -i CAM33767.jpg /Volumes/SPACEDRIVE1/as/sh4aedb1c1_CAM33767.jpg
+  370  cp -i CAM33768.jpg /Volumes/SPACEDRIVE1/as/shf5373807_CAM33768.jpg
+  371  cp -i CAM33769.jpg /Volumes/SPACEDRIVE1/as/sh778ed3fb_CAM33769.jpg
+  372  cp -i CAM33770.jpg /Volumes/SPACEDRIVE1/as/sh1d48940a_CAM33770.jpg
+  373  cp -i CAM33771.jpg /Volumes/SPACEDRIVE1/as/sh97ca14d4_CAM33771.jpg
+  374  cp -i CAM33772.jpg /Volumes/SPACEDRIVE1/as/sh7f75eebf_CAM33772.jpg
+  375  cp -i CAM33773.jpg /Volumes/SPACEDRIVE1/as/shb2aba9e4_CAM33773.jpg
+  376  cp -i CAM33774.jpg /Volumes/SPACEDRIVE1/as/sh0b2718a1_CAM33774.jpg
+  377  cp -i CAM33775.jpg /Volumes/SPACEDRIVE1/as/sh1513733a_CAM33775.jpg
+  378  cp -i CAM33776.jpg /Volumes/SPACEDRIVE1/as/sh036dc68f_CAM33776.jpg
+  379  cp -i CAM33777.jpg /Volumes/SPACEDRIVE1/as/shd76a6dce_CAM33777.jpg
+  380  cp -i CAM33778.jpg /Volumes/SPACEDRIVE1/as/shf44c6297_CAM33778.jpg
+  381  cp -i CAM33779.jpg /Volumes/SPACEDRIVE1/as/she3f3806d_CAM33779.jpg
+  382  cp -i CAM33780.jpg /Volumes/SPACEDRIVE1/as/sh60759c54_CAM33780.jpg
+  383  cp -i CAM33781.jpg /Volumes/SPACEDRIVE1/as/sh8c850dc6_CAM33781.jpg
+  384  cp -i CAM33782.jpg /Volumes/SPACEDRIVE1/as/sh56d0fe18_CAM33782.jpg
+  385  cp -i CAM33783.jpg /Volumes/SPACEDRIVE1/as/sh21c754c7_CAM33783.jpg
+  386  cp -i CAM33784.jpg /Volumes/SPACEDRIVE1/as/sh9db714bd_CAM33784.jpg
+  387  cp -i CAM33785.jpg /Volumes/SPACEDRIVE1/as/shdffdf739_CAM33785.jpg
+  388  ls -l /Volumes/SPACEDRIVE1/as
+  389  ls -lS /Volumes/SPACEDRIVE1/as
+  390  history 
+  391  history |grep his
+  392  grep hist /Users/rawa/git/AllHashes/at2e*His*
+  393  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+  394  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
+  395  pwd
+  396  cd
+  397  ls
+  398  grep Lady /Users/rawa/git/AllHashes/at2e*His*
+  399  i=12;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=32;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg; i=22;date;a=`curl https://knot-net.appspot.com/at`;curl http://webcam.frauenkirche.de/webcams/img.php\?$i > ~/in/at$a.LadyCam$i.jpg;/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ~/in/at$a.LadyCam$i.jpg
+  400  pwd
+  401   cd /Volumes/ExFat2/
+  402  mkdir as
+  403  cp ../ExFat1/as/* as
+  404  ls
+  405  pwd
+  406  cd as
+  407  ls
+  408  shasum -a 256 *
+  409  shasum -a 256 *
+  410  pwd
+  411  ls
+  412  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  413  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  414  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  415  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  416  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  417  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  418  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  419  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  420  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  421  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  422  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  423  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  424  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  425  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  426  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  427  ls
+  428  mv at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm
+  429  ls
+  430  ls -l
+  431  ls -lS
+  432  ls -lS
+  433  pwd
+  434  ls -lS /Volumes/ExFat1/as
+  435  ls -lS /Volumes/ExFat2/as
+  436  history 
+  437  cd /Volumes/ExFat1
+  438  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  439  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  440  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  441  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  442  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  443  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  444  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  445  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  446  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  447  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  448  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  449  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  450  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  451  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  452  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  453  pwd
+  454  cd as
+  455  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  456  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  457  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  458  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  459  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  460  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  461  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  462  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  463  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  464  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  465  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  466  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  467  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  468  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  469  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  470  pwd
+  471  ls
+  472  mv at2641513.5cx31cd16f_CaptureCast1.webm sh8f1c3aee_at2641513.5cx31cd16f_CaptureCast1.webm
+  473  mv at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm sha4e899d4_at268ad91.75xb81e03d_vid_7_1_2017_at_20-57-45.webm
+  474  mv at27c04e9.6ax4b6058e_abgepflueckt.webm shf2191365_at27c04e9.6ax4b6058e_abgepflueckt.webm
+  475  mv at27c5044.91x2654c74_schnuffi.webm shf9d075f8_at27c5044.91x2654c74_schnuffi.webm
+  476  mv at2d9620f.3fxc25dc38.ReName.webm sh675cd3fc_at2d9620f.3fxc25dc38.ReName.webm
+  477  mv at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm sh0fcf5d81_at2ead599.58x190cfa0_vid_16_4_2017_at_14-28-8.webm
+  478  mv at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm shf2b97f6d_at2ec70ad.e0xe1baf7b_vid_17_4_2017_at_16-16-11.webm
+  479  mv at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm sh544ae523_at2ed6677.1cx1396a42_vid_18_4_2017_at_11-16-5.webm
+  480  mv at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm sh8b330e98_at2ed6694.9bx1396a42_vid_18_4_2017_at_11-43-33.webm
+  481  mv at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm sh84cfe64c_at2ed66ae.66x1396a42_vid_18_4_2017_at_11-50-22.webm
+  482  mv at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm sh7fdea7cf_at2ede41f.04x2b3a0b1_vid_18_4_2017_at_20-58-4.webm
+  483  mv at2eeda2e.fdx105130c_BigFile.webm sh44ecbf36_at2eeda2e.fdx105130c_BigFile.webm
+  484  mv at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm sh46c32c8f_at2eedaa6.62x105130c_Feb_27_2017_12-28_PM.webm
+  485  mv at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm sh393827ab_at2eedab5.f8x105130c_Feb_27_2017_12-14_PM.webm
+  486  mv at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c Jan_22_2017-7-41_PM.webm
+  487  ls
+  488  mv at2eedac7.4ex105130c_Jan_22_2017_7-41_PM.webm shfc1871fc_at2eedac7.4ex105130c_Jan_22_2017-7-41_PM.webm
+  489  ls
+  490  ls -lS
+  491  cd /Volumes/
+  492  cp -i SPACEDRIVE1/as* ExFat2/as
+  493  cp -i SPACEDRIVE1/as/* ExFat2/as
+  494  man cp
+  495  man cp
+  496  cp -i -p SPACEDRIVE1/as/* ExFat2/as
+  497  ls -l SPACEDRIVE1/as/*
+  498  cp -p SPACEDRIVE1/as/* ExFat2/as
+  499  date;cp -p SPACEDRIVE1/as/* ExFat2/as;date
+  500  ls /Volumes/SPACEDRIVE1/as
+  501  ls /Volumes/SPACEDRIVE1/
+  502  ls /Volumes/
+  503  ls /Volumes/ExFat1
+  504  ls /Volumes/ExFat1/as
+  505  ls /Volumes/ExFat1/
+  506  ls /Volumes/ExFat2
+  507  ls /Volumes/ExFat2/as
+  508  ls /Volumes/ExFat2/
+  509  ls /Volumes/ExFat2/
+  510  ls /Volumes/ExFat2/
+  511  ls /Volumes/ExFat1
+  512  ls /Volumes/ExFat1/as
+  513  ls /Volumes/SPACEDRIVE1/
+  514  ls /Volumes/SPACEDRIVE1/
+  515  ls /Volumes/SPACEDRIVE1/in
+  516  ls /Volumes/SPACEDRIVE1/in/webm_CAN_BE_DEFECT/
+  517  ls /Volumes/SPACEDRIVE1/
+  518  ls /Volumes/ExFat1
+  519  ls /Volumes/ExFat2
+  520  ls /Volumes/
+  521  ls /Volumes/SPACEDRIVE1/1220/
+  522  ls -lS /Volumes/SPACEDRIVE1/1220/
+  523  ls -lS /Volumes/SPACEDRIVE1/1220/|more
+  524  shasum -a 256 /Volumes/SPACEDRIVE1/1220/*news
+  525  cd /Volumes/SPACEDRIVE1/1220/
+  526  shasum -a 256 /Volumes/SPACEDRIVE1/1220/*news
+  527  shasum -a 256 *news
+  528  shasum -a 256 *sb
+  529  ls -al /Volumes/SPACEDRIVE1/
+  530  ls -al /Volumes/SPACEDRIVE1/in
+  531  pwd
+  532  ls -al /Volumes/SPACEDRIVE1/
+  533  cd
+  534  ls
+  535  cd /Volumes/ExFat1
+  536  ls as/
+  537  cd ../ExFat2/as/
+  538  ls
+  539  ls -lS|more
+  540  md5 *
+  541  pwd
+  542  cd /Volumes/ExFat1/as
+  543  ls
+  544  ls -lS
+  545  pwd
+  546  history 
+  547  cd ..
+  548  ls
+  549  ls -al
+  550  pwd
+  551  ls as
+  552  ls -l as
+  553  cd ../ExFat2
+  554  shasum *
+  555  cd as
+  556  shasum *
+  557  pwd
+  558  ls
+  559  pwd
+  560  cd ..
+  561  ls
+  562  ls /Volumes/SdFat32/
+  563  pwd
+  564  cd
+  565  pwd
+  566  pwd
+  567  cd /Volumes/ExFat1/in
+  568  du -d 1
+  569  du -d 9
+  570  du -d 9|sort -k
+  571  du -d 9|sort -n
+  572  du -k -d 9|sort -n
+  573  du -d 9|sort -n
+  574  du -k -d 9|sort -n
+  575  #du -k -d 9|sort -n
+  576  ls webm/
+  577  #mv -i webm/sha2788e44_PowerBank\ at21ed2a7.53x2c536e7.webm as
+  578  pwd
+  579  mv -i webm/sha2788e44_PowerBank\ at21ed2a7.53x2c536e7.webm ../as/
+  580  ls -lS webm
+  581  pwd
+  582  ls
+  583  cd ..
+  584  ls
+  585  cd /Volumes/SDFAT32/A
+  586  cd /Volumes/SDFAT32/
+  587  LS
+  588  ls
+  589  ls in
+  590  ls in/SemperDrive/
+  591  ls in/SpaceDrive
+  592  ls -al in/SpaceDrive
+  593  mv -i in/SpaceDrive/.picasa.ini in/SpaceDrivePicasa.ini 
+  594  rmdir in/SpaceDrive
+  595  ls
+  596  ls in
+  597  du -d 2 -k in/SpaceDrive
+  598  du -d 2 -k in
+  599  ls in/RaWa2
+  600  ls in/NooScreenr
+  601  ls -lS in/NooScreenr|more
+  602  cat in/NooScreenr/HashIndex.txt 
+  603  ls -lS in/NooScreenr|more
+  604  ls
+  605   man ls
+  606   man ls|grep total
+  607  more in/NooScreenr/HashIndex.txt 
+  608  #shasum -a 256 >
+  609  cd in/NooScreenr/
+  610  #shasum -a 256 > HashIndexAd2f1.txt 
+  611  shasum -a 256 *
+  612  shasum -a 256 *.mp4 > HashIndexAd2f1.txt 
+  613  shasum -a 256 *.txt
+  614  chmod -x mv.sh
+  615  ./mv.sh
+  616  mv *.mp4 ../../as/
+  617  cd ..
+  618  history |grep du
+  619  du -d 2 -k in
+  620  du -d 2 -k |more
+  621  du -d 2 -k |sort -n
+  622  curl https://floatingboat2013.appspot.com/raw/58895006|sort -u|wc
+  623  curl https://floatingboat2013.appspot.com/raw/58895006|sort|wc
+  624  #curl https://floatingboat2013.appspot.com/raw/58895006|sort
+  625  pwd
+  626  curl https://floatingboat2013.appspot.com/raw/58895006|sort -u > SdFat32As.txt
+  627  pwd
+  628  ls
+  629  ls H*
+  630  ls H*t
+  631  sort -u HaSiAll.txt|more
+  632  sort -u HaSiAll.txt|xxd|more
+  633  sort -u HaSiAll.txt|more
+  634  sort -u HaSiAll.txt|more
+  635  sort -u HaSiAll.txt > HaSiAllSorted.txt
+  636  ls /Users/rawa/git/
+  637  wc HaSiAllSorted.txt
+  638  xx HaSiAllSorted.txt|more
+  639  xxd HaSiAllSorted.txt|more
+  640  xxd HaSiAllSorted.txt|tail
+  641  history 
+  642  history|grep bt
+  643  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history>~/git/AllHashes/$a.BmHist.txt
